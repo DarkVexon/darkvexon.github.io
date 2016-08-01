@@ -1,0 +1,28 @@
+body{
+		margin:40px auto;
+		max-width:650px;
+		line-height:1.6;
+		font-size:18px;
+		color:#444;
+		padding:0 10px;
+		background-color: #EEE;
+}
+	
+h1,h2,h3 {
+		line-height: 1.2
+}
+	
+div.secret {
+		position: fixed;
+		top: 25%;
+		left: 300px;
+}
+	
+div.secret a {
+		opacity: 0;
+		text-decoration:none;
+}
+
+div.secret a:hover {
+		opacity: 0.1;
+}
