@@ -5,10 +5,11 @@
 | ![](relics/ConsolationPrize.png) | Consolation Prize | Common |  | Whenever you lose HP, gain that much #yGold. | Gold oozes from your wounds. |
 | ![](relics/KeyChain.png) | Key Chain | Common |  | Your first #yAttack each combat Shackles its target for damage dealt. | Surprisingly sharp! |
 | ![](relics/MemoryStick.png) | Memory Locket | Common | Green | On the first turn of each combat, #yRetain your hand. | Holding it makes you think back to distant memories. |
-| ![](relics/PainConverter.png) | Pain Converter | Common |  | When you take #b15 or more damage in one hit, gain [E] and draw a card next turn. | The machine seems to be magnetically attracted to your exposed injuries. |
+| ![](relics/PainConverter.png) | Pain Converter | Common |  | When you take #b10 or more damage in one hit, gain [E] and draw a card next turn. | The machine seems to be magnetically attracted to your exposed injuries. |
 | ![](relics/DrawConverter.png) | Thoughtsguard | Common |  | Whenever you draw a card (besides your opening hand), gain #b1 #yBlock. | "Begone, thoughts!" |
 | ![](relics/BetterTron.png) | Better-O-Tron | Uncommon |  | The next #b3 unupgraded cards you add to your deck are #yUpgraded. | This mechanical worm lurches for your head intermittently. |
-| ![](relics/FocusSash.png) | Focus Sash | Uncommon |  | Damage that would bring you to #b0 HP from over #b8 HP brings you to #b1 HP instead. | It's super effective! |
+| ![](relics/Dragonfruit.png) | Dragon Fruit | Uncommon |  | Upon pickup, raise your Max HP by #b5. At the end of your turn, deal #b1 damage to ALL enemies for each #yAttack played this turn. | Tastes burning hot! |
+| ![](relics/FocusSash.png) | Focus Sash | Uncommon |  | Damage that would bring you to #b0 HP from over #b10 HP brings you to #b1 HP instead. | It's super effective! |
 | ![](relics/InvisibilityCloak.png) | Invisible Cloak | Uncommon | Green | At the start of combat, ALL enemies lose #b1 #yStrength. | You're far too modest to "wear" this. |
 | ![](relics/PowerCharger.png) | Power Charger | Uncommon | Blue | At the end of your turn, gain #b1 Block for each empty Orb slot. | Conserve energy! Shut off Orb slots when you're not using them. |
 | ![](relics/ProtectorBot.png) | Protector Bot | Uncommon |  | When you play #b2 or less cards in a turn, gain #b8 #yBlock at the end of the turn. | This little bot dives in to take attacks when you're wide open. |
@@ -53,7 +54,7 @@
 | ![](relics/StickyTar.png) | Sticky Tar | Boss | Green | Gain [E] at the start of your turn. NL At the start of each combat, lose #b2 #yDexterity. | "Quiet one, you think yourself so clever with your dodgy moves. Be exposed!" |
 | ![](relics/SystemVirus.png) | System Virus | Boss | Blue | Gain [E] at the start of your turn. NL At the start of each combat, lose #b2 Orb slots. | "Defective one, your creativity needs... dulling." |
 | ![](relics/TanglingVine.png) | Tangling Vine | Boss |  | Gain [E] at the start of your turn. NL At the start of your turn, gain #b1 #yConstricted. | It reaches for you, filled with malicious intents... |
-| ![](relics/BerrySword.png) | Berry Sword | Shop |  | The first #b2 cards you play each combat are removed from your deck permanently. | Tiny bites of this sword invigorate you. |
+| ![](relics/BerrySword.png) | Berry Sword | Shop |  | Upon pickup, gain #b8 Max HP. The first #b2 cards you play each combat are removed from your deck permanently. | Tiny bites of this sword invigorate you. |
 | ![](relics/ConcentrateValve.png) | Concentration Valve | Shop | Blue | Every time you play #b2 #yPowers in a turn, gain #b1 #yFocus. | The more you focus, the more it focuses you. |
 | ![](relics/Cooldron.png) | Cooldron | Shop |  | All Potions you obtain are Entropic Brews. | This cauldron is a lot cooler than any regular old cauldron. |
 | ![](relics/GhostlyGear.png) | Ghostly Gear | Shop |  | Whenever you play a Strike or Defend, #yExhaust it. | The sword and shield are more difficult to see each time you look. |

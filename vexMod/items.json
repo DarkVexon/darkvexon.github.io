@@ -732,6 +732,22 @@
       "description": "Remove all Block from the enemy.\nDeal 14 damage.\nApply 2 Vulnerable."
     },
     {
+      "name": "Gilded Strike",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage.\nGain 3 Gold.\nExhaust."
+    },
+    {
+      "name": "Gilded Strike+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage.\nGain 5 Gold.\nExhaust."
+    },
+    {
       "name": "Gloat",
       "color": "Colorless",
       "rarity": "Special",
@@ -876,6 +892,22 @@
       "description": "Whenever you deal unblocked Attack damage, gain that much gold.\nEthereal."
     },
     {
+      "name": "Infectious Loot",
+      "color": "Colorless",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "Apply Poison equal to the number of Relics you have."
+    },
+    {
+      "name": "Infectious Loot+",
+      "color": "Colorless",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Apply Poison equal to the number of Relics you have."
+    },
+    {
       "name": "Resourcefulness",
       "color": "Colorless",
       "rarity": "Rare",
@@ -980,7 +1012,7 @@
       "name": "Pain Converter",
       "tier": "Common",
       "pool": "",
-      "description": "When you take 15 or more damage in one hit, gain [E] and draw a card next turn.",
+      "description": "When you take 10 or more damage in one hit, gain [E] and draw a card next turn.",
       "flavorText": "The machine seems to be magnetically attracted to your exposed injuries."
     },
     {
@@ -998,10 +1030,17 @@
       "flavorText": "This mechanical worm lurches for your head intermittently."
     },
     {
+      "name": "Dragon Fruit",
+      "tier": "Uncommon",
+      "pool": "",
+      "description": "Upon pickup, raise your Max HP by 5. At the end of your turn, deal 1 damage to ALL enemies for each Attack played this turn.",
+      "flavorText": "Tastes burning hot!"
+    },
+    {
       "name": "Focus Sash",
       "tier": "Uncommon",
       "pool": "",
-      "description": "Damage that would bring you to 0 HP from over 8 HP brings you to 1 HP instead.",
+      "description": "Damage that would bring you to 0 HP from over 10 HP brings you to 1 HP instead.",
       "flavorText": "It's super effective!"
     },
     {
@@ -1316,7 +1355,7 @@
       "name": "Berry Sword",
       "tier": "Shop",
       "pool": "",
-      "description": "The first 2 cards you play each combat are removed from your deck permanently.",
+      "description": "Upon pickup, gain 8 Max HP. The first 2 cards you play each combat are removed from your deck permanently.",
       "flavorText": "Tiny bites of this sword invigorate you."
     },
     {
@@ -1389,8 +1428,8 @@
     {
       "name": "Base Monster",
       "type": "Normal",
-      "minHP": "60",
-      "maxHP": "60"
+      "minHP": "87",
+      "maxHP": "87"
     },
     {
       "name": "Card Collector",
@@ -1399,34 +1438,40 @@
       "maxHP": "0"
     },
     {
+      "name": "Curse Lord",
+      "type": "Normal",
+      "minHP": "204",
+      "maxHP": "204"
+    },
+    {
       "name": "Evil Cube",
       "type": "Normal",
-      "minHP": "50",
-      "maxHP": "50"
+      "minHP": "81",
+      "maxHP": "81"
     },
     {
       "name": "Gorgon",
       "type": "Normal",
-      "minHP": "136",
-      "maxHP": "136"
+      "minHP": "143",
+      "maxHP": "143"
     },
     {
       "name": "Infection Beast",
       "type": "Normal",
-      "minHP": "115",
-      "maxHP": "115"
+      "minHP": "155",
+      "maxHP": "155"
     },
     {
       "name": "Octiver",
       "type": "Normal",
-      "minHP": "80",
-      "maxHP": "80"
+      "minHP": "111",
+      "maxHP": "111"
     },
     {
       "name": "Sickening Thing",
       "type": "Normal",
-      "minHP": "111",
-      "maxHP": "111"
+      "minHP": "150",
+      "maxHP": "150"
     }
   ],
   "keywords": [

@@ -48,6 +48,7 @@
 | Defensive Stance | ![](small-card-images/DefensiveStance.png) | ![](small-card-images/DefensiveStancePlus.png) | Special | Power | 3 | Gain 15(20) Block. At the end of your turn, gain 5(7) Block. |
 | Execute | ![](small-card-images/Execute.png) | ![](small-card-images/ExecutePlus.png) | Special | Attack | 3(2) | Deal 10 damage twice. Can only be played at or below 50% HP. |
 | Face Slap | ![](small-card-images/FaceSlap.png) | ![](small-card-images/FaceSlapPlus.png) | Special | Attack | 2 | Remove all Block from the enemy. Deal 12(14) damage. Apply 2 Vulnerable. |
+| Gilded Strike | ![](small-card-images/GildedStrike.png) | ![](small-card-images/GildedStrikePlus.png) | Special | Attack | 1 | Deal 8(10) damage. Gain 3(5) Gold. Exhaust. |
 | Gloat | ![](small-card-images/Gloat.png) | ![](small-card-images/GloatPlus.png) | Special | Skill | 1 | Gain 2(4) Strength. |
 | Heavy Slash | ![](small-card-images/HeavySlash.png) | ![](small-card-images/HeavySlashPlus.png) | Special | Attack | 2 | Deal 16(18) damage. |
 | Taunt | ![](small-card-images/Taunt.png) | ![](small-card-images/TauntPlus.png) | Special | Skill | 2(1) | Apply 2 Weak. Apply 2 Vulnerable. |
@@ -57,6 +58,7 @@
 | Division | ![](small-card-images/Division.png) | ![](small-card-images/DivisionPlus.png) | Rare | Skill | 2 | Add a random (upgraded) Colorless card to your deck. Exhaust. |
 | Full Service | ![](small-card-images/FullService.png) | ![](small-card-images/FullServicePlus.png) | Rare | Attack | 3 | Deal 5(6) damage. Gain 5(6) Block. Gain 5(6) Gold. Apply !vexMod:SecondMagic! Weak. Apply !vexMod:SecondMagic! Vulnerable. Draw !vexMod:SecondMagic! cards. Heal !vexMod:SecondMagic! HP. Gain 5(6) Block next turn. Gain 1 Energy next turn. Exhaust. |
 | Golden Touch | ![](small-card-images/GoldenTouch.png) | ![](small-card-images/GoldenTouchPlus.png) | Rare | Power | 3(2) | Whenever you deal unblocked Attack damage, gain that much gold. Ethereal. |
+| Infectious Loot | ![](small-card-images/InfectiousLoot.png) | ![](small-card-images/InfectiousLootPlus.png) | Rare | Skill | 3(2) | Apply Poison equal to the number of Relics you have. |
 | Resourcefulness | ![](small-card-images/Resourcefulness.png) | ![](small-card-images/ResourcefulnessPlus.png) | Rare | Skill | 0 | (Put one card from your draw pile into your hand.)  Draw 2 cards (1 card). |
 | Stairway Strike | ![](small-card-images/StairwayStrike.png) | ![](small-card-images/StairwayStrikePlus.png) | Rare | Attack | 3(2) | Deal damage equal to twice the number of the floor you're on. Exhaust. |
 | Fear | ![](small-card-images/Fear.png) | ![]() | Curse | Curse | 1 | At the end of your turn, Exhaust this and gain 1 Vulnerable. |
@@ -85,10 +87,11 @@
 | ![](relics/ConsolationPrize.png) | Consolation Prize | Common |  | Whenever you lose HP, gain that much #yGold. | Gold oozes from your wounds. |
 | ![](relics/KeyChain.png) | Key Chain | Common |  | Your first #yAttack each combat Shackles its target for damage dealt. | Surprisingly sharp! |
 | ![](relics/MemoryStick.png) | Memory Locket | Common | Green | On the first turn of each combat, #yRetain your hand. | Holding it makes you think back to distant memories. |
-| ![](relics/PainConverter.png) | Pain Converter | Common |  | When you take #b15 or more damage in one hit, gain [E] and draw a card next turn. | The machine seems to be magnetically attracted to your exposed injuries. |
+| ![](relics/PainConverter.png) | Pain Converter | Common |  | When you take #b10 or more damage in one hit, gain [E] and draw a card next turn. | The machine seems to be magnetically attracted to your exposed injuries. |
 | ![](relics/DrawConverter.png) | Thoughtsguard | Common |  | Whenever you draw a card (besides your opening hand), gain #b1 #yBlock. | "Begone, thoughts!" |
 | ![](relics/BetterTron.png) | Better-O-Tron | Uncommon |  | The next #b3 unupgraded cards you add to your deck are #yUpgraded. | This mechanical worm lurches for your head intermittently. |
-| ![](relics/FocusSash.png) | Focus Sash | Uncommon |  | Damage that would bring you to #b0 HP from over #b8 HP brings you to #b1 HP instead. | It's super effective! |
+| ![](relics/Dragonfruit.png) | Dragon Fruit | Uncommon |  | Upon pickup, raise your Max HP by #b5. At the end of your turn, deal #b1 damage to ALL enemies for each #yAttack played this turn. | Tastes burning hot! |
+| ![](relics/FocusSash.png) | Focus Sash | Uncommon |  | Damage that would bring you to #b0 HP from over #b10 HP brings you to #b1 HP instead. | It's super effective! |
 | ![](relics/InvisibilityCloak.png) | Invisible Cloak | Uncommon | Green | At the start of combat, ALL enemies lose #b1 #yStrength. | You're far too modest to "wear" this. |
 | ![](relics/PowerCharger.png) | Power Charger | Uncommon | Blue | At the end of your turn, gain #b1 Block for each empty Orb slot. | Conserve energy! Shut off Orb slots when you're not using them. |
 | ![](relics/ProtectorBot.png) | Protector Bot | Uncommon |  | When you play #b2 or less cards in a turn, gain #b8 #yBlock at the end of the turn. | This little bot dives in to take attacks when you're wide open. |
@@ -133,7 +136,7 @@
 | ![](relics/StickyTar.png) | Sticky Tar | Boss | Green | Gain [E] at the start of your turn. NL At the start of each combat, lose #b2 #yDexterity. | "Quiet one, you think yourself so clever with your dodgy moves. Be exposed!" |
 | ![](relics/SystemVirus.png) | System Virus | Boss | Blue | Gain [E] at the start of your turn. NL At the start of each combat, lose #b2 Orb slots. | "Defective one, your creativity needs... dulling." |
 | ![](relics/TanglingVine.png) | Tangling Vine | Boss |  | Gain [E] at the start of your turn. NL At the start of your turn, gain #b1 #yConstricted. | It reaches for you, filled with malicious intents... |
-| ![](relics/BerrySword.png) | Berry Sword | Shop |  | The first #b2 cards you play each combat are removed from your deck permanently. | Tiny bites of this sword invigorate you. |
+| ![](relics/BerrySword.png) | Berry Sword | Shop |  | Upon pickup, gain #b8 Max HP. The first #b2 cards you play each combat are removed from your deck permanently. | Tiny bites of this sword invigorate you. |
 | ![](relics/ConcentrateValve.png) | Concentration Valve | Shop | Blue | Every time you play #b2 #yPowers in a turn, gain #b1 #yFocus. | The more you focus, the more it focuses you. |
 | ![](relics/Cooldron.png) | Cooldron | Shop |  | All Potions you obtain are Entropic Brews. | This cauldron is a lot cooler than any regular old cauldron. |
 | ![](relics/GhostlyGear.png) | Ghostly Gear | Shop |  | Whenever you play a Strike or Defend, #yExhaust it. | The sword and shield are more difficult to see each time you look. |
@@ -151,6 +154,7 @@
 | ----- | ---- |
 | ![](creatures/JawWorm.png) | Base Monster |
 | ![](creatures/JawWorm.png) | Card Collector |
+| ![](creatures/CurseLord.png) | Curse Lord |
 | ![](creatures/EvilCube.png) | Evil Cube |
 | ![](creatures/Gorgon.png) | Gorgon |
 | ![](creatures/InfectionBeast.png) | Infection Beast |
