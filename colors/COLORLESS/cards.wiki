@@ -44,6 +44,15 @@ Can only be played at or below 50% HP.
 Deal 12(14) damage.
 Apply 2 [[Vulnerable]].
 |-
+|[[Gilded Strike]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|1
+|Deal 8(10) damage.
+Gain 3(5) Gold.
+[[Exhaust]].
+|-
 |[[Gloat]]
 |[[File:|thumb|289x289px]]
 |Special
@@ -119,6 +128,13 @@ Gain 1 [[Energy]] next turn. [[Exhaust]].
 |3(2)
 |Whenever you deal unblocked Attack damage, gain that much gold.
 [[Ethereal]].
+|-
+|[[Infectious Loot]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|3(2)
+|Apply [[Poison]] equal to the number of Relics you have.
 |-
 |[[Resourcefulness]]
 |[[File:|thumb|289x289px]]

@@ -4,6 +4,7 @@
 | Defensive Stance | ![](../../vexMod/small-card-images/DefensiveStance.png) | ![](../../vexMod/small-card-images/DefensiveStancePlus.png) | Special | Power | 3 | Gain 15(20) Block. At the end of your turn, gain 5(7) Block. |
 | Execute | ![](../../vexMod/small-card-images/Execute.png) | ![](../../vexMod/small-card-images/ExecutePlus.png) | Special | Attack | 3(2) | Deal 10 damage twice. Can only be played at or below 50% HP. |
 | Face Slap | ![](../../vexMod/small-card-images/FaceSlap.png) | ![](../../vexMod/small-card-images/FaceSlapPlus.png) | Special | Attack | 2 | Remove all Block from the enemy. Deal 12(14) damage. Apply 2 Vulnerable. |
+| Gilded Strike | ![](../../vexMod/small-card-images/GildedStrike.png) | ![](../../vexMod/small-card-images/GildedStrikePlus.png) | Special | Attack | 1 | Deal 8(10) damage. Gain 3(5) Gold. Exhaust. |
 | Gloat | ![](../../vexMod/small-card-images/Gloat.png) | ![](../../vexMod/small-card-images/GloatPlus.png) | Special | Skill | 1 | Gain 2(4) Strength. |
 | Heavy Slash | ![](../../vexMod/small-card-images/HeavySlash.png) | ![](../../vexMod/small-card-images/HeavySlashPlus.png) | Special | Attack | 2 | Deal 16(18) damage. |
 | Taunt | ![](../../vexMod/small-card-images/Taunt.png) | ![](../../vexMod/small-card-images/TauntPlus.png) | Special | Skill | 2(1) | Apply 2 Weak. Apply 2 Vulnerable. |
@@ -13,5 +14,6 @@
 | Division | ![](../../vexMod/small-card-images/Division.png) | ![](../../vexMod/small-card-images/DivisionPlus.png) | Rare | Skill | 2 | Add a random (upgraded) Colorless card to your deck. Exhaust. |
 | Full Service | ![](../../vexMod/small-card-images/FullService.png) | ![](../../vexMod/small-card-images/FullServicePlus.png) | Rare | Attack | 3 | Deal 5(6) damage. Gain 5(6) Block. Gain 5(6) Gold. Apply !vexMod:SecondMagic! Weak. Apply !vexMod:SecondMagic! Vulnerable. Draw !vexMod:SecondMagic! cards. Heal !vexMod:SecondMagic! HP. Gain 5(6) Block next turn. Gain 1 Energy next turn. Exhaust. |
 | Golden Touch | ![](../../vexMod/small-card-images/GoldenTouch.png) | ![](../../vexMod/small-card-images/GoldenTouchPlus.png) | Rare | Power | 3(2) | Whenever you deal unblocked Attack damage, gain that much gold. Ethereal. |
+| Infectious Loot | ![](../../vexMod/small-card-images/InfectiousLoot.png) | ![](../../vexMod/small-card-images/InfectiousLootPlus.png) | Rare | Skill | 3(2) | Apply Poison equal to the number of Relics you have. |
 | Resourcefulness | ![](../../vexMod/small-card-images/Resourcefulness.png) | ![](../../vexMod/small-card-images/ResourcefulnessPlus.png) | Rare | Skill | 0 | (Put one card from your draw pile into your hand.)  Draw 2 cards (1 card). |
 | Stairway Strike | ![](../../vexMod/small-card-images/StairwayStrike.png) | ![](../../vexMod/small-card-images/StairwayStrikePlus.png) | Rare | Attack | 3(2) | Deal damage equal to twice the number of the floor you're on. Exhaust. |

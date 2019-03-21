@@ -811,6 +811,24 @@
       "mod": "vexMod"
     },
     {
+      "name": "Gilded Strike",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage.\nGain 3 Gold.\nExhaust.",
+      "mod": "vexMod"
+    },
+    {
+      "name": "Gilded Strike+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage.\nGain 5 Gold.\nExhaust.",
+      "mod": "vexMod"
+    },
+    {
       "name": "Gloat",
       "color": "Colorless",
       "rarity": "Special",
@@ -973,6 +991,24 @@
       "mod": "vexMod"
     },
     {
+      "name": "Infectious Loot",
+      "color": "Colorless",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "Apply Poison equal to the number of Relics you have.",
+      "mod": "vexMod"
+    },
+    {
+      "name": "Infectious Loot+",
+      "color": "Colorless",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Apply Poison equal to the number of Relics you have.",
+      "mod": "vexMod"
+    },
+    {
       "name": "Resourcefulness",
       "color": "Colorless",
       "rarity": "Rare",
@@ -1090,7 +1126,7 @@
       "name": "Pain Converter",
       "tier": "Common",
       "pool": "",
-      "description": "When you take 15 or more damage in one hit, gain [E] and draw a card next turn.",
+      "description": "When you take 10 or more damage in one hit, gain [E] and draw a card next turn.",
       "flavorText": "The machine seems to be magnetically attracted to your exposed injuries.",
       "mod": "vexMod"
     },
@@ -1111,10 +1147,18 @@
       "mod": "vexMod"
     },
     {
+      "name": "Dragon Fruit",
+      "tier": "Uncommon",
+      "pool": "",
+      "description": "Upon pickup, raise your Max HP by 5. At the end of your turn, deal 1 damage to ALL enemies for each Attack played this turn.",
+      "flavorText": "Tastes burning hot!",
+      "mod": "vexMod"
+    },
+    {
       "name": "Focus Sash",
       "tier": "Uncommon",
       "pool": "",
-      "description": "Damage that would bring you to 0 HP from over 8 HP brings you to 1 HP instead.",
+      "description": "Damage that would bring you to 0 HP from over 10 HP brings you to 1 HP instead.",
       "flavorText": "It's super effective!",
       "mod": "vexMod"
     },
@@ -1474,7 +1518,7 @@
       "name": "Berry Sword",
       "tier": "Shop",
       "pool": "",
-      "description": "The first 2 cards you play each combat are removed from your deck permanently.",
+      "description": "Upon pickup, gain 8 Max HP. The first 2 cards you play each combat are removed from your deck permanently.",
       "flavorText": "Tiny bites of this sword invigorate you.",
       "mod": "vexMod"
     },
@@ -1557,8 +1601,8 @@
     {
       "name": "Base Monster",
       "type": "Normal",
-      "minHP": "60",
-      "maxHP": "60",
+      "minHP": "87",
+      "maxHP": "87",
       "mod": "vexMod"
     },
     {
@@ -1569,38 +1613,45 @@
       "mod": "vexMod"
     },
     {
+      "name": "Curse Lord",
+      "type": "Normal",
+      "minHP": "204",
+      "maxHP": "204",
+      "mod": "vexMod"
+    },
+    {
       "name": "Evil Cube",
       "type": "Normal",
-      "minHP": "50",
-      "maxHP": "50",
+      "minHP": "81",
+      "maxHP": "81",
       "mod": "vexMod"
     },
     {
       "name": "Gorgon",
       "type": "Normal",
-      "minHP": "136",
-      "maxHP": "136",
+      "minHP": "143",
+      "maxHP": "143",
       "mod": "vexMod"
     },
     {
       "name": "Infection Beast",
       "type": "Normal",
-      "minHP": "115",
-      "maxHP": "115",
+      "minHP": "155",
+      "maxHP": "155",
       "mod": "vexMod"
     },
     {
       "name": "Octiver",
       "type": "Normal",
-      "minHP": "80",
-      "maxHP": "80",
+      "minHP": "111",
+      "maxHP": "111",
       "mod": "vexMod"
     },
     {
       "name": "Sickening Thing",
       "type": "Normal",
-      "minHP": "111",
-      "maxHP": "111",
+      "minHP": "150",
+      "maxHP": "150",
       "mod": "vexMod"
     }
   ],
