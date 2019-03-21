@@ -1,0 +1,1434 @@
+{
+  "mod": {
+    "name": "vexMod",
+    "version": "1",
+    "authors": ["DarkVexon"],
+    "credits": "",
+    "description": "A minor content mod.",
+    "mts_version": "3.8.0",
+    "sts_version": "01-23-2019",
+    "dependencies": ["basemod","stslib"],
+    "optional_dependencies": []
+  },
+  "cards": [
+    {
+      "name": "Cardboard Shield",
+      "color": "Red",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain Block equal to the number of cards in your draw pile."
+    },
+    {
+      "name": "Cardboard Shield+",
+      "color": "Red",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain Block equal to the number of cards in your draw pile +3."
+    },
+    {
+      "name": "Clever Clash",
+      "color": "Red",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "If the enemy intends to attack, gain 8 Block.\nIf not, deal 9 damage."
+    },
+    {
+      "name": "Clever Clash+",
+      "color": "Red",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "If the enemy intends to attack, gain 11 Block.\nIf not, deal 11 damage."
+    },
+    {
+      "name": "Debris Guard",
+      "color": "Red",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 5 Block.\n If this card is Exhausted, gain 18 Block."
+    },
+    {
+      "name": "Debris Guard+",
+      "color": "Red",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block.\n If this card is Exhausted, gain 22 Block."
+    },
+    {
+      "name": "Debris Slash",
+      "color": "Red",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.\nIf this card is Exhausted, draw 1 card.\nEthereal."
+    },
+    {
+      "name": "Debris Slash+",
+      "color": "Red",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 12 damage.\nIf this card is Exhausted, draw 2 cards.\nEthereal."
+    },
+    {
+      "name": "Blood Guard",
+      "color": "Red",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Lose 4 HP.\nGain 16 Block."
+    },
+    {
+      "name": "Blood Guard+",
+      "color": "Red",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Lose 4 HP.\nGain 19 Block."
+    },
+    {
+      "name": "Crumbling Crash",
+      "color": "Red",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Remove all Block from the enemy.\nGain 3 Block.\nApply 2 Vulnerable."
+    },
+    {
+      "name": "Crumbling Crash+",
+      "color": "Red",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Remove all Block from the enemy.\nGain 6 Block.\nApply 2 Vulnerable."
+    },
+    {
+      "name": "Elimination",
+      "color": "Red",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage.\nExhaust your hand."
+    },
+    {
+      "name": "Elimination+",
+      "color": "Red",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 13 damage.\nExhaust any number of cards in your hand."
+    },
+    {
+      "name": "Ground Pound",
+      "color": "Red",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 8 damage.\nDeal 8 damage to ALL enemies."
+    },
+    {
+      "name": "Ground Pound+",
+      "color": "Red",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 10 damage.\nDeal 10 damage to ALL enemies."
+    },
+    {
+      "name": "Hatred",
+      "color": "Red",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the start of your turn, add a random Attack to your hand."
+    },
+    {
+      "name": "Hatred+",
+      "color": "Red",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nAt the start of your turn, add a random Attack to your hand."
+    },
+    {
+      "name": "Battle Stance",
+      "color": "Red",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "Gain 6 Block.\nGain 2 Plated Armor."
+    },
+    {
+      "name": "Battle Stance+",
+      "color": "Red",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "Gain 6 Block.\nGain 3 Plated Armor."
+    },
+    {
+      "name": "Devastation",
+      "color": "Red",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Lose 6 HP.\nDeal damage equal to your missing HP.\nExhaust."
+    },
+    {
+      "name": "Devastation+",
+      "color": "Red",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Lose 3 HP.\nDeal damage equal to your missing HP.\nExhaust."
+    },
+    {
+      "name": "Draining Doom",
+      "color": "Red",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 30 damage.\nLose 5 Max HP.\nExhaust.\nEthereal."
+    },
+    {
+      "name": "Draining Doom+",
+      "color": "Red",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 40 damage.\nLose 5 Max HP.\nExhaust.\nEthereal."
+    },
+    {
+      "name": "Insult",
+      "color": "Red",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "X",
+      "description": "Apply X Weak.\nApply X Vulnerable.\nGain X Strength.\nExhaust."
+    },
+    {
+      "name": "Insult+",
+      "color": "Red",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "X",
+      "description": "Apply X+1 Weak.\nApply X+1 Vulnerable.\nGain X+1 Strength.\nExhaust."
+    },
+    {
+      "name": "Strike Storm",
+      "color": "Red",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "3",
+      "description": "Ethereal.\nWhenever you play a non-Attack card, play a Strike."
+    },
+    {
+      "name": "Strike Storm+",
+      "color": "Red",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "3",
+      "description": "Whenever you play a non-Attack card, play a Strike."
+    },
+    {
+      "name": "Gather Tools",
+      "color": "Green",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain Block equal to twice the number of cards in your hand."
+    },
+    {
+      "name": "Gather Tools+",
+      "color": "Green",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain Block equal to twice the number of cards in your hand."
+    },
+    {
+      "name": "Pinpoint Kick",
+      "color": "Green",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage. If this breaks the enemy's Block, apply 1 Vulnerable."
+    },
+    {
+      "name": "Pinpoint Kick+",
+      "color": "Green",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 13 damage. If this breaks the enemy's Block, apply 2 Vulnerable."
+    },
+    {
+      "name": "Shadow Strike",
+      "color": "Green",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage. Gain 5 Block next turn."
+    },
+    {
+      "name": "Shadow Strike+",
+      "color": "Green",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage. Gain 7 Block next turn."
+    },
+    {
+      "name": "Venom Sigh",
+      "color": "Green",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 4 Block.\nApply 4 Poison."
+    },
+    {
+      "name": "Venom Sigh+",
+      "color": "Green",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 6 Block.\nApply 4 Poison."
+    },
+    {
+      "name": "Bandage Whip",
+      "color": "Green",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 5 damage.\nThe enemy loses 2 Strength this turn."
+    },
+    {
+      "name": "Bandage Whip+",
+      "color": "Green",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage.\nThe enemy loses 3 Strength this turn."
+    },
+    {
+      "name": "Combo Trick",
+      "color": "Green",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Add a Shiv to your hand.\nApply 3 Poison.\nGain 3 Block next turn.\nDraw 2 cards.\nDiscard 1 card."
+    },
+    {
+      "name": "Combo Trick+",
+      "color": "Green",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Add a Shiv to your hand.\nApply 3 Poison.\nGain 5 Block next turn.\nDraw 2 cards.\nDiscard 1 card."
+    },
+    {
+      "name": "Entry Plan",
+      "color": "Green",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Draw a card.\nIf it's an Attack, deal 3 damage."
+    },
+    {
+      "name": "Entry Plan+",
+      "color": "Green",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Draw a card.\nIf it's an Attack, deal 5 damage."
+    },
+    {
+      "name": "Prepare Victim",
+      "color": "Green",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply Slow to an enemy.\nExhaust."
+    },
+    {
+      "name": "Prepare Victim+",
+      "color": "Green",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Apply Slow to an enemy.\nExhaust."
+    },
+    {
+      "name": "Cursed Body",
+      "color": "Green",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 2 Intangible.\nBecome Cursed - Injury.\nExhaust."
+    },
+    {
+      "name": "Cursed Body+",
+      "color": "Green",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 3 Intangible.\nBecome Cursed - Clumsy.\nExhaust."
+    },
+    {
+      "name": "Deadly Dodge",
+      "color": "Green",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "If the enemy intends to attack, Exhaust and gain 1 Intangible.\nIf not, apply !vexMod:SecondMagic! Poison."
+    },
+    {
+      "name": "Deadly Dodge+",
+      "color": "Green",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "If the enemy intends to attack, Exhaust and gain 1 Intangible.\nIf not, apply !vexMod:SecondMagic! Poison."
+    },
+    {
+      "name": "Evasive Thoughts",
+      "color": "Green",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "3",
+      "description": "At the start of your turn, add a random Skill to your hand.\nIt costs 0 this turn."
+    },
+    {
+      "name": "Evasive Thoughts+",
+      "color": "Green",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "At the start of your turn, add a random Skill to your hand.\nIt costs 0 this turn."
+    },
+    {
+      "name": "Jackpot",
+      "color": "Green",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 7 damage.\nApply 7 Poison.\nGain !vexMod:SecondMagic! Gold.\nExhaust."
+    },
+    {
+      "name": "Jackpot+",
+      "color": "Green",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage.\nApply 7 Poison.\nGain !vexMod:SecondMagic! Gold.\nExhaust."
+    },
+    {
+      "name": "Midnight Strike",
+      "color": "Green",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Can only be played if you have played exactly 11 cards this combat.\nDeal 100 damage.\nExhaust."
+    },
+    {
+      "name": "Midnight Strike+",
+      "color": "Green",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Can only be played if you have played exactly 11 cards this combat.\nDeal 100 damage.\nExhaust."
+    },
+    {
+      "name": "Beam Pop",
+      "color": "Blue",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 3 damage.\nApply 1 Lock-On."
+    },
+    {
+      "name": "Beam Pop+",
+      "color": "Blue",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 4 damage.\nApply 2 Lock-On."
+    },
+    {
+      "name": "Charge Beam",
+      "color": "Blue",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage.\nDraw an additional card next turn."
+    },
+    {
+      "name": "Charge Beam+",
+      "color": "Blue",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage.\nDraw an additional card next turn."
+    },
+    {
+      "name": "Orb Boomerang",
+      "color": "Blue",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage. Has a special effect based on the rightmost Orb."
+    },
+    {
+      "name": "Orb Boomerang+",
+      "color": "Blue",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage. Has a special effect based on the rightmost Orb."
+    },
+    {
+      "name": "Rocket Punch",
+      "color": "Blue",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.\nChoose an Attack in your hand.\nAdd a copy of that card to your discard pile."
+    },
+    {
+      "name": "Rocket Punch+",
+      "color": "Blue",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 11 damage.\nChoose an Attack in your hand.\nAdd a copy of that card to your hand."
+    },
+    {
+      "name": "Hex",
+      "color": "Blue",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Apply 3 Vulnerable.\nApply 3 Lock-On.\nEvoke your rightmost Orb."
+    },
+    {
+      "name": "Hex+",
+      "color": "Blue",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 3 Vulnerable.\nApply 3 Lock-On.\nEvoke your rightmost Orb."
+    },
+    {
+      "name": "Reflex Channel",
+      "color": "Blue",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "If the enemy intends to attack, Channel 2 Frost.\nIf not, Channel 2 Lightning.\nExhaust."
+    },
+    {
+      "name": "Reflex Channel+",
+      "color": "Blue",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "If the enemy intends to attack, Channel 2 Frost.\nIf not, Channel 2 Lightning."
+    },
+    {
+      "name": "Sharp Orbs",
+      "color": "Blue",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 1 Orb Slot.\nAt the end of your turn, deal 1 damage to a random enemy for each of your Orbs."
+    },
+    {
+      "name": "Sharp Orbs+",
+      "color": "Blue",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "0",
+      "description": "Gain 1 Orb Slot.\nAt the end of your turn, deal 1 damage to a random enemy for each of your Orbs."
+    },
+    {
+      "name": "Shock Kick",
+      "color": "Blue",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 8 damage.\nGain 2 Focus until the start of your next turn."
+    },
+    {
+      "name": "Shock Kick+",
+      "color": "Blue",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 12 damage.\nGain 3 Focus until the start of your next turn."
+    },
+    {
+      "name": "Tune Up",
+      "color": "Blue",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 3 Block.\nIncrease the damage of a random card in your hand by 3."
+    },
+    {
+      "name": "Tune Up+",
+      "color": "Blue",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 5 Block.\nIncrease the damage of a random card in your hand by 4."
+    },
+    {
+      "name": "Blaze Kick",
+      "color": "Blue",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.\nGain 1 stack of ANY random positive power.\nExhaust."
+    },
+    {
+      "name": "Blaze Kick+",
+      "color": "Blue",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 11 damage.\nGain 2 stacks of ANY random positive power.\nExhaust."
+    },
+    {
+      "name": "Block Beam",
+      "color": "Blue",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Gain 15 Block.\nDeal 15 damage."
+    },
+    {
+      "name": "Block Beam+",
+      "color": "Blue",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Gain 19 Block.\nDeal 19 damage."
+    },
+    {
+      "name": "Chaotic Reactor",
+      "color": "Blue",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the start of your turn, Channel a random Orb."
+    },
+    {
+      "name": "Chaotic Reactor+",
+      "color": "Blue",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nAt the start of your turn, Channel a random Orb."
+    },
+    {
+      "name": "Overload",
+      "color": "Blue",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "Channel a random Orb for each Orb slot you have.\nExhaust."
+    },
+    {
+      "name": "Overload+",
+      "color": "Blue",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "Channel a random Orb for each Orb slot you have.\nGain 1 Orb slot.\nExhaust."
+    },
+    {
+      "name": "System Update",
+      "color": "Blue",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "Gain 1 Strength.\nGain 1 Dexterity.\nGain 1 Focus."
+    },
+    {
+      "name": "System Update+",
+      "color": "Blue",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 1 Strength.\nGain 1 Dexterity.\nGain 1 Focus."
+    },
+    {
+      "name": "Anger",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Remove your Debuffs.\nGain 6 Strength.\nCan only be played at or below 50% HP.\nExhaust."
+    },
+    {
+      "name": "Anger+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Remove your Debuffs.\nGain 12 Strength.\nCan only be played at or below 50% HP.\nExhaust."
+    },
+    {
+      "name": "Defensive Stance",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Power",
+      "cost": "3",
+      "description": "Gain 15 Block.\nAt the end of your turn, gain 5 Block."
+    },
+    {
+      "name": "Defensive Stance+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Power",
+      "cost": "3",
+      "description": "Gain 20 Block.\nAt the end of your turn, gain 7 Block."
+    },
+    {
+      "name": "Execute",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Deal 10 damage twice.\nCan only be played at or below 50% HP."
+    },
+    {
+      "name": "Execute+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 10 damage twice.\nCan only be played at or below 50% HP."
+    },
+    {
+      "name": "Face Slap",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Remove all Block from the enemy.\nDeal 12 damage.\nApply 2 Vulnerable."
+    },
+    {
+      "name": "Face Slap+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Remove all Block from the enemy.\nDeal 14 damage.\nApply 2 Vulnerable."
+    },
+    {
+      "name": "Gloat",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 2 Strength."
+    },
+    {
+      "name": "Gloat+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 4 Strength."
+    },
+    {
+      "name": "Heavy Slash",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 16 damage."
+    },
+    {
+      "name": "Heavy Slash+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 18 damage."
+    },
+    {
+      "name": "Taunt",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Apply 2 Weak.\nApply 2 Vulnerable."
+    },
+    {
+      "name": "Taunt+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 2 Weak.\nApply 2 Vulnerable."
+    },
+    {
+      "name": "Coin Toss",
+      "color": "Colorless",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 12 damage.\nGain some Gold.\nExhaust."
+    },
+    {
+      "name": "Coin Toss+",
+      "color": "Colorless",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 12 damage.\nGain some Gold.\nExhaust."
+    },
+    {
+      "name": "Plotting",
+      "color": "Colorless",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Draw 2 additional cards next turn."
+    },
+    {
+      "name": "Plotting+",
+      "color": "Colorless",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Draw 3 additional cards next turn."
+    },
+    {
+      "name": "Antique Fury",
+      "color": "Colorless",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 3 damage for every Relic you have.\nExhaust."
+    },
+    {
+      "name": "Antique Fury+",
+      "color": "Colorless",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 3 damage for every Relic you have."
+    },
+    {
+      "name": "Division",
+      "color": "Colorless",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Add a random Colorless card to your deck.\nExhaust."
+    },
+    {
+      "name": "Division+",
+      "color": "Colorless",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Add a random upgraded Colorless card to your deck.\nExhaust."
+    },
+    {
+      "name": "Full Service",
+      "color": "Colorless",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Deal 5 damage. Gain 5 Block.\nGain 5 Gold. Apply !vexMod:SecondMagic! Weak.\nApply !vexMod:SecondMagic! Vulnerable.\nDraw !vexMod:SecondMagic! cards.\nHeal !vexMod:SecondMagic! HP.\nGain 5 Block next turn.\nGain 1 Energy next turn. Exhaust."
+    },
+    {
+      "name": "Full Service+",
+      "color": "Colorless",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Deal 6 damage. Gain 6 Block.\nGain 6 Gold. Apply !vexMod:SecondMagic! Weak.\nApply !vexMod:SecondMagic! Vulnerable.\nDraw !vexMod:SecondMagic! cards.\nHeal !vexMod:SecondMagic! HP.\nGain 6 Block next turn.\nGain 1 Energy next turn. Exhaust."
+    },
+    {
+      "name": "Golden Touch",
+      "color": "Colorless",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "3",
+      "description": "Whenever you deal unblocked Attack damage, gain that much gold.\nEthereal."
+    },
+    {
+      "name": "Golden Touch+",
+      "color": "Colorless",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "Whenever you deal unblocked Attack damage, gain that much gold.\nEthereal."
+    },
+    {
+      "name": "Resourcefulness",
+      "color": "Colorless",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Draw 2 cards."
+    },
+    {
+      "name": "Resourcefulness+",
+      "color": "Colorless",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Put one card from your draw pile into your hand.\nDraw 1 card."
+    },
+    {
+      "name": "Stairway Strike",
+      "color": "Colorless",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Deal damage equal to twice the number of the floor you're on.\nExhaust."
+    },
+    {
+      "name": "Stairway Strike+",
+      "color": "Colorless",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal damage equal to twice the number of the floor you're on.\nExhaust."
+    },
+    {
+      "name": "Fear",
+      "color": "Curse",
+      "rarity": "Curse",
+      "type": "Curse",
+      "cost": "1",
+      "description": "At the end of your turn, Exhaust this and gain 1 Vulnerable."
+    },
+    {
+      "name": "Greed",
+      "color": "Curse",
+      "rarity": "Curse",
+      "type": "Curse",
+      "cost": "",
+      "description": "Unplayable.\nAt the end of your turn, lose 6 Gold."
+    },
+    {
+      "name": "Sloth",
+      "color": "Curse",
+      "rarity": "Curse",
+      "type": "Curse",
+      "cost": "",
+      "description": "Unplayable.\nAt the end of your turn, draw one less card next turn."
+    },
+    {
+      "name": "Virus",
+      "color": "Curse",
+      "rarity": "Curse",
+      "type": "Curse",
+      "cost": "",
+      "description": "Unplayable.\nAt the end of your turn, add a Virus to your hand."
+    }
+  ],
+  "relics": [
+    {
+      "name": "Charge Upper",
+      "tier": "Common",
+      "pool": "Red",
+      "description": "Every time you gain 35 Block, gain 1 Strength.",
+      "flavorText": "\"Oops, I fell asleep without plugging it in...\""
+    },
+    {
+      "name": "Cold Yogurt",
+      "tier": "Common",
+      "pool": "Blue",
+      "description": "At the start of each combat, Channel 1 Frost.",
+      "flavorText": "Tasteless, yet appetizing."
+    },
+    {
+      "name": "Consolation Prize",
+      "tier": "Common",
+      "pool": "",
+      "description": "Whenever you lose HP, gain that much Gold.",
+      "flavorText": "Gold oozes from your wounds."
+    },
+    {
+      "name": "Key Chain",
+      "tier": "Common",
+      "pool": "",
+      "description": "Your first Attack each combat Shackles its target for damage dealt.",
+      "flavorText": "Surprisingly sharp!"
+    },
+    {
+      "name": "Memory Locket",
+      "tier": "Common",
+      "pool": "Green",
+      "description": "On the first turn of each combat, Retain your hand.",
+      "flavorText": "Holding it makes you think back to distant memories."
+    },
+    {
+      "name": "Pain Converter",
+      "tier": "Common",
+      "pool": "",
+      "description": "When you take 15 or more damage in one hit, gain [E] and draw a card next turn.",
+      "flavorText": "The machine seems to be magnetically attracted to your exposed injuries."
+    },
+    {
+      "name": "Thoughtsguard",
+      "tier": "Common",
+      "pool": "",
+      "description": "Whenever you draw a card (besides your opening hand), gain 1 Block.",
+      "flavorText": "\"Begone, thoughts!\""
+    },
+    {
+      "name": "Better-O-Tron",
+      "tier": "Uncommon",
+      "pool": "",
+      "description": "The next 3 unupgraded cards you add to your deck are Upgraded.",
+      "flavorText": "This mechanical worm lurches for your head intermittently."
+    },
+    {
+      "name": "Focus Sash",
+      "tier": "Uncommon",
+      "pool": "",
+      "description": "Damage that would bring you to 0 HP from over 8 HP brings you to 1 HP instead.",
+      "flavorText": "It's super effective!"
+    },
+    {
+      "name": "Invisible Cloak",
+      "tier": "Uncommon",
+      "pool": "Green",
+      "description": "At the start of combat, ALL enemies lose 1 Strength.",
+      "flavorText": "You're far too modest to \"wear\" this."
+    },
+    {
+      "name": "Power Charger",
+      "tier": "Uncommon",
+      "pool": "Blue",
+      "description": "At the end of your turn, gain 1 Block for each empty Orb slot.",
+      "flavorText": "Conserve energy! Shut off Orb slots when you're not using them."
+    },
+    {
+      "name": "Protector Bot",
+      "tier": "Uncommon",
+      "pool": "",
+      "description": "When you play 2 or less cards in a turn, gain 8 Block at the end of the turn.",
+      "flavorText": "This little bot dives in to take attacks when you're wide open."
+    },
+    {
+      "name": "Shifting Skin",
+      "tier": "Uncommon",
+      "pool": "",
+      "description": "At the start of each combat, gain 1 stack of ANY random positive power.",
+      "flavorText": "Your body flows fluidly, changing to adapt to each situation..."
+    },
+    {
+      "name": "Strike Shooter",
+      "tier": "Uncommon",
+      "pool": "Red",
+      "description": "At the start of every third turn, play a Strike at a random target.",
+      "flavorText": "All your sword-firing needs in one medium package!"
+    },
+    {
+      "name": "Bejeweled Orb",
+      "tier": "Rare",
+      "pool": "Blue",
+      "description": "Whenever you have 3 of the same type of Orb in a row, Evoke them and Channel 2 random Orbs.",
+      "flavorText": "You have an urge to match items of similar color."
+    },
+    {
+      "name": "Box of Bandaids",
+      "tier": "Rare",
+      "pool": "",
+      "description": "Whenever you add a card to your deck, heal 5 HP.",
+      "flavorText": "Vends only when shown cool techniques."
+    },
+    {
+      "name": "Broken Bowl",
+      "tier": "Rare",
+      "pool": "",
+      "description": "Whenever you add an unupgraded card to your deck, Upgrade it and lose 2 Max HP.",
+      "flavorText": "Sand drains from it endlessly."
+    },
+    {
+      "name": "Code Smelter",
+      "tier": "Rare",
+      "pool": "Blue",
+      "description": "Whenever you Channel an Orb, trigger its passive ability.",
+      "flavorText": "Combines subprocesses into one big clump. Simple!"
+    },
+    {
+      "name": "Cooling Fan",
+      "tier": "Rare",
+      "pool": "Blue",
+      "description": "Whenever you Channel an Orb, gain 2 Block.",
+      "flavorText": "This fan helps you save processes when performing monster solution options."
+    },
+    {
+      "name": "Helpful Mold",
+      "tier": "Rare",
+      "pool": "Red",
+      "description": "Whenever you gain Block, gain 1 Strength this turn only.",
+      "flavorText": "This mold siphons off bits of your shield to feed you."
+    },
+    {
+      "name": "Plague Vial",
+      "tier": "Rare",
+      "pool": "",
+      "description": "Non-Boss enemies have 15 % less HP.",
+      "flavorText": "This sentient sickness seeks dangerous entities."
+    },
+    {
+      "name": "Retaliation Kit",
+      "tier": "Rare",
+      "pool": "Green",
+      "description": "The first time your Block is broken each combat, apply 2 Weak to ALL enemies.",
+      "flavorText": "All you need to disappear in a burst of smoke! Smoke not included."
+    },
+    {
+      "name": "Writhing Mask",
+      "tier": "Rare",
+      "pool": "",
+      "description": "At the start of each combat, gain 3 Malleable.",
+      "flavorText": "It squirms on your face uncomfortably."
+    },
+    {
+      "name": "Barbed Pack",
+      "tier": "Special",
+      "pool": "",
+      "description": "At the start of your turn, gain 10 Constricted.",
+      "flavorText": "Just a little pokey."
+    },
+    {
+      "name": "Broadsword",
+      "tier": "Special",
+      "pool": "",
+      "description": "At the start of each combat, gain 2 Strength. You draw one less card each turn.",
+      "flavorText": "The smith fashioned you a slightly oversized weapon!"
+    },
+    {
+      "name": "Clock Toy",
+      "tier": "Special",
+      "pool": "",
+      "description": "At the start of each combat, Time Eater drops in.",
+      "flavorText": "Time Eater collects these."
+    },
+    {
+      "name": "Diamond Sword",
+      "tier": "Special",
+      "pool": "",
+      "description": "Whenever you play an Attack, gain 3 Gold.",
+      "flavorText": "The smith fashioned you a rather blocky sword!"
+    },
+    {
+      "name": "Double-Edged Sword",
+      "tier": "Special",
+      "pool": "",
+      "description": "At the start of each combat, gain 2 Strength and each enemy gains 1 Thorns.",
+      "flavorText": "The smith fashioned you an overly sharp blade!"
+    },
+    {
+      "name": "Draining Sword",
+      "tier": "Special",
+      "pool": "",
+      "description": "Whenever you play an Attack, heal 1 HP. You start each combat with - 1 Strength.",
+      "flavorText": "The smith fashioned you a vampiric sword!"
+    },
+    {
+      "name": "Easy Removal",
+      "tier": "Special",
+      "pool": "",
+      "description": "Whenever you play a card, remove it from your deck.",
+      "flavorText": "Searing Blow deck, here we come..."
+    },
+    {
+      "name": "Energy Shake",
+      "tier": "Special",
+      "pool": "",
+      "description": "Upon pickup, brews 1 random potion.",
+      "flavorText": "Tasty."
+    },
+    {
+      "name": "Growing Illness",
+      "tier": "Special",
+      "pool": "",
+      "description": "At the end of your turn, add a Parasite to your deck permanently.",
+      "flavorText": "You grow more haggard every moment."
+    },
+    {
+      "name": "Happy Drink",
+      "tier": "Special",
+      "pool": "",
+      "description": "Upon pickup, gain 1 Max HP.\nWhenever you enter a shop, gain 1 Max HP.",
+      "flavorText": "The shop offers free refills."
+    },
+    {
+      "name": "Imaginary Sword",
+      "tier": "Special",
+      "pool": "",
+      "description": "Upon pickup, remove two Attack cards from your deck.",
+      "flavorText": "Already, your memories of a smith feel faint..."
+    },
+    {
+      "name": "Infernal Sword",
+      "tier": "Special",
+      "pool": "",
+      "description": "At the start of each combat, add a random Attack to your hand. It costs 0 this turn.",
+      "flavorText": "This sword burns endlessly. You can't even hold it..."
+    },
+    {
+      "name": "Intensificator",
+      "tier": "Special",
+      "pool": "",
+      "description": "ALL enemies start combat with 50 Strength.",
+      "flavorText": "Just a mild buff."
+    },
+    {
+      "name": "Pitiful Bounty",
+      "tier": "Special",
+      "pool": "",
+      "description": "Whenever an enemy dies, gain 3 Block.",
+      "flavorText": "Whoever this criminal was, you'd only get a gold piece for them."
+    },
+    {
+      "name": "Puke Worm",
+      "tier": "Special",
+      "pool": "",
+      "description": "At the end of battle, gain 2 Gold.",
+      "flavorText": "This tiny worm pukes up coins when you impress it."
+    },
+    {
+      "name": "Robot's Gift",
+      "tier": "Special",
+      "pool": "",
+      "description": "At the start of each combat, gain 2 Orb slots.",
+      "flavorText": "The thankful boon of a strange automaton."
+    },
+    {
+      "name": "Rusty Sword",
+      "tier": "Special",
+      "pool": "",
+      "description": "You start each combat with - 1 Strength. Enemies start each combat with - 2 Strength.",
+      "flavorText": "The smith fashioned you a crumbling sword..."
+    },
+    {
+      "name": "Short Stop",
+      "tier": "Special",
+      "pool": "",
+      "description": "Future maps are 9 floors long. If stuck, use the BaseMod debug mode in the console.",
+      "flavorText": "Weathered from hundreds of home runs."
+    },
+    {
+      "name": "Snecko Spit",
+      "tier": "Special",
+      "pool": "",
+      "description": "Whenever you draw a card, set its cost to 5.",
+      "flavorText": "Tastes disgusting."
+    },
+    {
+      "name": "Spin Shoes",
+      "tier": "Special",
+      "pool": "",
+      "description": "Upon pickup, Transform ALL cards in your deck into Curses.",
+      "flavorText": "You cannot remove these shoes, and they keep making you trip."
+    },
+    {
+      "name": "Toy Sword",
+      "tier": "Special",
+      "pool": "",
+      "description": "Your attacks Shackle their targets for 2 Strength. Start each combat with - 1 Strength.",
+      "flavorText": "The smith fashioned you a little sword charm!"
+    },
+    {
+      "name": "Transient Hat",
+      "tier": "Special",
+      "pool": "",
+      "description": "At the start of each combat, gain 1 Fading.",
+      "flavorText": "Transient! I'm your biggest fan!"
+    },
+    {
+      "name": "Voice Box",
+      "tier": "Special",
+      "pool": "",
+      "description": "You can talk now.",
+      "flavorText": "You feel badly written."
+    },
+    {
+      "name": "Big Berry",
+      "tier": "Boss",
+      "pool": "",
+      "description": "Upon pickup, raise your Max HP by 22.",
+      "flavorText": "A fruit long thought to be forgotten. The Spireblight proved to be quite the preservative."
+    },
+    {
+      "name": "Cursed Compass",
+      "tier": "Boss",
+      "pool": "",
+      "description": "Gain [E] at the start of your turn.\nFuture maps have only 1 path.",
+      "flavorText": "No matter which way you turn, it always points forwards..."
+    },
+    {
+      "name": "Mind Devourer",
+      "tier": "Boss",
+      "pool": "",
+      "description": "Gain [E] at the start of your turn.\nAt the end of each combat, a random card in your deck is removed.",
+      "flavorText": "You can feel knowledge of techniques and attacks drifting away as you hold it."
+    },
+    {
+      "name": "Morality Core",
+      "tier": "Boss",
+      "pool": "Red",
+      "description": "Gain [E] at the start of your turn.\nAt the start of each combat, gain 3 Weak.",
+      "flavorText": "\"Iron one, you gave so much for your strength... and now you give it up as well.\""
+    },
+    {
+      "name": "Sticky Tar",
+      "tier": "Boss",
+      "pool": "Green",
+      "description": "Gain [E] at the start of your turn.\nAt the start of each combat, lose 2 Dexterity.",
+      "flavorText": "\"Quiet one, you think yourself so clever with your dodgy moves. Be exposed!\""
+    },
+    {
+      "name": "System Virus",
+      "tier": "Boss",
+      "pool": "Blue",
+      "description": "Gain [E] at the start of your turn.\nAt the start of each combat, lose 2 Orb slots.",
+      "flavorText": "\"Defective one, your creativity needs... dulling.\""
+    },
+    {
+      "name": "Tangling Vine",
+      "tier": "Boss",
+      "pool": "",
+      "description": "Gain [E] at the start of your turn.\nAt the start of your turn, gain 1 Constricted.",
+      "flavorText": "It reaches for you, filled with malicious intents..."
+    },
+    {
+      "name": "Berry Sword",
+      "tier": "Shop",
+      "pool": "",
+      "description": "The first 2 cards you play each combat are removed from your deck permanently.",
+      "flavorText": "Tiny bites of this sword invigorate you."
+    },
+    {
+      "name": "Concentration Valve",
+      "tier": "Shop",
+      "pool": "Blue",
+      "description": "Every time you play 2 Powers in a turn, gain 1 Focus.",
+      "flavorText": "The more you focus, the more it focuses you."
+    },
+    {
+      "name": "Cooldron",
+      "tier": "Shop",
+      "pool": "",
+      "description": "All Potions you obtain are Entropic Brews.",
+      "flavorText": "This cauldron is a lot cooler than any regular old cauldron."
+    },
+    {
+      "name": "Ghostly Gear",
+      "tier": "Shop",
+      "pool": "",
+      "description": "Whenever you play a Strike or Defend, Exhaust it.",
+      "flavorText": "The sword and shield are more difficult to see each time you look."
+    },
+    {
+      "name": "Golden Armor",
+      "tier": "Shop",
+      "pool": "",
+      "description": "Your health is ALWAYS equal to your Gold. Instead of losing health, lose twice that much Gold.",
+      "flavorText": "Expensive... but worth it?"
+    },
+    {
+      "name": "Pill Tracker",
+      "tier": "Shop",
+      "pool": "",
+      "description": "At the start of turn 5, remove all your Debuffs.",
+      "flavorText": "Always remember to take your medication on time!"
+    },
+    {
+      "name": "Salvaging Tools",
+      "tier": "Shop",
+      "pool": "Green",
+      "description": "Whenever you discard a card, reduce the cost of a random card in your hand by 1 this turn.",
+      "flavorText": "\"Curious! These primitive things are utterly useless.\" -Ranwid"
+    },
+    {
+      "name": "Scavenger Helm",
+      "tier": "Shop",
+      "pool": "",
+      "description": "If you have 2 or less cards in your hand at the end of your turn, you may Retain one.",
+      "flavorText": "Used by the tribes far from the Spire."
+    },
+    {
+      "name": "Slug's Watch",
+      "tier": "Shop",
+      "pool": "",
+      "description": "After you play 12 cards, end your turn and gain 2 Strength.",
+      "flavorText": "Someone is going to want this back."
+    },
+    {
+      "name": "Sword of Lies",
+      "tier": "Shop",
+      "pool": "Red",
+      "description": "Start each combat with 1 Strength. At the start of each combat, add a random Curse to your hand.",
+      "flavorText": "\"I am the Sword of Truth.\""
+    }
+  ],
+  "potions": [
+  ],
+  "creatures": [
+    {
+      "name": "Base Monster",
+      "type": "Normal",
+      "minHP": "60",
+      "maxHP": "60"
+    },
+    {
+      "name": "Card Collector",
+      "type": "Normal",
+      "minHP": "0",
+      "maxHP": "0"
+    },
+    {
+      "name": "Evil Cube",
+      "type": "Normal",
+      "minHP": "50",
+      "maxHP": "50"
+    },
+    {
+      "name": "Gorgon",
+      "type": "Normal",
+      "minHP": "136",
+      "maxHP": "136"
+    },
+    {
+      "name": "Infection Beast",
+      "type": "Normal",
+      "minHP": "115",
+      "maxHP": "115"
+    },
+    {
+      "name": "Octiver",
+      "type": "Normal",
+      "minHP": "80",
+      "maxHP": "80"
+    },
+    {
+      "name": "Sickening Thing",
+      "type": "Normal",
+      "minHP": "111",
+      "maxHP": "111"
+    }
+  ],
+  "keywords": [
+  ]
+}
