@@ -12,17 +12,3 @@ h1,h2,h3 {
 		line-height: 1.2
 }
 	
-div.secret {
-		position: fixed;
-		top: 70%;
-		left: 320px;
-}
-	
-div.secret a {
-		opacity: 0;
-		text-decoration:none;
-}
-
-div.secret a:hover {
-		opacity: 0.1;
-}
