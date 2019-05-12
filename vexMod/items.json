@@ -97,7 +97,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 13 damage.\nAdd a random Curse into your hand."
+      "description": "Deal 14 damage.\nAdd a random Curse into your hand."
     },
     {
       "name": "Cursed Strike+",
@@ -105,7 +105,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 19 damage.\nAdd a random Curse into your hand."
+      "description": "Deal 20 damage.\nAdd a random Curse into your hand."
     },
     {
       "name": "Elimination",
@@ -273,7 +273,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Block.\nApply 3 Poison."
+      "description": "Gain 3 Block.\nApply 3 Poison."
     },
     {
       "name": "Venom Sigh+",
@@ -281,7 +281,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 5 Block.\nApply 4 Poison."
+      "description": "Gain 4 Block.\nApply 4 Poison."
     },
     {
       "name": "Bandage Whip",
@@ -529,7 +529,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage.\nChoose a card in your hand.\nAdd a copy of that card into your discard pile."
+      "description": "Deal 10 damage.\nChoose a card in your hand.\nAdd a copy of that card into your discard pile."
     },
     {
       "name": "Rocket Punch+",
