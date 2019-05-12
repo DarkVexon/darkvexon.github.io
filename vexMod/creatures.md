@@ -1,12 +1,12 @@
 | Image | Name |
 | ----- | ---- |
-| ![](creatures/JawWorm.png) | Base Monster |
-| ![](creatures/JawWorm.png) | Card Collector |
-| ![](creatures/CurseLord.png) | Curse Lord |
-| ![](creatures/EvilCube.png) | Evil Cube |
+| ![](creatures/BombBelcher.png) | Bomb Belcher |
+| ![](creatures/DaggerThrower.png) | Dagger Pharaoh |
 | ![](creatures/GildedGorgon.png) | Gilded Gorgon |
-| ![](creatures/Gorgon.png) | Gorgon |
+| ![](creatures/Grifter.png) | Grifter |
 | ![](creatures/InfectionBeast.png) | Infection Beast |
-| ![](creatures/Octiver.png) | Octiver |
-| ![](creatures/SickeningThing.png) | Sickening Thing |
+| ![](creatures/BeyondKing.png) | King of the Beyond |
+| ![](creatures/LichPhylac.png) | Lich's Phylactery |
+| ![](creatures/Combatant.png) | Mechanical Combatant |
 | ![](creatures/EvilSsserpent.png) | Ssserpent |
+| ![](creatures/LichLord.png) | Undercity Lichlord |
