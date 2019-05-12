@@ -5,7 +5,7 @@
 | Blood Guard | ![](small-card-images/BloodGuard.png) | ![](small-card-images/BloodGuardPlus.png) | Uncommon | Skill | 1 | Lose 4(3) HP. Gain 15(17) Block. |
 | Blood to Gold | ![](small-card-images/BloodtoGold.png) | ![](small-card-images/BloodtoGoldPlus.png) | Uncommon | Skill | 0 | Lose 3 HP. Gain 10(15) Gold. Draw 1 card. |
 | Crumbling Crash | ![](small-card-images/CrumblingCrash.png) | ![](small-card-images/CrumblingCrashPlus.png) | Uncommon | Skill | 0 | Remove all Block from the enemy. Apply 1(2) Vulnerable. |
-| Cursed Strike | ![](small-card-images/CursedStrike.png) | ![](small-card-images/CursedStrikePlus.png) | Uncommon | Attack | 1 | Deal 13(19) damage. Add a random Curse into your hand. |
+| Cursed Strike | ![](small-card-images/CursedStrike.png) | ![](small-card-images/CursedStrikePlus.png) | Uncommon | Attack | 1 | Deal 14(20) damage. Add a random Curse into your hand. |
 | Elimination | ![](small-card-images/Elimination.png) | ![](small-card-images/EliminationPlus.png) | Uncommon | Attack | 1 | Deal 10(12) damage. Exhaust (any number of cards in) your hand. |
 | Ground Pound | ![](small-card-images/GroundPound.png) | ![](small-card-images/GroundPoundPlus.png) | Uncommon | Attack | 2 | Deal 8(10) damage. Deal 8(10) damage to ALL enemies. |
 | Hatred | ![](small-card-images/Hatred.png) | ![](small-card-images/HatredPlus.png) | Uncommon | Power | 1 | (Innate.)  At the start of your turn, add a random Attack to your hand. |
@@ -16,7 +16,7 @@
 | Strike Storm | ![](small-card-images/StrikeStorm.png) | ![](small-card-images/StrikeStormPlus.png) | Rare | Power | 3 | Ethereal. (not Ethereal.) Whenever you play a non-Attack card, play a πStrike. |
 | Pinpoint Kick | ![](small-card-images/PinpointKick.png) | ![](small-card-images/PinpointKickPlus.png) | Common | Attack | 1 | Deal 10(13) damage. If this breaks the enemy's Block, apply 1(2) Vulnerable. |
 | Shadow Strike | ![](small-card-images/ShadowStrike.png) | ![](small-card-images/ShadowStrikePlus.png) | Common | Attack | 1 | Deal 6(8) damage. Next turn, gain 6(8) Block. |
-| Venom Sigh | ![](small-card-images/VenomSigh.png) | ![](small-card-images/VenomSighPlus.png) | Common | Skill | 1 | Gain 4(5) Block. Apply 3(4) Poison. |
+| Venom Sigh | ![](small-card-images/VenomSigh.png) | ![](small-card-images/VenomSighPlus.png) | Common | Skill | 1 | Gain 3(4) Block. Apply 3(4) Poison. |
 | Bandage Whip | ![](small-card-images/BandageWhip.png) | ![](small-card-images/BandageWhipPlus.png) | Uncommon | Attack | 1 | Deal 8(10) damage. Enemy loses 2(3) Strength this turn. |
 | Entry Plan | ![](small-card-images/EntryPlan.png) | ![](small-card-images/EntryPlanPlus.png) | Uncommon | Attack | 0 | Draw 1 card. If you draw an Attack, deal 4(6) damage. |
 | Prepare Victim | ![](small-card-images/PrepareVictim.png) | ![](small-card-images/PrepareVictimPlus.png) | Uncommon | Skill | 1(0) | Apply Slow. Exhaust. |
@@ -32,7 +32,7 @@
 | Charge Beam | ![](small-card-images/ChargeBeam.png) | ![](small-card-images/ChargeBeamPlus.png) | Common | Attack | 1 | Deal 7(10) damage. Next turn, draw 1 additional card. |
 | Orb Boomerang | ![](small-card-images/OrbBoomerang.png) | ![](small-card-images/OrbBoomerangPlus.png) | Common | Attack | 1 | Deal 6(9) damage. Does an additional effect based on your next Orb. |
 | Orb Shield | ![](small-card-images/OrbShield.png) | ![](small-card-images/OrbShieldPlus.png) | Common | Skill | 1(0) | Gain 4 Block for each unique Orb you have. |
-| Rocket Punch | ![](small-card-images/RocketPunch.png) | ![](small-card-images/RocketPunchPlus.png) | Common | Attack | 1 | Deal 9(13) damage. Choose a card in your hand. Add a copy of that card into your discard pile. |
+| Rocket Punch | ![](small-card-images/RocketPunch.png) | ![](small-card-images/RocketPunchPlus.png) | Common | Attack | 1 | Deal 10(13) damage. Choose a card in your hand. Add a copy of that card into your discard pile. |
 | Golden Lightning | ![](small-card-images/GoldenLightning.png) | ![](small-card-images/GoldenLightningPlus.png) | Uncommon | Skill | 2(1) | Channel 1 [#EFC851]Golden [#EFC851]πLightning. Exhaust. |
 | Hex | ![](small-card-images/Hex.png) | ![](small-card-images/HexPlus.png) | Uncommon | Skill | 2(1) | Apply 3 Vulnerable. Apply 3 Lock-On. Evoke your next Orb. |
 | Reflex Channel | ![](small-card-images/ReflexChannel.png) | ![](small-card-images/ReflexChannelPlus.png) | Uncommon | Skill | 1 | If the enemy intends to attack, Channel 1 Frost. Otherwise, Channel 1 Lightning.  (Draw 1 card.) |
