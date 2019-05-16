@@ -1,10 +1,10 @@
 {
   "mod": {
     "name": "vexMod",
-    "version": "6",
+    "version": "8008135",
     "authors": ["DarkVexon"],
     "credits": "Slay the Spire Discord: Ideas, assistance, other help.",
-    "description": "A minor content mod.",
+    "description": "A major content mod.",
     "mts_version": "3.8.0",
     "sts_version": "01-23-2019",
     "dependencies": ["basemod","stslib"],
@@ -108,22 +108,6 @@
       "description": "Deal 20 damage.\nAdd a random Curse into your hand."
     },
     {
-      "name": "Elimination",
-      "color": "Red",
-      "rarity": "Uncommon",
-      "type": "Attack",
-      "cost": "1",
-      "description": "Deal 10 damage.\nExhaust your hand."
-    },
-    {
-      "name": "Elimination+",
-      "color": "Red",
-      "rarity": "Uncommon",
-      "type": "Attack",
-      "cost": "1",
-      "description": "Deal 12 damage.\nExhaust any number of cards in your hand."
-    },
-    {
       "name": "Ground Pound",
       "color": "Red",
       "rarity": "Uncommon",
@@ -204,6 +188,22 @@
       "description": "Lose 3 HP.\nDeal damage equal to your missing HP.\nExhaust."
     },
     {
+      "name": "Elimination",
+      "color": "Red",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 13 damage.\nExhaust any number of cards in your hand."
+    },
+    {
+      "name": "Elimination+",
+      "color": "Red",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 17 damage.\nExhaust any number of cards in your hand."
+    },
+    {
       "name": "Insult",
       "color": "Red",
       "rarity": "Rare",
@@ -265,7 +265,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\nNext turn, gain 8 Block."
+      "description": "Deal 10 damage.\nNext turn, gain 6 Block."
     },
     {
       "name": "Venom Sigh",
@@ -345,7 +345,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 4 Poison.\nDouble this card's Poison this combat."
+      "description": "Apply 3 Poison.\nDouble this card's Poison this combat."
     },
     {
       "name": "Shield Swipe",
@@ -512,8 +512,8 @@
       "color": "Blue",
       "rarity": "Common",
       "type": "Skill",
-      "cost": "1",
-      "description": "Gain 4 Block for each unique Orb you have."
+      "cost": "0",
+      "description": "Gain 3 Block for each unique Orb you have."
     },
     {
       "name": "Orb Shield+",
@@ -522,6 +522,22 @@
       "type": "Skill",
       "cost": "0",
       "description": "Gain 4 Block for each unique Orb you have."
+    },
+    {
+      "name": "Reflex Channel",
+      "color": "Blue",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "If the enemy intends to attack, Channel 1 Frost.\nOtherwise, Channel 1 Lightning."
+    },
+    {
+      "name": "Reflex Channel+",
+      "color": "Blue",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "If the enemy intends to attack, Channel 1 Frost.\nOtherwise, Channel 1 Lightning.\nDraw 1 card."
     },
     {
       "name": "Rocket Punch",
@@ -544,7 +560,7 @@
       "color": "Blue",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "2",
+      "cost": "1",
       "description": "Channel 1 [#EFC851]Golden [#EFC851]\u03C0Lightning.\nExhaust."
     },
     {
@@ -552,7 +568,7 @@
       "color": "Blue",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "1",
+      "cost": "0",
       "description": "Channel 1 [#EFC851]Golden [#EFC851]\u03C0Lightning.\nExhaust."
     },
     {
@@ -560,8 +576,8 @@
       "color": "Blue",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "2",
-      "description": "Apply 3 Vulnerable.\nApply 3 Lock-On.\nEvoke your next Orb."
+      "cost": "1",
+      "description": "Apply 2 Vulnerable.\nApply 2 Lock-On.\nEvoke your next Orb."
     },
     {
       "name": "Hex+",
@@ -570,22 +586,6 @@
       "type": "Skill",
       "cost": "1",
       "description": "Apply 3 Vulnerable.\nApply 3 Lock-On.\nEvoke your next Orb."
-    },
-    {
-      "name": "Reflex Channel",
-      "color": "Blue",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "1",
-      "description": "If the enemy intends to attack, Channel 1 Frost.\nOtherwise, Channel 1 Lightning."
-    },
-    {
-      "name": "Reflex Channel+",
-      "color": "Blue",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "1",
-      "description": "If the enemy intends to attack, Channel 1 Frost.\nOtherwise, Channel 1 Lightning.\nDraw 1 card."
     },
     {
       "name": "Sharp Orbs",
@@ -1254,6 +1254,13 @@
   ],
   "relics": [
     {
+      "name": "Bandanna of Resilience",
+      "tier": "Common",
+      "pool": "",
+      "description": "If you have 30 or less HP at the start of your turn, gain 5 Block.",
+      "flavorText": "In your strangest dreams, it appears and yells orders at you."
+    },
+    {
       "name": "Charge Upper",
       "tier": "Common",
       "pool": "Red",
@@ -1315,6 +1322,13 @@
       "pool": "",
       "description": "Whenever you receive 10 or more unblocked attack damage, draw 1 additional card and gain [E] next turn.",
       "flavorText": "The machine seems to be magnetically attracted to your exposed injuries."
+    },
+    {
+      "name": "Strike Shooter",
+      "tier": "Common",
+      "pool": "Red",
+      "description": "At the start of every third turn, play a \u03C0Strike at a random target.",
+      "flavorText": "All your sword-firing needs in one medium package!"
     },
     {
       "name": "Well-Worn Anklet",
@@ -1422,13 +1436,6 @@
       "flavorText": "You're bringing this conflict to a head."
     },
     {
-      "name": "Strike Shooter",
-      "tier": "Uncommon",
-      "pool": "Red",
-      "description": "At the start of every third turn, play a \u03C0Strike at a random target.",
-      "flavorText": "All your sword-firing needs in one medium package!"
-    },
-    {
       "name": "Thirteen-Hour Stone",
       "tier": "Uncommon",
       "pool": "",
@@ -1448,13 +1455,6 @@
       "pool": "",
       "description": "Whenever you add a card into your deck, heal 3 HP.",
       "flavorText": "Vends only when shown cool techniques."
-    },
-    {
-      "name": "Chest Statue",
-      "tier": "Rare",
-      "pool": "",
-      "description": "Non-Boss chests contain 2 Relics.",
-      "flavorText": "Made by a famous lootomancer."
     },
     {
       "name": "Code Smelter",
@@ -1541,31 +1541,17 @@
       "flavorText": "It squirms on your face uncomfortably."
     },
     {
-      "name": "Adventure Pack",
-      "tier": "Special",
-      "pool": "",
-      "description": "Upon pickup, replace all cards in your deck with Discoveries.",
-      "flavorText": "You're about to have a trip!"
-    },
-    {
-      "name": "Berry Sword",
-      "tier": "Special",
-      "pool": "",
-      "description": "Upon pickup, raise your Max HP by 8. The first card you play each combat is removed from your deck.",
-      "flavorText": "Tiny bites of this sword invigorate you."
-    },
-    {
       "name": "Broadsword",
       "tier": "Special",
       "pool": "",
-      "description": "At the start of your turn, draw 1 less card. Start each combat with 2 Strength.",
+      "description": "At the start of your turn, draw 1 less card. Start each combat with 4 Strength.",
       "flavorText": "The smith fashioned you a slightly oversized weapon!"
     },
     {
       "name": "Double-Edged Sword",
       "tier": "Special",
       "pool": "",
-      "description": "Start each combat with 2 Strength. ALL enemies start combat with 1 Thorns.",
+      "description": "Start each combat with 3 Strength. ALL enemies start combat with 1 Thorns.",
       "flavorText": "The smith fashioned you an overly sharp blade!"
     },
     {
@@ -1574,13 +1560,6 @@
       "pool": "",
       "description": "Start each combat with 1 less Strength. Whenever you play an Attack, heal 1 HP.",
       "flavorText": "The smith fashioned you a vampiric sword!"
-    },
-    {
-      "name": "Flippers of Frivolty",
-      "tier": "Special",
-      "pool": "",
-      "description": "Whenever you climb a floor, gain 15 Gold. Whenever you leave The Merchant, lose 1 HP for every 5 Gold you have.",
-      "flavorText": "These flippers make you want to spend a lot."
     },
     {
       "name": "Gorgon's Head",
@@ -1625,6 +1604,13 @@
       "flavorText": "Keep up with the latest and greatest of the Spire!"
     },
     {
+      "name": "Pepega.",
+      "tier": "Special",
+      "pool": "",
+      "description": "Really dude? That was just Pepega.",
+      "flavorText": "That's just Pepega."
+    },
+    {
       "name": "Pulse Stone",
       "tier": "Special",
       "pool": "",
@@ -1653,11 +1639,11 @@
       "flavorText": "The smith fashioned you a crunchy sword..."
     },
     {
-      "name": "Short Stop",
+      "name": "Spire Shuffle",
       "tier": "Special",
       "pool": "",
-      "description": "Future maps are 9 floors long. If stuck, use the console's debug true command to teleport to the boss, then use debug false.",
-      "flavorText": "Weathered from hundreds of home runs."
+      "description": "Whenever you play an Attack, move to the right. Whenever you play a Skill, move to the left.",
+      "flavorText": "To the left! To the right! Woo-hoo!"
     },
     {
       "name": "Ssserpent's Blood",
@@ -1667,13 +1653,6 @@
       "flavorText": "You can buy anything!"
     },
     {
-      "name": "Stone Age",
-      "tier": "Special",
-      "pool": "",
-      "description": "All future relics you find are Randomized Relics.",
-      "flavorText": "For the real rock lover."
-    },
-    {
       "name": "Story Book",
       "tier": "Special",
       "pool": "",
@@ -1681,17 +1660,10 @@
       "flavorText": ""
     },
     {
-      "name": "Time Machine",
-      "tier": "Special",
-      "pool": "",
-      "description": "Whenever you enter a Rest Site, rewind your run timer by 3 minutes.",
-      "flavorText": "Speedrun strats...?"
-    },
-    {
       "name": "Toy Sword",
       "tier": "Special",
       "pool": "",
-      "description": "Start each combat with 1 less Strength. Whenever you play an Attack, the enemy loses 2 Strength this turn.",
+      "description": "Start each combat with 2 less Strength. Whenever you play an Attack, the enemy loses 2 Strength this turn.",
       "flavorText": "The smith fashioned you a little sword charm!"
     },
     {
@@ -1740,7 +1712,7 @@
       "name": "Hatred Engine",
       "tier": "Boss",
       "pool": "",
-      "description": "Gain [E] at the start of your turn. ALL ? rooms contain normal enemy combats.",
+      "description": "Gain [E] at the start of your turn. You are 50% more likely to find normal enemy combats in ? rooms.",
       "flavorText": "They all deserve your blade! Go! Fight!"
     },
     {
@@ -1765,6 +1737,20 @@
       "flavorText": "Mm, shiny! Wait, what was your name again?"
     },
     {
+      "name": "New, Clear Reactor",
+      "tier": "Boss",
+      "pool": "",
+      "description": "Upon pickup, gain 100 Energy. Energy is conserved between turns and combats. You no longer gain Energy each turn. Whenever you clear an act, gain 100 Energy.",
+      "flavorText": "Totally safe! Good for the environment! Fosters mutations!"
+    },
+    {
+      "name": "Superbombomb",
+      "tier": "Boss",
+      "pool": "",
+      "description": "At the end of your turn, lose 1 HP from radiation poisoning.\nRight click: Destroy this relic and all enemies.",
+      "flavorText": "A superweapon beyond any technology. Who made this...?"
+    },
+    {
       "name": "Tangling Vine",
       "tier": "Boss",
       "pool": "",
@@ -1779,11 +1765,11 @@
       "flavorText": "The real treasure was the friends we made along the way."
     },
     {
-      "name": "Brain Blaster",
+      "name": "Berry Sword",
       "tier": "Shop",
       "pool": "",
-      "description": "ALL enemies start combat Reactive.",
-      "flavorText": "Holding it near your head, you feel a terrible buzzing dizziness."
+      "description": "Upon pickup, raise your Max HP by 8. The first card you play each combat is removed from your deck.",
+      "flavorText": "Tiny bites of this sword invigorate you."
     },
     {
       "name": "Broken Bowl",
@@ -1796,14 +1782,14 @@
       "name": "Chomping Noodles",
       "tier": "Shop",
       "pool": "",
-      "description": "Whenever you enter a ? room, raise your Max HP by 3 and lose 5 HP.",
+      "description": "Whenever you enter a ? room, raise your Max HP by 3 and lose 3 HP.",
       "flavorText": "These noodles bite back."
     },
     {
       "name": "Cooldron",
       "tier": "Shop",
       "pool": "",
-      "description": "All Potions you obtain are Entropic Brews.",
+      "description": "All Potions you find are Entropic Brews.",
       "flavorText": "This cauldron is a lot cooler than any regular old cauldron."
     },
     {
@@ -1886,21 +1872,6 @@
   ],
   "potions": [
     {
-      "name": "Blaze Potion",
-      "rarity": "Uncommon",
-      "description": "Gain 2 stacks of ANY random buff."
-    },
-    {
-      "name": "Bottle o' Gold",
-      "rarity": "Rare",
-      "description": "Deal 10 damage. Gain some Gold."
-    },
-    {
-      "name": "Lightning in a Bottle",
-      "rarity": "Rare",
-      "description": "Channel 1 Lightning."
-    },
-    {
       "name": "Tweet Potion",
       "rarity": "Rare",
       "description": "Gain 1 stack of ANY random buff. @DBotling tweets about your run."
@@ -1909,7 +1880,7 @@
   "creatures": [
     {
       "name": "Bomb Belcher",
-      "type": "Normal",
+      "type": "Elite",
       "minHP": "179",
       "maxHP": "179"
     },
@@ -1933,7 +1904,7 @@
     },
     {
       "name": "Infection Beast",
-      "type": "Normal",
+      "type": "Elite",
       "minHP": "235",
       "maxHP": "235"
     },
@@ -1951,9 +1922,9 @@
     },
     {
       "name": "Mechanical Combatant",
-      "type": "Normal",
-      "minHP": "130",
-      "maxHP": "130"
+      "type": "Elite",
+      "minHP": "131",
+      "maxHP": "131"
     },
     {
       "name": "Ssserpent",
