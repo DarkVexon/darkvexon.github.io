@@ -18,7 +18,6 @@
 | Shadow Strike | ![](small-card-images/ShadowStrike.png) | ![](small-card-images/ShadowStrikePlus.png) | Common | Attack | 1 | Deal 6(10) damage. Next turn, gain 6 Block. |
 | Venom Sigh | ![](small-card-images/VenomSigh.png) | ![](small-card-images/VenomSighPlus.png) | Common | Skill | 1 | Gain 3(4) Block. Apply 3(4) Poison. |
 | Bandage Whip | ![](small-card-images/BandageWhip.png) | ![](small-card-images/BandageWhipPlus.png) | Uncommon | Attack | 1 | Deal 8(10) damage. Enemy loses 2(3) Strength this turn. |
-| Entry Plan | ![](small-card-images/EntryPlan.png) | ![](small-card-images/EntryPlanPlus.png) | Uncommon | Attack | 0 | Draw 1 card. If you draw an Attack, deal 4(6) damage. |
 | Prepare Victim | ![](small-card-images/PrepareVictim.png) | ![](small-card-images/PrepareVictimPlus.png) | Uncommon | Skill | 1(0) | Apply Slow. Exhaust. |
 | Scaled Poison | ![](small-card-images/ScaledPoison.png) | ![](small-card-images/ScaledPoisonPlus.png) | Uncommon | Skill | 1 | Apply 2(3) Poison. Double this card's Poison this combat. |
 | Shield Swipe | ![](small-card-images/ShieldSwipe.png) | ![](small-card-images/ShieldSwipePlus.png) | Uncommon | Skill | 1(0) | Steal the enemy's Block. Draw 1 card. |
@@ -36,6 +35,7 @@
 | Rocket Punch | ![](small-card-images/RocketPunch.png) | ![](small-card-images/RocketPunchPlus.png) | Common | Attack | 1 | Deal 10(13) damage. Choose a card in your hand. Add a copy of that card into your discard pile. |
 | Golden Lightning | ![](small-card-images/GoldenLightning.png) | ![](small-card-images/GoldenLightningPlus.png) | Uncommon | Skill | 1(0) | Channel 1 [#EFC851]Golden [#EFC851]πLightning. Exhaust. |
 | Hex | ![](small-card-images/Hex.png) | ![](small-card-images/HexPlus.png) | Uncommon | Skill | 1 | Apply 2(3) Vulnerable. Apply 2(3) Lock-On. Evoke your next Orb. |
+| Orb Hurl | ![](small-card-images/OrbHurl.png) | ![](small-card-images/OrbHurlPlus.png) | Uncommon | Attack | 1 | Deal 14(20) damage. Lose 1 Orb Slot. |
 | Sharp Orbs | ![](small-card-images/SharpOrbs.png) | ![](small-card-images/SharpOrbsPlus.png) | Uncommon | Power | 1(0) | Gain 1 Orb Slot. At the end of your turn, deal 1 damage to a random enemy for each Channeled Orb. |
 | Shock Kick | ![](small-card-images/ShockKick.png) | ![](small-card-images/ShockKickPlus.png) | Uncommon | Attack | 2 | Deal 8(12) damage. Gain 2(3) Focus. At the end of this turn, lose 2(3) Focus. |
 | Tune Up | ![](small-card-images/TuneUp.png) | ![](small-card-images/TuneUpPlus.png) | Uncommon | Skill | 0 | Gain 3(4) Block. Increase the damage of a random Attack in your hand by 3(4) this combat. |
@@ -67,7 +67,6 @@
 | Death Sprout | ![](small-card-images/DeathSprout.png) | ![](small-card-images/DeathSproutPlus.png) | Rare | Attack | 2 | Deal 10(15) damage. If this kills an enemy, add a [#EFC851]Magical [#EFC851]Fruit into your deck. Exhaust. |
 | Full Service | ![](small-card-images/FullService.png) | ![](small-card-images/FullServicePlus.png) | Rare | Attack | 3 | Gain 5(6) Block. Deal 5(6) damage. Gain 5(6) Block next turn. Gain 5(6) Gold. Apply !vexMod:SecondMagic! Weak. Apply !vexMod:SecondMagic! Vulnerable. Apply !vexMod:SecondMagic! Poison. Draw !vexMod:SecondMagic! cards. Draw !vexMod:SecondMagic! more cards next turn. Heal !vexMod:SecondMagic! HP. Next turn, gain 1 Energy. Upgrade a card in your hand. Exhaust. |
 | Golden Touch | ![](small-card-images/GoldenTouch.png) | ![](small-card-images/GoldenTouchPlus.png) | Rare | Power | 3(2) | Ethereal. Whenever an Attack deals unblocked damage, gain Gold equal to unblocked damage dealt. |
-| Mitosis | ![](small-card-images/Mitosis.png) | ![](small-card-images/MitosisPlus.png) | Rare | Skill | 1 | Add a random (upgraded) Colorless card into your deck. Exhaust. |
 | Name Guard | ![](small-card-images/NameGuard.png) | ![](small-card-images/NameGuardPlus.png) | Rare | Skill | 2(1) | Gain 4 Block for each character in your name. Exhaust. |
 | Resonance | ![](small-card-images/Resonance.png) | ![](small-card-images/ResonancePlus.png) | Rare | Skill | 1(0) | Effect varies based on current master volume. Exhaust. |
 | Resourcefulness | ![](small-card-images/Resourcefulness.png) | ![](small-card-images/ResourcefulnessPlus.png) | Rare | Skill | 0 | (Put a card from your draw pile into your hand.)  Draw 2 cards (1 card). |

@@ -300,22 +300,6 @@
       "description": "Deal 10 damage.\nEnemy loses 3 Strength this turn."
     },
     {
-      "name": "Entry Plan",
-      "color": "Green",
-      "rarity": "Uncommon",
-      "type": "Attack",
-      "cost": "0",
-      "description": "Draw 1 card.\nIf you draw an Attack, deal 4 damage."
-    },
-    {
-      "name": "Entry Plan+",
-      "color": "Green",
-      "rarity": "Uncommon",
-      "type": "Attack",
-      "cost": "0",
-      "description": "Draw 1 card.\nIf you draw an Attack, deal 6 damage."
-    },
-    {
       "name": "Prepare Victim",
       "color": "Green",
       "rarity": "Uncommon",
@@ -586,6 +570,22 @@
       "type": "Skill",
       "cost": "1",
       "description": "Apply 3 Vulnerable.\nApply 3 Lock-On.\nEvoke your next Orb."
+    },
+    {
+      "name": "Orb Hurl",
+      "color": "Blue",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 14 damage.\nLose 1 Orb Slot."
+    },
+    {
+      "name": "Orb Hurl+",
+      "color": "Blue",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 20 damage.\nLose 1 Orb Slot."
     },
     {
       "name": "Sharp Orbs",
@@ -1084,22 +1084,6 @@
       "description": "Ethereal.\nWhenever an Attack deals unblocked damage, gain Gold equal to unblocked damage dealt."
     },
     {
-      "name": "Mitosis",
-      "color": "Colorless",
-      "rarity": "Rare",
-      "type": "Skill",
-      "cost": "1",
-      "description": "Add a random Colorless card into your deck.\nExhaust."
-    },
-    {
-      "name": "Mitosis+",
-      "color": "Colorless",
-      "rarity": "Rare",
-      "type": "Skill",
-      "cost": "1",
-      "description": "Add a random upgraded Colorless card into your deck.\nExhaust."
-    },
-    {
       "name": "Name Guard",
       "color": "Colorless",
       "rarity": "Rare",
@@ -1432,14 +1416,14 @@
       "name": "Skull Hunter",
       "tier": "Uncommon",
       "pool": "",
-      "description": "Elites drop an additional, Rare card reward.",
+      "description": "Elites drop an additional Rare card reward.",
       "flavorText": "You're bringing this conflict to a head."
     },
     {
       "name": "Thirteen-Hour Stone",
       "tier": "Uncommon",
       "pool": "",
-      "description": "Whenever you draw 13 cards, draw 1 card.",
+      "description": "Every time you you draw 13 cards, draw 1 card.",
       "flavorText": "Number nine is the most important."
     },
     {
@@ -1485,13 +1469,6 @@
       "flavorText": "Mmm, money!"
     },
     {
-      "name": "Plague Vial",
-      "tier": "Rare",
-      "pool": "",
-      "description": "Enemies in non-Boss combats have 15% less HP.",
-      "flavorText": "The bosses must take their vitamin gummies."
-    },
-    {
       "name": "Plasma Pancake",
       "tier": "Rare",
       "pool": "",
@@ -1502,7 +1479,7 @@
       "name": "Red Plotting Stone",
       "tier": "Rare",
       "pool": "",
-      "description": "Glows sometime.\nRight click while glowing for a massive reward.\nRight click while not glowing to lose.",
+      "description": "Glows sometime.\nRight#p click while glowing for a massive reward.\nRight click while not glowing to lose.",
       "flavorText": "Great for nefarious plans - as opposed to the Green Plotting Stone."
     },
     {
@@ -1562,6 +1539,13 @@
       "flavorText": "The smith fashioned you a vampiric sword!"
     },
     {
+      "name": "Energy Relic",
+      "tier": "Special",
+      "pool": "",
+      "description": "At the start of your turn, gain [E] in real life.",
+      "flavorText": "What do you mean you're still tired?"
+    },
+    {
       "name": "Gorgon's Head",
       "tier": "Special",
       "pool": "",
@@ -1572,7 +1556,7 @@
       "name": "Grifter Satchel",
       "tier": "Special",
       "pool": "",
-      "description": "All combats drop an additional, Colorless card reward.",
+      "description": "All combats drop an additional Colorless card reward.",
       "flavorText": "Used for many a not-so-good deed."
     },
     {
@@ -1588,6 +1572,13 @@
       "pool": "",
       "description": "At the start of each combat, add a random Attack into your hand.\nIt costs 0 this turn.",
       "flavorText": "This sword burns endlessly. You can't even hold it..."
+    },
+    {
+      "name": "Mini Solar System",
+      "tier": "Special",
+      "pool": "",
+      "description": "Relics now orbit you.",
+      "flavorText": "Something we all revolve around."
     },
     {
       "name": "Ne donne pas d'\u00E9nergie",
@@ -1611,18 +1602,25 @@
       "flavorText": "That's just Pepega."
     },
     {
+      "name": "Place Exchanger",
+      "tier": "Special",
+      "pool": "",
+      "description": "Right click: Exchange places with an enemy. Activate once per combat.",
+      "flavorText": "Works exactly as written!"
+    },
+    {
       "name": "Pulse Stone",
       "tier": "Special",
       "pool": "",
-      "description": "Right click to make your relics do the Wave.",
+      "description": "Your relics do the Wave.",
       "flavorText": "So entrancing to look at."
     },
     {
-      "name": "Puzzle Box (?)",
+      "name": "Realism Engine",
       "tier": "Special",
       "pool": "",
-      "description": "Right click 1000 times to gain a massive reward.",
-      "flavorText": "So complex..."
+      "description": "Whenever you drink a potion, burp.",
+      "flavorText": "Now it all feels immersive."
     },
     {
       "name": "Robot's Gift",
@@ -1674,6 +1672,13 @@
       "flavorText": "You feel badly written."
     },
     {
+      "name": "bottle",
+      "tier": "Special",
+      "pool": "",
+      "description": "Upon pickup, choose a card.",
+      "flavorText": "bottle"
+    },
+    {
       "name": "Big Berry",
       "tier": "Boss",
       "pool": "",
@@ -1716,6 +1721,13 @@
       "flavorText": "They all deserve your blade! Go! Fight!"
     },
     {
+      "name": "Horrorstone",
+      "tier": "Boss",
+      "pool": "",
+      "description": "Gain [E] at the start of your turn. Upon pickup, obtain 666 Gold and a random Blight.",
+      "flavorText": "Holding it fills you with terror. Your only goal is to lose it yet it always winds up back in your pocket."
+    },
+    {
       "name": "Improvement Manual",
       "tier": "Boss",
       "pool": "",
@@ -1740,8 +1752,15 @@
       "name": "New, Clear Reactor",
       "tier": "Boss",
       "pool": "",
-      "description": "Upon pickup, gain 100 Energy. Energy is conserved between turns and combats. You no longer gain Energy each turn. Whenever you clear an act, gain 100 Energy.",
+      "description": "Upon pickup, gain 100 Energy. Energy is conserved between turns and combats. You no longer gain Energy each turn. Whenever you clear an Act, gain 100 Energy.",
       "flavorText": "Totally safe! Good for the environment! Fosters mutations!"
+    },
+    {
+      "name": "Stone Buddy",
+      "tier": "Boss",
+      "pool": "",
+      "description": "Assists you randomly in helpful ways.",
+      "flavorText": "Your new teammate. It rocks!"
     },
     {
       "name": "Superbombomb",
@@ -1754,7 +1773,7 @@
       "name": "Tangling Vine",
       "tier": "Boss",
       "pool": "",
-      "description": "Gain [E] at the start of your turn. At the end of your turn, take 1 damage. At the start of your turn, increase this damage by 1 this combat.",
+      "description": "Gain [E] at the start of your turn. At the end of your turn, take 2 damage for each card in your hand.",
       "flavorText": "Don't take this the wrong way."
     },
     {
@@ -1905,8 +1924,8 @@
     {
       "name": "Infection Beast",
       "type": "Elite",
-      "minHP": "235",
-      "maxHP": "235"
+      "minHP": "203",
+      "maxHP": "203"
     },
     {
       "name": "King of the Beyond",
