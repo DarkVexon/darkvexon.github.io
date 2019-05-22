@@ -1,7 +1,7 @@
 {
   "mod": {
     "name": "vexMod",
-    "version": "8008135",
+    "version": "24682468",
     "authors": ["DarkVexon"],
     "credits": "Slay the Spire Discord: Ideas, assistance, other help.",
     "description": "A major content mod.",
@@ -929,7 +929,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 12 damage.\nGain some Gold.\nExhaust."
+      "description": "Deal 12 damage.\nGain a little Gold.\nExhaust."
     },
     {
       "name": "Coin Blast+",
@@ -937,7 +937,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 12 damage.\nGain some Gold.\nExhaust."
+      "description": "Deal 12 damage.\nGain a little Gold.\nExhaust."
     },
     {
       "name": "Fruity Dash",
@@ -1068,20 +1068,20 @@
       "description": "Gain 6 Block.\nDeal 6 damage.\nGain 6 Block next turn.\nGain 6 Gold.\nApply !vexMod:SecondMagic! Weak.\nApply !vexMod:SecondMagic! Vulnerable.\nApply !vexMod:SecondMagic! Poison.\nDraw !vexMod:SecondMagic! cards.\nDraw !vexMod:SecondMagic! more cards next turn.\nHeal !vexMod:SecondMagic! HP.\nNext turn, gain 1 Energy.\nUpgrade a card in your hand.\nExhaust."
     },
     {
-      "name": "Golden Touch",
+      "name": "Golden Burst",
       "color": "Colorless",
       "rarity": "Rare",
-      "type": "Power",
-      "cost": "3",
-      "description": "Ethereal.\nWhenever an Attack deals unblocked damage, gain Gold equal to unblocked damage dealt."
+      "type": "Skill",
+      "cost": "X",
+      "description": "Gain X0 Gold.\nExhaust."
     },
     {
-      "name": "Golden Touch+",
+      "name": "Golden Burst+",
       "color": "Colorless",
       "rarity": "Rare",
-      "type": "Power",
-      "cost": "2",
-      "description": "Ethereal.\nWhenever an Attack deals unblocked damage, gain Gold equal to unblocked damage dealt."
+      "type": "Skill",
+      "cost": "X",
+      "description": "Gain X0 Gold.\nGain [E] .\nExhaust."
     },
     {
       "name": "Name Guard",
@@ -1294,6 +1294,13 @@
       "flavorText": "Your possessions are bequeathed to The Merchant."
     },
     {
+      "name": "Mediocre Mixtape",
+      "tier": "Common",
+      "pool": "Bard_color",
+      "description": "At the start of each combat, perform a random bard:Melody.",
+      "flavorText": "Sounds familiar."
+    },
+    {
       "name": "Memory Locket",
       "tier": "Common",
       "pool": "Green",
@@ -1308,6 +1315,48 @@
       "flavorText": "The machine seems to be magnetically attracted to your exposed injuries."
     },
     {
+      "name": "Pet Star",
+      "tier": "Common",
+      "pool": "Astrologer",
+      "description": "At the start of your turn, increment the Stellar Phase.",
+      "flavorText": "Feed with hydrogen and helium daily."
+    },
+    {
+      "name": "Rainbow Shades",
+      "tier": "Common",
+      "pool": "Astrologer",
+      "description": "The first time you draw an Ethereal card each combat, put a copy of it on top of your draw pile.",
+      "flavorText": "Lookin' to the sky in style."
+    },
+    {
+      "name": "Relic Launcher",
+      "tier": "Common",
+      "pool": "",
+      "description": "At the start of each combat, deal damage to a random enemy equal to the number of Relics you have.",
+      "flavorText": "Mostly an excuse to use the FX."
+    },
+    {
+      "name": "Rock of Resting",
+      "tier": "Common",
+      "pool": "Bard_color",
+      "description": "Whenever you Queue a [RestNote] [REMOVE_SPACE], gain 2 Block.",
+      "flavorText": "Just sit back and - for awhile."
+    },
+    {
+      "name": "Singing Flower",
+      "tier": "Common",
+      "pool": "Bard_color",
+      "description": "Every 3 turns, bard:Queue a [BuffNote] [REMOVE_SPACE].",
+      "flavorText": "It's, like, in tune with the planet's energy, dude!"
+    },
+    {
+      "name": "Spotlight",
+      "tier": "Common",
+      "pool": "Astrologer",
+      "description": "At the start of each combat, apply 3 Starlit to ALL enemies.",
+      "flavorText": "Light 'em up!"
+    },
+    {
       "name": "Strike Shooter",
       "tier": "Common",
       "pool": "Red",
@@ -1320,6 +1369,13 @@
       "pool": "",
       "description": "At the start of turns 3 and 7, gain 7 Block.",
       "flavorText": "Still gotta dig up the paper on this one."
+    },
+    {
+      "name": "Anger Radio",
+      "tier": "Uncommon",
+      "pool": "Bard_color",
+      "description": "Every time you bard:Queue 3 of the same bard:Note in a single turn, deal 5 damage to ALL enemies.",
+      "flavorText": "Plays frustrating music."
     },
     {
       "name": "Backup Battery",
@@ -1343,6 +1399,20 @@
       "flavorText": "Mechanical device certain to improve your life!"
     },
     {
+      "name": "Bottled Tune",
+      "tier": "Uncommon",
+      "pool": "Bard_color",
+      "description": "Upon pickup, choose a bard:Note. At the start of each combat, bard:Queue that bard:Note.",
+      "flavorText": "You crack the lid and hear a faint sound."
+    },
+    {
+      "name": "Dead Requiem",
+      "tier": "Uncommon",
+      "pool": "Bard_color",
+      "description": "Whenever you perform a bard:Melody, bard:Queue a random bard:Note.",
+      "flavorText": "Your toughest sheets."
+    },
+    {
       "name": "Dragon Fruit",
       "tier": "Uncommon",
       "pool": "",
@@ -1362,6 +1432,13 @@
       "pool": "",
       "description": "When you would die while you have at least 10 HP, heal to 1 HP instead.",
       "flavorText": "It's super effective!"
+    },
+    {
+      "name": "Galaxy Diorama",
+      "tier": "Uncommon",
+      "pool": "Astrologer",
+      "description": "The additional effects of your Solar and Lunar cards are always active.",
+      "flavorText": "Wholly innacurate."
     },
     {
       "name": "Gilded Shrine",
@@ -1427,11 +1504,25 @@
       "flavorText": "Number nine is the most important."
     },
     {
+      "name": "Throwing Star",
+      "tier": "Uncommon",
+      "pool": "Astrologer",
+      "description": "Every time you play 3 Stars in a single turn, gain 1 Strength.",
+      "flavorText": "Unorthodox use for the stars, but it's OK."
+    },
+    {
       "name": "Wand of Magic Missile",
       "tier": "Uncommon",
       "pool": "",
       "description": "Whenever you shuffle your draw pile, deal 2-5 damage to a random enemy 3 times.",
       "flavorText": "The end of this plain wooden staff glows dimly with magical force."
+    },
+    {
+      "name": "Audience Doll",
+      "tier": "Rare",
+      "pool": "Bard_color",
+      "description": "Whenever you perform a bard:Melody, draw 1 card.",
+      "flavorText": "Always there to listen and offer support!"
     },
     {
       "name": "Box of Bandaids",
@@ -1455,11 +1546,32 @@
       "flavorText": "This fan helps you save processes when performing monster solution options."
     },
     {
+      "name": "Fake Star",
+      "tier": "Rare",
+      "pool": "Astrologer",
+      "description": "The first Stellar card you play each combat will be active.",
+      "flavorText": "But if you squint it looks pretty real!"
+    },
+    {
+      "name": "Gravitational Rainbow",
+      "tier": "Rare",
+      "pool": "Astrologer",
+      "description": "At the start of every odd-numbered turn, put the bottom card of your draw pile into your hand.",
+      "flavorText": "\"But rainbows aren't affected by gravity!\" you say. Well, pah!"
+    },
+    {
       "name": "Helpful Mold",
       "tier": "Rare",
       "pool": "Red",
       "description": "Whenever you gain Block, gain 1 Strength this turn.",
-      "flavorText": "This mold siphons off bits of your shield to feed you."
+      "flavorText": "This mold siphons off bits of your shield to feed itself."
+    },
+    {
+      "name": "Midnight Ocarina",
+      "tier": "Rare",
+      "pool": "Astrologer",
+      "description": "Every time you play 7 Stars, perform a random bard:Melody.",
+      "flavorText": "The song of the stars is yours to echo..."
     },
     {
       "name": "Orb of Greed",
@@ -1479,7 +1591,7 @@
       "name": "Red Plotting Stone",
       "tier": "Rare",
       "pool": "",
-      "description": "Glows sometime.\nRight#p click while glowing for a massive reward.\nRight click while not glowing to lose.",
+      "description": "Glows sometime.\nRight click while glowing for a massive reward.\nRight click while not glowing to lose.",
       "flavorText": "Great for nefarious plans - as opposed to the Green Plotting Stone."
     },
     {
@@ -1497,6 +1609,13 @@
       "flavorText": "Tastes like stars."
     },
     {
+      "name": "Starlight Tuner",
+      "tier": "Rare",
+      "pool": "Bard_color",
+      "description": "Whenever you perform a bard:Melody, increment the Stellar Phase and apply 1 Starlit to ALL enemies.",
+      "flavorText": "Listen to the music of the stars..."
+    },
+    {
       "name": "Teal Tab",
       "tier": "Rare",
       "pool": "",
@@ -1511,6 +1630,13 @@
       "flavorText": "You can see yourself a few minutes before."
     },
     {
+      "name": "Warped Instrument",
+      "tier": "Rare",
+      "pool": "Bard_color",
+      "description": "Every 10th bard:Note you bard:Queue is a [WildNote] [REMOVE_SPACE].",
+      "flavorText": "This twisted bunch of tubes never quite sounds the same."
+    },
+    {
       "name": "Writhing Mask",
       "tier": "Rare",
       "pool": "",
@@ -1521,7 +1647,7 @@
       "name": "Broadsword",
       "tier": "Special",
       "pool": "",
-      "description": "At the start of your turn, draw 1 less card. Start each combat with 4 Strength.",
+      "description": "Draw 1 less card each turn. Start each combat with 4 Strength.",
       "flavorText": "The smith fashioned you a slightly oversized weapon!"
     },
     {
@@ -1549,7 +1675,7 @@
       "name": "Gorgon's Head",
       "tier": "Special",
       "pool": "",
-      "description": "ALL enemies start combat with 3 less Strength.",
+      "description": "ALL enemies start combat with 2 less Strength.",
       "flavorText": "Pretty, but still formidable."
     },
     {
@@ -1572,6 +1698,13 @@
       "pool": "",
       "description": "At the start of each combat, add a random Attack into your hand.\nIt costs 0 this turn.",
       "flavorText": "This sword burns endlessly. You can't even hold it..."
+    },
+    {
+      "name": "Juggling Balls",
+      "tier": "Special",
+      "pool": "",
+      "description": "Everything bounces.",
+      "flavorText": "Made of rubber."
     },
     {
       "name": "Mini Solar System",
@@ -1607,6 +1740,13 @@
       "pool": "",
       "description": "Right click: Exchange places with an enemy. Activate once per combat.",
       "flavorText": "Works exactly as written!"
+    },
+    {
+      "name": "Pop. Tire",
+      "tier": "Special",
+      "pool": "",
+      "description": "Bounces.\nHigh Score: 0",
+      "flavorText": "DEFEAT THE INFIDELS"
     },
     {
       "name": "Pulse Stone",
@@ -1679,6 +1819,13 @@
       "flavorText": "bottle"
     },
     {
+      "name": "Auto Tuner",
+      "tier": "Boss",
+      "pool": "Bard_color",
+      "description": "At the start of your turn, perform a random bard:Melody.",
+      "flavorText": "Sure, it sounds strange, but it's technically tuned!"
+    },
+    {
       "name": "Big Berry",
       "tier": "Boss",
       "pool": "",
@@ -1700,6 +1847,20 @@
       "flavorText": "No matter which way you turn, it always points forwards ..."
     },
     {
+      "name": "Cyborg Telescope",
+      "tier": "Boss",
+      "pool": "Astrologer",
+      "description": "Start each combat with 3 Orb slots. Whenever you play a Star, Channel 1 Lightning.",
+      "flavorText": "You realize now that every electric volt is a tiny star too."
+    },
+    {
+      "name": "Demotivationator",
+      "tier": "Boss",
+      "pool": "Bard_color",
+      "description": "Gain [E] and bard:Inspiration -50 at the start of your turn.",
+      "flavorText": "\"ALL the people in the Tri-State Area will be too lazy to work! MWAHAHAHA!\""
+    },
+    {
       "name": "Devious Botling",
       "tier": "Boss",
       "pool": "",
@@ -1712,13 +1873,6 @@
       "pool": "",
       "description": "Gain [E] at the start of your turn. At the start of each combat, shuffle a Virus into your draw pile.",
       "flavorText": "Always multiplying."
-    },
-    {
-      "name": "Hatred Engine",
-      "tier": "Boss",
-      "pool": "",
-      "description": "Gain [E] at the start of your turn. You are 50% more likely to find normal enemy combats in ? rooms.",
-      "flavorText": "They all deserve your blade! Go! Fight!"
     },
     {
       "name": "Horrorstone",
@@ -1745,21 +1899,42 @@
       "name": "Mind Devourer",
       "tier": "Boss",
       "pool": "",
-      "description": "Gain [E] at the start of your turn. At the end of combat, remove a random card in your deck.",
+      "description": "Gain [E] at the start of your turn. At the end of combat, remove the oldest card in your deck.",
       "flavorText": "Mm, shiny! Wait, what was your name again?"
     },
     {
       "name": "New, Clear Reactor",
       "tier": "Boss",
       "pool": "",
-      "description": "Upon pickup, gain 100 Energy. Energy is conserved between turns and combats. You no longer gain Energy each turn. Whenever you clear an Act, gain 100 Energy.",
+      "description": "Energy is conserved between turns and combats. You no longer gain Energy each turn. Set your energy to 100 upon pickup and at the start of each Act.",
       "flavorText": "Totally safe! Good for the environment! Fosters mutations!"
+    },
+    {
+      "name": "Pipes of Chaos",
+      "tier": "Boss",
+      "pool": "Bard_color",
+      "description": "Replaces Bag Pipes.\nDraw 1 less card each turn. Whenever you play a card, bard:Queue a [WildNote] [REMOVE_SPACE].",
+      "flavorText": "Crafted by an evil god, you shudder to play it."
+    },
+    {
+      "name": "Sight of Future Skies",
+      "tier": "Boss",
+      "pool": "Astrologer",
+      "description": "Replaces Sky's Mirror.\nWhenever you play a card, put it on the bottom of your draw pile.",
+      "flavorText": "You see it all laid out. One day the sky shall burn away."
+    },
+    {
+      "name": "Star Eater",
+      "tier": "Boss",
+      "pool": "Astrologer",
+      "description": "Gain [E] at the start of your turn. At the end of your turn, decrease the Stellar Phase by 2.",
+      "flavorText": "One by one, the stars in the sky wink out."
     },
     {
       "name": "Stone Buddy",
       "tier": "Boss",
       "pool": "",
-      "description": "Assists you randomly in helpful ways.",
+      "description": "Every other turn, assists with a helpful effect.",
       "flavorText": "Your new teammate. It rocks!"
     },
     {
@@ -1773,7 +1948,7 @@
       "name": "Tangling Vine",
       "tier": "Boss",
       "pool": "",
-      "description": "Gain [E] at the start of your turn. At the end of your turn, take 2 damage for each card in your hand.",
+      "description": "Gain [E] at the start of your turn. At the end of your turn, lose 3 Block.",
       "flavorText": "Don't take this the wrong way."
     },
     {
@@ -1812,6 +1987,13 @@
       "flavorText": "This cauldron is a lot cooler than any regular old cauldron."
     },
     {
+      "name": "Future Thief Gloves",
+      "tier": "Shop",
+      "pool": "",
+      "description": "Right click: Steal a card from yourself in the future.",
+      "flavorText": "Self-destructive thievery."
+    },
+    {
       "name": "Ghostly Gear",
       "tier": "Shop",
       "pool": "",
@@ -1836,7 +2018,7 @@
       "name": "Lich's Phylactery",
       "tier": "Shop",
       "pool": "",
-      "description": "Prevent ALL HP loss. For every 8 damage prevented, remove a random card from your deck. When your deck has no cards, you lose.",
+      "description": "Prevent ALL HP loss. For every 10 damage prevented, remove a random card from your deck. When your deck has no cards, you lose.",
       "flavorText": "It feels cold in your hands, no matter what you do ..."
     },
     {
@@ -1859,6 +2041,13 @@
       "pool": "",
       "description": "Upon pickup, set your Max HP to 30.\nAt the end of combat, heal to full HP.",
       "flavorText": "The side effects are ... best left unsaid."
+    },
+    {
+      "name": "Rock Basket",
+      "tier": "Shop",
+      "pool": "",
+      "description": "You can only find relics from vexMod. At the start of your turn, deal damage to a random enemy equal to the number of vexMod relics you have.",
+      "flavorText": "Because y'all already know I'm the best."
     },
     {
       "name": "Salvaging Tools",
@@ -1887,6 +2076,20 @@
       "pool": "Red",
       "description": "Start each combat with 2 Strength. At the start of each combat, add a random Curse into your hand.",
       "flavorText": "\"I am the Sword of Truth.\""
+    },
+    {
+      "name": "Trinoculars",
+      "tier": "Shop",
+      "pool": "Astrologer",
+      "description": "The maximum Stellar Phase is now 63.",
+      "flavorText": "Lets you see three times as many stars!"
+    },
+    {
+      "name": "Xtacy",
+      "tier": "Shop",
+      "pool": "",
+      "description": "After you play a cost X card, gain [E] .",
+      "flavorText": "Sure to liven up your nights!"
     }
   ],
   "potions": [
@@ -1906,14 +2109,14 @@
     {
       "name": "Dagger Pharaoh",
       "type": "Boss",
-      "minHP": "230",
-      "maxHP": "230"
+      "minHP": "200",
+      "maxHP": "200"
     },
     {
       "name": "Gilded Gorgon",
       "type": "Normal",
-      "minHP": "192",
-      "maxHP": "192"
+      "minHP": "199",
+      "maxHP": "199"
     },
     {
       "name": "Grifter",
@@ -1942,8 +2145,8 @@
     {
       "name": "Mechanical Combatant",
       "type": "Elite",
-      "minHP": "131",
-      "maxHP": "131"
+      "minHP": "104",
+      "maxHP": "104"
     },
     {
       "name": "Ssserpent",

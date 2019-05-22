@@ -57,7 +57,7 @@
 | Magic Fruit | ![](small-card-images/MagicFruit.png) | ![](small-card-images/MagicFruitPlus.png) | Special | Attack | 0 | Deal 3(4) damage. Heal 1(2) HP. Draw 1 card. Exhaust. |
 | Snake's Skin | ![](small-card-images/SnakesSkin.png) | ![](small-card-images/SnakesSkinPlus.png) | Special | Power | 1 | Whenever you would receive unblocked Attack damage, reduce it by 2(3). |
 | Taunt | ![](small-card-images/Taunt.png) | ![](small-card-images/TauntPlus.png) | Special | Skill | 2(1) | Apply 2 Weak. Apply 2 Vulnerable. |
-| Coin Blast | ![](small-card-images/CoinBlast.png) | ![](small-card-images/CoinBlastPlus.png) | Uncommon | Attack | 2(1) | Deal 12 damage. Gain some Gold. Exhaust. |
+| Coin Blast | ![](small-card-images/CoinBlast.png) | ![](small-card-images/CoinBlastPlus.png) | Uncommon | Attack | 2(1) | Deal 12 damage. Gain a little Gold. Exhaust. |
 | Fruity Dash | ![](small-card-images/FruityDash.png) | ![](small-card-images/FruityDashPlus.png) | Uncommon | Attack | 2 | Deal 12(15) damage. Shuffle 2(3) [#EFC851]Magical [#EFC851]Fruit into your draw pile. Exhaust. |
 | Plotting | ![](small-card-images/Plotting.png) | ![](small-card-images/PlottingPlus.png) | Uncommon | Skill | 0 | Next turn, draw 2(3) additional cards. |
 | Tweet Strike | ![](small-card-images/TweetStrike.png) | ![](small-card-images/TweetStrikePlus.png) | Uncommon | Attack | 1 | Deal 13(19) damage. If this kills a non-minion enemy, @DBotling tweets about it. Exhaust. |
@@ -66,7 +66,7 @@
 | Chimeric Card | ![](small-card-images/ChimericCard.png) | ![](small-card-images/ChimericCardPlus.png) | Rare | Skill | 0 | Always changing, never stable... can be anything. |
 | Death Sprout | ![](small-card-images/DeathSprout.png) | ![](small-card-images/DeathSproutPlus.png) | Rare | Attack | 2 | Deal 10(15) damage. If this kills an enemy, add a [#EFC851]Magical [#EFC851]Fruit into your deck. Exhaust. |
 | Full Service | ![](small-card-images/FullService.png) | ![](small-card-images/FullServicePlus.png) | Rare | Attack | 3 | Gain 5(6) Block. Deal 5(6) damage. Gain 5(6) Block next turn. Gain 5(6) Gold. Apply !vexMod:SecondMagic! Weak. Apply !vexMod:SecondMagic! Vulnerable. Apply !vexMod:SecondMagic! Poison. Draw !vexMod:SecondMagic! cards. Draw !vexMod:SecondMagic! more cards next turn. Heal !vexMod:SecondMagic! HP. Next turn, gain 1 Energy. Upgrade a card in your hand. Exhaust. |
-| Golden Touch | ![](small-card-images/GoldenTouch.png) | ![](small-card-images/GoldenTouchPlus.png) | Rare | Power | 3(2) | Ethereal. Whenever an Attack deals unblocked damage, gain Gold equal to unblocked damage dealt. |
+| Golden Burst | ![](small-card-images/GoldenBurst.png) | ![](small-card-images/GoldenBurstPlus.png) | Rare | Skill | X | Gain X0 Gold. (Gain [E].)  Exhaust. |
 | Name Guard | ![](small-card-images/NameGuard.png) | ![](small-card-images/NameGuardPlus.png) | Rare | Skill | 2(1) | Gain 4 Block for each character in your name. Exhaust. |
 | Resonance | ![](small-card-images/Resonance.png) | ![](small-card-images/ResonancePlus.png) | Rare | Skill | 1(0) | Effect varies based on current master volume. Exhaust. |
 | Resourcefulness | ![](small-card-images/Resourcefulness.png) | ![](small-card-images/ResourcefulnessPlus.png) | Rare | Skill | 0 | (Put a card from your draw pile into your hand.)  Draw 2 cards (1 card). |
