@@ -1,7 +1,7 @@
 {
   "mod": {
     "name": "vexMod",
-    "version": "24682468",
+    "version": "1337",
     "authors": ["DarkVexon"],
     "credits": "Slay the Spire Discord: Ideas, assistance, other help.",
     "description": "A major content mod.",
@@ -1388,7 +1388,7 @@
       "name": "Berry Bomb",
       "tier": "Uncommon",
       "pool": "",
-      "description": "Upon pickup, raise your Max HP by 6. After 8 combats, explodes and deals 100 damage to ALL enemies.",
+      "description": "Upon pickup, raise your Max HP by 6. In 8 combats, explodes and deals 100 damage to ALL enemies.",
       "flavorText": "Tastes explosive!"
     },
     {
@@ -1560,6 +1560,13 @@
       "flavorText": "\"But rainbows aren't affected by gravity!\" you say. Well, pah!"
     },
     {
+      "name": "Heavenly Card",
+      "tier": "Rare",
+      "pool": "Astrologer",
+      "description": "Every time you play 4 Stars, add a random Poker card into your hand. It has Ethereal.",
+      "flavorText": "The star card of the show!"
+    },
+    {
       "name": "Helpful Mold",
       "tier": "Rare",
       "pool": "Red",
@@ -1572,6 +1579,13 @@
       "pool": "Astrologer",
       "description": "Every time you play 7 Stars, perform a random bard:Melody.",
       "flavorText": "The song of the stars is yours to echo..."
+    },
+    {
+      "name": "Musical Card",
+      "tier": "Rare",
+      "pool": "Bard_color",
+      "description": "Whenever you perform a bard:Melody, add a random Poker card into your hand. It has Ethereal.",
+      "flavorText": "Whistles when thrown."
     },
     {
       "name": "Orb of Greed",
@@ -1661,7 +1675,7 @@
       "name": "Draining Sword",
       "tier": "Special",
       "pool": "",
-      "description": "Start each combat with 1 less Strength. Whenever you play an Attack, heal 1 HP.",
+      "description": "Start each combat with 2 less Strength. Whenever you play an Attack, heal 1 HP.",
       "flavorText": "The smith fashioned you a vampiric sword!"
     },
     {
@@ -1889,6 +1903,13 @@
       "flavorText": "Ahh, so THAT's how you make a card Innate!"
     },
     {
+      "name": "Indestructible Card Box",
+      "tier": "Boss",
+      "pool": "Poker_player_gray",
+      "description": "Replaces Deck Case.\nCurse and Status cards cannot enter your deck or draw pile.",
+      "flavorText": "The only way to truly keep your cards tricks safe."
+    },
+    {
       "name": "Mall Pass",
       "tier": "Boss",
       "pool": "",
@@ -1899,7 +1920,7 @@
       "name": "Mind Devourer",
       "tier": "Boss",
       "pool": "",
-      "description": "Gain [E] at the start of your turn. At the end of combat, remove the oldest card in your deck.",
+      "description": "Gain [E] at the start of your turn. At the end of combat, remove a random card in your deck.",
       "flavorText": "Mm, shiny! Wait, what was your name again?"
     },
     {
@@ -1917,11 +1938,39 @@
       "flavorText": "Crafted by an evil god, you shudder to play it."
     },
     {
+      "name": "Poker Player Flyer",
+      "tier": "Boss",
+      "pool": "Poker_player_gray",
+      "description": "Your Diamonds increment the Stellar Phase as an additional Showdown effect. Your Spades apply 1 Starlit to a random enemy as an additional Showdown effect.",
+      "flavorText": "A grim memory of your past in the tournaments."
+    },
+    {
+      "name": "Robo-Notes",
+      "tier": "Boss",
+      "pool": "Bard_color",
+      "description": "Start each combat with 3 Orb slots. Every 5th bard:Note you bard:Queue Channels an Orb based on its type.",
+      "flavorText": "BEEEEP BOOOOOOP"
+    },
+    {
+      "name": "Robotic Cards",
+      "tier": "Boss",
+      "pool": "Poker_player_gray",
+      "description": "Start each combat with 3 Orb slots. At the start of Showdown, Channel an Orb depending on the majority Suit in your hand.",
+      "flavorText": "BEEP BOOP. CALCULATING POKER SKILLS..."
+    },
+    {
       "name": "Sight of Future Skies",
       "tier": "Boss",
       "pool": "Astrologer",
       "description": "Replaces Sky's Mirror.\nWhenever you play a card, put it on the bottom of your draw pile.",
       "flavorText": "You see it all laid out. One day the sky shall burn away."
+    },
+    {
+      "name": "Song of Poker",
+      "tier": "Boss",
+      "pool": "Poker_player_gray",
+      "description": "Your Poker cards bard:Queue bard:Notes based on their suit as an additional Showdown effect.",
+      "flavorText": "Sounds like a bunch of commentators."
     },
     {
       "name": "Star Eater",
@@ -1941,7 +1990,7 @@
       "name": "Superbombomb",
       "tier": "Boss",
       "pool": "",
-      "description": "At the end of your turn, lose 1 HP from radiation poisoning.\nRight click: Destroy this relic and all enemies.",
+      "description": "At the end of your turn, lose 1 HP from radiation poisoning.\nRight click: Destroy this relic and OBLITERATE all enemies.",
       "flavorText": "A superweapon beyond any technology. Who made this...?"
     },
     {

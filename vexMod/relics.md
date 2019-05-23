@@ -21,7 +21,7 @@
 | ![](relics/WellWornAnklet.png) | Well-Worn Anklet | Common |  | At the start of turns #b3 and #b7, gain #b7 #yBlock. | Still gotta dig up the paper on this one. |
 | ![](relics/CleansingRadio.png) | Anger Radio | Uncommon | Bard_color | Every time you #ybard:Queue #b3 of the same #ybard:Note in a single turn, deal #b5 damage to ALL enemies. | Plays frustrating music. |
 | ![](relics/PowerCharger.png) | Backup Battery | Uncommon | Blue | If you end your turn with any empty Orb slots, gain #b3 #yBlock. | Conserve energy! Shut off Orb slots when you're not using them. |
-| ![](relics/BerryBomb.png) | Berry Bomb | Uncommon |  | Upon pickup, raise your Max HP by #b6. After #b8 combats, explodes and deals #b100 damage to ALL enemies. | Tastes explosive! |
+| ![](relics/BerryBomb.png) | Berry Bomb | Uncommon |  | Upon pickup, raise your Max HP by #b6. In #b8 combats, explodes and deals #b100 damage to ALL enemies. | Tastes explosive! |
 | ![](relics/BetterTron.png) | Better-O-Tron | Uncommon |  | The next #b3 unupgraded cards you add into your deck are #yupgraded. | Mechanical device certain to improve your life! |
 | ![](relics/BottledTune.png) | Bottled Tune | Uncommon | Bard_color | Upon pickup, choose a #ybard:Note. At the start of each combat, #ybard:Queue that #ybard:Note. | You crack the lid and hear a faint sound. |
 | ![](relics/DeadRequiem.png) | Dead Requiem | Uncommon | Bard_color | Whenever you perform a #ybard:Melody, #ybard:Queue a random #ybard:Note. | Your toughest sheets. |
@@ -46,8 +46,10 @@
 | ![](relics/CoolingFan.png) | Cooling Fan | Rare | Blue | Whenever you #yChannel an Orb, gain #b2 #yBlock. | This fan helps you save processes when performing monster solution options. |
 | ![](relics/FakeStar.png) | Fake Star | Rare | Astrologer | The first #yStellar card you play each combat will be active. | But if you squint it looks pretty real! |
 | ![](relics/GravityRainbow.png) | Gravitational Rainbow | Rare | Astrologer | At the start of every odd-numbered turn, put the bottom card of your draw pile into your hand. | "But rainbows aren't affected by gravity!" you say. Well, pah! |
+| ![](relics/HeavenlyCard.png) | Heavenly Card | Rare | Astrologer | Every time you play #b4 #yStars, add a random Poker card into your hand. It has #yEthereal. | The star card of the show! |
 | ![](relics/ThoughtMold.png) | Helpful Mold | Rare | Red | Whenever you gain #yBlock, gain #b1 #yStrength this turn. | This mold siphons off bits of your shield to feed itself. |
 | ![](relics/MidnightOcarina.png) | Midnight Ocarina | Rare | Astrologer | Every time you play #b7 #yStars, perform a random #ybard:Melody. | The song of the stars is yours to echo... |
+| ![](relics/MusicalCard.png) | Musical Card | Rare | Bard_color | Whenever you perform a #ybard:Melody, add a random Poker card into your hand. It has #yEthereal. | Whistles when thrown. |
 | ![](relics/OrbOfGreed.png) | Orb of Greed | Rare | Blue | At the start of each combat, #yChannel #b1 #yGolden #yπLightning. | Mmm, money! |
 | ![](relics/PlasmaPancake.png) | Plasma Pancake | Rare |  | Upon pickup, raise your Max HP by #b6. NL At the start of each combat, deal #b11 damage to ALL enemies. | It's literally on fire. |
 | ![](relics/RedPlottingStone.png) | Red Plotting Stone | Rare |  | #pGlows #psometime. NL #pRight #pclick while glowing for a #gmassive #greward. NL #pRight #pclick while not glowing to #rlose. | Great for nefarious plans - as opposed to the Green Plotting Stone. |
@@ -60,7 +62,7 @@
 | ![](relics/ScavengeHelm.png) | Writhing Mask | Rare |  | At the start of each combat, gain #b4 #yMalleable. | It squirms on your face uncomfortably. |
 | ![](relics/BroadSword.png) | Broadsword | Special |  | Draw #b1 less card each turn. Start each combat with #b4 #yStrength. | The smith fashioned you a slightly oversized weapon! |
 | ![](relics/DoubleEdgedSword.png) | Double-Edged Sword | Special |  | Start each combat with #b3 #yStrength. ALL enemies start combat with #b1 #yThorns. | The smith fashioned you an overly sharp blade! |
-| ![](relics/DrainingSword.png) | Draining Sword | Special |  | Start each combat with #b1 less #yStrength. Whenever you play an #yAttack, heal #b1 HP. | The smith fashioned you a vampiric sword! |
+| ![](relics/DrainingSword.png) | Draining Sword | Special |  | Start each combat with #b2 less #yStrength. Whenever you play an #yAttack, heal #b1 HP. | The smith fashioned you a vampiric sword! |
 | ![](relics/Incredibleness.png) | Energy Relic | Special |  | At the start of your turn, gain [E] in real life. | What do you mean you're still tired? |
 | ![](relics/GorgonsHead.png) | Gorgon's Head | Special |  | ALL enemies start combat with #b2 less #yStrength. | Pretty, but still formidable. |
 | ![](relics/GrifterSatchel.png) | Grifter Satchel | Special |  | All combats drop an additional Colorless card reward. | Used for many a not-so-good deed. |
@@ -93,14 +95,19 @@
 | ![](relics/EndlessSickness.png) | Endless Sickness | Boss |  | Gain [E] at the start of your turn. At the start of each combat, shuffle a #rVirus into your draw pile. | Always multiplying. |
 | ![](relics/RockOfEvil.png) | Horrorstone | Boss |  | Gain [E] at the start of your turn. Upon pickup, obtain #b666 #yGold and a random #rBlight. | Holding it fills you with terror. Your only goal is to lose it yet it always winds up back in your pocket. |
 | ![](relics/ImprovementManual.png) | Improvement Manual | Boss |  | Upon pickup, #yUpgrade #b4 cards. | Ahh, so THAT's how you make a card Innate! |
+| ![](relics/IndestructableDeckBox.png) | Indestructible Card Box | Boss | Poker_player_gray | Replaces [#404646ff]Deck[] [#404646ff]Case[][#404646ff].[] NL #yCurse and #yStatus cards cannot enter your deck or draw pile. | The only way to truly keep your cards tricks safe. |
 | ![](relics/MallPass.png) | Mall Pass | Boss |  | ALL #y? rooms contain The Merchant. Whenever you encounter The Merchant, gain #b50 #yGold. | Now you can get the great discounts! |
-| ![](relics/MindDevourer.png) | Mind Devourer | Boss |  | Gain [E] at the start of your turn. At the end of combat, remove the oldest card in your deck. | Mm, shiny! Wait, what was your name again? |
+| ![](relics/MindDevourer.png) | Mind Devourer | Boss |  | Gain [E] at the start of your turn. At the end of combat, remove a random card in your deck. | Mm, shiny! Wait, what was your name again? |
 | ![](relics/NewClearReactor.png) | New, Clear Reactor | Boss |  | Energy is conserved between turns and combats. You no longer gain Energy each turn. Set your energy to #b100 upon pickup and at the start of each Act. | Totally safe! Good for the environment! Fosters mutations! |
 | ![](relics/MusicMaker.png) | Pipes of Chaos | Boss | Bard_color | Replaces [#4169e1ff]Bag[] [#4169e1ff]Pipes[][#4169e1ff].[] NL Draw #b1 less card each turn. Whenever you play a card, #ybard:Queue a [WildNote] [REMOVE_SPACE]. | Crafted by an evil god, you shudder to play it. |
+| ![](relics/StarPokerPlayer.png) | Poker Player Flyer | Boss | Poker_player_gray | Your Diamonds increment the #yStellar #yPhase as an additional #yShowdown effect. Your Spades apply #b1 #yStarlit to a random enemy as an additional #yShowdown effect. | A grim memory of your past in the tournaments. |
+| ![](relics/MetalNotes.png) | Robo-Notes | Boss | Bard_color | Start each combat with #b3 Orb slots. Every #b5th #ybard:Note you #ybard:Queue #yChannels an Orb based on its type. | BEEEEP BOOOOOOP |
+| ![](relics/RoboticCards.png) | Robotic Cards | Boss | Poker_player_gray | Start each combat with #b3 Orb slots. At the start of #yShowdown, #yChannel an Orb depending on the majority Suit in your hand. | BEEP BOOP. CALCULATING POKER SKILLS... |
 | ![](relics/FutureSight.png) | Sight of Future Skies | Boss | Astrologer | Replaces [#c8c8dcff]Sky's[] [#c8c8dcff]Mirror[][#c8c8dcff].[] NL Whenever you play a card, put it on the bottom of your draw pile. | You see it all laid out. One day the sky shall burn away. |
+| ![](relics/PokerSong.png) | Song of Poker | Boss | Poker_player_gray | Your Poker cards #ybard:Queue #ybard:Notes based on their suit as an additional #yShowdown effect. | Sounds like a bunch of commentators. |
 | ![](relics/StarEater.png) | Star Eater | Boss | Astrologer | Gain [E] at the start of your turn. At the end of your turn, decrease the #yStellar #yPhase by #b2. | One by one, the stars in the sky wink out. |
 | ![](relics/RockFriend.png) | Stone Buddy | Boss |  | Every other turn, assists with a helpful effect. | Your new teammate. It rocks! |
-| ![](relics/MegatonBomb.png) | Superbombomb | Boss |  | At the end of your turn, #rlose #b1 HP from #gradiation #gpoisoning. NL #pRight #pclick: #rDestroy #rthis #rrelic #rand #rall #renemies. | A superweapon beyond any technology. Who made this...? |
+| ![](relics/MegatonBomb.png) | Superbombomb | Boss |  | At the end of your turn, #rlose #b1 HP from #gradiation #gpoisoning. NL #pRight #pclick: #rDestroy #rthis #rrelic #rand #gOBLITERATE #rall #renemies. | A superweapon beyond any technology. Who made this...? |
 | ![](relics/TanglingVine.png) | Tangling Vine | Boss |  | Gain [E] at the start of your turn. At the end of your turn, lose #b3 #yBlock. | Don't take this the wrong way. |
 | ![](relics/TreasureMap.png) | Adventure Map | Shop |  | ALL #y? rooms contain events. | The real treasure was the friends we made along the way. |
 | ![](relics/BerrySword.png) | Berry Sword | Shop |  | Upon pickup, raise your Max HP by #b8. The first card you play each combat is removed from your deck. | Tiny bites of this sword invigorate you. |
