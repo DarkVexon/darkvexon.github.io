@@ -1,7 +1,7 @@
 {
   "mod": {
     "name": "vexMod",
-    "version": "1337",
+    "version": "111111111",
     "authors": ["DarkVexon"],
     "credits": "Slay the Spire Discord: Ideas, assistance, other help.",
     "description": "A major content mod.",
@@ -1180,6 +1180,22 @@
       "description": "Deal 0 damage.\nDamage cycles from 0 to 50 slowly."
     },
     {
+      "name": "Wild Card",
+      "color": "Colorless",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "",
+      "description": "At the start of combat, choose a card. This card becomes that card this combat."
+    },
+    {
+      "name": "Wild Card+",
+      "color": "Colorless",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "",
+      "description": "At the start of combat, choose an upgraded card. This card becomes that card this combat."
+    },
+    {
       "name": "Fear",
       "color": "Curse",
       "rarity": "Curse",
@@ -1312,7 +1328,7 @@
       "tier": "Common",
       "pool": "",
       "description": "Whenever you receive 10 or more unblocked attack damage, draw 1 additional card and gain [E] next turn.",
-      "flavorText": "The machine seems to be magnetically attracted to your exposed injuries."
+      "flavorText": "This machine seems to be magnetically attracted to your exposed injuries."
     },
     {
       "name": "Pet Star",
@@ -1334,6 +1350,13 @@
       "pool": "",
       "description": "At the start of each combat, deal damage to a random enemy equal to the number of Relics you have.",
       "flavorText": "Mostly an excuse to use the FX."
+    },
+    {
+      "name": "Right Greave",
+      "tier": "Common",
+      "pool": "",
+      "description": "At the start of turns 3 and 7, gain 7 Block.",
+      "flavorText": "Forever waiting to be reunited with Left Greave."
     },
     {
       "name": "Rock of Resting",
@@ -1364,13 +1387,6 @@
       "flavorText": "All your sword-firing needs in one medium package!"
     },
     {
-      "name": "Well-Worn Anklet",
-      "tier": "Common",
-      "pool": "",
-      "description": "At the start of turns 3 and 7, gain 7 Block.",
-      "flavorText": "Still gotta dig up the paper on this one."
-    },
-    {
       "name": "Anger Radio",
       "tier": "Uncommon",
       "pool": "Bard_color",
@@ -1396,7 +1412,7 @@
       "tier": "Uncommon",
       "pool": "",
       "description": "The next 3 unupgraded cards you add into your deck are upgraded.",
-      "flavorText": "Mechanical device certain to improve your life!"
+      "flavorText": "Mechanical device certain to improve your life somehow!"
     },
     {
       "name": "Bottled Tune",
@@ -1515,7 +1531,7 @@
       "tier": "Uncommon",
       "pool": "",
       "description": "Whenever you shuffle your draw pile, deal 2-5 damage to a random enemy 3 times.",
-      "flavorText": "The end of this plain wooden staff glows dimly with magical force."
+      "flavorText": "The end of this magic wand glows."
     },
     {
       "name": "Audience Doll",
@@ -1543,7 +1559,7 @@
       "tier": "Rare",
       "pool": "Blue",
       "description": "Whenever you Channel an Orb, gain 2 Block.",
-      "flavorText": "This fan helps you save processes when performing monster solution options."
+      "flavorText": "This fan helps you save cycles when performing monster solution options."
     },
     {
       "name": "Fake Star",
@@ -1665,6 +1681,13 @@
       "flavorText": "The smith fashioned you a slightly oversized weapon!"
     },
     {
+      "name": "Dootinator",
+      "tier": "Special",
+      "pool": "Bard_color",
+      "description": "Whenever you bard:Queue a bard:Note, doot.",
+      "flavorText": "Previously owned by a skeleton."
+    },
+    {
       "name": "Double-Edged Sword",
       "tier": "Special",
       "pool": "",
@@ -1763,11 +1786,11 @@
       "flavorText": "DEFEAT THE INFIDELS"
     },
     {
-      "name": "Pulse Stone",
+      "name": "Rainbarrow",
       "tier": "Special",
       "pool": "",
-      "description": "Your relics do the Wave.",
-      "flavorText": "So entrancing to look at."
+      "description": "Your targeting arrow is colorful.",
+      "flavorText": "Sparkly!"
     },
     {
       "name": "Realism Engine",
@@ -1826,6 +1849,13 @@
       "flavorText": "You feel badly written."
     },
     {
+      "name": "Wave Stone",
+      "tier": "Special",
+      "pool": "",
+      "description": "Your relics do the Wave.",
+      "flavorText": "So entrancing to look at."
+    },
+    {
       "name": "bottle",
       "tier": "Special",
       "pool": "",
@@ -1858,7 +1888,7 @@
       "tier": "Boss",
       "pool": "",
       "description": "Gain [E] at the start of your turn. Future maps contain only 1 path.",
-      "flavorText": "No matter which way you turn, it always points forwards ..."
+      "flavorText": "No matter which way you turn, it always points forwards..."
     },
     {
       "name": "Cyborg Telescope",
@@ -1920,7 +1950,7 @@
       "name": "Mind Devourer",
       "tier": "Boss",
       "pool": "",
-      "description": "Gain [E] at the start of your turn. At the end of combat, remove a random card in your deck.",
+      "description": "Gain [E] at the start of your turn. At the end of combat, remove a random card from your deck.",
       "flavorText": "Mm, shiny! Wait, what was your name again?"
     },
     {
@@ -1934,15 +1964,8 @@
       "name": "Pipes of Chaos",
       "tier": "Boss",
       "pool": "Bard_color",
-      "description": "Replaces Bag Pipes.\nDraw 1 less card each turn. Whenever you play a card, bard:Queue a [WildNote] [REMOVE_SPACE].",
+      "description": "Replaces Bag Pipes.\nDraw 2 less cards each turn. Whenever you play a card, bard:Queue a [WildNote] [REMOVE_SPACE].",
       "flavorText": "Crafted by an evil god, you shudder to play it."
-    },
-    {
-      "name": "Poker Player Flyer",
-      "tier": "Boss",
-      "pool": "Poker_player_gray",
-      "description": "Your Diamonds increment the Stellar Phase as an additional Showdown effect. Your Spades apply 1 Starlit to a random enemy as an additional Showdown effect.",
-      "flavorText": "A grim memory of your past in the tournaments."
     },
     {
       "name": "Robo-Notes",
@@ -1955,7 +1978,7 @@
       "name": "Robotic Cards",
       "tier": "Boss",
       "pool": "Poker_player_gray",
-      "description": "Start each combat with 3 Orb slots. At the start of Showdown, Channel an Orb depending on the majority Suit in your hand.",
+      "description": "Start each combat with 3 Orb slots. At the start of Showdown, Channel an Orb depending on the majority s [REMOVE_SPACE]#bu [REMOVE_SPACE]#ri [REMOVE_SPACE]#pt in your hand.",
       "flavorText": "BEEP BOOP. CALCULATING POKER SKILLS..."
     },
     {
@@ -1969,7 +1992,7 @@
       "name": "Song of Poker",
       "tier": "Boss",
       "pool": "Poker_player_gray",
-      "description": "Your Poker cards bard:Queue bard:Notes based on their suit as an additional Showdown effect.",
+      "description": "Your Poker cards bard:Queue bard:Notes based on their s [REMOVE_SPACE]#bu [REMOVE_SPACE]#ri [REMOVE_SPACE]#pt when played.",
       "flavorText": "Sounds like a bunch of commentators."
     },
     {
@@ -1978,6 +2001,13 @@
       "pool": "Astrologer",
       "description": "Gain [E] at the start of your turn. At the end of your turn, decrease the Stellar Phase by 2.",
       "flavorText": "One by one, the stars in the sky wink out."
+    },
+    {
+      "name": "Star Player Flyer",
+      "tier": "Boss",
+      "pool": "Poker_player_gray",
+      "description": "Your Diamonds increment the Stellar Phase as an additional Showdown effect. Your Spades apply 1 Starlit to a random enemy as an additional Showdown effect. Your Clubs do both.",
+      "flavorText": "A grim memory of your past in the tournaments."
     },
     {
       "name": "Stone Buddy",
@@ -2036,7 +2066,7 @@
       "flavorText": "This cauldron is a lot cooler than any regular old cauldron."
     },
     {
-      "name": "Future Thief Gloves",
+      "name": "Future Thief Glove",
       "tier": "Shop",
       "pool": "",
       "description": "Right click: Steal a card from yourself in the future.",
@@ -2053,7 +2083,7 @@
       "name": "Gilded Clover",
       "tier": "Shop",
       "pool": "",
-      "description": "ALL future cards are Rare.",
+      "description": "ALL future cards you find are Rare.",
       "flavorText": "Super-duper rare!"
     },
     {

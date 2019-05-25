@@ -73,6 +73,7 @@
 | Spire Strike | ![](small-card-images/SpireStrike.png) | ![](small-card-images/SpireStrikePlus.png) | Rare | Attack | 0 | Costs 1 more for each Act cleared. Deal damage equal to your floor number. Exhaust. (not Exhaust.) |
 | Very Week Card | ![](small-card-images/VeryWeekCard.png) | ![](small-card-images/VeryWeekCardPlus.png) | Rare | Skill | 1 | Effect varies based on day of the week. Exhaust. (not Exhaust.) |
 | Well-Timed Strike | ![](small-card-images/Well-TimedStrike.png) | ![](small-card-images/Well-TimedStrikePlus.png) | Rare | Attack | 3 | Deal 0 damage. Damage cycles from 0 to 50 quickly (slowly). |
+| Wild Card | ![](small-card-images/WildCard.png) | ![](small-card-images/WildCardPlus.png) | Rare | Skill |  | At the start of combat, choose a (an upgraded) card. This card becomes that card this combat. |
 | Fear | ![](small-card-images/Fear.png) | ![]() | Curse | Curse | 1 | Ethereal. At the end of your turn, gain 1 Vulnerable. |
 | Gorgon's Gaze | ![](small-card-images/GorgonsGaze.png) | ![]() | Curse | Curse |  | Unplayable. At the end of your turn, Exhaust all other cards in your hand. |
 | Greed | ![](small-card-images/Greed.png) | ![]() | Curse | Curse |  | Unplayable. At the end of your turn, lose 6 Gold. |
