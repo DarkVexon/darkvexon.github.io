@@ -1989,13 +1989,6 @@
       "flavorText": "You see it all laid out. One day the sky shall burn away."
     },
     {
-      "name": "Song of Poker",
-      "tier": "Boss",
-      "pool": "Poker_player_gray",
-      "description": "Your Poker cards bard:Queue bard:Notes based on their s [REMOVE_SPACE]#bu [REMOVE_SPACE]#ri [REMOVE_SPACE]#pt when played.",
-      "flavorText": "Sounds like a bunch of commentators."
-    },
-    {
       "name": "Star Eater",
       "tier": "Boss",
       "pool": "Astrologer",
