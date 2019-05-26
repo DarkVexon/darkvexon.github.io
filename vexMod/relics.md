@@ -1,5 +1,6 @@
 | Image | Name | Rarity | Color | Description | Flavor |
 | ----- | ---- | ------ | ----- | ----------- | ------ |
+| ![](relics/PowerCharger.png) | Backup Battery | Common | Blue | If you end your turn with any empty Orb slots, gain #b3 #yBlock. | Conserve energy! Shut off Orb slots when you're not using them. |
 | ![](relics/BarristanHead.png) | Bandanna of Resilience | Common |  | If you have #b30 or less HP at the start of your turn, gain #b5 #yBlock. | In your strangest dreams, it appears and yells orders at you. |
 | ![](relics/ChargeUpper.png) | Charge Upper | Common | Red | Every time you gain #b30 #yBlock, gain #b1 #yStrength. | "Oops, I fell asleep without plugging it in..." |
 | ![](relics/ColdYogurt.png) | Cold Yogurt | Common | Blue | At the start of each combat, #yChannel #b1 #yFrost. | You wonder if your enemies are lactose-intolerant. |
@@ -20,7 +21,6 @@
 | ![](relics/Spotlight.png) | Spotlight | Common | Astrologer | At the start of each combat, apply #b3 #yStarlit to ALL enemies. | Light 'em up! |
 | ![](relics/StrikeShooter.png) | Strike Shooter | Common | Red | At the start of every third turn, play a πStrike at a random target. | All your sword-firing needs in one medium package! |
 | ![](relics/CleansingRadio.png) | Anger Radio | Uncommon | Bard_color | Every time you #ybard:Queue #b3 of the same #ybard:Note in a single turn, deal #b5 damage to ALL enemies. | Plays frustrating music. |
-| ![](relics/PowerCharger.png) | Backup Battery | Uncommon | Blue | If you end your turn with any empty Orb slots, gain #b3 #yBlock. | Conserve energy! Shut off Orb slots when you're not using them. |
 | ![](relics/BerryBomb.png) | Berry Bomb | Uncommon |  | Upon pickup, raise your Max HP by #b6. In #b8 combats, explodes and deals #b100 damage to ALL enemies. | Tastes explosive! |
 | ![](relics/BetterTron.png) | Better-O-Tron | Uncommon |  | The next #b3 unupgraded cards you add into your deck are #yupgraded. | Mechanical device certain to improve your life somehow! |
 | ![](relics/BottledTune.png) | Bottled Tune | Uncommon | Bard_color | Upon pickup, choose a #ybard:Note. At the start of each combat, #ybard:Queue that #ybard:Note. | You crack the lid and hear a faint sound. |
@@ -46,10 +46,8 @@
 | ![](relics/CoolingFan.png) | Cooling Fan | Rare | Blue | Whenever you #yChannel an Orb, gain #b2 #yBlock. | This fan helps you save cycles when performing monster solution options. |
 | ![](relics/FakeStar.png) | Fake Star | Rare | Astrologer | The first #yStellar card you play each combat will be active. | But if you squint it looks pretty real! |
 | ![](relics/GravityRainbow.png) | Gravitational Rainbow | Rare | Astrologer | At the start of every odd-numbered turn, put the bottom card of your draw pile into your hand. | "But rainbows aren't affected by gravity!" you say. Well, pah! |
-| ![](relics/HeavenlyCard.png) | Heavenly Card | Rare | Astrologer | Every time you play #b4 #yStars, add a random #yPoker card into your hand. It has #yEthereal. | The star card of the show! |
 | ![](relics/ThoughtMold.png) | Helpful Mold | Rare | Red | Whenever you gain #yBlock, gain #b1 #yStrength this turn. | This mold siphons off bits of your shield to feed itself. |
 | ![](relics/MidnightOcarina.png) | Midnight Ocarina | Rare | Astrologer | Every time you play #b7 #yStars, perform a random #ybard:Melody. | The song of the stars is yours to echo... |
-| ![](relics/MusicalCard.png) | Musical Card | Rare | Bard_color | Whenever you perform a #ybard:Melody, add a random #yPoker card into your hand. It has #yEthereal. | Whistles when thrown. |
 | ![](relics/OrbOfGreed.png) | Orb of Greed | Rare | Blue | At the start of each combat, #yChannel #b1 #yGolden #yπLightning. | Mmm, money! |
 | ![](relics/PlasmaPancake.png) | Plasma Pancake | Rare |  | Upon pickup, raise your Max HP by #b6. NL At the start of each combat, deal #b11 damage to ALL enemies. | It's literally on fire. |
 | ![](relics/RedPlottingStone.png) | Red Plotting Stone | Rare |  | #pGlows #psometime. NL #pRight #pclick while glowing for a #gmassive #greward. NL #pRight #pclick while not glowing to #rlose. | Great for nefarious plans - as opposed to the Green Plotting Stone. |
@@ -102,8 +100,6 @@
 | ![](relics/MindDevourer.png) | Mind Devourer | Boss |  | Gain [E] at the start of your turn. At the end of combat, remove a random card from your deck. | Mm, shiny! Wait, what was your name again? |
 | ![](relics/NewClearReactor.png) | New, Clear Reactor | Boss |  | Energy is conserved between turns and combats. You no longer gain Energy each turn. Set your energy to #b100 upon pickup and at the start of each Act. | Totally safe! Good for the environment! Fosters mutations! |
 | ![](relics/MusicMaker.png) | Pipes of Chaos | Boss | Bard_color | Replaces [#4169e1ff]Bag[] [#4169e1ff]Pipes[][#4169e1ff].[] NL Draw #b2 less cards each turn. Whenever you play a card, #ybard:Queue a [WildNote] [REMOVE_SPACE]. | Crafted by an evil god, you shudder to play it. |
-| ![](relics/MetalNotes.png) | Robo-Notes | Boss | Bard_color | Start each combat with #b3 Orb slots. Every #b5th #ybard:Note you #ybard:Queue #yChannels an Orb based on its type. | BEEEEP BOOOOOOP |
-| ![](relics/RoboticCards.png) | Robotic Cards | Boss | Poker_player_gray | Start each combat with #b3 Orb slots. At the start of #yShowdown, #yChannel an Orb depending on the majority #gs [REMOVE_SPACE]#bu [REMOVE_SPACE]#ri [REMOVE_SPACE]#pt in your hand. | BEEP BOOP. CALCULATING POKER SKILLS... |
 | ![](relics/FutureSight.png) | Sight of Future Skies | Boss | Astrologer | Replaces [#c8c8dcff]Sky's[] [#c8c8dcff]Mirror[][#c8c8dcff].[] NL Whenever you play a card, put it on the bottom of your draw pile. | You see it all laid out. One day the sky shall burn away. |
 | ![](relics/StarEater.png) | Star Eater | Boss | Astrologer | Gain [E] at the start of your turn. At the end of your turn, decrease the #yStellar #yPhase by #b2. | One by one, the stars in the sky wink out. |
 | ![](relics/StarPokerPlayer.png) | Star Player Flyer | Boss | Poker_player_gray | Your #gDiamonds increment the #yStellar #yPhase as an additional #yShowdown effect. Your #bSpades apply #b1 #yStarlit to a random enemy as an additional #yShowdown effect. Your #pClubs do both. | A grim memory of your past in the tournaments. |

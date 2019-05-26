@@ -1254,6 +1254,13 @@
   ],
   "relics": [
     {
+      "name": "Backup Battery",
+      "tier": "Common",
+      "pool": "Blue",
+      "description": "If you end your turn with any empty Orb slots, gain 3 Block.",
+      "flavorText": "Conserve energy! Shut off Orb slots when you're not using them."
+    },
+    {
       "name": "Bandanna of Resilience",
       "tier": "Common",
       "pool": "",
@@ -1392,13 +1399,6 @@
       "pool": "Bard_color",
       "description": "Every time you bard:Queue 3 of the same bard:Note in a single turn, deal 5 damage to ALL enemies.",
       "flavorText": "Plays frustrating music."
-    },
-    {
-      "name": "Backup Battery",
-      "tier": "Uncommon",
-      "pool": "Blue",
-      "description": "If you end your turn with any empty Orb slots, gain 3 Block.",
-      "flavorText": "Conserve energy! Shut off Orb slots when you're not using them."
     },
     {
       "name": "Berry Bomb",
@@ -1576,13 +1576,6 @@
       "flavorText": "\"But rainbows aren't affected by gravity!\" you say. Well, pah!"
     },
     {
-      "name": "Heavenly Card",
-      "tier": "Rare",
-      "pool": "Astrologer",
-      "description": "Every time you play 4 Stars, add a random Poker card into your hand. It has Ethereal.",
-      "flavorText": "The star card of the show!"
-    },
-    {
       "name": "Helpful Mold",
       "tier": "Rare",
       "pool": "Red",
@@ -1595,13 +1588,6 @@
       "pool": "Astrologer",
       "description": "Every time you play 7 Stars, perform a random bard:Melody.",
       "flavorText": "The song of the stars is yours to echo..."
-    },
-    {
-      "name": "Musical Card",
-      "tier": "Rare",
-      "pool": "Bard_color",
-      "description": "Whenever you perform a bard:Melody, add a random Poker card into your hand. It has Ethereal.",
-      "flavorText": "Whistles when thrown."
     },
     {
       "name": "Orb of Greed",
@@ -1966,20 +1952,6 @@
       "pool": "Bard_color",
       "description": "Replaces Bag Pipes.\nDraw 2 less cards each turn. Whenever you play a card, bard:Queue a [WildNote] [REMOVE_SPACE].",
       "flavorText": "Crafted by an evil god, you shudder to play it."
-    },
-    {
-      "name": "Robo-Notes",
-      "tier": "Boss",
-      "pool": "Bard_color",
-      "description": "Start each combat with 3 Orb slots. Every 5th bard:Note you bard:Queue Channels an Orb based on its type.",
-      "flavorText": "BEEEEP BOOOOOOP"
-    },
-    {
-      "name": "Robotic Cards",
-      "tier": "Boss",
-      "pool": "Poker_player_gray",
-      "description": "Start each combat with 3 Orb slots. At the start of Showdown, Channel an Orb depending on the majority s [REMOVE_SPACE]#bu [REMOVE_SPACE]#ri [REMOVE_SPACE]#pt in your hand.",
-      "flavorText": "BEEP BOOP. CALCULATING POKER SKILLS..."
     },
     {
       "name": "Sight of Future Skies",
