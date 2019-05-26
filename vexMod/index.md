@@ -92,6 +92,11 @@
 
 | Image | Name | Rarity | Description |
 | ----- | ---- | ------ | ----------- |
+| ![](potions/BlazePotion.png) | Blaze Potion | Uncommon | Gain 2 stacks of ANY random buff. |
+| ![](potions/BottleoFrost.png) | Bottle o' Frost | Uncommon | Channel 1 Frost. |
+| ![](potions/LightninginaBottle.png) | Lightning in a Bottle | Uncommon | Channel 1 Lightning. |
+| ![](potions/BottleoGold.png) | Bottle o' Gold | Rare | Deal 10 damage. Gain some Gold. |
+| ![](potions/BottleoPlasma.png) | Bottle o' Plasma | Rare | Channel 1 Plasma. |
 | ![](potions/TweetPotion.png) | Tweet Potion | Rare | Gain 1 stack of ANY random buff. @DBotling tweets about your run. |
 
 
@@ -223,7 +228,7 @@
 | ![](relics/GildedClover.png) | Gilded Clover | Shop |  | ALL future cards you find are #yRare. | Super-duper rare! |
 | ![](relics/MidasArmor.png) | Golden Armor | Shop |  | Your HP and Max HP are ALWAYS set equal to your #yGold. NL Instead of losing HP, lose twice that much #yGold. | Expensive... but worth it? |
 | ![](relics/LichBottle.png) | Lich's Phylactery | Shop |  | #pPrevent #pALL #pHP #ploss. For every #b10 damage prevented, remove a random card from your deck. When your deck has no cards, you #rlose. | It feels cold in your hands, no matter what you do ... |
-| ![](relics/PaidLearning.png) | Paid Education | Shop |  | Upon pickup, #yUpgrade #b2 cards. | That was just the down payment. Two hundred thousand dollars in loans remain. |
+| ![](relics/PaidLearning.png) | Paid Education | Shop |  | Upon pickup, #yUpgrade #b2 cards. | That was just the down payment. |
 | ![](relics/PillTracker.png) | Pill Tracker | Shop |  | At the start of turn #b5, remove all of your debuffs. | Always remember to take your medication on time! |
 | ![](relics/RegenHeart.png) | Regenerative Virus | Shop |  | Upon pickup, set your Max HP to #b30. NL At the end of combat, heal to full HP. | The side effects are ... best left unsaid. |
 | ![](relics/RockBasket.png) | Rock Basket | Shop |  | You can only find relics from #pvexMod. At the start of your turn, deal damage to a random enemy equal to the number of #pvexMod relics you have. | Because y'all already know I'm the best. |

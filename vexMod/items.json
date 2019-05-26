@@ -3,7 +3,7 @@
     "name": "vexMod",
     "version": "111111111",
     "authors": ["DarkVexon"],
-    "credits": "Slay the Spire Discord: Ideas, assistance, other help.",
+    "credits": "Slay the Spire Discord: Ideas, assistance, other help. Spleeninator, Lyman: Art!",
     "description": "A major content mod.",
     "mts_version": "3.8.0",
     "sts_version": "01-23-2019",
@@ -2105,7 +2105,7 @@
       "tier": "Shop",
       "pool": "",
       "description": "Upon pickup, Upgrade 2 cards.",
-      "flavorText": "That was just the down payment. Two hundred thousand dollars in loans remain."
+      "flavorText": "That was just the down payment."
     },
     {
       "name": "Pill Tracker",
@@ -2173,6 +2173,31 @@
   ],
   "potions": [
     {
+      "name": "Blaze Potion",
+      "rarity": "Uncommon",
+      "description": "Gain 2 stacks of ANY random buff."
+    },
+    {
+      "name": "Bottle o' Frost",
+      "rarity": "Uncommon",
+      "description": "Channel 1 Frost."
+    },
+    {
+      "name": "Lightning in a Bottle",
+      "rarity": "Uncommon",
+      "description": "Channel 1 Lightning."
+    },
+    {
+      "name": "Bottle o' Gold",
+      "rarity": "Rare",
+      "description": "Deal 10 damage. Gain some Gold."
+    },
+    {
+      "name": "Bottle o' Plasma",
+      "rarity": "Rare",
+      "description": "Channel 1 Plasma."
+    },
+    {
       "name": "Tweet Potion",
       "rarity": "Rare",
       "description": "Gain 1 stack of ANY random buff. @DBotling tweets about your run."
@@ -2188,8 +2213,8 @@
     {
       "name": "Dagger Pharaoh",
       "type": "Boss",
-      "minHP": "200",
-      "maxHP": "200"
+      "minHP": "222",
+      "maxHP": "222"
     },
     {
       "name": "Gilded Gorgon",
@@ -2212,8 +2237,8 @@
     {
       "name": "King of the Beyond",
       "type": "Boss",
-      "minHP": "800",
-      "maxHP": "800"
+      "minHP": "600",
+      "maxHP": "600"
     },
     {
       "name": "Lich's Phylactery",
