@@ -1466,7 +1466,7 @@
     {
       "name": "Invisible Cloak",
       "tier": "Uncommon",
-      "pool": "Green",
+      "pool": "",
       "description": "At the start of each combat, ALL enemies lose 1 Strength.",
       "flavorText": "You're far too modest to \"wear\" this."
     },
@@ -1523,7 +1523,7 @@
       "name": "Throwing Star",
       "tier": "Uncommon",
       "pool": "Astrologer",
-      "description": "Every time you play 3 Stars in a single turn, gain 1 Strength.",
+      "description": "Every time you play or exhaust 3 Stars in a single turn, gain 1 Strength.",
       "flavorText": "Unorthodox use for the stars, but it's OK."
     },
     {
@@ -1902,7 +1902,7 @@
       "tier": "Boss",
       "pool": "",
       "description": "Gain [E] at the start of your turn. Upon pickup, obtain 666 Gold and a random Blight.",
-      "flavorText": "Holding it fills you with terror. Your only goal is to lose it yet it always winds up back in your pocket."
+      "flavorText": "Holding it fills you with terror. Your drop it, but it writhes back into your pocket."
     },
     {
       "name": "Improvement Manual",

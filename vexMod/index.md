@@ -137,7 +137,7 @@
 | ![](relics/FocusSash.png) | Focus Sash | Uncommon |  | When you would die while you have at least #b10 HP, heal to #b1 HP instead. | It's super effective! |
 | ![](relics/SolarSystemDiorama.png) | Galaxy Diorama | Uncommon | Astrologer | The additional effects of your #ySolar and #yLunar cards are always active. | Wholly innacurate. |
 | ![](relics/GoldBooster.png) | Gilded Shrine | Uncommon |  | Whenever you add a card into your deck, gain #b7 #yGold. | Molten gold pours endlessly down the shrine. |
-| ![](relics/InvisibilityCloak.png) | Invisible Cloak | Uncommon | Green | At the start of each combat, ALL enemies lose #b1 #yStrength. | You're far too modest to "wear" this. |
+| ![](relics/InvisibilityCloak.png) | Invisible Cloak | Uncommon |  | At the start of each combat, ALL enemies lose #b1 #yStrength. | You're far too modest to "wear" this. |
 | ![](relics/KeyChain.png) | Key Chain | Uncommon |  | When you play your first targeted #yAttack each combat, the enemy loses #yStrength equal to damage taken until the end of this turn. | Surprisingly sharp! |
 | ![](relics/MadnessLens.png) | Madness Lens | Uncommon |  | At the start of each combat, reduce the cost of a random card in your hand to #b0 this combat. | The Spire looks like a hellish, twisting wasteland through this glass. |
 | ![](relics/ProtectorBot.png) | Protector Bot | Uncommon |  | Whenever you play #b2 or less cards during your turn, gain #b5 #yBlock at the end of the turn. | This little bot dives in to take attacks when you're wide open. |
@@ -145,7 +145,7 @@
 | ![](relics/ShiftingSkin.png) | Shifting Skin | Uncommon |  | At the start of each combat, gain #b1 stack of ANY random #gbuff. | Your body flows fluidly, changing to adapt to each situation... |
 | ![](relics/HeadHunter.png) | Skull Hunter | Uncommon |  | Elites drop an additional Rare card reward. | You're bringing this conflict to a head. |
 | ![](relics/ThirteenHourStone.png) | Thirteen-Hour Stone | Uncommon |  | Every time you you draw #b13 cards, draw #b1 card. | Number nine is the most important. |
-| ![](relics/ThrowingStar.png) | Throwing Star | Uncommon | Astrologer | Every time you play #b3 #yStars in a single turn, gain #b1 #yStrength. | Unorthodox use for the stars, but it's OK. |
+| ![](relics/ThrowingStar.png) | Throwing Star | Uncommon | Astrologer | Every time you play or exhaust #b3 #yStars in a single turn, gain #b1 #yStrength. | Unorthodox use for the stars, but it's OK. |
 | ![](relics/MagicMissile.png) | Wand of Magic Missile | Uncommon |  | Whenever you shuffle your draw pile, deal #b2-5 damage to a random enemy #b3 times. | The end of this magic wand glows. |
 | ![](relics/AudienceDoll.png) | Audience Doll | Rare | Bard_color | Whenever you perform a #ybard:Melody, draw #b1 card. | Always there to listen and offer support! |
 | ![](relics/CardConverter.png) | Box of Bandaids | Rare |  | Whenever you add a card into your deck, heal #b3 HP. | Vends only when shown cool techniques. |
@@ -199,7 +199,7 @@
 | ![](relics/Demotivationator.png) | Demotivationator | Boss | Bard_color | Gain [E] and #ybard:Inspiration #b-50 at the start of your turn. | "ALL the people in the Tri-State Area will be too lazy to work! MWAHAHAHA!" |
 | ![](relics/DeviousBotling.png) | Devious Botling | Boss |  | Gain [E] at the start of your turn. Torments you randomly in annoying ways. Insults you on Twitter when you die. | A tiny little mini-bot whose prime directive is to mess with people. Twitter at @DBotling. |
 | ![](relics/EndlessSickness.png) | Endless Sickness | Boss |  | Gain [E] at the start of your turn. At the start of each combat, shuffle a #rVirus into your draw pile. | Always multiplying. |
-| ![](relics/RockOfEvil.png) | Horrorstone | Boss |  | Gain [E] at the start of your turn. Upon pickup, obtain #b666 #yGold and a random #rBlight. | Holding it fills you with terror. Your only goal is to lose it yet it always winds up back in your pocket. |
+| ![](relics/RockOfEvil.png) | Horrorstone | Boss |  | Gain [E] at the start of your turn. Upon pickup, obtain #b666 #yGold and a random #rBlight. | Holding it fills you with terror. Your drop it, but it writhes back into your pocket. |
 | ![](relics/ImprovementManual.png) | Improvement Manual | Boss |  | Upon pickup, #yUpgrade #b4 cards. | Ahh, so THAT's how you make a card Innate! |
 | ![](relics/IndestructableDeckBox.png) | Indestructible Card Box | Boss | Poker_player_gray | Replaces [#404646ff]Deck[] [#404646ff]Case[][#404646ff].[] NL #yCurse and #yStatus cards cannot enter your deck or draw pile. | The only way to truly keep your cards tricks safe. |
 | ![](relics/MallPass.png) | Mall Pass | Boss |  | ALL #y? rooms contain The Merchant. Whenever you encounter The Merchant, gain #b50 #yGold. | Now you can get the great discounts! |
