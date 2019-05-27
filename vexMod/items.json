@@ -1625,13 +1625,6 @@
       "flavorText": "Tastes like stars."
     },
     {
-      "name": "Starlight Tuner",
-      "tier": "Rare",
-      "pool": "Bard_color",
-      "description": "Whenever you perform a bard:Melody, increment the Stellar Phase and apply 1 Starlit to ALL enemies.",
-      "flavorText": "Listen to the music of the stars..."
-    },
-    {
       "name": "Teal Tab",
       "tier": "Rare",
       "pool": "",
@@ -1966,13 +1959,6 @@
       "pool": "Astrologer",
       "description": "Gain [E] at the start of your turn. At the end of your turn, decrease the Stellar Phase by 2.",
       "flavorText": "One by one, the stars in the sky wink out."
-    },
-    {
-      "name": "Star Player Flyer",
-      "tier": "Boss",
-      "pool": "Poker_player_gray",
-      "description": "Your Diamonds increment the Stellar Phase as an additional Showdown effect. Your Spades apply 1 Starlit to a random enemy as an additional Showdown effect. Your Clubs do both.",
-      "flavorText": "A grim memory of your past in the tournaments."
     },
     {
       "name": "Stone Buddy",
