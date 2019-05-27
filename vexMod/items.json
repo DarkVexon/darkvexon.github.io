@@ -1366,13 +1366,6 @@
       "flavorText": "Forever waiting to be reunited with Left Greave."
     },
     {
-      "name": "Rock of Resting",
-      "tier": "Common",
-      "pool": "Bard_color",
-      "description": "Whenever you Queue a [RestNote] [REMOVE_SPACE], gain 2 Block.",
-      "flavorText": "Just sit back and - for awhile."
-    },
-    {
       "name": "Singing Flower",
       "tier": "Common",
       "pool": "Bard_color",
@@ -1877,7 +1870,7 @@
       "flavorText": "You realize now that every electric volt is a tiny star too."
     },
     {
-      "name": "Demotivationator",
+      "name": "Demotivation-inator",
       "tier": "Boss",
       "pool": "Bard_color",
       "description": "Gain [E] and bard:Inspiration -50 at the start of your turn.",
@@ -1965,7 +1958,7 @@
       "tier": "Boss",
       "pool": "",
       "description": "Every other turn, assists with a helpful effect.",
-      "flavorText": "Your new teammate. It rocks!"
+      "flavorText": "He's gnot a gnelf."
     },
     {
       "name": "Superbombomb",

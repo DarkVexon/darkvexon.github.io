@@ -16,7 +16,6 @@
 | ![](relics/RainbowShades.png) | Rainbow Shades | Common | Astrologer | The first time you draw an #yEthereal card each combat, put a copy of it on top of your draw pile. | Lookin' to the sky in style. |
 | ![](relics/RelicLauncher.png) | Relic Launcher | Common |  | At the start of each combat, deal damage to a random enemy equal to the number of Relics you have. | Mostly an excuse to use the FX. |
 | ![](relics/WellWornAnklet.png) | Right Greave | Common |  | At the start of turns #b3 and #b7, gain #b7 #yBlock. | Forever waiting to be reunited with Left Greave. |
-| ![](relics/RestingRock.png) | Rock of Resting | Common | Bard_color | Whenever you #yQueue a [RestNote] [REMOVE_SPACE], gain #b2 #yBlock. | Just sit back and - for awhile. |
 | ![](relics/SingingFlower.png) | Singing Flower | Common | Bard_color | Every #b3 turns, #ybard:Queue a [BuffNote] [REMOVE_SPACE]. | It's, like, in tune with the planet's energy, dude! |
 | ![](relics/Spotlight.png) | Spotlight | Common | Astrologer | At the start of each combat, apply #b3 #yStarlit to ALL enemies. | Light 'em up! |
 | ![](relics/StrikeShooter.png) | Strike Shooter | Common | Red | At the start of every third turn, play a πStrike at a random target. | All your sword-firing needs in one medium package! |
@@ -89,7 +88,7 @@
 | ![](relics/FluxCapacitor.png) | Clock Rock | Boss |  | Gain [E] at the start of your turn. Upon pickup, set your run timer to #b-10 minutes. At the end of combat, rewind your run timer by #b30 seconds. When your run timer hits #b0, you #rlose. | Tick tock goes the clock rock. |
 | ![](relics/CursedCompass.png) | Cursed Compass | Boss |  | Gain [E] at the start of your turn. Future maps contain only #b1 path. | No matter which way you turn, it always points forwards... |
 | ![](relics/ElectroStars.png) | Cyborg Telescope | Boss | Astrologer | Start each combat with #b3 Orb slots. Whenever you play a #yStar, #yChannel #b1 #yLightning. | You realize now that every electric volt is a tiny star too. |
-| ![](relics/Demotivationator.png) | Demotivationator | Boss | Bard_color | Gain [E] and #ybard:Inspiration #b-50 at the start of your turn. | "ALL the people in the Tri-State Area will be too lazy to work! MWAHAHAHA!" |
+| ![](relics/Demotivationator.png) | Demotivation-inator | Boss | Bard_color | Gain [E] and #ybard:Inspiration #b-50 at the start of your turn. | "ALL the people in the Tri-State Area will be too lazy to work! MWAHAHAHA!" |
 | ![](relics/DeviousBotling.png) | Devious Botling | Boss |  | Gain [E] at the start of your turn. Torments you randomly in annoying ways. Insults you on Twitter when you die. | A tiny little mini-bot whose prime directive is to mess with people. Twitter at @DBotling. |
 | ![](relics/EndlessSickness.png) | Endless Sickness | Boss |  | Gain [E] at the start of your turn. At the start of each combat, shuffle a #rVirus into your draw pile. | Always multiplying. |
 | ![](relics/RockOfEvil.png) | Horrorstone | Boss |  | Gain [E] at the start of your turn. Upon pickup, obtain #b666 #yGold and a random #rBlight. | Holding it fills you with terror. Your drop it, but it writhes back into your pocket. |
@@ -101,7 +100,7 @@
 | ![](relics/MusicMaker.png) | Pipes of Chaos | Boss | Bard_color | Replaces [#4169e1ff]Bag[] [#4169e1ff]Pipes[][#4169e1ff].[] NL Draw #b2 less cards each turn. Whenever you play a card, #ybard:Queue a [WildNote] [REMOVE_SPACE]. | Crafted by an evil god, you shudder to play it. |
 | ![](relics/FutureSight.png) | Sight of Future Skies | Boss | Astrologer | Replaces [#c8c8dcff]Sky's[] [#c8c8dcff]Mirror[][#c8c8dcff].[] NL Whenever you play a card, put it on the bottom of your draw pile. | You see it all laid out. One day the sky shall burn away. |
 | ![](relics/StarEater.png) | Star Eater | Boss | Astrologer | Gain [E] at the start of your turn. At the end of your turn, decrease the #yStellar #yPhase by #b2. | One by one, the stars in the sky wink out. |
-| ![](relics/RockFriend.png) | Stone Buddy | Boss |  | Every other turn, assists with a helpful effect. | Your new teammate. It rocks! |
+| ![](relics/RockFriend.png) | Stone Buddy | Boss |  | Every other turn, assists with a helpful effect. | He's gnot a gnelf. |
 | ![](relics/MegatonBomb.png) | Superbombomb | Boss |  | At the end of your turn, #rlose #b1 HP from #gradiation #gpoisoning. NL #pRight #pclick: #rDestroy #rthis #rrelic #rand #gOBLITERATE #rall #renemies. | A superweapon beyond any technology. Who made this...? |
 | ![](relics/TanglingVine.png) | Tangling Vine | Boss |  | Gain [E] at the start of your turn. At the end of your turn, lose #b3 #yBlock. | Don't take this the wrong way. |
 | ![](relics/TreasureMap.png) | Adventure Map | Shop |  | ALL #y? rooms contain events. | The real treasure was the friends we made along the way. |
