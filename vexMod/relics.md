@@ -109,7 +109,6 @@
 | ![](relics/TreasureMap.png) | Adventure Map | Shop |  | ALL #y? rooms contain events. | The real treasure was the friends we made along the way. |
 | ![](relics/BerrySword.png) | Berry Sword | Shop |  | Upon pickup, raise your Max HP by #b8. The first card you play each combat is removed from your deck. | Tiny bites of this sword invigorate you. |
 | ![](relics/BrokenBowl.png) | Broken Bowl | Shop |  | Whenever you add an unupgraded card to your deck, #yUpgrade it and lose #b2 Max HP. | Sand drains from it endlessly. |
-| ![](relics/ChompingNoodles.png) | Chomping Noodles | Shop |  | Whenever you enter a #y? room, raise your Max HP by #b3 and lose #b3 HP. | These noodles bite back. |
 | ![](relics/Cooldron.png) | Cooldron | Shop |  | All Potions you find are Entropic Brews. | This cauldron is a lot cooler than any regular old cauldron. |
 | ![](relics/FutureThief.png) | Future Thief Glove | Shop |  | #pRight #pclick: Steal a card from yourself in the future. | Self-destructive thievery. |
 | ![](relics/GhostlyGear.png) | Ghostly Gear | Shop |  | Whenever you play a πStrike or Defend, #yExhaust it. | The sword and shield are more difficult to see each time you look. |

@@ -1185,7 +1185,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "",
-      "description": "At the start of combat, choose a card. This card becomes that card this combat."
+      "description": "Unplayable.\nAt the start of combat, choose a card.\nThis card becomes that card this combat."
     },
     {
       "name": "Wild Card+",
@@ -1193,7 +1193,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "",
-      "description": "At the start of combat, choose an upgraded card. This card becomes that card this combat."
+      "description": "Unplayable.\nAt the start of combat, choose an upgraded card.\nThis card becomes that card this combat."
     },
     {
       "name": "Fear",
@@ -2015,13 +2015,6 @@
       "pool": "",
       "description": "Whenever you add an unupgraded card to your deck, Upgrade it and lose 2 Max HP.",
       "flavorText": "Sand drains from it endlessly."
-    },
-    {
-      "name": "Chomping Noodles",
-      "tier": "Shop",
-      "pool": "",
-      "description": "Whenever you enter a ? room, raise your Max HP by 3 and lose 3 HP.",
-      "flavorText": "These noodles bite back."
     },
     {
       "name": "Cooldron",
