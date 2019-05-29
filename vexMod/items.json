@@ -1,9 +1,9 @@
 {
   "mod": {
     "name": "vexMod",
-    "version": "111111111",
+    "version": "441123517",
     "authors": ["DarkVexon"],
-    "credits": "Slay the Spire Discord: Ideas, assistance, other help. Spleeninator, Lyman: Art!",
+    "credits": "Slay the Spire Discord: Ideas, assistance, other help. Spleeninator, Lyman: Relic and enemy art. Raz: VFX inspiration. Rincewind: ZHS translation.",
     "description": "A major content mod.",
     "mts_version": "3.8.0",
     "sts_version": "01-23-2019",
@@ -1574,13 +1574,6 @@
       "pool": "Red",
       "description": "Whenever you gain Block, gain 1 Strength this turn.",
       "flavorText": "This mold siphons off bits of your shield to feed itself."
-    },
-    {
-      "name": "Midnight Ocarina",
-      "tier": "Rare",
-      "pool": "Astrologer",
-      "description": "Every time you play 7 Stars, perform a random bard:Melody.",
-      "flavorText": "The song of the stars is yours to echo..."
     },
     {
       "name": "Orb of Greed",

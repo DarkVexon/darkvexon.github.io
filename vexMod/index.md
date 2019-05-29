@@ -153,7 +153,6 @@
 | ![](relics/FakeStar.png) | Fake Star | Rare | Astrologer | The first #yStellar card you play each combat will be active. | But if you squint it looks pretty real! |
 | ![](relics/GravityRainbow.png) | Gravitational Rainbow | Rare | Astrologer | At the start of every odd-numbered turn, put the bottom card of your draw pile into your hand. | "But rainbows aren't affected by gravity!" you say. Well, pah! |
 | ![](relics/ThoughtMold.png) | Helpful Mold | Rare | Red | Whenever you gain #yBlock, gain #b1 #yStrength this turn. | This mold siphons off bits of your shield to feed itself. |
-| ![](relics/MidnightOcarina.png) | Midnight Ocarina | Rare | Astrologer | Every time you play #b7 #yStars, perform a random #ybard:Melody. | The song of the stars is yours to echo... |
 | ![](relics/OrbOfGreed.png) | Orb of Greed | Rare | Blue | At the start of each combat, #yChannel #b1 #yGolden #yπLightning. | Mmm, money! |
 | ![](relics/PlasmaPancake.png) | Plasma Pancake | Rare |  | Upon pickup, raise your Max HP by #b6. NL At the start of each combat, deal #b11 damage to ALL enemies. | It's literally on fire. |
 | ![](relics/RedPlottingStone.png) | Red Plotting Stone | Rare |  | #pGlows #psometime. NL #pRight #pclick while glowing for a #gmassive #greward. NL #pRight #pclick while not glowing to #rlose. | Great for nefarious plans - as opposed to the Green Plotting Stone. |
