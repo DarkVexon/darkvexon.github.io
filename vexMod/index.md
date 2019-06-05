@@ -83,7 +83,6 @@
 | Sloth | ![](small-card-images/Sloth.png) | ![]() | Curse | Curse |  | Unplayable. At the end of your turn, draw 1 less card next turn. |
 | The Ultimate Card | ![](small-card-images/TheUltimateCard.png) | ![]() | Curse | Curse | 1 |  |
 | Virus | ![](small-card-images/Virus.png) | ![]() | Curse | Curse |  | Unplayable. Whenever you draw this card, add a copy of it into your hand. |
-| Weakness | ![](small-card-images/Weakness.png) | ![]() | Curse | Curse |  | Unplayable. Whenever you draw this card, reduce the damage of a random Attack in your hand by 2 this combat. |
 
 
 
@@ -155,8 +154,8 @@
 | ![](relics/ThoughtMold.png) | Helpful Mold | Rare | Red | Whenever you gain #yBlock, gain #b1 #yStrength this turn. | This mold siphons off bits of your shield to feed itself. |
 | ![](relics/OrbOfGreed.png) | Orb of Greed | Rare | Blue | At the start of each combat, #yChannel #b1 #yGolden #yπLightning. | Mmm, money! |
 | ![](relics/PlasmaPancake.png) | Plasma Pancake | Rare |  | Upon pickup, raise your Max HP by #b6. NL At the start of each combat, deal #b11 damage to ALL enemies. | It's literally on fire. |
-| ![](relics/RedPlottingStone.png) | Red Plotting Stone | Rare |  | #pGlows #psometime. NL #pRight #pclick while glowing for a #gmassive #greward. NL #pRight #pclick while not glowing to #rlose. | Great for nefarious plans - as opposed to the Green Plotting Stone. |
 | ![](relics/RetaliationKit.png) | Retaliation Kit | Rare | Green | The first time your #yBlock is broken each combat, apply #b2 #yWeak to ALL enemies. | All you need to disappear in a burst of smoke! Smoke no longer included. |
+| ![](relics/RedPlottingStone.png) | Rose Stone | Rare |  | #pGlows #psometime. NL #pRight #pclick while glowing for a #gmassive #greward. NL #pRight #pclick while not glowing to #rlose. | Watch for thorns. |
 | ![](relics/Starfruit.png) | Starfruit | Rare |  | Upon pickup, raise your Max HP by #b6. At the start of each combat, shuffle #b3 #yMagical #yFruit into your draw pile. | Tastes like stars. |
 | ![](relics/TealTab.png) | Teal Tab | Rare |  | Add #b2 copies of the #b18th card you draw each combat into your hand. They cost #b0 this combat. | Useful for categorization. |
 | ![](relics/TimesightGlass.png) | Timesight Glass | Rare |  | At the start of every even-numbered turn, put a random card from your discard pile into your hand. | You can see yourself a few minutes before. |
@@ -194,7 +193,6 @@
 | ![](relics/FluxCapacitor.png) | Clock Rock | Boss |  | Gain [E] at the start of your turn. Upon pickup, set your run timer to #b-10 minutes. At the end of combat, rewind your run timer by #b30 seconds. When your run timer hits #b0, you #rlose. | Tick tock goes the clock rock. |
 | ![](relics/CursedCompass.png) | Cursed Compass | Boss |  | Gain [E] at the start of your turn. Future maps contain only #b1 path. | No matter which way you turn, it always points forwards... |
 | ![](relics/ElectroStars.png) | Cyborg Telescope | Boss | Astrologer | Start each combat with #b3 Orb slots. Whenever you play a #yStar, #yChannel #b1 #yLightning. | You realize now that every electric volt is a tiny star too. |
-| ![](relics/Demotivationator.png) | Demotivation-inator | Boss | Bard_color | Gain [E] and #ybard:Inspiration #b-50 at the start of your turn. | "ALL the people in the Tri-State Area will be too lazy to work! MWAHAHAHA!" |
 | ![](relics/DeviousBotling.png) | Devious Botling | Boss |  | Gain [E] at the start of your turn. Torments you randomly in annoying ways. Insults you on Twitter when you die. | A tiny little mini-bot whose prime directive is to mess with people. Twitter at @DBotling. |
 | ![](relics/EndlessSickness.png) | Endless Sickness | Boss |  | Gain [E] at the start of your turn. At the start of each combat, shuffle a #rVirus into your draw pile. | Always multiplying. |
 | ![](relics/RockOfEvil.png) | Horrorstone | Boss |  | Gain [E] at the start of your turn. Upon pickup, obtain #b666 #yGold and a random #rBlight. | Holding it fills you with terror. Your drop it, but it writhes back into your pocket. |
@@ -239,7 +237,6 @@
 | ![](creatures/GildedGorgon.png) | Gilded Gorgon |
 | ![](creatures/Grifter.png) | Grifter |
 | ![](creatures/InfectionBeast.png) | Infection Beast |
-| ![](creatures/BeyondKing.png) | King of the Beyond |
 | ![](creatures/LichPhylac.png) | Lich's Phylactery |
 | ![](creatures/Combatant.png) | Mechanical Combatant |
 | ![](creatures/EvilSsserpent.png) | Ssserpent |

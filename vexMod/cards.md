@@ -80,4 +80,3 @@
 | Sloth | ![](small-card-images/Sloth.png) | ![]() | Curse | Curse |  | Unplayable. At the end of your turn, draw 1 less card next turn. |
 | The Ultimate Card | ![](small-card-images/TheUltimateCard.png) | ![]() | Curse | Curse | 1 |  |
 | Virus | ![](small-card-images/Virus.png) | ![]() | Curse | Curse |  | Unplayable. Whenever you draw this card, add a copy of it into your hand. |
-| Weakness | ![](small-card-images/Weakness.png) | ![]() | Curse | Curse |  | Unplayable. Whenever you draw this card, reduce the damage of a random Attack in your hand by 2 this combat. |

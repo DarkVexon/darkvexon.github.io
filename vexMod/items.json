@@ -1,9 +1,9 @@
 {
   "mod": {
     "name": "vexMod",
-    "version": "441123517",
+    "version": "74",
     "authors": ["DarkVexon"],
-    "credits": "Slay the Spire Discord: Ideas, assistance, other help. Spleeninator, Lyman: Relic and enemy art. Raz: VFX inspiration. Rincewind: ZHS translation.",
+    "credits": "Slay the Spire Discord: Ideas, assistance, other help. Spleeninator, Lyman: Relic and enemy art. Raz: VFX \"inspiration\". Rincewind: ZHS translation.",
     "description": "A major content mod.",
     "mts_version": "3.8.0",
     "sts_version": "01-23-2019",
@@ -1242,14 +1242,6 @@
       "type": "Curse",
       "cost": "",
       "description": "Unplayable.\nWhenever you draw this card, add a copy of it into your hand."
-    },
-    {
-      "name": "Weakness",
-      "color": "Curse",
-      "rarity": "Curse",
-      "type": "Curse",
-      "cost": "",
-      "description": "Unplayable.\nWhenever you draw this card, reduce the damage of a random Attack in your hand by 2 this combat."
     }
   ],
   "relics": [
@@ -1590,18 +1582,18 @@
       "flavorText": "It's literally on fire."
     },
     {
-      "name": "Red Plotting Stone",
-      "tier": "Rare",
-      "pool": "",
-      "description": "Glows sometime.\nRight click while glowing for a massive reward.\nRight click while not glowing to lose.",
-      "flavorText": "Great for nefarious plans - as opposed to the Green Plotting Stone."
-    },
-    {
       "name": "Retaliation Kit",
       "tier": "Rare",
       "pool": "Green",
       "description": "The first time your Block is broken each combat, apply 2 Weak to ALL enemies.",
       "flavorText": "All you need to disappear in a burst of smoke! Smoke no longer included."
+    },
+    {
+      "name": "Rose Stone",
+      "tier": "Rare",
+      "pool": "",
+      "description": "Glows sometime.\nRight click while glowing for a massive reward.\nRight click while not glowing to lose.",
+      "flavorText": "Watch for thorns."
     },
     {
       "name": "Starfruit",
@@ -1861,13 +1853,6 @@
       "pool": "Astrologer",
       "description": "Start each combat with 3 Orb slots. Whenever you play a Star, Channel 1 Lightning.",
       "flavorText": "You realize now that every electric volt is a tiny star too."
-    },
-    {
-      "name": "Demotivation-inator",
-      "tier": "Boss",
-      "pool": "Bard_color",
-      "description": "Gain [E] and bard:Inspiration -50 at the start of your turn.",
-      "flavorText": "\"ALL the people in the Tri-State Area will be too lazy to work! MWAHAHAHA!\""
     },
     {
       "name": "Devious Botling",
@@ -2165,12 +2150,6 @@
       "maxHP": "203"
     },
     {
-      "name": "King of the Beyond",
-      "type": "Boss",
-      "minHP": "600",
-      "maxHP": "600"
-    },
-    {
       "name": "Lich's Phylactery",
       "type": "Normal",
       "minHP": "100",
@@ -2185,8 +2164,8 @@
     {
       "name": "Ssserpent",
       "type": "Normal",
-      "minHP": "222",
-      "maxHP": "222"
+      "minHP": "211",
+      "maxHP": "211"
     },
     {
       "name": "Undercity Lichlord",
