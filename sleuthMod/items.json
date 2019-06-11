@@ -193,7 +193,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 6.\nGain 5 Temporary Imagination.\nGain 5 Block.\nPut a card from your hand on top of your draw pile."
+      "description": "Imagination 6.\nGain 4 Temporary Imagination.\nGain 5 Block.\nPut a card from your hand on top of your draw pile."
     },
     {
       "name": "Fortify+",
@@ -201,7 +201,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 6.\nGain 6 Temporary Imagination.\nGain 8 Block.\nPut a card from your hand on top of your draw pile."
+      "description": "Imagination 6.\nGain 5 Temporary Imagination.\nGain 7 Block.\nPut a card from your hand on top of your draw pile."
     },
     {
       "name": "Key/Handgun",
@@ -362,6 +362,22 @@
       "type": "Power",
       "cost": "1",
       "description": "Vim 5.\nWhenever you draw a Curse card, draw 2 cards."
+    },
+    {
+      "name": "Cruet of Brandy",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Imagination 5.\nDiscard your hand.\nGain 1 Temporary Imagination for each card discarded.\nPut a card from your discard pile into your hand."
+    },
+    {
+      "name": "Cruet of Brandy+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Imagination 5.\nDiscard your hand.\nGain 1 Temporary Imagination for each card discarded.\nPut a card from your discard pile into your hand.\nObtain an Imagination Potion."
     },
     {
       "name": "Diamond Armor",
@@ -668,6 +684,22 @@
       "description": "Draw 3 cards.\nPut a card from your discard pile on top of your draw pile.\nLose 1 of each stat."
     },
     {
+      "name": "Torso Flail",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Vim 9.\nPlay a card in your discard pile.\nPurge it."
+    },
+    {
+      "name": "Torso Flail+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Vim 9.\nPlay a card in your discard pile.\nPurge it."
+    },
+    {
       "name": "Treaty",
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
@@ -764,6 +796,22 @@
       "description": "Imagination 5.\nGain 3 Strength.\nWhenever you play an Attack, lose 1 Imagination.\nLose 1 Strength if you cannot pay."
     },
     {
+      "name": "Candy Corn Vampire Form",
+      "color": "Sleuth_gray_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "Pulchritude 15.\nImagination 15.\nGain 5 Malleable.\nYou cannot gain Malleable for the rest of the combat."
+    },
+    {
+      "name": "Candy Corn Vampire Form+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Pulchritude 15.\nImagination 15.\nGain 5 Malleable.\nYou cannot gain Malleable for the rest of the combat."
+    },
+    {
       "name": "Candy Mech",
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
@@ -796,22 +844,6 @@
       "description": "Pulchritude 15.\nYou and ALL enemies gain 2 Intangible.\nYou cannot gain Intangible for the rest of the combat.\nRetain."
     },
     {
-      "name": "Cruet of Brandy",
-      "color": "Sleuth_gray_color",
-      "rarity": "Rare",
-      "type": "Skill",
-      "cost": "1",
-      "description": "Imagination 5.\nDiscard your hand.\nGain 1 Temporary Imagination for each card discarded.\nPut a card from your discard pile into your hand."
-    },
-    {
-      "name": "Cruet of Brandy+",
-      "color": "Sleuth_gray_color",
-      "rarity": "Rare",
-      "type": "Skill",
-      "cost": "1",
-      "description": "Imagination 5.\nDiscard your hand.\nGain 1 Temporary Imagination for each card discarded.\nPut a card from your discard pile into your hand.\nObtain an Imagination Potion."
-    },
-    {
       "name": "Double Take",
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
@@ -828,6 +860,22 @@
       "description": "Imagination 13.\nThe first non-Purge card you play each turn puts a copy of itself on top of your draw pile."
     },
     {
+      "name": "Gummy Worm Zombie Form",
+      "color": "Sleuth_gray_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "Pulchritude 15.\nVim 15.\nAt the end of your turn, gain 1 Block for each card in your hand."
+    },
+    {
+      "name": "Gummy Worm Zombie Form+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Pulchritude 15.\nVim 15.\nAt the end of your turn, gain 1 Block for each card in your hand."
+    },
+    {
       "name": "Hairpin/Machinegun",
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
@@ -842,6 +890,22 @@
       "type": "Attack",
       "cost": "1",
       "description": "Gain 18 Block / Deal 18 damage.\nSwitches form whenever played."
+    },
+    {
+      "name": "Roll Boxcars",
+      "color": "Sleuth_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Add any 1 of the 4 Midnight Cards to your hand.\nLose 1 of each stat.\nExhaust."
+    },
+    {
+      "name": "Roll Boxcars+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Add any 1 of the 4 Midnight Cards to your hand.\nExhaust."
     },
     {
       "name": "Successful Parry",
