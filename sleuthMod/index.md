@@ -13,7 +13,7 @@
 | Belly O' The Whale | ![](small-card-images/BellyOTheWhale.png) | ![](small-card-images/BellyOTheWhalePlus.png) | Common | Attack | 1 | Vim 10. Deal 10(12) damage. Exhaust a random (not random)card in your discard pile. |
 | Candy Corn | ![](small-card-images/CandyCorn.png) | ![](small-card-images/CandyCornPlus.png) | Common | Skill | 1 | If this is in your hand at the end of your turn, gain 3(5) Block. |
 | Charisma Blast | ![](small-card-images/CharismaBlast.png) | ![](small-card-images/CharismaBlastPlus.png) | Common | Attack | 1 | Pulchritude 12. Deal 12(15) damage. |
-| Disconcerting Ogle | ![](small-card-images/DisconcertingOgle.png) | ![](small-card-images/DisconcertingOglePlus.png) | Common | Attack | 1 | Imagination 5. Deal 6 damage. Shift the enemy's intent ahead 1 turn.  (Retain.) |
+| Disconcerting Ogle | ![](small-card-images/DisconcertingOgle.png) | ![](small-card-images/DisconcertingOglePlus.png) | Common | Attack | 1 | Imagination 5. Deal 6 damage. Shift the enemy's intent ahead 1 turn. (Retain.)  Exhaust. |
 | Flask of Whiskey | ![](small-card-images/FlaskofWhiskey.png) | ![](small-card-images/FlaskofWhiskeyPlus.png) | Common | Skill | 1 | Imagination 5. Gain 1 Imagination. Give a random (not random)card in your hand Retain for the rest of combat. Purge. |
 | Flesh Mural | ![](small-card-images/FleshMural.png) | ![](small-card-images/FleshMuralPlus.png) | Common | Skill | 1 | Vim 5. Gain 8 Temporary HP. Shuffle a Wound (Mural) into your draw pile. |
 | Fortify | ![](small-card-images/Fortify.png) | ![](small-card-images/FortifyPlus.png) | Common | Skill | 1 | Gain 4(5) Temporary Imagination. Gain 5(7) Block. Put a card from your hand on top of your draw pile. |
@@ -55,16 +55,16 @@
 | Brass Tacks | ![](small-card-images/BrassTacks.png) | ![](small-card-images/BrassTacksPlus.png) | Rare | Attack | 2 | Pulchritude 15. Deal 14(17) damage to ALL enemies. Discard your hand, then draw that many cards. |
 | Burn Fat | ![](small-card-images/BurnFat.png) | ![](small-card-images/BurnFatPlus.png) | Rare | Skill | X | Lose X Vim. Gain 4(5) Temporary HP for each Vim lost. |
 | Candid Bullets | ![](small-card-images/CandidBullets.png) | ![](small-card-images/CandidBulletsPlus.png) | Rare | Power | 2(1) | Imagination 5. Gain 3 Strength. Whenever you play an Attack, lose 1 Imagination. Lose 1 Strength if you cannot pay. |
-| Candy Corn Vampire Form | ![](small-card-images/CandyCornVampireForm.png) | ![](small-card-images/CandyCornVampireFormPlus.png) | Rare | Power | 2(1) | Pulchritude 15. Imagination 15. Gain 5 Malleable. You cannot gain Malleable for the rest of the combat. |
+| Candy Corn Vampire | ![](small-card-images/CandyCornVampire.png) | ![](small-card-images/CandyCornVampirePlus.png) | Rare | Power | 2(1) | Pulchritude 15. Imagination 15. Gain 5 Malleable. You cannot gain Malleable for the rest of the combat. |
 | Candy Mech | ![](small-card-images/CandyMech.png) | ![](small-card-images/CandyMechPlus.png) | Rare | Attack | 2 | Imagination 15. Gain 15(17) Block. Deal 15(17) damage. Lose 3(2) Imagination. |
 | Ceasefire | ![](small-card-images/Ceasefire.png) | ![](small-card-images/CeasefirePlus.png) | Rare | Power | 2 | Pulchritude 15. You and ALL enemies gain 2 Intangible. You cannot gain Intangible for the rest of the combat.  (Retain.) |
 | Double Take | ![](small-card-images/DoubleTake.png) | ![](small-card-images/DoubleTakePlus.png) | Rare | Power | 2(1) | Imagination 13. The first non-Purge card you play each turn puts a copy of itself on top of your draw pile. |
-| Gummy Worm Zombie Form | ![](small-card-images/GummyWormZombieForm.png) | ![](small-card-images/GummyWormZombieFormPlus.png) | Rare | Power | 2(1) | Pulchritude 15. Vim 15. At the end of your turn, gain 1 Block for each card in your hand. |
+| Gummy Worm Zombie | ![](small-card-images/GummyWormZombie.png) | ![](small-card-images/GummyWormZombiePlus.png) | Rare | Power | 2(1) | Pulchritude 15. Vim 15. At the end of your turn, gain 1 Block for each card in your hand. |
 | Hairpin/Machinegun | ![](small-card-images/HairpinMachinegun.png) | ![](small-card-images/HairpinMachinegunPlus.png) | Rare | Attack | 1 | Gain 15(18) Block / Deal 15(18) damage. Switches form whenever played. |
 | Roll Boxcars | ![](small-card-images/RollBoxcars.png) | ![](small-card-images/RollBoxcarsPlus.png) | Rare | Skill | 1(0) | Add any 1 of the 4 Midnight Cards to your hand. Exhaust. |
 | Successful Parry | ![](small-card-images/SuccessfulParry.png) | ![](small-card-images/SuccessfulParryPlus.png) | Rare | Skill | 3(2) | Vim 1. You cannot have Block this turn. Gain Temporary HP equal to your Vim. Gain 1 Auto-Parry. Purge. |
 | The Zillyhammer | ![](small-card-images/TheZillyhammer.png) | ![](small-card-images/TheZillyhammerPlus.png) | Rare | Attack | 2 | Imagination 20. Deal 25(33) damage to ALL enemies. Lose 5 Imagination. |
-| Weird Puzzle Shit | ![](small-card-images/WeirdPuzzleShit.png) | ![](small-card-images/WeirdPuzzleShitPlus.png) | Rare | Skill | 1 | Pulchritude 16. Costs 1 more for every 2 cards in your draw pile. Cost can not be modified by other means. (not Cost can not be modified by other means.) Add a (an upgraded) Jigsaw into your hand. |
+| Weird Puzzle Shit | ![](small-card-images/WeirdPuzzleShit.png) | ![](small-card-images/WeirdPuzzleShitPlus.png) | Rare | Skill | 1 | Pulchritude 16. Costs 1 more for every 2 cards in your draw pile. Add a (an upgraded) Jigsaw into your hand. |
 
 
 
@@ -84,7 +84,7 @@
 | Image | Name | Rarity | Color | Description | Flavor |
 | ----- | ---- | ------ | ----- | ----------- | ------ |
 | ![](relics/theSleuth-PenAndPaper.png) | Pen and Paper | Starter | Sleuth_gray_color | Stores your statistics. NL #yPulchritude: #b0 NL #yVim: #b0 NL #yImagination: #b0 | For statistical purposes. |
-| ![](relics/theSleuth-Spyglass.png) | Spyglass | Starter | Sleuth_gray_color | You can see the contents of ? rooms. | Your trusty companion. |
+| ![](relics/theSleuth-Spyglass.png) | Sextant | Starter | Sleuth_gray_color | You can see the contents of ? rooms. | Useful for sniping. |
 
 
 

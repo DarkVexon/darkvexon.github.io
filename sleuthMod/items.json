@@ -161,7 +161,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Imagination 5.\nDeal 6 damage.\nShift the enemy's intent ahead 1 turn."
+      "description": "Imagination 5.\nDeal 6 damage.\nShift the enemy's intent ahead 1 turn.\nExhaust."
     },
     {
       "name": "Disconcerting Ogle+",
@@ -169,7 +169,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Imagination 5.\nDeal 6 damage.\nShift the enemy's intent ahead 1 turn.\nRetain."
+      "description": "Imagination 5.\nDeal 6 damage.\nShift the enemy's intent ahead 1 turn.\nRetain.\nExhaust."
     },
     {
       "name": "Flask of Whiskey",
@@ -828,7 +828,7 @@
       "description": "Imagination 5.\nGain 3 Strength.\nWhenever you play an Attack, lose 1 Imagination.\nLose 1 Strength if you cannot pay."
     },
     {
-      "name": "Candy Corn Vampire Form",
+      "name": "Candy Corn Vampire",
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
       "type": "Power",
@@ -836,7 +836,7 @@
       "description": "Pulchritude 15.\nImagination 15.\nGain 5 Malleable.\nYou cannot gain Malleable for the rest of the combat."
     },
     {
-      "name": "Candy Corn Vampire Form+",
+      "name": "Candy Corn Vampire+",
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
       "type": "Power",
@@ -892,7 +892,7 @@
       "description": "Imagination 13.\nThe first non-Purge card you play each turn puts a copy of itself on top of your draw pile."
     },
     {
-      "name": "Gummy Worm Zombie Form",
+      "name": "Gummy Worm Zombie",
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
       "type": "Power",
@@ -900,7 +900,7 @@
       "description": "Pulchritude 15.\nVim 15.\nAt the end of your turn, gain 1 Block for each card in your hand."
     },
     {
-      "name": "Gummy Worm Zombie Form+",
+      "name": "Gummy Worm Zombie+",
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
       "type": "Power",
@@ -977,7 +977,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Pulchritude 16.\nCosts 1 more for every 2 cards in your draw pile.\nCost can not be modified by other means.\nAdd a Jigsaw into your hand."
+      "description": "Pulchritude 16.\nCosts 1 more for every 2 cards in your draw pile.\nAdd a Jigsaw into your hand."
     },
     {
       "name": "Weird Puzzle Shit+",
@@ -997,11 +997,11 @@
       "flavorText": "For statistical purposes."
     },
     {
-      "name": "Spyglass",
+      "name": "Sextant",
       "tier": "Starter",
       "pool": "Sleuth_gray_color",
       "description": "You can see the contents of ? rooms.",
-      "flavorText": "Your trusty companion."
+      "flavorText": "Useful for sniping."
     }
   ],
   "potions": [
