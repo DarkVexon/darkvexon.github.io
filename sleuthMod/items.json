@@ -1,7 +1,7 @@
 {
   "mod": {
     "name": "The Problem Sleuth",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "authors": ["Vex'd and Spleen"],
     "credits": "",
     "description": "Problem Sleuth STS character.",
@@ -16,16 +16,8 @@
       "color": "Curse",
       "rarity": "Curse",
       "type": "Curse",
-      "cost": "0",
-      "description": "If this card enters the discard pile, Exhaust it.\nRetain."
-    },
-    {
-      "name": "WRONG CARDS",
-      "color": "Curse",
-      "rarity": "Curse",
-      "type": "Curse",
-      "cost": "1",
-      "description": "At the end of your turn, shuffle a WRONG CARDS into your draw pile.\nRetain."
+      "cost": "",
+      "description": "Unplayable.\nIf this card enters the discard pile, Exhaust it.\nRetain."
     },
     {
       "name": "Defend",
@@ -49,7 +41,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "1",
-      "description": "Pulchritude 8.\nGain 7 Block.\nDeal 7 damage.\nExhaust a random card in your hand."
+      "description": "Pulchritude 8.\nGain 7 Block.\nDeal 7 damage.\nExhaust a card in your hand."
     },
     {
       "name": "Diplomacy+",
@@ -97,7 +89,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 10 damage.\nPut a copy of this card on top of your draw pile."
+      "description": "Deal 10 damage.\nPut a copy of this card on top of your draw pile.\nExhaust."
     },
     {
       "name": "Jigsaw+",
@@ -105,7 +97,23 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 15 damage.\nPut a copy of this card on top of your draw pile."
+      "description": "Deal 15 damage.\nPut a copy of this card on top of your draw pile.\nExhaust."
+    },
+    {
+      "name": "Key/Handgun",
+      "color": "Sleuth_gray_color",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "1",
+      "description": "If the enemy intends to attack, gain 8 Block.\nOtherwise, deal 8 damage."
+    },
+    {
+      "name": "Key/Handgun+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "1",
+      "description": "If the enemy intends to attack, gain 11 Block.\nOtherwise, deal 11 damage."
     },
     {
       "name": "Belly O' The Whale",
@@ -113,7 +121,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 10.\nDeal 10 damage.\nExhaust a random card in your discard pile."
+      "description": "Vim 10.\nDeal 8 damage.\nExhaust a card in your discard pile."
     },
     {
       "name": "Belly O' The Whale+",
@@ -121,23 +129,39 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 10.\nDeal 12 damage.\nExhaust a card in your discard pile."
+      "description": "Vim 10.\nDeal 11 damage.\nExhaust a card in your discard pile."
+    },
+    {
+      "name": "Bowen Stilson Dogg",
+      "color": "Sleuth_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage.\nIf this card enters your discard or exhaust pile, deal 4 damage to ALL enemies.\nRetain."
+    },
+    {
+      "name": "Bowen Stilson Dogg+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 5 damage.\nIf this card enters your discard or exhaust pile, deal 5 damage to ALL enemies.\nRetain."
     },
     {
       "name": "Candy Corn",
       "color": "Sleuth_gray_color",
       "rarity": "Common",
       "type": "Skill",
-      "cost": "1",
-      "description": "If this is in your hand at the end of your turn, gain 3 Block."
+      "cost": "",
+      "description": "Unplayable.\nAt the end of your turn, gain 3 Block."
     },
     {
       "name": "Candy Corn+",
       "color": "Sleuth_gray_color",
       "rarity": "Common",
       "type": "Skill",
-      "cost": "1",
-      "description": "If this is in your hand at the end of your turn, gain 5 Block."
+      "cost": "",
+      "description": "Unplayable.\nAt the end of your turn, gain 5 Block."
     },
     {
       "name": "Charisma Blast",
@@ -145,7 +169,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Pulchritude 12.\nDeal 12 damage."
+      "description": "Pulchritude 11.\nDeal 11 damage.\nPut the top card of your draw pile into your discard pile."
     },
     {
       "name": "Charisma Blast+",
@@ -153,7 +177,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Pulchritude 12.\nDeal 15 damage."
+      "description": "Pulchritude 11.\nDeal 14 damage.\nPut the top card of your draw pile into your discard pile."
     },
     {
       "name": "Disconcerting Ogle",
@@ -177,14 +201,14 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 5.\nGain 1 Imagination.\nGive a random card in your hand Retain for the rest of combat.\nPurge."
+      "description": "Imagination 5.\nGain 1 Imagination.\nGive a card in your hand Retain for the rest of combat.\nPurge."
     },
     {
       "name": "Flask of Whiskey+",
       "color": "Sleuth_gray_color",
       "rarity": "Common",
       "type": "Skill",
-      "cost": "1",
+      "cost": "0",
       "description": "Imagination 5.\nGain 1 Imagination.\nGive a card in your hand Retain for the rest of combat.\nPurge."
     },
     {
@@ -193,7 +217,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 5.\nGain 8 Temporary HP.\nShuffle a Wound into your draw pile."
+      "description": "Vim 5.\nGain 5 Temporary HP.\nShuffle a Mural into your draw pile."
     },
     {
       "name": "Flesh Mural+",
@@ -209,7 +233,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Temporary Imagination.\nGain 5 Block.\nPut a card from your hand on top of your draw pile."
+      "description": "Gain 3 Temporary Imagination.\nGain 5 Block.\nPut a card from your hand on top of your draw pile."
     },
     {
       "name": "Fortify+",
@@ -217,23 +241,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 5 Temporary Imagination.\nGain 7 Block.\nPut a card from your hand on top of your draw pile."
-    },
-    {
-      "name": "Key/Handgun",
-      "color": "Sleuth_gray_color",
-      "rarity": "Common",
-      "type": "Attack",
-      "cost": "1",
-      "description": "If the enemy intends to attack, gain 8 Block.\nOtherwise, deal 8 damage."
-    },
-    {
-      "name": "Key/Handgun+",
-      "color": "Sleuth_gray_color",
-      "rarity": "Common",
-      "type": "Attack",
-      "cost": "1",
-      "description": "If the enemy intends to attack, gain 11 Block.\nOtherwise, deal 11 damage."
+      "description": "Gain 4 Temporary Imagination.\nGain 7 Block.\nPut a card from your hand on top of your draw pile."
     },
     {
       "name": "Pepperminthryl",
@@ -250,6 +258,22 @@
       "type": "Skill",
       "cost": "1",
       "description": "Imagination 11.\nGain 15 Block.\nLose 1 Imagination."
+    },
+    {
+      "name": "Shuffle Strike",
+      "color": "Sleuth_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.\nPut a card from your draw pile on top of your draw pile."
+    },
+    {
+      "name": "Shuffle Strike+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 12 damage.\nPut a card from your draw pile on top of your draw pile."
     },
     {
       "name": "Silly Spray",
@@ -280,8 +304,8 @@
       "color": "Sleuth_gray_color",
       "rarity": "Common",
       "type": "Skill",
-      "cost": "1",
-      "description": "Imagination 5.\nPlay the top card of your draw pile.\nYou don't need to meet the requirement of a card."
+      "cost": "0",
+      "description": "Imagination 5.\nPlay the top card of your draw pile.\nYou don't need to meet the requirement of an Imagination card."
     },
     {
       "name": "Truffle Shuffle",
@@ -289,7 +313,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 1.\nDeal 8 damage.\nGain 1 Vim.\nGain 1 Auto-Parry.\nPurge."
+      "description": "Deal 8 damage.\nGain 2 Auto-Parry.\nPurge."
     },
     {
       "name": "Truffle Shuffle+",
@@ -297,7 +321,23 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 1.\nDeal 11 damage.\nGain 1 Vim.\nGain 1 Auto-Parry.\nPurge."
+      "description": "Deal 11 damage.\nGain 2 Auto-Parry.\nPurge."
+    },
+    {
+      "name": "Unscale",
+      "color": "Sleuth_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Pulchritude 5.\nYou and ALL enemies lose 4 Strength this turn."
+    },
+    {
+      "name": "Unscale+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Pulchritude 5.\nYou and ALL enemies lose 4 Strength this turn.\nRetain."
     },
     {
       "name": "Victory Pose",
@@ -332,6 +372,22 @@
       "description": "If this card enters your discard or exhaust pile, gain 8 Block.\nRetain."
     },
     {
+      "name": "Aggrieve",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Vim 10.\nImagination 10.\nRemove all Block from the enemy.\nDeal 2 damage 5 times."
+    },
+    {
+      "name": "Aggrieve+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Vim 10.\nImagination 10.\nRemove all Block from ALL enemies.\nDeal 2 damage 5 times."
+    },
+    {
       "name": "Bite Hardly",
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
@@ -353,7 +409,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage 3 times.\nDiscard 1 card.\nLose 1 of each stat."
+      "description": "Deal 4 damage to ALL enemies 3 times.\nDiscard 1 card.\nLose 1 of your highest stat."
     },
     {
       "name": "Club Club Club+",
@@ -361,7 +417,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage 3 times.\nDiscard 1 card.\nLose 1 of each stat."
+      "description": "Deal 5 damage to ALL enemies 3 times.\nDiscard 1 card.\nLose 1 of your highest stat."
     },
     {
       "name": "Conjure",
@@ -380,22 +436,6 @@
       "description": "Imagination 6.\nAdd any Pulchritude or Vim card to your hand.\nIt gains Purge.\nPurge."
     },
     {
-      "name": "Conspicuously Cheat",
-      "color": "Sleuth_gray_color",
-      "rarity": "Uncommon",
-      "type": "Power",
-      "cost": "1",
-      "description": "Vim 5.\nWhenever you draw a Curse card, draw 1 card."
-    },
-    {
-      "name": "Conspicuously Cheat+",
-      "color": "Sleuth_gray_color",
-      "rarity": "Uncommon",
-      "type": "Power",
-      "cost": "1",
-      "description": "Vim 5.\nWhenever you draw a Curse card, draw 2 cards."
-    },
-    {
       "name": "Cruet of Brandy",
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
@@ -408,8 +448,24 @@
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "1",
-      "description": "Imagination 5.\nDiscard your hand.\nGain 1 Temporary Imagination for each card discarded.\nPut a card from your discard pile into your hand.\nObtain an Imagination Potion."
+      "cost": "0",
+      "description": "Imagination 5.\nDiscard your hand.\nGain 1 Temporary Imagination for each card discarded.\nPut a card from your discard pile into your hand."
+    },
+    {
+      "name": "Dashy Dodge",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "X",
+      "description": "Pulchritude 5.\nGain 6 Block X times.\nPut the top X cards of your draw pile into your discard pile."
+    },
+    {
+      "name": "Dashy Dodge+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "X",
+      "description": "Pulchritude 5.\nGain 6 Block X+1 times.\nPut the top X+1 cards of your draw pile into your discard pile."
     },
     {
       "name": "Diamond Armor",
@@ -417,7 +473,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 16 Block.\nLose 1 of each stat."
+      "description": "Gain 13 Block.\nLose 1 of your highest stat."
     },
     {
       "name": "Diamond Armor+",
@@ -425,7 +481,23 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 20 Block.\nLose 1 of each stat."
+      "description": "Gain 16 Block.\nLose 1 of your highest stat."
+    },
+    {
+      "name": "Disregard Rules",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you draw a Curse card, draw 1 card."
+    },
+    {
+      "name": "Disregard Rules+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you draw a Curse card, draw 2 cards."
     },
     {
       "name": "Distill",
@@ -433,15 +505,15 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 5.\nLose 1 HP.\nObtain a random potion.\nGain 1 Auto-Parry.\nPurge."
+      "description": "Vim 5.\nLose 3 HP.\nObtain a random potion.\nPurge."
     },
     {
       "name": "Distill+",
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "1",
-      "description": "Vim 5.\nLose 4 HP.\nObtain 2 random potions.\nGain 1 Auto-Parry.\nPurge."
+      "cost": "0",
+      "description": "Vim 5.\nLose 3 HP.\nObtain a random potion.\nPurge."
     },
     {
       "name": "Double Dip",
@@ -497,7 +569,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 5.\nApply 2 Weak.\nApply 2 Vulnerable.\nAdd a WRONG CARDS to your hand."
+      "description": "Vim 5.\nApply 2 Weak.\nApply 2 Vulnerable.\nPut a Mural on top of your draw pile."
     },
     {
       "name": "Embarrass+",
@@ -505,7 +577,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 5.\nApply 3 Weak.\nApply 3 Vulnerable.\nAdd a WRONG CARDS to your hand."
+      "description": "Vim 5.\nApply 3 Weak.\nApply 3 Vulnerable.\nPut a Mural on top of your draw pile."
     },
     {
       "name": "Fair Shake",
@@ -577,7 +649,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\nApply 2 Weak.\nApply 2 Vulnerable.\nLose 1 of each stat."
+      "description": "Deal 8 damage.\nApply 2 Weak.\nApply 2 Vulnerable.\nLose 1 of your highest stat."
     },
     {
       "name": "Heart Stab+",
@@ -585,7 +657,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 13 damage.\nApply 3 Weak.\nApply 3 Vulnerable.\nLose 1 of each stat."
+      "description": "Deal 10 damage.\nApply 3 Weak.\nApply 3 Vulnerable.\nLose 1 of your highest stat."
     },
     {
       "name": "Keyring/Tommygun",
@@ -593,7 +665,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 12 Block / Deal 12 damage.\nSwitches form at the start of your turn."
+      "description": "Gain 12 Block / Deal 4 damage 3 times.\nSwitches form at the start of your turn."
     },
     {
       "name": "Keyring/Tommygun+",
@@ -601,7 +673,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 15 Block / Deal 15 damage.\nSwitches form at the start of your turn."
+      "description": "Gain 15 Block / Deal 5 damage 3 times.\nSwitches form at the start of your turn."
     },
     {
       "name": "Lollipop Whop",
@@ -641,7 +713,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 5.\nLose 1 HP.\nObtain 1 Ancient Potion.\nGain 1 Auto-Parry.\nPurge."
+      "description": "Vim 5.\nGain 1 Artifact.\nGain 1 Auto-Parry.\nPurge."
     },
     {
       "name": "Parry+",
@@ -649,7 +721,23 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 5.\nLose 6 HP.\nObtain 1 Ancient Potion.\nObtain 1 Block Potion.\nGain 1 Auto-Parry.\nPurge."
+      "description": "Vim 5.\nGain 2 Artifact.\nGain 1 Auto-Parry.\nPurge."
+    },
+    {
+      "name": "Reprogram",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Look at the top 4 cards of your draw pile. You may discard any of them."
+    },
+    {
+      "name": "Reprogram+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Look at the top 6 cards of your draw pile. You may discard any of them."
     },
     {
       "name": "Retain Return",
@@ -673,7 +761,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Add a Handgun into your hand.\nPut a Handgun on top of your draw pile.\nExhaustive 2."
+      "description": "Add a Key/Handgun into your hand.\nPut a Key/Handgun on top of your draw pile.\nExhaust."
     },
     {
       "name": "Retrieve Arms+",
@@ -681,7 +769,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Add an upgraded Handgun into your hand.\nPut an upgraded Handgun on top of your draw pile.\nExhaustive 2."
+      "description": "Add an upgraded Key/Handgun into your hand.\nPut an upgraded Key/Handgun on top of your draw pile.\nExhaust."
     },
     {
       "name": "Snoop Dogg Bust",
@@ -704,8 +792,8 @@
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "0",
-      "description": "Put 1 card from your draw pile into your hand.\nPut a card from your discard pile on top of your draw pile.\nLose 1 of each stat."
+      "cost": "1",
+      "description": "Put 1 card from your draw pile into your hand.\nPut a card from your discard pile on top of your draw pile.\nLose 1 of your highest stat."
     },
     {
       "name": "Spade Dig+",
@@ -713,7 +801,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Put 2 cards from your draw pile into your hand.\nPut a card from your discard pile on top of your draw pile.\nLose 1 of each stat."
+      "description": "Put 1 card from your draw pile into your hand.\nPut a card from your discard pile on top of your draw pile.\nLose 1 of your highest stat."
     },
     {
       "name": "Torso Flail",
@@ -737,7 +825,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Pulchritude 10.\nYou and the enemy cannot gain buffs for 1 turn."
+      "description": "Pulchritude 10.\nYou and the enemy cannot gain buffs for 1 turn.\nRetain."
     },
     {
       "name": "Treaty+",
@@ -745,7 +833,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Pulchritude 10.\nYou and the enemy cannot gain buffs for 1 turn.\nRetain."
+      "description": "Pulchritude 10.\nYou and ALL enemies cannot gain buffs for 1 turn.\nRetain."
     },
     {
       "name": "Triple Scuffle",
@@ -817,7 +905,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Imagination 5.\nGain 3 Strength.\nWhenever you play an Attack, lose 1 Imagination.\nLose 1 Strength if you cannot pay."
+      "description": "Imagination 5.\nGain 4 Strength.\nWhenever you play an Attack, lose 1 Imagination.\nLose 1 Strength if you cannot pay."
     },
     {
       "name": "Candid Bullets+",
@@ -825,7 +913,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Imagination 5.\nGain 3 Strength.\nWhenever you play an Attack, lose 1 Imagination.\nLose 1 Strength if you cannot pay."
+      "description": "Imagination 5.\nGain 4 Strength.\nWhenever you play an Attack, lose 1 Imagination.\nLose 1 Strength if you cannot pay."
     },
     {
       "name": "Candy Corn Vampire",
@@ -849,7 +937,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Imagination 15.\nGain 15 Block.\nDeal 15 damage.\nLose 3 Imagination."
+      "description": "Imagination 15.\nGain 16 Block.\nDeal 16 damage.\nLose 3 Imagination."
     },
     {
       "name": "Candy Mech+",
@@ -857,7 +945,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Imagination 15.\nGain 17 Block.\nDeal 17 damage.\nLose 2 Imagination."
+      "description": "Imagination 15.\nGain 18 Block.\nDeal 18 damage.\nLose 2 Imagination."
     },
     {
       "name": "Ceasefire",
@@ -913,7 +1001,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 15 Block / Deal 15 damage.\nSwitches form whenever played."
+      "description": "Gain 15 Block / Deal 5 damage 3 times.\nSwitches form whenever played."
     },
     {
       "name": "Hairpin/Machinegun+",
@@ -921,7 +1009,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 18 Block / Deal 18 damage.\nSwitches form whenever played."
+      "description": "Gain 18 Block / Deal 6 damage 3 times.\nSwitches form whenever played."
     },
     {
       "name": "Roll Boxcars",
@@ -945,7 +1033,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Vim 1.\nYou cannot have Block this turn.\nGain Temporary HP equal to your Vim.\nGain 1 Auto-Parry.\nPurge."
+      "description": "You cannot have Block this turn.\nGain Temporary HP equal to your Vim.\nGain 1 Auto-Parry.\nPurge."
     },
     {
       "name": "Successful Parry+",
@@ -953,7 +1041,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Vim 1.\nYou cannot have Block this turn.\nGain Temporary HP equal to your Vim.\nGain 1 Auto-Parry.\nPurge."
+      "description": "You cannot have Block this turn.\nGain Temporary HP equal to your Vim.\nGain 1 Auto-Parry.\nPurge."
     },
     {
       "name": "The Zillyhammer",
@@ -990,13 +1078,6 @@
   ],
   "relics": [
     {
-      "name": "Pen and Paper",
-      "tier": "Starter",
-      "pool": "Sleuth_gray_color",
-      "description": "Stores your statistics.\nPulchritude: 0\nVim: 0\nImagination: 0",
-      "flavorText": "For statistical purposes."
-    },
-    {
       "name": "Sextant",
       "tier": "Starter",
       "pool": "Sleuth_gray_color",
@@ -1005,11 +1086,6 @@
     }
   ],
   "potions": [
-    {
-      "name": "Imagination Potion",
-      "rarity": "Placeholder",
-      "description": "Gain 5 Temporary Imagination."
-    }
   ],
   "creatures": [
     {
@@ -1029,8 +1105,16 @@
       "description": "Imaginary statistic. If you have enough Imagination, a Imagination card will use its effects. Otherwise, it will cost 0, Retain, Purge, and give you 1 point of Imagination permanently."
     },
     {
+      "name": "Mural",
+      "description": "Murals are Unplayable Curse cards that stay in your hand and Exhaust when discarded."
+    },
+    {
       "name": "Pulchritude",
       "description": "Charismatic statistic. If you have enough Pulchritude, a Pulchritude card will use its effects. Otherwise, it will cost 0, Retain, Purge, and give you 1 point of Pulchritude permanently."
+    },
+    {
+      "name": "Temporary imagination",
+      "description": "Temporary Imagination is Imagination that can be gained easily but is removed at the end of combat."
     },
     {
       "name": "Vim",
