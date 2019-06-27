@@ -340,7 +340,7 @@
       "description": "Imagination 5.\nPlay the top card of your draw pile.\nYou don't need to meet the requirement of an Imagination card."
     },
     {
-      "name": "Toot Shotgun",
+      "name": "Tootsie Shotgun",
       "color": "Sleuth_gray_color",
       "rarity": "Common",
       "type": "Attack",
@@ -348,7 +348,7 @@
       "description": "Vim 3.\nDeal 5 damage twice.\nDamage is increased by Auto-Parry as well as Strength."
     },
     {
-      "name": "Toot Shotgun+",
+      "name": "Tootsie Shotgun+",
       "color": "Sleuth_gray_color",
       "rarity": "Common",
       "type": "Attack",

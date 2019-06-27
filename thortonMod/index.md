@@ -12,12 +12,12 @@
 | Business Card | ![](small-card-images/BusinessCard.png) | ![](small-card-images/BusinessCardPlus.png) | Common | Skill | 0 | After you play !thethorton:RUN! Business Cards, obtain a Relic. (Draw 1 card.)  Exhaust. |
 | Cash Bash | ![](small-card-images/CashBash.png) | ![](small-card-images/CashBashPlus.png) | Common | Attack | 1 | Gain 3(4) Gold. Deal 6(8) damage. Exhaust. |
 | Distance | ![](small-card-images/Distance.png) | ![](small-card-images/DistancePlus.png) | Common | Skill | 1 | Gain 3(5) Block. Apply 1 Weak to ALL enemies. |
-| Down Payment | ![](small-card-images/DownPayment.png) | ![](small-card-images/DownPaymentPlus.png) | Common | Skill | 1 | Gain 3(4) Block. Gain 3(4) Block and [E] next turn. |
+| Down Payment | ![](small-card-images/DownPayment.png) | ![](small-card-images/DownPaymentPlus.png) | Common | Skill | 1 | Gain 3(4) Block. Next turn, gain 3(4) Block and [E] . |
 | Dual Bap | ![](small-card-images/DualBap.png) | ![](small-card-images/DualBapPlus.png) | Common | Attack | 1 | Deal 4(6) damage twice. |
 | Elbow Nudge | ![](small-card-images/ElbowNudge.png) | ![](small-card-images/ElbowNudgePlus.png) | Common | Attack | 1 | Deal 9(12) damage. |
 | Fearful Run | ![](small-card-images/FearfulRun.png) | ![](small-card-images/FearfulRunPlus.png) | Common | Skill | 1 | Gain 7(10) Block. Run !thethorton:RUN!. |
 | Gold Buffer | ![](small-card-images/GoldBuffer.png) | ![](small-card-images/GoldBufferPlus.png) | Common | Skill | 1 | Gain 7(10) Block. Gain 1 Block for each 100 Gold you have. |
-| Hit Ahead | ![](small-card-images/HitAhead.png) | ![](small-card-images/HitAheadPlus.png) | Common | Attack | 1 | Deal 7(10) damage. Gain [E] next turn. |
+| Hit Ahead | ![](small-card-images/HitAhead.png) | ![](small-card-images/HitAheadPlus.png) | Common | Attack | 1 | Deal 7(10) damage. Next turn, gain [E] . |
 | Long Term Payoff | ![](small-card-images/LongTermPayoff.png) | ![](small-card-images/LongTermPayoffPlus.png) | Common | Skill | 1 | At the start of each of your turns, deal 2(3) damage to ALL enemies. |
 | Pocket Change | ![](small-card-images/PocketChange.png) | ![](small-card-images/PocketChangePlus.png) | Common | Skill | 0 | Gain 1(2) Gold. Draw 1 card. Exhaust. |
 | Running Kick | ![](small-card-images/RunningKick.png) | ![](small-card-images/RunningKickPlus.png) | Common | Attack | 1 | Deal 8(11) damage. Run !thethorton:RUN!. |
@@ -40,8 +40,8 @@
 | Desperate Run | ![](small-card-images/DesperateRun.png) | ![](small-card-images/DesperateRunPlus.png) | Uncommon | Skill | 1 | Draw 3(4) cards. Run !thethorton:RUN!. |
 | Dock Pay | ![](small-card-images/DockPay.png) | ![](small-card-images/DockPayPlus.png) | Uncommon | Attack | 1 | Deal 7(9) damage. Enemy loses 2(4) Strength this turn. |
 | Focus Strength | ![](small-card-images/FocusStrength.png) | ![](small-card-images/FocusStrengthPlus.png) | Uncommon | Skill | 1(0) | Gain 1 Strength. End the turn. |
-| Hedge Fund | ![](small-card-images/HedgeFund.png) | ![](small-card-images/HedgeFundPlus.png) | Uncommon | Attack | 1 | Deal 12(15) damage. Draw 1 less card next turn. |
-| Hindsight | ![](small-card-images/Hindsight.png) | ![](small-card-images/HindsightPlus.png) | Uncommon | Skill | 1 | Gain 3(5) Block next turn. Put a card from your discard pile into your hand. |
+| Hedge Fund | ![](small-card-images/HedgeFund.png) | ![](small-card-images/HedgeFundPlus.png) | Uncommon | Attack | 1 | Deal 12(15) damage. Next turn, draw 1 less card. |
+| Hindsight | ![](small-card-images/Hindsight.png) | ![](small-card-images/HindsightPlus.png) | Uncommon | Skill | 1 | Next turn, gain 3(5) Block. Put a card from your discard pile into your hand. |
 | Investment | ![](small-card-images/Investment.png) | ![](small-card-images/InvestmentPlus.png) | Uncommon | Skill | 2(1) | After you play !thethorton:RUN! Investments, obtain a Relic. Exhaust. |
 | Last Ditch Effort | ![](small-card-images/LastDitchEffort.png) | ![](small-card-images/LastDitchEffortPlus.png) | Uncommon | Attack | 2 | Deal 13(17) damage. If you have less than 50 HP, deal 13(17) damage. If you have less than 20 HP, deal 13(17) damage. |
 | Long Day's Work | ![](small-card-images/LongDaysWork.png) | ![](small-card-images/LongDaysWorkPlus.png) | Uncommon | Attack | 1 | Deal 7(10) damage. Draw 1 card. Exhaust a card in your hand. |
@@ -52,7 +52,7 @@
 | ROI | ![](small-card-images/ROI.png) | ![](small-card-images/ROIPlus.png) | Uncommon | Skill | 2(1) | Gain 12 Gold. Exhaust. |
 | Rebalance | ![](small-card-images/Rebalance.png) | ![](small-card-images/RebalancePlus.png) | Uncommon | Skill | 2(1) | Gain 1 Strength. ALL enemies lose 1 Strength. Exhaustive !stslib:ex!. |
 | Rich Run | ![](small-card-images/RichRun.png) | ![](small-card-images/RichRunPlus.png) | Uncommon | Skill | 1(0) | Gain 6 Gold. Run !thethorton:RUN!. Exhaust. |
-| Run Run | ![](small-card-images/RunRun.png) | ![](small-card-images/RunRunPlus.png) | Uncommon | Skill | 1 | Run !thethorton:RUN!. |
+| Run Run | ![](small-card-images/RunRun.png) | ![](small-card-images/RunRunPlus.png) | Uncommon | Skill | 1 | Run !thethorton:RUN!. Reduce the Run amount of ALL Run cards by 1 this combat. |
 | Running Feint | ![](small-card-images/RunningFeint.png) | ![](small-card-images/RunningFeintPlus.png) | Uncommon | Skill | 1 | Apply 2(3) Vulnerable. Run !thethorton:RUN!. |
 | Seeing Double | ![](small-card-images/SeeingDouble.png) | ![](small-card-images/SeeingDoublePlus.png) | Uncommon | Skill | 2(1) | Choose a card. Add a copy of that card into your hand. Shuffle a copy of that card into your draw pile. |
 | Snow Day | ![](small-card-images/SnowDay.png) | ![](small-card-images/SnowDayPlus.png) | Uncommon | Skill | 1 | Channel 1 Frost. Exhaust (Exhaustive !stslib:ex!). |
@@ -65,13 +65,13 @@
 | Call Of Commerce | ![](small-card-images/CallOfCommerce.png) | ![](small-card-images/CallOfCommercePlus.png) | Rare | Skill | 3(2) | Ethereal. The next ? room you enter contains a shop. Exhaust. |
 | Cardboard Box | ![](small-card-images/CardboardBox.png) | ![](small-card-images/CardboardBoxPlus.png) | Rare | Power | 2(1) | Gain 1 Intangible. |
 | Coward Form | ![](small-card-images/CowardForm.png) | ![](small-card-images/CowardFormPlus.png) | Rare | Power | 3 | Grave. Ethereal. (not Ethereal.) At the start of your turn, play a random card with "run" in its name. |
-| Dodge & Roll & Run | ![](small-card-images/Dodge&Roll&Run.png) | ![](small-card-images/Dodge&Roll&RunPlus.png) | Rare | Skill | 2 | Gain 9(11) Block. Gain 9(11) Block next turn. Run !thethorton:RUN!. |
+| Dodge & Roll & Run | ![](small-card-images/Dodge&Roll&Run.png) | ![](small-card-images/Dodge&Roll&RunPlus.png) | Rare | Skill | 2 | Gain 9(11) Block. Next turn, gain 9(11) Block. Run !thethorton:RUN!. |
 | Escape! | ![](small-card-images/Escape!.png) | ![](small-card-images/Escape!Plus.png) | Rare | Skill | 3 | (Gain 10 Block.)  50% chance to escape combat. Exhaustive !stslib:ex!. |
 | Fair Trade | ![](small-card-images/FairTrade.png) | ![](small-card-images/FairTradePlus.png) | Rare | Skill | 1(0) | Exhaust a card in your hand. Put a card from your exhaust pile into your hand. Exhaust. |
 | Fatigue | ![](small-card-images/Fatigue.png) | ![](small-card-images/FatiguePlus.png) | Rare | Skill | 2(1) | Apply Weak equal to your held Gold. Exhaust. |
 | Fish | ![](small-card-images/Fish.png) | ![](small-card-images/FishPlus.png) | Rare | Skill | (4) | Ethereal. Can only (Cost cannot) be played if you've Gathered 6 different Pyro_Buddies this combat (modified). Ingest two Sync_Boons and gain 2 Boost_Points (Obtain a Relic).  (Exhaust.) |
 | Fortune | ![](small-card-images/Fortune.png) | ![](small-card-images/FortunePlus.png) | Rare | Skill | X | Gain X0 Gold. (Gain [E].)  Exhaust. |
-| Hexaghostify | ![](small-card-images/Hexaghostify.png) | ![](small-card-images/HexaghostifyPlus.png) | Rare | Skill | 3(2) | Enemy becomes a Hexaghost. Exhaust. |
+| Hexaghostify | ![](small-card-images/Hexaghostify.png) | ![](small-card-images/HexaghostifyPlus.png) | Rare | Skill | 3 | Enemy becomes a (ALL enemies become) Hexaghost(s). Exhaust. |
 | Penny Toss | ![](small-card-images/PennyToss.png) | ![](small-card-images/PennyTossPlus.png) | Rare | Skill | 0 | (Gain 2 Block.)  Draw 2 cards. |
 | Portfolio | ![](small-card-images/Portfolio.png) | ![](small-card-images/PortfolioPlus.png) | Rare | Skill | 2 | Shuffle 2 (upgraded) Business Cards and 1 (upgraded) Investment into your draw pile. Exhaust. |
 | Scaling Is Win | ![](small-card-images/ScalingIsWin.png) | ![](small-card-images/ScalingIsWinPlus.png) | Rare | Power | 2(1) | At the start of your turn, gain 1 Strength and draw 1 additional card. |
@@ -95,7 +95,7 @@
 
 | Image | Name | Rarity | Color | Description | Flavor |
 | ----- | ---- | ------ | ----- | ----------- | ------ |
-| ![](relics/thethorton-CouragePotion.png) | Potion of Courage | Special | Default_gray_color | Start each Elite combat with #b3 #yStrength. | Drink in emergencies. |
+| ![](relics/thethorton-CouragePotion.png) | Potion of Courage | Starter | Default_gray_color | Start each Elite combat with #b3 #yStrength. | Drink in emergencies. |
 
 
 

@@ -24,7 +24,7 @@
 | Pez Uzi | ![](small-card-images/PezUzi.png) | ![](small-card-images/PezUziPlus.png) | Common | Attack | 1 | Imagination 3. Deal 7(9) damage to ALL enemies. Gain 1(2) Temporary Imagination. |
 | Taze | ![](small-card-images/Taze.png) | ![](small-card-images/TazePlus.png) | Common | Attack | 1 | Deal 9(12) damage. Put a card from your draw pile on top of your draw pile. |
 | Think Ahead | ![](small-card-images/ThinkAhead.png) | ![](small-card-images/ThinkAheadPlus.png) | Common | Skill | 1(0) | Imagination 5. Play the top card of your draw pile. You don't need to meet the requirement of an Imagination card. |
-| Toot Shotgun | ![](small-card-images/TootShotgun.png) | ![](small-card-images/TootShotgunPlus.png) | Common | Attack | 1 | Vim 3. Deal 5(7) damage twice. Damage is increased by Auto-Parry as well as Strength. |
+| Tootsie Shotgun | ![](small-card-images/TootsieShotgun.png) | ![](small-card-images/TootsieShotgunPlus.png) | Common | Attack | 1 | Vim 3. Deal 5(7) damage twice. Damage is increased by Auto-Parry as well as Strength. |
 | Truffle Shuffle | ![](small-card-images/TruffleShuffle.png) | ![](small-card-images/TruffleShufflePlus.png) | Common | Attack | 1 | Vim 1. Deal 8(11) damage. Gain 2 Auto-Parry. Purge. |
 | Unscale | ![](small-card-images/Unscale.png) | ![](small-card-images/UnscalePlus.png) | Common | Skill | 0 | Pulchritude 5. You and ALL enemies lose 4 Strength this turn.  (Retain.) |
 | Victory Pose | ![](small-card-images/VictoryPose.png) | ![](small-card-images/VictoryPosePlus.png) | Common | Skill | 1 | Gain 8(11) Block. Gain 2(4) more if an enemy has been slain this combat. |

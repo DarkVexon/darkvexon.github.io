@@ -1,10 +1,10 @@
 {
   "mod": {
     "name": "thorton",
-    "version": "5000",
-    "authors": ["Gremious"],
+    "version": "7683",
+    "authors": ["Vex in one day"],
     "credits": "",
-    "description": "A ssdfsdf",
+    "description": "A dude lol",
     "mts_version": "3.8.0",
     "sts_version": "01-23-2019",
     "dependencies": ["basemod","stslib"],
@@ -161,7 +161,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 3 Block.\nGain 3 Block and [E] next turn."
+      "description": "Gain 3 Block.\nNext turn, gain 3 Block and [E] ."
     },
     {
       "name": "Down Payment+",
@@ -169,7 +169,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Block.\nGain 4 Block and [E] next turn."
+      "description": "Gain 4 Block.\nNext turn, gain 4 Block and [E] ."
     },
     {
       "name": "Dual Bap",
@@ -241,7 +241,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage.\nGain [E] next turn."
+      "description": "Deal 7 damage.\nNext turn, gain [E] ."
     },
     {
       "name": "Hit Ahead+",
@@ -249,7 +249,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\nGain [E] next turn."
+      "description": "Deal 10 damage.\nNext turn, gain [E] ."
     },
     {
       "name": "Long Term Payoff",
@@ -609,7 +609,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 12 damage.\nDraw 1 less card next turn."
+      "description": "Deal 12 damage.\nNext turn, draw 1 less card."
     },
     {
       "name": "Hedge Fund+",
@@ -617,7 +617,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 15 damage.\nDraw 1 less card next turn."
+      "description": "Deal 15 damage.\nNext turn, draw 1 less card."
     },
     {
       "name": "Hindsight",
@@ -625,7 +625,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 3 Block next turn.\nPut a card from your discard pile into your hand."
+      "description": "Next turn, gain 3 Block.\nPut a card from your discard pile into your hand."
     },
     {
       "name": "Hindsight+",
@@ -633,7 +633,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 5 Block next turn.\nPut a card from your discard pile into your hand."
+      "description": "Next turn, gain 5 Block.\nPut a card from your discard pile into your hand."
     },
     {
       "name": "Investment",
@@ -801,7 +801,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Run !thethorton:RUN!."
+      "description": "Run !thethorton:RUN!.\nReduce the Run amount of ALL Run cards by 1 this combat."
     },
     {
       "name": "Run Run+",
@@ -809,7 +809,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Run !thethorton:RUN!."
+      "description": "Run !thethorton:RUN!.\nReduce the Run amount of ALL Run cards by 1 this combat."
     },
     {
       "name": "Running Feint",
@@ -1009,7 +1009,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 9 Block.\nGain 9 Block next turn.\nRun !thethorton:RUN!."
+      "description": "Gain 9 Block.\nNext turn, gain 9 Block.\nRun !thethorton:RUN!."
     },
     {
       "name": "Dodge & Roll & Run+",
@@ -1017,7 +1017,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 11 Block.\nGain 11 Block next turn.\nRun !thethorton:RUN!."
+      "description": "Gain 11 Block.\nNext turn, gain 11 Block.\nRun !thethorton:RUN!."
     },
     {
       "name": "Escape!",
@@ -1112,8 +1112,8 @@
       "color": "Default_gray_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "2",
-      "description": "Enemy becomes a Hexaghost.\nExhaust."
+      "cost": "3",
+      "description": "ALL enemies become Hexaghosts.\nExhaust."
     },
     {
       "name": "Penny Toss",
@@ -1215,7 +1215,7 @@
   "relics": [
     {
       "name": "Potion of Courage",
-      "tier": "Special",
+      "tier": "Starter",
       "pool": "Default_gray_color",
       "description": "Start each Elite combat with 3 Strength.",
       "flavorText": "Drink in emergencies."
@@ -1238,7 +1238,7 @@
     },
     {
       "name": "Run",
-      "description": "Whenever you play a card with Run, reduce the Run amount of ALL Run cards by 1. When you play a card with Run 1, escape combat with all rewards and raise the base Run amount of ALL cards by 1."
+      "description": "Whenever you play a card with Run, reduce the Run amount of ALL Run cards by 1 this combat. When you play a card with Run 1, escape combat with all rewards and raise the base Run amount of ALL cards by 1. Running in boss fights deals 75 damage to all enemies instead."
     },
     {
       "name": "Boost points",
