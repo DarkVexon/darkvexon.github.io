@@ -13,9 +13,9 @@
   "cards": [
     {
       "name": "Mural",
-      "color": "Curse",
-      "rarity": "Curse",
-      "type": "Curse",
+      "color": "Colorless",
+      "rarity": "Common",
+      "type": "Status",
       "cost": "",
       "description": "Unplayable.\nIf this card enters the discard pile, Exhaust it.\nRetain."
     },
@@ -84,22 +84,6 @@
       "description": "Draw 2 cards.\nRetain your hand this turn."
     },
     {
-      "name": "Jigsaw",
-      "color": "Sleuth_gray_color",
-      "rarity": "Special",
-      "type": "Attack",
-      "cost": "0",
-      "description": "Deal 10 damage.\nPut a copy of this card on top of your draw pile.\nExhaust."
-    },
-    {
-      "name": "Jigsaw+",
-      "color": "Sleuth_gray_color",
-      "rarity": "Special",
-      "type": "Attack",
-      "cost": "0",
-      "description": "Deal 15 damage.\nPut a copy of this card on top of your draw pile.\nExhaust."
-    },
-    {
       "name": "Key/Handgun",
       "color": "Sleuth_gray_color",
       "rarity": "Special",
@@ -114,6 +98,22 @@
       "type": "Attack",
       "cost": "1",
       "description": "If the enemy intends to attack, gain 11 Block.\nOtherwise, deal 11 damage."
+    },
+    {
+      "name": "Moustache Fire",
+      "color": "Sleuth_gray_color",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 10 damage.\nPut a copy of this card on top of your draw pile.\nExhaust."
+    },
+    {
+      "name": "Moustache Fire+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 15 damage.\nPut a copy of this card on top of your draw pile.\nExhaust."
     },
     {
       "name": "Belly O' The Whale",
@@ -404,22 +404,6 @@
       "description": "If this card enters your discard or exhaust pile, gain 8 Block.\nRetain."
     },
     {
-      "name": "Aggrieve",
-      "color": "Sleuth_gray_color",
-      "rarity": "Uncommon",
-      "type": "Attack",
-      "cost": "1",
-      "description": "Vim 10.\nImagination 10.\nRemove all Block from the enemy.\nDeal 2 damage 5 times."
-    },
-    {
-      "name": "Aggrieve+",
-      "color": "Sleuth_gray_color",
-      "rarity": "Uncommon",
-      "type": "Attack",
-      "cost": "1",
-      "description": "Vim 10.\nImagination 10.\nRemove all Block from ALL enemies.\nDeal 2 damage 5 times."
-    },
-    {
       "name": "Bite Hardly",
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
@@ -594,22 +578,6 @@
       "type": "Skill",
       "cost": "0",
       "description": "Vim 5.\nLose 1 HP.\nObtain a random potion.\nGain 1 Auto-Parry.\nPurge."
-    },
-    {
-      "name": "Double Dip",
-      "color": "Sleuth_gray_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "2",
-      "description": "Imagination 9.\nPlay the top card of your draw pile twice.\nPurge it."
-    },
-    {
-      "name": "Double Dip+",
-      "color": "Sleuth_gray_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "1",
-      "description": "Imagination 9.\nPlay the top card of your draw pile twice.\nPurge it."
     },
     {
       "name": "Duplicate",
@@ -802,6 +770,22 @@
       "type": "Attack",
       "cost": "1",
       "description": "Gain 15 Block / Deal 5 damage 3 times.\nSwitches form at the start of your turn."
+    },
+    {
+      "name": "Leer",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Vim 10.\nImagination 10.\nRemove all Block from the enemy.\nDeal 2 damage 5 times."
+    },
+    {
+      "name": "Leer+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Vim 10.\nImagination 10.\nRemove all Block from ALL enemies.\nDeal 2 damage 5 times."
     },
     {
       "name": "Opportunity Cost",
@@ -1012,6 +996,22 @@
       "description": "Pulchritude 10.\nYou and ALL enemies lose 1 stack of all debuffs.\nRetain."
     },
     {
+      "name": "Wizard's Sudoku",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Imagination 9.\nPlay the top card of your draw pile twice.\nPurge it."
+    },
+    {
+      "name": "Wizard's Sudoku+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Imagination 9.\nPlay the top card of your draw pile twice.\nPurge it."
+    },
+    {
       "name": "Brass Tacks",
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
@@ -1060,22 +1060,6 @@
       "description": "Imagination 5.\nGain 4 Strength.\nWhenever you play an Attack, lose 1 Imagination.\nLose 1 Strength if you cannot pay."
     },
     {
-      "name": "Candy Corn Vampire",
-      "color": "Sleuth_gray_color",
-      "rarity": "Rare",
-      "type": "Power",
-      "cost": "2",
-      "description": "Pulchritude 15.\nImagination 15.\nGain 5 Malleable.\nYou cannot gain Malleable for the rest of the combat."
-    },
-    {
-      "name": "Candy Corn Vampire+",
-      "color": "Sleuth_gray_color",
-      "rarity": "Rare",
-      "type": "Power",
-      "cost": "1",
-      "description": "Pulchritude 15.\nImagination 15.\nGain 5 Malleable.\nYou cannot gain Malleable for the rest of the combat."
-    },
-    {
       "name": "Candy Mech",
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
@@ -1090,6 +1074,22 @@
       "type": "Attack",
       "cost": "2",
       "description": "Imagination 10.\nGain 16 Block.\nDeal 16 damage.\nLose 2 Imagination."
+    },
+    {
+      "name": "Candycorn Vampire",
+      "color": "Sleuth_gray_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "Pulchritude 15.\nImagination 15.\nGain 5 Malleable.\nYou cannot gain Malleable for the rest of the combat."
+    },
+    {
+      "name": "Candycorn Vampire+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Pulchritude 15.\nImagination 15.\nGain 5 Malleable.\nYou cannot gain Malleable for the rest of the combat."
     },
     {
       "name": "Ceasefire",
@@ -1225,7 +1225,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Whenever you gain Imagination, gain that much Temporary HP."
+      "description": "Vim 15.\nImagination 15.\nWhenever you gain Imagination, gain that much Temporary HP."
     },
     {
       "name": "Tootsiestein+",
@@ -1233,7 +1233,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Whenever you gain Imagination, gain that much Temporary HP."
+      "description": "Vim 15.\nImagination 15.\nWhenever you gain Imagination, gain that much Temporary HP."
     },
     {
       "name": "Weird Puzzle Shit",
@@ -1241,7 +1241,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Pulchritude 16.\nCosts 1 more for every 2 cards in your draw pile.\nAdd a Jigsaw into your hand."
+      "description": "Pulchritude 16.\nCosts 1 more for every 2 cards in your draw pile.\nAdd a Moustache Fire into your hand."
     },
     {
       "name": "Weird Puzzle Shit+",
@@ -1249,7 +1249,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Pulchritude 16.\nCosts 1 more for every 2 cards in your draw pile.\nAdd an upgraded Jigsaw into your hand."
+      "description": "Pulchritude 16.\nCosts 1 more for every 2 cards in your draw pile.\nAdd an upgraded Moustache Fire into your hand."
     }
   ],
   "relics": [
@@ -1282,7 +1282,7 @@
     },
     {
       "name": "Mural",
-      "description": "Unplayable Curse cards that stay in your hand and Exhaust when discarded."
+      "description": "Unplayable Status cards that stay in your hand and Exhaust when discarded."
     },
     {
       "name": "Pulchritude",

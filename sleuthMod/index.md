@@ -3,13 +3,13 @@
 
 | Name | Image | Upgraded image | Rarity | Type | Cost | Description |
 | ---- | ----- | -------------- | ------ | ---- | ---- | ----------- |
-| Mural | ![](small-card-images/Mural.png) | ![]() | Curse | Curse |  | Unplayable. If this card enters the discard pile, Exhaust it. Retain. |
+| Mural | ![](small-card-images/Mural.png) | ![]() | Common | Status |  | Unplayable. If this card enters the discard pile, Exhaust it. Retain. |
 | Defend | ![](small-card-images/Defend.png) | ![](small-card-images/DefendPlus.png) | Basic | Skill | 1 | Gain 5(8) Block. |
 | Diplomacy | ![](small-card-images/Diplomacy.png) | ![](small-card-images/DiplomacyPlus.png) | Basic | Attack | 1 | Pulchritude 5. Gain 7(9) Block. Deal 7(9) damage. Exhaust a card in your hand. |
 | Strike | ![](small-card-images/Strike.png) | ![](small-card-images/StrikePlus.png) | Basic | Attack | 1 | Deal 6(9) damage. |
 | Take Inventory | ![](small-card-images/TakeInventory.png) | ![](small-card-images/TakeInventoryPlus.png) | Basic | Skill | 0 | Draw 1(2) card(s). Retain your hand this turn. |
-| Jigsaw | ![](small-card-images/Jigsaw.png) | ![](small-card-images/JigsawPlus.png) | Special | Attack | 0 | Deal 10(15) damage. Put a copy of this card on top of your draw pile. Exhaust. |
 | Key/Handgun | ![](small-card-images/KeyHandgun.png) | ![](small-card-images/KeyHandgunPlus.png) | Special | Attack | 1 | If the enemy intends to attack, gain 8(11) Block. Otherwise, deal 8(11) damage. |
+| Moustache Fire | ![](small-card-images/MoustacheFire.png) | ![](small-card-images/MoustacheFirePlus.png) | Special | Attack | 0 | Deal 10(15) damage. Put a copy of this card on top of your draw pile. Exhaust. |
 | Belly O' The Whale | ![](small-card-images/BellyOTheWhale.png) | ![](small-card-images/BellyOTheWhalePlus.png) | Common | Attack | 1 | Vim 10. Deal 8(11) damage. Exhaust a card in your discard pile. |
 | Ben Stiller Bust | ![](small-card-images/BenStillerBust.png) | ![](small-card-images/BenStillerBustPlus.png) | Common | Attack | 1 | Deal 4(5) damage. If this card enters your discard or exhaust pile, deal 4(5) damage to ALL enemies. Retain. |
 | Candy Corn | ![](small-card-images/CandyCorn.png) | ![](small-card-images/CandyCornPlus.png) | Common | Skill |  | Unplayable. At the end of your turn, gain 3(5) Block. |
@@ -28,7 +28,6 @@
 | Unscale | ![](small-card-images/Unscale.png) | ![](small-card-images/UnscalePlus.png) | Common | Skill | 0 | Pulchritude 5. You and ALL enemies lose 4 Strength this turn.  (Retain.) |
 | Victory Pose | ![](small-card-images/VictoryPose.png) | ![](small-card-images/VictoryPosePlus.png) | Common | Skill | 1 | Gain 8(11) Block. Gain 2(4) more if an enemy has been slain this combat. |
 | Wilson Bust | ![](small-card-images/WilsonBust.png) | ![](small-card-images/WilsonBustPlus.png) | Common | Skill | 1 | If this card enters your discard or exhaust pile, gain 5(8) Block. Retain. |
-| Aggrieve | ![](small-card-images/Aggrieve.png) | ![](small-card-images/AggrievePlus.png) | Uncommon | Attack | 1 | Vim 10. Imagination 10. Remove all Block from the enemy (ALL enemies). Deal 2 damage 5 times. |
 | Bite Hardly | ![](small-card-images/BiteHardly.png) | ![](small-card-images/BiteHardlyPlus.png) | Uncommon | Attack | 2 | Vim 10. Deal 8(10) damage. Gain Temporary HP equal to unblocked damage dealt. |
 | Busts-R-Us | ![](small-card-images/Busts-R-Us.png) | ![](small-card-images/Busts-R-UsPlus.png) | Uncommon | Skill |  | Unplayable. While in hand, if any card enters your discard or exhaust pile, deal 2 damage to a random enemy (ALL enemies). |
 | Candy Cane | ![](small-card-images/CandyCane.png) | ![](small-card-images/CandyCanePlus.png) | Uncommon | Attack | 0 | Imagination 6. Deal 6(8) damage. Gain 2(3) Temporary Imagination. |
@@ -40,7 +39,6 @@
 | Diamond Armor | ![](small-card-images/DiamondArmor.png) | ![](small-card-images/DiamondArmorPlus.png) | Uncommon | Skill | 1 | Gain 13(16) Block. Lose 1 of your highest stat. |
 | Disregard Rules | ![](small-card-images/DisregardRules.png) | ![](small-card-images/DisregardRulesPlus.png) | Uncommon | Power | 1 | Whenever you play a card with Purge, draw 1(2) card(s). |
 | Distill | ![](small-card-images/Distill.png) | ![](small-card-images/DistillPlus.png) | Uncommon | Skill | 1(0) | Vim 5. Lose 1 HP. Obtain a random potion. Gain 1 Auto-Parry. Purge. |
-| Double Dip | ![](small-card-images/DoubleDip.png) | ![](small-card-images/DoubleDipPlus.png) | Uncommon | Skill | 2(1) | Imagination 9. Play the top card of your draw pile twice. Purge it. |
 | Duplicate | ![](small-card-images/Duplicate.png) | ![](small-card-images/DuplicatePlus.png) | Uncommon | Skill | 1(0) | Imagination 6. The next Pulchritude or Vim card you play adds a copy of itself to your hand. Purge. |
 | Embarrass | ![](small-card-images/Embarrass.png) | ![](small-card-images/EmbarrassPlus.png) | Uncommon | Skill | 1(0) | Vim 5. Apply 2 Weak. Apply 2 Vulnerable. Put a Mural on top of your draw pile. |
 | Fair Shake | ![](small-card-images/FairShake.png) | ![](small-card-images/FairShakePlus.png) | Uncommon | Attack | 2 | Pulchritude 14. Gain 10(13) Block. Deal 10(13) damage to ALL enemies. Exhaust a card in your hand. |
@@ -53,6 +51,7 @@
 | Hangover | ![](small-card-images/Hangover.png) | ![](small-card-images/HangoverPlus.png) | Uncommon | Skill | 2(1) | Whenever you draw this card, lose 1 Strength. If this card enters your discard pile, gain 2 Strength. Retain. |
 | Heart Stab | ![](small-card-images/HeartStab.png) | ![](small-card-images/HeartStabPlus.png) | Uncommon | Attack | 1 | Deal 8(10) damage. Apply 2(3) Weak. Apply 2(3) Vulnerable. Lose 1 of your highest stat. |
 | Keyring/Tommygun | ![](small-card-images/KeyringTommygun.png) | ![](small-card-images/KeyringTommygunPlus.png) | Uncommon | Attack | 1 | Gain 12(15) Block / Deal 4(5) damage 3 times. Switches form at the start of your turn. |
+| Leer | ![](small-card-images/Leer.png) | ![](small-card-images/LeerPlus.png) | Uncommon | Attack | 1 | Vim 10. Imagination 10. Remove all Block from the enemy (ALL enemies). Deal 2 damage 5 times. |
 | Opportunity Cost | ![](small-card-images/OpportunityCost.png) | ![](small-card-images/OpportunityCostPlus.png) | Uncommon | Skill | 1 | Permanently upgrade a card in your hand. Lose 1 of each stat. (not Lose 1 of each stat.) Remove this card from your deck. Purge. |
 | Parry | ![](small-card-images/Parry.png) | ![](small-card-images/ParryPlus.png) | Uncommon | Power | 1 | Vim 5. Gain 1(2) Artifact. Gain 2 Thorns. Gain 1 Auto-Parry. |
 | Reprogram | ![](small-card-images/Reprogram.png) | ![](small-card-images/ReprogramPlus.png) | Uncommon | Skill | 0 | Vim 5. Look at the top 4(6) cards of your draw pile. You may discard any of them. Gain 1 Auto-Parry. Purge. |
@@ -66,11 +65,12 @@
 | Triple Scuffle | ![](small-card-images/TripleScuffle.png) | ![](small-card-images/TripleScufflePlus.png) | Uncommon | Attack | 1 | Vim 10. Deal 6(8) damage. Draw 2(3) cards. Discard all cards drawn this way with Retain. |
 | Truffle Trouble | ![](small-card-images/TruffleTrouble.png) | ![](small-card-images/TruffleTroublePlus.png) | Uncommon | Attack | 5 | Vim 10. Costs 1 less [E] for each time you play a Vim card this combat. Deal 21(26) damage. |
 | Un-De-Escalate | ![](small-card-images/Un-De-Escalate.png) | ![](small-card-images/Un-De-EscalatePlus.png) | Uncommon | Skill | 0 | Pulchritude 10. You and ALL enemies lose 1 stack of all debuffs.  (Retain.) |
+| Wizard's Sudoku | ![](small-card-images/WizardsSudoku.png) | ![](small-card-images/WizardsSudokuPlus.png) | Uncommon | Skill | 2(1) | Imagination 9. Play the top card of your draw pile twice. Purge it. |
 | Brass Tacks | ![](small-card-images/BrassTacks.png) | ![](small-card-images/BrassTacksPlus.png) | Rare | Attack | 2 | Pulchritude 15. Deal 14(17) damage to ALL enemies. Discard your hand, then draw that many cards. |
 | Burn Fat | ![](small-card-images/BurnFat.png) | ![](small-card-images/BurnFatPlus.png) | Rare | Skill | X | Lose X Vim. Gain 4(5) Temporary HP for each Vim lost. |
 | Candid Bullets | ![](small-card-images/CandidBullets.png) | ![](small-card-images/CandidBulletsPlus.png) | Rare | Power | 2(1) | Imagination 5. Gain 4 Strength. Whenever you play an Attack, lose 1 Imagination. Lose 1 Strength if you cannot pay. |
-| Candy Corn Vampire | ![](small-card-images/CandyCornVampire.png) | ![](small-card-images/CandyCornVampirePlus.png) | Rare | Power | 2(1) | Pulchritude 15. Imagination 15. Gain 5 Malleable. You cannot gain Malleable for the rest of the combat. |
 | Candy Mech | ![](small-card-images/CandyMech.png) | ![](small-card-images/CandyMechPlus.png) | Rare | Attack | 2 | Imagination 15 (10). Gain 16 Block. Deal 16 damage. Lose 3(2) Imagination. |
+| Candycorn Vampire | ![](small-card-images/CandycornVampire.png) | ![](small-card-images/CandycornVampirePlus.png) | Rare | Power | 2(1) | Pulchritude 15. Imagination 15. Gain 5 Malleable. You cannot gain Malleable for the rest of the combat. |
 | Ceasefire | ![](small-card-images/Ceasefire.png) | ![](small-card-images/CeasefirePlus.png) | Rare | Power | 2 | Pulchritude 15. You and ALL enemies gain 2 Intangible. You cannot gain Intangible for the rest of the combat.  (Retain.) |
 | Gummy Zombie | ![](small-card-images/GummyZombie.png) | ![](small-card-images/GummyZombiePlus.png) | Rare | Power | 2(1) | Pulchritude 15. Vim 15. At the end of your turn, gain 1 Block for each card in your hand. |
 | Hairpin/Machinegun | ![](small-card-images/HairpinMachinegun.png) | ![](small-card-images/HairpinMachinegunPlus.png) | Rare | Attack | 1 | Gain 15(18) Block / Deal 5(6) damage 3 times. Switches form whenever played. |
@@ -79,8 +79,8 @@
 | Roll Boxcars | ![](small-card-images/RollBoxcars.png) | ![](small-card-images/RollBoxcarsPlus.png) | Rare | Skill | 1(0) | Add any 1 of the 4 Midnight Cards to your hand. Exhaust. |
 | Successful Parry | ![](small-card-images/SuccessfulParry.png) | ![](small-card-images/SuccessfulParryPlus.png) | Rare | Skill | 3(2) | Vim 5. Gain Temporary HP equal to your Vim. Gain 1 Auto-Parry. Purge. |
 | The Zillyhammer | ![](small-card-images/TheZillyhammer.png) | ![](small-card-images/TheZillyhammerPlus.png) | Rare | Attack | 2 | Imagination 20. Deal 25(33) damage to ALL enemies. Lose 5 Imagination. |
-| Tootsiestein | ![](small-card-images/Tootsiestein.png) | ![](small-card-images/TootsiesteinPlus.png) | Rare | Power | 2(1) | Whenever you gain Imagination, gain that much Temporary HP. |
-| Weird Puzzle Shit | ![](small-card-images/WeirdPuzzleShit.png) | ![](small-card-images/WeirdPuzzleShitPlus.png) | Rare | Skill | 1 | Pulchritude 16. Costs 1 more for every 2 cards in your draw pile. Add a (an upgraded) Jigsaw into your hand. |
+| Tootsiestein | ![](small-card-images/Tootsiestein.png) | ![](small-card-images/TootsiesteinPlus.png) | Rare | Power | 2(1) | Vim 15. Imagination 15. Whenever you gain Imagination, gain that much Temporary HP. |
+| Weird Puzzle Shit | ![](small-card-images/WeirdPuzzleShit.png) | ![](small-card-images/WeirdPuzzleShitPlus.png) | Rare | Skill | 1 | Pulchritude 16. Costs 1 more for every 2 cards in your draw pile. Add a (an upgraded) Moustache Fire into your hand. |
 
 
 

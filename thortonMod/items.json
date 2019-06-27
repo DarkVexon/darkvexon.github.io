@@ -113,7 +113,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "After you play !thethorton:RUN! Business Cards, obtain a Relic.\nExhaust."
+      "description": "Whenever you play 10 Business_Cards, obtain a Relic.\nExhaust."
     },
     {
       "name": "Business Card+",
@@ -121,7 +121,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "After you play !thethorton:RUN! Business Cards,   obtain a Relic.\nDraw 1 card.\nExhaust."
+      "description": "Whenever you play 10 Business_Cards, obtain a Relic.\nDraw 1 card.\nExhaust."
     },
     {
       "name": "Cash Bash",
@@ -209,7 +209,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 7 Block.\nRun !thethorton:RUN!."
+      "description": "Gain 7 Block.\nRun."
     },
     {
       "name": "Fearful Run+",
@@ -217,7 +217,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 10 Block.\nRun !thethorton:RUN!."
+      "description": "Gain 10 Block.\nRun."
     },
     {
       "name": "Gold Buffer",
@@ -289,7 +289,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\nRun !thethorton:RUN!."
+      "description": "Deal 8 damage.\nRun."
     },
     {
       "name": "Running Kick+",
@@ -297,7 +297,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage.\nRun !thethorton:RUN!."
+      "description": "Deal 11 damage.\nRun."
     },
     {
       "name": "Shout and Run",
@@ -305,7 +305,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 1 Weak.\nRun !thethorton:RUN!."
+      "description": "Apply 1 Weak.\nRun."
     },
     {
       "name": "Shout and Run+",
@@ -313,7 +313,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 2 Weak.\nRun !thethorton:RUN!."
+      "description": "Apply 2 Weak.\nRun."
     },
     {
       "name": "Sickly Run",
@@ -321,7 +321,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 4 Poison.\nRun !thethorton:RUN!."
+      "description": "Apply 4 Poison.\nRun."
     },
     {
       "name": "Sickly Run+",
@@ -329,7 +329,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 6 Poison.\nRun !thethorton:RUN!."
+      "description": "Apply 6 Poison.\nRun."
     },
     {
       "name": "Stumbling Slap",
@@ -417,7 +417,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 12 damage.\nShuffle a Business Card into your draw pile.\nExhaustive !stslib:ex!."
+      "description": "Deal 12 damage.\nShuffle a Business_Card into your draw pile.\nExhaustive !stslib:ex!."
     },
     {
       "name": "Business Bash+",
@@ -425,7 +425,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 15 damage.\nShuffle a Business Card into your draw pile.\nExhaustive !stslib:ex!."
+      "description": "Deal 15 damage.\nShuffle a Business_Card into your draw pile.\nExhaustive !stslib:ex!."
     },
     {
       "name": "Business Boom",
@@ -433,7 +433,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "3",
-      "description": "Deal 22 damage.\nShuffle a Business Card into your draw pile.\nExhaust."
+      "description": "Deal 22 damage.\nShuffle a Business_Card into your draw pile.\nExhaust."
     },
     {
       "name": "Business Boom+",
@@ -441,7 +441,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "3",
-      "description": "Deal 28 damage.\nShuffle an upgraded Business Card into your draw pile.\nExhaust."
+      "description": "Deal 28 damage.\nShuffle an upgraded Business_Card into your draw pile.\nExhaust."
     },
     {
       "name": "Business Burst",
@@ -449,7 +449,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Shuffle 2 Business Cards into your draw pile.\nExhaust."
+      "description": "Shuffle 2 Business_Cards into your draw pile.\nExhaust."
     },
     {
       "name": "Business Burst+",
@@ -457,7 +457,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Shuffle 2 Business Cards into your draw pile.\nExhaust."
+      "description": "Shuffle 2 Business_Cards into your draw pile.\nExhaust."
     },
     {
       "name": "Call In",
@@ -561,7 +561,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw 3 cards.\nRun !thethorton:RUN!."
+      "description": "Draw 3 cards.\nRun."
     },
     {
       "name": "Desperate Run+",
@@ -569,7 +569,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw 4 cards.\nRun !thethorton:RUN!."
+      "description": "Draw 4 cards.\nRun."
     },
     {
       "name": "Dock Pay",
@@ -641,7 +641,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "After you play !thethorton:RUN! Investments, obtain a Relic.\nExhaust."
+      "description": "Whenever you play 3 Investments, obtain a Relic.\nExhaust."
     },
     {
       "name": "Investment+",
@@ -649,7 +649,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "After you play !thethorton:RUN! Investments, obtain a Relic.\nExhaust."
+      "description": "Whenever you play 3 Investments, obtain a Relic.\nExhaust."
     },
     {
       "name": "Last Ditch Effort",
@@ -785,7 +785,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Gold.\nRun !thethorton:RUN!.\nExhaust."
+      "description": "Gain 6 Gold.\nRun.\nExhaust."
     },
     {
       "name": "Rich Run+",
@@ -793,7 +793,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain 6 Gold.\nRun !thethorton:RUN!.\nExhaust."
+      "description": "Gain 6 Gold.\nRun.\nExhaust."
     },
     {
       "name": "Run Run",
@@ -801,7 +801,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Run !thethorton:RUN!.\nReduce the Run amount of ALL Run cards by 1 this combat."
+      "description": "Run.\nRun."
     },
     {
       "name": "Run Run+",
@@ -809,7 +809,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Run !thethorton:RUN!.\nReduce the Run amount of ALL Run cards by 1 this combat."
+      "description": "Run.\nRun.\nRun."
     },
     {
       "name": "Running Feint",
@@ -817,7 +817,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 2 Vulnerable.\nRun !thethorton:RUN!."
+      "description": "Apply 2 Vulnerable.\nRun."
     },
     {
       "name": "Running Feint+",
@@ -825,7 +825,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 3 Vulnerable.\nRun !thethorton:RUN!."
+      "description": "Apply 3 Vulnerable.\nRun."
     },
     {
       "name": "Seeing Double",
@@ -961,7 +961,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Ethereal.\nThe next ? room you enter contains a shop.\nExhaust."
+      "description": "Ethereal.\nGain 15 Gold.\nThe next ? room you enter contains a shop.\nExhaust."
     },
     {
       "name": "Call Of Commerce+",
@@ -969,7 +969,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nThe next ? room you enter contains a shop.\nExhaust."
+      "description": "Ethereal.\nGain 15 Gold.\nThe next ? room you enter contains a shop.\nExhaust."
     },
     {
       "name": "Cardboard Box",
@@ -1009,7 +1009,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 9 Block.\nNext turn, gain 9 Block.\nRun !thethorton:RUN!."
+      "description": "Gain 9 Block.\nNext turn, gain 9 Block.\nRun."
     },
     {
       "name": "Dodge & Roll & Run+",
@@ -1017,7 +1017,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 11 Block.\nNext turn, gain 11 Block.\nRun !thethorton:RUN!."
+      "description": "Gain 11 Block.\nNext turn, gain 11 Block.\nRun."
     },
     {
       "name": "Escape!",
@@ -1025,7 +1025,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "50% chance to escape combat.\nExhaustive !stslib:ex!."
+      "description": "33% chance to escape a non-boss combat. Receive no rewards.\nExhaustive !stslib:ex!."
     },
     {
       "name": "Escape!+",
@@ -1033,7 +1033,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Gain 10 Block.\n50% chance to escape combat.\nExhaustive !stslib:ex!."
+      "description": "33% chance to escape a non-boss combat.\nExhaustive !stslib:ex!."
     },
     {
       "name": "Fair Trade",
@@ -1137,7 +1137,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Shuffle 2 Business Cards and 1 Investment into your draw pile.\nExhaust."
+      "description": "Shuffle 2 Business_Cards and 1 Investment into your draw pile.\nExhaust."
     },
     {
       "name": "Portfolio+",
@@ -1145,7 +1145,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Shuffle 2 upgraded Business Cards and 1 upgraded Investment into your draw pile.\nExhaust."
+      "description": "Shuffle 2 upgraded Business_Cards and 1 upgraded Investment into your draw pile.\nExhaust."
     },
     {
       "name": "Scaling Is Win",
@@ -1169,7 +1169,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Add a copy of a card in your hand in your deck permanently.\nExhaust."
+      "description": "Ethereal.\nAdd a copy of a card in your hand to your deck permanently.\nExhaust."
     },
     {
       "name": "Sell Short+",
@@ -1177,7 +1177,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Add a copy of a card in your hand in your deck permanently.\nExhaust."
+      "description": "Ethereal.\nAdd a copy of a card in your hand to your deck permanently.\nExhaust."
     },
     {
       "name": "Stock Crash",
@@ -1185,7 +1185,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "3",
-      "description": "Deal 30 damage to ALL enemies.\nLose 50 Gold."
+      "description": "If you have at least 50 Gold, lose 50 Gold and deal 50 damage to ALL enemies."
     },
     {
       "name": "Stock Crash+",
@@ -1193,7 +1193,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 30 damage to ALL enemies.\nLose 50 Gold."
+      "description": "If you have at least 50 Gold, lose 50 Gold and deal 50 damage to ALL enemies."
     },
     {
       "name": "Temporal Blast",
@@ -1224,8 +1224,8 @@
       "color": "Thort_gray_color",
       "rarity": "Rare",
       "type": "Attack",
-      "cost": "1",
-      "description": "Deal 20 damage.\nRemove the enemy's buffs.\nRemove your debuffs."
+      "cost": "2",
+      "description": "Deal 26 damage.\nRemove the enemy's buffs.\nRemove your debuffs."
     }
   ],
   "relics": [
@@ -1254,15 +1254,23 @@
     },
     {
       "name": "Run",
-      "description": "Whenever you play a card with Run, reduce the Run amount of ALL Run cards by 1 this combat. When you play a card with Run 1, escape combat with all rewards and raise the base Run amount of ALL cards by 1. Running in boss fights deals 75 damage to all enemies instead."
+      "description": "After Running a certain amount of times, escape combat. If you're fighting a boss, deal 100 damage to ALL enemies instead. Escaping gets harder every time you escape."
     },
     {
       "name": "Boost points",
       "description": "Boost Points increment the Double Tricks of your Destiny Reactors whenever you Gather a Pyro Buddy."
     },
     {
+      "name": "Business card",
+      "description": "Whenever you play 10 Business Cards, obtain a Relic."
+    },
+    {
       "name": "Gathered",
       "description": "Gathering a Pyro Buddy places it into your centremost Storage Centre."
+    },
+    {
+      "name": "Investment",
+      "description": "Whenever you play 3 Investments, obtain a Relic."
     },
     {
       "name": "Pyro buddies",

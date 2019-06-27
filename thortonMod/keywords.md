@@ -1,8 +1,10 @@
 | Name | Description |
 | ---- | ----------- |
 | Ingest | Ingesting Sync Boons activates one of your Destiny Reactors based on the number and type of Ingested Sync Boons. |
-| Run | Whenever you play a card with Run, reduce the Run amount of ALL Run cards by 1 this combat. When you play a card with Run 1, escape combat with all rewards and raise the base Run amount of ALL cards by 1. Running in boss fights deals 75 damage to all enemies instead. |
+| Run | After Running a certain amount of times, escape combat. If you're fighting a boss, deal 100 damage to ALL enemies instead. Escaping gets harder every time you escape. |
 | Boost points | Boost Points increment the Double Tricks of your Destiny Reactors whenever you Gather a Pyro Buddy. |
+| Business card | Whenever you play 10 Business Cards, obtain a Relic. |
 | Gathered | Gathering a Pyro Buddy places it into your centremost Storage Centre. |
+| Investment | Whenever you play 3 Investments, obtain a Relic. |
 | Pyro buddies | Pyro Buddies can be Gathered into your Storage Centres whereupon they will Generate Sync Boons based on their Type. |
 | Sync boons | Sync Boons activate your Destiny Reactors when Ingested and supply a passive effect to your Pyro Buddies. |
