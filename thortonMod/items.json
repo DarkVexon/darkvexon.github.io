@@ -1,0 +1,1260 @@
+{
+  "mod": {
+    "name": "thorton",
+    "version": "5000",
+    "authors": ["Gremious"],
+    "credits": "",
+    "description": "A ssdfsdf",
+    "mts_version": "3.8.0",
+    "sts_version": "01-23-2019",
+    "dependencies": ["basemod","stslib"],
+    "optional_dependencies": []
+  },
+  "cards": [
+    {
+      "name": "Credit Card",
+      "color": "Default_gray_color",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 5 Gold.\nExhaust."
+    },
+    {
+      "name": "Credit Card+",
+      "color": "Default_gray_color",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 8 Gold.\nExhaust."
+    },
+    {
+      "name": "Defend",
+      "color": "Default_gray_color",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 4 Block."
+    },
+    {
+      "name": "Defend+",
+      "color": "Default_gray_color",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 7 Block."
+    },
+    {
+      "name": "Heckle",
+      "color": "Default_gray_color",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Apply 1 Vulnerable.\nApply 1 Weak."
+    },
+    {
+      "name": "Heckle+",
+      "color": "Default_gray_color",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Apply 2 Vulnerable.\nApply 2 Weak."
+    },
+    {
+      "name": "Strike",
+      "color": "Default_gray_color",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 5 damage."
+    },
+    {
+      "name": "Strike+",
+      "color": "Default_gray_color",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage."
+    },
+    {
+      "name": "Anger Moment",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage.\nIf the enemy doesn't intend to attack, apply 1 Vulnerable."
+    },
+    {
+      "name": "Anger Moment+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage.\nIf the enemy doesn't intend to attack, apply 2 Vulnerable."
+    },
+    {
+      "name": "Book Bash",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "X",
+      "description": "Deal 6 damage X times."
+    },
+    {
+      "name": "Book Bash+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "X",
+      "description": "Deal 8 damage X times."
+    },
+    {
+      "name": "Business Card",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "After you play !thethorton:RUN! Business Cards, obtain a Relic.\nExhaust."
+    },
+    {
+      "name": "Business Card+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "After you play !thethorton:RUN! Business Cards,   obtain a Relic.\nDraw 1 card.\nExhaust."
+    },
+    {
+      "name": "Cash Bash",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Gain 3 Gold.\nDeal 6 damage.\nExhaust."
+    },
+    {
+      "name": "Cash Bash+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Gain 4 Gold.\nDeal 8 damage.\nExhaust."
+    },
+    {
+      "name": "Distance",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 3 Block.\nApply 1 Weak to ALL enemies."
+    },
+    {
+      "name": "Distance+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 5 Block.\nApply 1 Weak to ALL enemies."
+    },
+    {
+      "name": "Down Payment",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 3 Block.\nGain 3 Block and [E] next turn."
+    },
+    {
+      "name": "Down Payment+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 4 Block.\nGain 4 Block and [E] next turn."
+    },
+    {
+      "name": "Dual Bap",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage twice."
+    },
+    {
+      "name": "Dual Bap+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage twice."
+    },
+    {
+      "name": "Elbow Nudge",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage."
+    },
+    {
+      "name": "Elbow Nudge+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 12 damage."
+    },
+    {
+      "name": "Fearful Run",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 7 Block.\nRun !thethorton:RUN!."
+    },
+    {
+      "name": "Fearful Run+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 10 Block.\nRun !thethorton:RUN!."
+    },
+    {
+      "name": "Gold Buffer",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 7 Block.\nGain 1 Block for each 100 Gold you have."
+    },
+    {
+      "name": "Gold Buffer+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 10 Block.\nGain 1 Block for each 100 Gold you have."
+    },
+    {
+      "name": "Hit Ahead",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage.\nGain [E] next turn."
+    },
+    {
+      "name": "Hit Ahead+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage.\nGain [E] next turn."
+    },
+    {
+      "name": "Long Term Payoff",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "At the start of each of your turns, deal 2 damage to ALL enemies."
+    },
+    {
+      "name": "Long Term Payoff+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "At the start of each of your turns, deal 3 damage to ALL enemies."
+    },
+    {
+      "name": "Pocket Change",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 1 Gold.\nDraw 1 card.\nExhaust."
+    },
+    {
+      "name": "Pocket Change+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 2 Gold.\nDraw 1 card.\nExhaust."
+    },
+    {
+      "name": "Running Kick",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage.\nRun !thethorton:RUN!."
+    },
+    {
+      "name": "Running Kick+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 11 damage.\nRun !thethorton:RUN!."
+    },
+    {
+      "name": "Shout and Run",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 1 Weak.\nRun !thethorton:RUN!."
+    },
+    {
+      "name": "Shout and Run+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 2 Weak.\nRun !thethorton:RUN!."
+    },
+    {
+      "name": "Sickly Run",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 4 Poison.\nRun !thethorton:RUN!."
+    },
+    {
+      "name": "Sickly Run+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 6 Poison.\nRun !thethorton:RUN!."
+    },
+    {
+      "name": "Stumbling Slap",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 5 damage. If you have Weak, gain 5 Block."
+    },
+    {
+      "name": "Stumbling Slap+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 7 damage. If you have Weak, gain 7 Block."
+    },
+    {
+      "name": "Take Accounts",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 5 damage.\nDraw 2 cards."
+    },
+    {
+      "name": "Take Accounts+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 5 damage.\nDraw 3 cards."
+    },
+    {
+      "name": "Whirling Briefcase",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Gain 1 Gold for each enemy in combat.\nDeal 6 damage to ALL enemies.\nExhaust."
+    },
+    {
+      "name": "Whirling Briefcase+",
+      "color": "Default_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Gain 2 Gold for each enemy in combat.\nDeal 8 damage to ALL enemies.\nExhaust."
+    },
+    {
+      "name": "Battle Trash",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Draw 2 cards.\nYou cannot draw additional cards this turn."
+    },
+    {
+      "name": "Battle Trash+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Draw 3 cards.\nYou cannot draw additional cards this turn."
+    },
+    {
+      "name": "Boardroom Blast",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 15 damage to ALL enemies."
+    },
+    {
+      "name": "Boardroom Blast+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 19 damage to ALL enemies."
+    },
+    {
+      "name": "Business Bash",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 12 damage.\nShuffle a Business Card into your draw pile.\nExhaustive !stslib:ex!."
+    },
+    {
+      "name": "Business Bash+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 15 damage.\nShuffle a Business Card into your draw pile.\nExhaustive !stslib:ex!."
+    },
+    {
+      "name": "Business Boom",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Deal 22 damage.\nShuffle a Business Card into your draw pile.\nExhaust."
+    },
+    {
+      "name": "Business Boom+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Deal 28 damage.\nShuffle an upgraded Business Card into your draw pile.\nExhaust."
+    },
+    {
+      "name": "Business Burst",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Shuffle 2 Business Cards into your draw pile.\nExhaust."
+    },
+    {
+      "name": "Business Burst+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Shuffle 2 Business Cards into your draw pile.\nExhaust."
+    },
+    {
+      "name": "Call In",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 11 Block.\nGain 2 Frail."
+    },
+    {
+      "name": "Call In+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 11 Block.\nGain 1 Frail."
+    },
+    {
+      "name": "Chart Project",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "If the enemy intends to attack, gain 12 Block.\nOtherwise, gain [E] [E] and draw 2 cards next turn."
+    },
+    {
+      "name": "Chart Project+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "If the enemy intends to attack, gain 12 Block.\nOtherwise, gain [E] [E] and draw 2 cards next turn."
+    },
+    {
+      "name": "Coin Clash",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Gain 6 Gold.\nDeal 14 damage.\nExhaust."
+    },
+    {
+      "name": "Coin Clash+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Gain 9 Gold.\nDeal 18 damage.\nExhaust."
+    },
+    {
+      "name": "Coin Shield",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 4 Gold.\nGain 13 Block.\nExhaust."
+    },
+    {
+      "name": "Coin Shield+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 6 Gold.\nGain 16 Block.\nExhaust."
+    },
+    {
+      "name": "Crash",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 8 damage.\nGain 8 Block."
+    },
+    {
+      "name": "Crash+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 10 damage.\nGain 10 Block."
+    },
+    {
+      "name": "Demotion",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Enemy cannot buff itself or debuff you."
+    },
+    {
+      "name": "Demotion+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Enemy cannot buff itself or debuff you."
+    },
+    {
+      "name": "Desperate Run",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Draw 3 cards.\nRun !thethorton:RUN!."
+    },
+    {
+      "name": "Desperate Run+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Draw 4 cards.\nRun !thethorton:RUN!."
+    },
+    {
+      "name": "Dock Pay",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage.\nEnemy loses 2 Strength this turn."
+    },
+    {
+      "name": "Dock Pay+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.\nEnemy loses 4 Strength this turn."
+    },
+    {
+      "name": "Focus Strength",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 1 Strength.\nEnd the turn."
+    },
+    {
+      "name": "Focus Strength+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 1 Strength.\nEnd the turn."
+    },
+    {
+      "name": "Hedge Fund",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 12 damage.\nDraw 1 less card next turn."
+    },
+    {
+      "name": "Hedge Fund+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 15 damage.\nDraw 1 less card next turn."
+    },
+    {
+      "name": "Hindsight",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 3 Block next turn.\nPut a card from your discard pile into your hand."
+    },
+    {
+      "name": "Hindsight+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 5 Block next turn.\nPut a card from your discard pile into your hand."
+    },
+    {
+      "name": "Investment",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "After you play !thethorton:RUN! Investments, obtain a Relic.\nExhaust."
+    },
+    {
+      "name": "Investment+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "After you play !thethorton:RUN! Investments, obtain a Relic.\nExhaust."
+    },
+    {
+      "name": "Last Ditch Effort",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 13 damage.\nIf you have less than 50 HP, deal 13 damage.\nIf you have less than 20 HP, deal 13 damage."
+    },
+    {
+      "name": "Last Ditch Effort+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 17 damage.\nIf you have less than 50 HP, deal 17 damage.\nIf you have less than 20 HP, deal 17 damage."
+    },
+    {
+      "name": "Long Day's Work",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage.\nDraw 1 card.\nExhaust a card in your hand."
+    },
+    {
+      "name": "Long Day's Work+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage.\nDraw 1 card.\nExhaust a card in your hand."
+    },
+    {
+      "name": "Momentary Break",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Heal 3 HP.\nExhaust."
+    },
+    {
+      "name": "Momentary Break+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Heal 3 HP.\nExhaust."
+    },
+    {
+      "name": "Perplexing Power",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 1 stack of ANY random buff."
+    },
+    {
+      "name": "Perplexing Power+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nGain 1 stack of ANY random buff."
+    },
+    {
+      "name": "Plan Ahead",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "3",
+      "description": "Gain 1 Strength at the start of the next combat.\nExhaust."
+    },
+    {
+      "name": "Plan Ahead+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 1 Strength at the start of the next combat.\nExhaust."
+    },
+    {
+      "name": "Promotion",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 1 Strength.\nGain 1 Dexterity."
+    },
+    {
+      "name": "Promotion+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "0",
+      "description": "Gain 1 Strength.\nGain 1 Dexterity."
+    },
+    {
+      "name": "ROI",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 12 Gold.\nExhaust."
+    },
+    {
+      "name": "ROI+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 12 Gold.\nExhaust."
+    },
+    {
+      "name": "Rebalance",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 1 Strength.\nALL enemies lose 1 Strength.\nExhaustive !stslib:ex!."
+    },
+    {
+      "name": "Rebalance+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 1 Strength.\nALL enemies lose 1 Strength.\nExhaustive !stslib:ex!."
+    },
+    {
+      "name": "Rich Run",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 6 Gold.\nRun !thethorton:RUN!.\nExhaust."
+    },
+    {
+      "name": "Rich Run+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 6 Gold.\nRun !thethorton:RUN!.\nExhaust."
+    },
+    {
+      "name": "Run Run",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Run !thethorton:RUN!."
+    },
+    {
+      "name": "Run Run+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Run !thethorton:RUN!."
+    },
+    {
+      "name": "Running Feint",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 2 Vulnerable.\nRun !thethorton:RUN!."
+    },
+    {
+      "name": "Running Feint+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 3 Vulnerable.\nRun !thethorton:RUN!."
+    },
+    {
+      "name": "Seeing Double",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Choose a card.\nAdd a copy of that card into your hand.\nShuffle a copy of that card into your draw pile."
+    },
+    {
+      "name": "Seeing Double+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Choose a card.\nAdd a copy of that card into your hand.\nShuffle a copy of that card into your draw pile."
+    },
+    {
+      "name": "Snow Day",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Channel 1 Frost.\nExhaust."
+    },
+    {
+      "name": "Snow Day+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Channel 1 Frost.\nExhaustive !stslib:ex!."
+    },
+    {
+      "name": "Stamp Smack",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage to a random enemy.\nDeal 7 damage to a random enemy at the start of the next combat.\nExhaust."
+    },
+    {
+      "name": "Stamp Smack+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage to a random enemy.\nDeal 9 damage to a random enemy at the start of the next combat.\nExhaust."
+    },
+    {
+      "name": "Thick Skin",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you lose non-Temporary HP, gain 3 Temporary HP."
+    },
+    {
+      "name": "Thick Skin+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "0",
+      "description": "Whenever you lose non-Temporary HP, gain 3 Temporary HP."
+    },
+    {
+      "name": "Toxic Greed",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Apply 4 Poison to a random enemy. Repeat this process for every 100 Gold you have.\nExhaust."
+    },
+    {
+      "name": "Toxic Greed+",
+      "color": "Default_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Apply 4 Poison to a random enemy. Repeat this process for every 100 Gold you have.\nExhaustive !stslib:ex!."
+    },
+    {
+      "name": "Administrative Actions",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Choose ANY Thorton card to add into your hand.\nExhaust."
+    },
+    {
+      "name": "Administrative Actions+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Choose ANY Thorton card to add into your hand.\nExhaust."
+    },
+    {
+      "name": "Big Break",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 3 Strength."
+    },
+    {
+      "name": "Big Break+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nGain 3 Strength."
+    },
+    {
+      "name": "Blood Debt",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 5 damage.\nHeal HP equal to unblocked damage.\nExhaust."
+    },
+    {
+      "name": "Blood Debt+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 5 damage.\nHeal HP equal to unblocked damage.\nExhaust."
+    },
+    {
+      "name": "Call Of Commerce",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "Ethereal.\nThe next ? room you enter contains a shop.\nExhaust."
+    },
+    {
+      "name": "Call Of Commerce+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Ethereal.\nThe next ? room you enter contains a shop.\nExhaust."
+    },
+    {
+      "name": "Cardboard Box",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "Gain 1 Intangible."
+    },
+    {
+      "name": "Cardboard Box+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 1 Intangible."
+    },
+    {
+      "name": "Coward Form",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "3",
+      "description": "Grave.\nEthereal.\nAt the start of your turn, play a random card with \"run\" in its name."
+    },
+    {
+      "name": "Coward Form+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "3",
+      "description": "Grave.\nAt the start of your turn, play a random card with \"run\" in its name."
+    },
+    {
+      "name": "Dodge & Roll & Run",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 9 Block.\nGain 9 Block next turn.\nRun !thethorton:RUN!."
+    },
+    {
+      "name": "Dodge & Roll & Run+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain 11 Block.\nGain 11 Block next turn.\nRun !thethorton:RUN!."
+    },
+    {
+      "name": "Escape!",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "50% chance to escape combat.\nExhaustive !stslib:ex!."
+    },
+    {
+      "name": "Escape!+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "Gain 10 Block.\n50% chance to escape combat.\nExhaustive !stslib:ex!."
+    },
+    {
+      "name": "Fair Trade",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Exhaust a card in your hand.\nPut a card from your exhaust pile into your hand.\nExhaust."
+    },
+    {
+      "name": "Fair Trade+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Exhaust a card in your hand.\nPut a card from your exhaust pile into your hand.\nExhaust."
+    },
+    {
+      "name": "Fatigue",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Apply Weak equal to your held Gold.\nExhaust."
+    },
+    {
+      "name": "Fatigue+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply Weak equal to your held Gold.\nExhaust."
+    },
+    {
+      "name": "Fish",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "",
+      "description": "Ethereal.\nCan only be played if you've Gathered 6 different Pyro_Buddies this combat.\nIngest two Sync_Boons and gain 2 Boost_Points."
+    },
+    {
+      "name": "Fish+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "4",
+      "description": "Ethereal.\nCost cannot be modified.\nObtain a Relic.\nExhaust."
+    },
+    {
+      "name": "Fortune",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "X",
+      "description": "Gain X0 Gold.\nExhaust."
+    },
+    {
+      "name": "Fortune+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "X",
+      "description": "Gain X0 Gold.\nGain [E] .\nExhaust."
+    },
+    {
+      "name": "Hexaghostify",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "Enemy becomes a Hexaghost.\nExhaust."
+    },
+    {
+      "name": "Hexaghostify+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Enemy becomes a Hexaghost.\nExhaust."
+    },
+    {
+      "name": "Penny Toss",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Draw 2 cards."
+    },
+    {
+      "name": "Penny Toss+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 2 Block.\nDraw 2 cards."
+    },
+    {
+      "name": "Portfolio",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Shuffle 2 Business Cards and 1 Investment into your draw pile.\nExhaust."
+    },
+    {
+      "name": "Portfolio+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Shuffle 2 upgraded Business Cards and 1 upgraded Investment into your draw pile.\nExhaust."
+    },
+    {
+      "name": "Scaling Is Win",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "At the start of your turn, gain 1 Strength and draw 1 additional card."
+    },
+    {
+      "name": "Scaling Is Win+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the start of your turn, gain 1 Strength and draw 1 additional card."
+    },
+    {
+      "name": "Stock Crash",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Deal 30 damage to ALL enemies.\nLose 50 Gold."
+    },
+    {
+      "name": "Stock Crash+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 30 damage to ALL enemies.\nLose 50 Gold."
+    },
+    {
+      "name": "Temporal Blast",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Ethereal.\nPlay a copy of the next card you play this turn at the start of the next combat.\nExhaust."
+    },
+    {
+      "name": "Temporal Blast+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Ethereal.\nPlay a copy of the next card you play this turn at the start of the next combat.\nExhaust."
+    },
+    {
+      "name": "You're Fired",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 20 damage.\nRemove the enemy's buffs.\nRemove your debuffs."
+    },
+    {
+      "name": "You're Fired+",
+      "color": "Default_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 20 damage.\nRemove the enemy's buffs.\nRemove your debuffs."
+    }
+  ],
+  "relics": [
+    {
+      "name": "Potion of Courage",
+      "tier": "Special",
+      "pool": "Default_gray_color",
+      "description": "Start each Elite combat with 3 Strength.",
+      "flavorText": "Drink in emergencies."
+    }
+  ],
+  "potions": [
+  ],
+  "creatures": [
+    {
+      "name": "the Thorton",
+      "type": "Player",
+      "minHP": "65",
+      "maxHP": "65"
+    }
+  ],
+  "keywords": [
+    {
+      "name": "Ingest",
+      "description": "Ingesting Sync Boons activates one of your Destiny Reactors based on the number and type of Ingested Sync Boons."
+    },
+    {
+      "name": "Run",
+      "description": "Whenever you play a card with Run, reduce the Run amount of ALL Run cards by 1. When you play a card with Run 1, escape combat with all rewards and raise the base Run amount of ALL cards by 1."
+    },
+    {
+      "name": "Boost points",
+      "description": "Boost Points increment the Double Tricks of your Destiny Reactors whenever you Gather a Pyro Buddy."
+    },
+    {
+      "name": "Gathered",
+      "description": "Gathering a Pyro Buddy places it into your centremost Storage Centre."
+    },
+    {
+      "name": "Pyro buddies",
+      "description": "Pyro Buddies can be Gathered into your Storage Centres whereupon they will Generate Sync Boons based on their Type."
+    },
+    {
+      "name": "Sync boons",
+      "description": "Sync Boons activate your Destiny Reactors when Ingested and supply a passive effect to your Pyro Buddies."
+    }
+  ]
+}
