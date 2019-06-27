@@ -33,7 +33,7 @@
 | Coin Clash | ![](small-card-images/CoinClash.png) | ![](small-card-images/CoinClashPlus.png) | Uncommon | Attack | 2 | Gain 6(9) Gold. Deal 14(18) damage. Exhaust. |
 | Coin Shield | ![](small-card-images/CoinShield.png) | ![](small-card-images/CoinShieldPlus.png) | Uncommon | Skill | 2 | Gain 4(6) Gold. Gain 13(16) Block. Exhaust. |
 | Crash | ![](small-card-images/Crash.png) | ![](small-card-images/CrashPlus.png) | Uncommon | Attack | 2 | Deal 8(10) damage. Gain 8(10) Block. |
-| Demotion | ![](small-card-images/Demotion.png) | ![](small-card-images/DemotionPlus.png) | Uncommon | Skill | 2(1) | Enemy cannot buff itself or debuff you. |
+| Demotion | ![](small-card-images/Demotion.png) | ![](small-card-images/DemotionPlus.png) | Uncommon | Skill | 2(1) | Enemy cannot buff itself or debuff you. Exhaust. |
 | Desperate Run | ![](small-card-images/DesperateRun.png) | ![](small-card-images/DesperateRunPlus.png) | Uncommon | Skill | 1 | Draw 3(4) cards. Run !thethorton:RUN!. |
 | Dock Pay | ![](small-card-images/DockPay.png) | ![](small-card-images/DockPayPlus.png) | Uncommon | Attack | 1 | Deal 7(9) damage. Enemy loses 2(4) Strength this turn. |
 | Focus Strength | ![](small-card-images/FocusStrength.png) | ![](small-card-images/FocusStrengthPlus.png) | Uncommon | Skill | 1(0) | Gain 1 Strength. End the turn. |
@@ -69,9 +69,10 @@
 | Fish | ![](small-card-images/Fish.png) | ![](small-card-images/FishPlus.png) | Rare | Skill | (4) | Ethereal. Can only (Cost cannot) be played if you've Gathered 6 different Pyro_Buddies this combat (modified). Ingest two Sync_Boons and gain 2 Boost_Points (Obtain a Relic).  (Exhaust.) |
 | Fortune | ![](small-card-images/Fortune.png) | ![](small-card-images/FortunePlus.png) | Rare | Skill | X | Gain X0 Gold. (Gain [E].)  Exhaust. |
 | Hexaghostify | ![](small-card-images/Hexaghostify.png) | ![](small-card-images/HexaghostifyPlus.png) | Rare | Skill | 3 | Enemy becomes a (ALL enemies become) Hexaghost(s). Exhaust. |
-| Penny Toss | ![](small-card-images/PennyToss.png) | ![](small-card-images/PennyTossPlus.png) | Rare | Skill | 0 | (Gain 2 Block.)  Draw 2 cards. |
+| Penny Toss | ![](small-card-images/PennyToss.png) | ![](small-card-images/PennyTossPlus.png) | Rare | Attack | 1(0) | Gain 9 Block. Deal 9 damage. Gain 9 Gold. Exhaustive !stslib:ex!. |
 | Portfolio | ![](small-card-images/Portfolio.png) | ![](small-card-images/PortfolioPlus.png) | Rare | Skill | 2 | Shuffle 2 (upgraded) Business Cards and 1 (upgraded) Investment into your draw pile. Exhaust. |
 | Scaling Is Win | ![](small-card-images/ScalingIsWin.png) | ![](small-card-images/ScalingIsWinPlus.png) | Rare | Power | 2(1) | At the start of your turn, gain 1 Strength and draw 1 additional card. |
+| Sell Short | ![](small-card-images/SellShort.png) | ![](small-card-images/SellShortPlus.png) | Rare | Skill | 3(2) | Add a copy of a card in your hand in your deck permanently. Exhaust. |
 | Stock Crash | ![](small-card-images/StockCrash.png) | ![](small-card-images/StockCrashPlus.png) | Rare | Attack | 3(2) | Deal 30 damage to ALL enemies. Lose 50 Gold. |
 | Temporal Blast | ![](small-card-images/TemporalBlast.png) | ![](small-card-images/TemporalBlastPlus.png) | Rare | Skill | 2(1) | Ethereal. Play a copy of the next card you play this turn at the start of the next combat. Exhaust. |
 | You're Fired | ![](small-card-images/YoureFired.png) | ![](small-card-images/YoureFiredPlus.png) | Rare | Attack | 2(1) | Deal 20 damage. Remove the enemy's buffs. Remove your debuffs. |

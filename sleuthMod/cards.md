@@ -8,8 +8,7 @@
 | Jigsaw | ![](small-card-images/Jigsaw.png) | ![](small-card-images/JigsawPlus.png) | Special | Attack | 0 | Deal 10(15) damage. Put a copy of this card on top of your draw pile. Exhaust. |
 | Key/Handgun | ![](small-card-images/KeyHandgun.png) | ![](small-card-images/KeyHandgunPlus.png) | Special | Attack | 1 | If the enemy intends to attack, gain 8(11) Block. Otherwise, deal 8(11) damage. |
 | Belly O' The Whale | ![](small-card-images/BellyOTheWhale.png) | ![](small-card-images/BellyOTheWhalePlus.png) | Common | Attack | 1 | Vim 10. Deal 8(11) damage. Exhaust a card in your discard pile. |
-| Ben Stiller Bust | ![](small-card-images/BenStillerBust.png) | ![](small-card-images/BenStillerBustPlus.png) | Common | Skill | 1 | If this card enters your discard or exhaust pile, gain 5(8) Block. Retain. |
-| Bowen Stilson Dogg | ![](small-card-images/BowenStilsonDogg.png) | ![](small-card-images/BowenStilsonDoggPlus.png) | Common | Attack | 1 | Deal 4(5) damage. If this card enters your discard or exhaust pile, deal 4(5) damage to ALL enemies. Retain. |
+| Ben Stiller Bust | ![](small-card-images/BenStillerBust.png) | ![](small-card-images/BenStillerBustPlus.png) | Common | Attack | 1 | Deal 4(5) damage. If this card enters your discard or exhaust pile, deal 4(5) damage to ALL enemies. Retain. |
 | Candy Corn | ![](small-card-images/CandyCorn.png) | ![](small-card-images/CandyCornPlus.png) | Common | Skill |  | Unplayable. At the end of your turn, gain 3(5) Block. |
 | Charisma Blast | ![](small-card-images/CharismaBlast.png) | ![](small-card-images/CharismaBlastPlus.png) | Common | Attack | 1 | Pulchritude 11. Deal 11(14) damage. Put the top card of your draw pile into your discard pile. |
 | Fortify | ![](small-card-images/Fortify.png) | ![](small-card-images/FortifyPlus.png) | Common | Skill | 1 | Gain 3(4) Temporary Imagination. Gain 5(7) Block. Put a card from your hand on top of your draw pile. |
@@ -25,6 +24,7 @@
 | Truffle Shuffle | ![](small-card-images/TruffleShuffle.png) | ![](small-card-images/TruffleShufflePlus.png) | Common | Attack | 1 | Vim 1. Deal 8(11) damage. Gain 2 Auto-Parry. Purge. |
 | Unscale | ![](small-card-images/Unscale.png) | ![](small-card-images/UnscalePlus.png) | Common | Skill | 0 | Pulchritude 5. You and ALL enemies lose 4 Strength this turn.  (Retain.) |
 | Victory Pose | ![](small-card-images/VictoryPose.png) | ![](small-card-images/VictoryPosePlus.png) | Common | Skill | 1 | Gain 8(11) Block. Gain 2(4) more if an enemy has been slain this combat. |
+| Wilson Bust | ![](small-card-images/WilsonBust.png) | ![](small-card-images/WilsonBustPlus.png) | Common | Skill | 1 | If this card enters your discard or exhaust pile, gain 5(8) Block. Retain. |
 | Aggrieve | ![](small-card-images/Aggrieve.png) | ![](small-card-images/AggrievePlus.png) | Uncommon | Attack | 1 | Vim 10. Imagination 10. Remove all Block from the enemy (ALL enemies). Deal 2 damage 5 times. |
 | Bite Hardly | ![](small-card-images/BiteHardly.png) | ![](small-card-images/BiteHardlyPlus.png) | Uncommon | Attack | 2 | Vim 10. Deal 8(10) damage. Gain Temporary HP equal to unblocked damage dealt. |
 | Busts-R-Us | ![](small-card-images/Busts-R-Us.png) | ![](small-card-images/Busts-R-UsPlus.png) | Uncommon | Skill |  | Unplayable. While in hand, if any card enters your discard or exhaust pile, deal 2 damage to a random enemy (ALL enemies). |
@@ -51,7 +51,7 @@
 | Heart Stab | ![](small-card-images/HeartStab.png) | ![](small-card-images/HeartStabPlus.png) | Uncommon | Attack | 1 | Deal 8(10) damage. Apply 2(3) Weak. Apply 2(3) Vulnerable. Lose 1 of your highest stat. |
 | Keyring/Tommygun | ![](small-card-images/KeyringTommygun.png) | ![](small-card-images/KeyringTommygunPlus.png) | Uncommon | Attack | 1 | Gain 12(15) Block / Deal 4(5) damage 3 times. Switches form at the start of your turn. |
 | Opportunity Cost | ![](small-card-images/OpportunityCost.png) | ![](small-card-images/OpportunityCostPlus.png) | Uncommon | Skill | 1 | Permanently upgrade a card in your hand. Lose 1 of each stat. (not Lose 1 of each stat.) Remove this card from your deck. Purge. |
-| Parry | ![](small-card-images/Parry.png) | ![](small-card-images/ParryPlus.png) | Uncommon | Power | 1 | Vim 5. Gain 1(2) Artifact. Gain 3 Thorns. Gain 1 Auto-Parry. |
+| Parry | ![](small-card-images/Parry.png) | ![](small-card-images/ParryPlus.png) | Uncommon | Power | 1 | Vim 5. Gain 1(2) Artifact. Gain 2 Thorns. Gain 1 Auto-Parry. |
 | Reprogram | ![](small-card-images/Reprogram.png) | ![](small-card-images/ReprogramPlus.png) | Uncommon | Skill | 0 | Vim 5. Look at the top 4(6) cards of your draw pile. You may discard any of them. Gain 1 Auto-Parry. Purge. |
 | Retain Return | ![](small-card-images/RetainReturn.png) | ![](small-card-images/RetainReturnPlus.png) | Uncommon | Skill | 1(0) | Pulchritude 9. Return all cards with Retain from your discard pile to your hand. At the end of your turn, discard all cards with Retain. |
 | Retrieve Arms | ![](small-card-images/RetrieveArms.png) | ![](small-card-images/RetrieveArmsPlus.png) | Uncommon | Skill |  | Unplayable. Whenever you draw this card, add a (an upgraded) Key/Handgun into your hand. Ethereal. |
