@@ -185,7 +185,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 3 Temporary Imagination.\nGain 5 Block.\nPut a card from your hand on top of your draw pile."
+      "description": "Gain 3 Temporary_Imagination.\nGain 5 Block.\nPut a card from your hand on top of your draw pile."
     },
     {
       "name": "Fortify+",
@@ -193,7 +193,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Temporary Imagination.\nGain 7 Block.\nPut a card from your hand on top of your draw pile."
+      "description": "Gain 4 Temporary_Imagination.\nGain 7 Block.\nPut a card from your hand on top of your draw pile."
     },
     {
       "name": "Ignore",
@@ -201,7 +201,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 5.\nGain 5 Temporary HP.\nPut a Mural on top of your draw pile."
+      "description": "Vim 5.\nGain 5 Temporary_HP.\nPut a Mural on top of your draw pile."
     },
     {
       "name": "Ignore+",
@@ -209,7 +209,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 5.\nGain 8 Temporary HP.\nPut a Mural on top of your draw pile."
+      "description": "Vim 5.\nGain 8 Temporary_HP.\nPut a Mural on top of your draw pile."
     },
     {
       "name": "Joust",
@@ -281,7 +281,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Imagination 3.\nDeal 7 damage to ALL enemies.\nGain 1 Temporary Imagination."
+      "description": "Imagination 3.\nDeal 7 damage to ALL enemies.\nGain 1 Temporary_Imagination."
     },
     {
       "name": "Pez Uzi+",
@@ -289,7 +289,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Imagination 3.\nDeal 9 damage to ALL enemies.\nGain 2 Temporary Imagination."
+      "description": "Imagination 3.\nDeal 9 damage to ALL enemies.\nGain 2 Temporary_Imagination."
     },
     {
       "name": "Taze",
@@ -409,7 +409,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Vim 10.\nDeal 8 damage.\nGain Temporary HP equal to unblocked damage dealt."
+      "description": "Vim 10.\nDeal 8 damage.\nGain Temporary_HP equal to unblocked damage dealt."
     },
     {
       "name": "Bite Hardly+",
@@ -417,7 +417,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Vim 10.\nDeal 10 damage.\nGain Temporary HP equal to unblocked damage dealt."
+      "description": "Vim 10.\nDeal 10 damage.\nGain Temporary_HP equal to unblocked damage dealt."
     },
     {
       "name": "Busts-R-Us",
@@ -441,7 +441,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Imagination 6.\nDeal 6 damage.\nGain 2 Temporary Imagination."
+      "description": "Imagination 6.\nDeal 6 damage.\nGain 2 Temporary_Imagination."
     },
     {
       "name": "Candy Cane+",
@@ -449,7 +449,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Imagination 6.\nDeal 8 damage.\nGain 3 Temporary Imagination."
+      "description": "Imagination 6.\nDeal 8 damage.\nGain 3 Temporary_Imagination."
     },
     {
       "name": "Candy Leather",
@@ -489,7 +489,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "7",
-      "description": "Pulchritude 10.\nCosts 1 less for each card in your hand.\nChoose an Attack card.\nAdd 2 copies of that card into your hand."
+      "description": "Pulchritude 10.\nCosts 1 less for each card in your hand.\nChoose an Attack card.\nPut 2 copies of that card on top of your draw pile."
     },
     {
       "name": "Conference+",
@@ -497,7 +497,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "6",
-      "description": "Pulchritude 10.\nCosts 1 less for each card in your hand.\nChoose an Attack card.\nAdd 2 copies of that card into your hand."
+      "description": "Pulchritude 10.\nCosts 1 less for each card in your hand.\nChoose an Attack card.\nPut 2 copies of that card on top of your draw pile."
     },
     {
       "name": "Conjure",
@@ -521,7 +521,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 5.\nDiscard your hand.\nGain 1 Temporary Imagination for each card discarded.\nPut a card from your discard pile into your hand."
+      "description": "Imagination 5.\nDiscard your hand.\nGain 1 Temporary_Imagination for each card discarded.\nPut a card from your discard pile into your hand."
     },
     {
       "name": "Cruet of Brandy+",
@@ -529,7 +529,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Imagination 5.\nDiscard your hand.\nGain 1 Temporary Imagination for each card discarded.\nPut a card from your discard pile into your hand."
+      "description": "Imagination 5.\nDiscard your hand.\nGain 1 Temporary_Imagination for each card discarded.\nPut a card from your discard pile into your hand."
     },
     {
       "name": "Diamond Armor",
@@ -633,7 +633,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 5.\nDiscard your hand.\nGain 2 Temporary HP for each card discarded.\nExhaust."
+      "description": "Vim 5.\nDiscard your hand.\nGain 2 Temporary_HP for each card discarded.\nExhaust."
     },
     {
       "name": "Fool Plate+",
@@ -641,7 +641,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Vim 5.\nDiscard your hand.\nGain 2 Temporary HP for each card discarded.\nExhaust."
+      "description": "Vim 5.\nDiscard your hand.\nGain 2 Temporary_HP for each card discarded.\nExhaust."
     },
     {
       "name": "Force Deck",
@@ -665,7 +665,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "5",
-      "description": "Imagination 10.\nCosts 1 less for each Temporary Imagination you have.\nGain 8 Block.\nDraw 2 cards."
+      "description": "Imagination 10.\nCosts 1 less for each Temporary_Imagination you have.\nGain 8 Block.\nDraw 2 cards."
     },
     {
       "name": "Fortune+",
@@ -673,7 +673,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "5",
-      "description": "Imagination 10.\nCosts 1 less for each Temporary Imagination you have.\nGain 10 Block.\nDraw 3 cards."
+      "description": "Imagination 10.\nCosts 1 less for each Temporary_Imagination you have.\nGain 10 Block.\nDraw 3 cards."
     },
     {
       "name": "Frijolaegis",
@@ -977,7 +977,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "5",
-      "description": "Vim 10.\nCosts 1 less [E] for each time you play a Vim card this combat.\nDeal 26 damage."
+      "description": "Vim 10.\nCosts 1 less [E] for each time you play a Vim card this combat.\nDeal 28 damage."
     },
     {
       "name": "Un-De-Escalate",
@@ -1033,7 +1033,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Lose X Vim.\nGain 4 Temporary HP for each Vim lost."
+      "description": "Lose X Vim.\nGain 4 Temporary_HP for each Vim lost."
     },
     {
       "name": "Burn Fat+",
@@ -1041,7 +1041,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Lose X Vim.\nGain 5 Temporary HP for each Vim lost."
+      "description": "Lose X Vim.\nGain 5 Temporary_HP for each Vim lost."
     },
     {
       "name": "Candid Bullets",
@@ -1193,7 +1193,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Vim 5.\nGain Temporary HP equal to your Vim.\nGain 1 Auto-Parry.\nPurge."
+      "description": "Vim 5.\nGain Temporary_HP equal to your Vim.\nGain 1 Auto-Parry.\nPurge."
     },
     {
       "name": "Successful Parry+",
@@ -1201,7 +1201,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Vim 5.\nGain Temporary HP equal to your Vim.\nGain 1 Auto-Parry.\nPurge."
+      "description": "Vim 5.\nGain Temporary_HP equal to your Vim.\nGain 1 Auto-Parry.\nPurge."
     },
     {
       "name": "The Zillyhammer",
@@ -1225,7 +1225,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Vim 15.\nImagination 15.\nWhenever you gain Imagination, gain that much Temporary HP."
+      "description": "Vim 15.\nImagination 15.\nWhenever you gain Imagination, gain that much Temporary_HP."
     },
     {
       "name": "Tootsiestein+",
@@ -1233,7 +1233,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Vim 15.\nImagination 15.\nWhenever you gain Imagination, gain that much Temporary HP."
+      "description": "Vim 15.\nImagination 15.\nWhenever you gain Imagination, gain that much Temporary_HP."
     },
     {
       "name": "Weird Puzzle Shit",
@@ -1241,7 +1241,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Pulchritude 16.\nCosts 1 more for every 2 cards in your draw pile.\nAdd a Moustache Fire into your hand."
+      "description": "Pulchritude 16.\nCosts 1 more for every 2 cards in your draw pile.\nAdd a Moustache_Fire into your hand."
     },
     {
       "name": "Weird Puzzle Shit+",
@@ -1249,7 +1249,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Pulchritude 16.\nCosts 1 more for every 2 cards in your draw pile.\nAdd an upgraded Moustache Fire into your hand."
+      "description": "Pulchritude 16.\nCosts 1 more for every 2 cards in your draw pile.\nAdd an upgraded Moustache_Fire into your hand."
     }
   ],
   "relics": [
@@ -1278,23 +1278,27 @@
     },
     {
       "name": "Imagination",
-      "description": "Imaginary statistic. If you have enough Imagination, a Imagination card will use its effects. Otherwise, it will cost 0, Retain, Purge, and give you 1 point of Imagination permanently."
+      "description": "Imaginary statistic. If you have don't have enough Imagination for a card, it will cost 0, Retain, Purge, and give you 1 point of Imagination permanently instead of any other effects."
+    },
+    {
+      "name": "Moustache fire",
+      "description": "A 0-Cost Attack that puts a copy of itself on top of your draw pile."
     },
     {
       "name": "Mural",
-      "description": "Unplayable Status cards that stay in your hand and Exhaust when discarded."
+      "description": "Murals are unplayable status cards that Retain and Exhaust when discarded."
     },
     {
       "name": "Pulchritude",
-      "description": "Charismatic statistic. If you have enough Pulchritude, a Pulchritude card will use its effects. Otherwise, it will cost 0, Retain, Purge, and give you 1 point of Pulchritude permanently."
+      "description": "Charismatic statistic. If you don't have enough Pulchritude for a card, it will cost 0, Retain, Purge, and give you 1 point of Pulchritude permanently instead of any other effects."
     },
     {
       "name": "Temporary imagination",
-      "description": "Temporary Imagination is Imagination that can be gained easily but is removed at the end of combat."
+      "description": "Temporary Imagination disappears at the end of combat."
     },
     {
       "name": "Vim",
-      "description": "Stamina statistic. If you have enough Vim, a Vim card will use its effects. Otherwise, it will cost 0, Retain, Purge, and give you 1 stack of Auto-Parry."
+      "description": "Stamina statistic. If you don't have enough Vim for a card, it will cost 0, Retain, Purge, and give you 1 point of Vim permanently instead of any other effects."
     }
   ]
 }
