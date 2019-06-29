@@ -265,7 +265,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 11.\nGain 12 Block.\nLose 1 Imagination."
+      "description": "Imagination 11. ALWAYS costs 1.\nGain 12 Block.\nLose 1 Imagination."
     },
     {
       "name": "Pepperminthryl+",
@@ -273,7 +273,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 11.\nGain 15 Block.\nLose 1 Imagination."
+      "description": "Imagination 11. ALWAYS costs 1.\nGain 15 Block.\nLose 1 Imagination."
     },
     {
       "name": "Pez Uzi",
@@ -409,7 +409,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Vim 10.\nDeal 8 damage.\nGain Temporary_HP equal to unblocked damage dealt."
+      "description": "Vim 10.\nDeal 10 damage.\nGain Temporary_HP equal to unblocked damage dealt.\nExhaust."
     },
     {
       "name": "Bite Hardly+",
@@ -417,7 +417,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Vim 10.\nDeal 10 damage.\nGain Temporary_HP equal to unblocked damage dealt."
+      "description": "Vim 10.\nDeal 13 damage.\nGain Temporary_HP equal to unblocked damage dealt.\nExhaust."
     },
     {
       "name": "Busts-R-Us",
@@ -505,7 +505,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 6.\nAdd any non-Rare Pulchritude or Vim card to your hand.\nIt gains Purge.\nPurge."
+      "description": "Imagination 6.\nAdd any non-Rare Pulchritude or Vim card to your hand.\nIt gains Purge.\nLose 1 Imagination.\nPurge."
     },
     {
       "name": "Conjure+",
@@ -513,7 +513,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Imagination 6.\nAdd any non-Rare Pulchritude or Vim card to your hand.\nIt gains Purge.\nPurge."
+      "description": "Imagination 6.\nAdd any non-Rare Pulchritude or Vim card to your hand.\nIt gains Purge.\nLose 1 Imagination.\nPurge."
     },
     {
       "name": "Cruet of Brandy",
@@ -761,7 +761,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 12 Block / Deal 4 damage 3 times.\nSwitches form at the start of your turn."
+      "description": "Gain 4 Block 3 times / Deal 4 damage 3 times.\nSwitches form at the start of your turn."
     },
     {
       "name": "Keyring/Tommygun+",
@@ -769,7 +769,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 15 Block / Deal 5 damage 3 times.\nSwitches form at the start of your turn."
+      "description": "Gain 5 Block 3 times / Deal 5 damage 3 times.\nSwitches form at the start of your turn."
     },
     {
       "name": "Leer",
@@ -1048,16 +1048,16 @@
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "2",
-      "description": "Imagination 5.\nGain 4 Strength.\nWhenever you play an Attack, lose 1 Imagination.\nLose 1 Strength if you cannot pay."
+      "cost": "1",
+      "description": "Imagination 5.\nGain 4 Strength.\nAt the end of your turn, lose 1 Imagination."
     },
     {
       "name": "Candid Bullets+",
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "1",
-      "description": "Imagination 5.\nGain 4 Strength.\nWhenever you play an Attack, lose 1 Imagination.\nLose 1 Strength if you cannot pay."
+      "cost": "0",
+      "description": "Imagination 5.\nGain 4 Strength.\nAt the end of your turn, lose 1 Imagination."
     },
     {
       "name": "Candy Mech",
@@ -1129,7 +1129,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 15 Block / Deal 5 damage 3 times.\nSwitches form whenever played."
+      "description": "Gain 5 Block 3 times / Deal 5 damage 3 times.\nSwitches form whenever played."
     },
     {
       "name": "Hairpin/Machinegun+",
@@ -1137,7 +1137,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 18 Block / Deal 6 damage 3 times.\nSwitches form whenever played."
+      "description": "Gain 6 Block 3 times / Deal 6 damage 3 times.\nSwitches form whenever played."
     },
     {
       "name": "Hit the Mattresses",
@@ -1224,7 +1224,7 @@
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "2",
+      "cost": "1",
       "description": "Vim 15.\nImagination 15.\nWhenever you gain Imagination, gain that much Temporary_HP."
     },
     {
@@ -1232,7 +1232,7 @@
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "1",
+      "cost": "0",
       "description": "Vim 15.\nImagination 15.\nWhenever you gain Imagination, gain that much Temporary_HP."
     },
     {
@@ -1254,8 +1254,15 @@
   ],
   "relics": [
     {
-      "name": "Sextant",
+      "name": "Recycler",
       "tier": "Starter",
+      "pool": "Sleuth_gray_color",
+      "description": "The first time you play a card with Purge each turn, draw 1 card.",
+      "flavorText": "Smells like slightly more balanced playtest content."
+    },
+    {
+      "name": "Sextant",
+      "tier": "Shop",
       "pool": "Sleuth_gray_color",
       "description": "You can see the contents of ? rooms.",
       "flavorText": "Useful for sniping."

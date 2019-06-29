@@ -449,7 +449,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Shuffle 2 Business_Cards into your draw pile.\nExhaust."
+      "description": "Gain 5 Gold.\nShuffle 2 Business_Cards into your draw pile.\nExhaust."
     },
     {
       "name": "Business Burst+",
@@ -457,7 +457,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Shuffle 2 Business_Cards into your draw pile.\nExhaust."
+      "description": "Gain 5 Gold.\nShuffle 2 Business_Cards into your draw pile.\nExhaust."
     },
     {
       "name": "Call In",
@@ -538,22 +538,6 @@
       "type": "Attack",
       "cost": "2",
       "description": "Deal 10 damage.\nGain 10 Block."
-    },
-    {
-      "name": "Demotion",
-      "color": "Thort_gray_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "2",
-      "description": "Enemy cannot buff itself or debuff you.\nExhaust."
-    },
-    {
-      "name": "Demotion+",
-      "color": "Thort_gray_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "1",
-      "description": "Enemy cannot buff itself or debuff you.\nExhaust."
     },
     {
       "name": "Desperate Run",
@@ -641,7 +625,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Whenever you play 3 Investments, obtain a Relic.\nExhaust."
+      "description": "Gain 5 Gold.\nWhenever you play 3 Investments, obtain a Relic.\nExhaust."
     },
     {
       "name": "Investment+",
@@ -649,7 +633,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Whenever you play 3 Investments, obtain a Relic.\nExhaust."
+      "description": "Gain 5 Gold.\nWhenever you play 3 Investments, obtain a Relic.\nExhaust."
     },
     {
       "name": "Last Ditch Effort",
@@ -665,7 +649,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 17 damage.\nIf you have less than 50 HP, deal 17 damage.\nIf you have less than 20 HP, deal 17 damage."
+      "description": "Deal 16 damage.\nIf you have less than 50 HP, deal 16 damage.\nIf you have less than 20 HP, deal 16 damage."
     },
     {
       "name": "Long Day's Work",
@@ -833,7 +817,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Choose a card.\nAdd a copy of that card into your hand.\nShuffle a copy of that card into your draw pile."
+      "description": "Ethereal.\nChoose a card.\nAdd a copy of that card into your hand.\nShuffle a copy of that card into your draw pile.\nExhaust."
     },
     {
       "name": "Seeing Double+",
@@ -841,7 +825,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose a card.\nAdd a copy of that card into your hand.\nShuffle a copy of that card into your draw pile."
+      "description": "Ethereal.\nChoose a card.\nAdd a copy of that card into your hand.\nShuffle a copy of that card into your draw pile.\nExhaust."
     },
     {
       "name": "Snow Day",
@@ -881,7 +865,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Whenever you lose non-Temporary HP, gain 3 Temporary HP."
+      "description": "Whenever you lose non-Temporary HP, gain 3 Temporary_HP."
     },
     {
       "name": "Thick Skin+",
@@ -889,7 +873,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "0",
-      "description": "Whenever you lose non-Temporary HP, gain 3 Temporary HP."
+      "description": "Whenever you lose non-Temporary HP, gain 3 Temporary_HP."
     },
     {
       "name": "Toxic Greed",
@@ -912,7 +896,7 @@
       "color": "Thort_gray_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "1",
+      "cost": "2",
       "description": "Choose ANY Thorton card to add into your hand.\nExhaust."
     },
     {
@@ -920,7 +904,7 @@
       "color": "Thort_gray_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "0",
+      "cost": "1",
       "description": "Choose ANY Thorton card to add into your hand.\nExhaust."
     },
     {
@@ -993,7 +977,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": "Grave.\nEthereal.\nAt the start of your turn, play a random card with \"run\" in its name."
+      "description": "Grave. \nAt the start of your turn, play a random card with Run."
     },
     {
       "name": "Coward Form+",
@@ -1001,7 +985,23 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": "Grave.\nAt the start of your turn, play a random card with \"run\" in its name."
+      "description": "At the start of your turn, play a random card with Run."
+    },
+    {
+      "name": "Demotion",
+      "color": "Thort_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "ALL enemies cannot buff themselves or debuff you.\nExhaust."
+    },
+    {
+      "name": "Demotion+",
+      "color": "Thort_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "ALL enemies cannot buff themselves or debuff you.\nExhaust."
     },
     {
       "name": "Dodge & Roll & Run",
@@ -1137,7 +1137,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Shuffle 2 Business_Cards and 1 Investment into your draw pile.\nExhaust."
+      "description": "Gain 10 Gold.\nShuffle 2 Business_Cards and 1 Investment into your draw pile.\nExhaust."
     },
     {
       "name": "Portfolio+",
@@ -1145,7 +1145,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Shuffle 2 upgraded Business_Cards and 1 upgraded Investment into your draw pile.\nExhaust."
+      "description": "Gain 10 Gold.\nShuffle 2 upgraded Business_Cards and 1 upgraded Investment into your draw pile.\nExhaust."
     },
     {
       "name": "Scaling Is Win",
@@ -1196,6 +1196,22 @@
       "description": "If you have at least 50 Gold, lose 50 Gold and deal 50 damage to ALL enemies."
     },
     {
+      "name": "Summon Profits",
+      "color": "Thort_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Add ANY random card into your hand.\nDraw 1 card.\nExhaust."
+    },
+    {
+      "name": "Summon Profits+",
+      "color": "Thort_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Add ANY random card into your hand.\nDraw 1 card.\nThey cost 0 until played.\nExhaust."
+    },
+    {
       "name": "Temporal Blast",
       "color": "Thort_gray_color",
       "rarity": "Rare",
@@ -1217,7 +1233,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 20 damage.\nRemove the enemy's buffs.\nRemove your debuffs."
+      "description": "Deal 20 damage.\nRemove all of the enemy's buffs.\nRemove all of your debuffs."
     },
     {
       "name": "You're Fired+",
@@ -1225,7 +1241,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 26 damage.\nRemove the enemy's buffs.\nRemove your debuffs."
+      "description": "Deal 26 damage.\nRemove all of the enemy's buffs.\nRemove all of your debuffs."
     }
   ],
   "relics": [
@@ -1235,6 +1251,34 @@
       "pool": "Thort_gray_color",
       "description": "Start each Elite combat with 3 Strength.",
       "flavorText": "Drink in emergencies."
+    },
+    {
+      "name": "Business Card Printer",
+      "tier": "Common",
+      "pool": "Thort_gray_color",
+      "description": "At the start of each combat, add a Business_Card into your hand.",
+      "flavorText": "Look at that subtle off-white color. The tasteful thickness of it. Oh my God, it even has a watermark."
+    },
+    {
+      "name": "Bank Deed",
+      "tier": "Uncommon",
+      "pool": "Thort_gray_color",
+      "description": "Whenever you climb a floor, gain 5% interest on held Gold.",
+      "flavorText": "Dad gave this to me."
+    },
+    {
+      "name": "Bottled Funds",
+      "tier": "Rare",
+      "pool": "Thort_gray_color",
+      "description": "Upon pickup, choose a card. At the start of each combat, play and Exhaust a copy of it.",
+      "flavorText": "Looking empty."
+    },
+    {
+      "name": "Lucky Clover",
+      "tier": "Boss",
+      "pool": "Thort_gray_color",
+      "description": "66% chance to gain [E] at the start of your turn.",
+      "flavorText": "Why ever stop?"
     }
   ],
   "potions": [
