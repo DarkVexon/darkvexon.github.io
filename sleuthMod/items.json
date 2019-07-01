@@ -265,7 +265,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 11. ALWAYS costs 1.\nGain 12 Block.\nLose 1 Imagination."
+      "description": "Imagination 11. ALWAYS costs 1.\nGain 12 Block."
     },
     {
       "name": "Pepperminthryl+",
@@ -273,7 +273,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 11. ALWAYS costs 1.\nGain 15 Block.\nLose 1 Imagination."
+      "description": "Imagination 11. ALWAYS costs 1.\nGain 15 Block."
     },
     {
       "name": "Pez Uzi",
@@ -409,7 +409,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Vim 10.\nDeal 10 damage.\nGain Temporary_HP equal to unblocked damage dealt.\nExhaust."
+      "description": "Vim 10.\nDeal 9 damage.\nGain Temporary_HP equal to unblocked damage dealt.\nExhaust."
     },
     {
       "name": "Bite Hardly+",
@@ -417,7 +417,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Vim 10.\nDeal 13 damage.\nGain Temporary_HP equal to unblocked damage dealt.\nExhaust."
+      "description": "Vim 10.\nDeal 12 damage.\nGain Temporary_HP equal to unblocked damage dealt.\nExhaust."
     },
     {
       "name": "Busts-R-Us",
@@ -548,22 +548,6 @@
       "description": "Gain 16 Block.\nLose 1 of your highest stat."
     },
     {
-      "name": "Disregard Rules",
-      "color": "Sleuth_gray_color",
-      "rarity": "Uncommon",
-      "type": "Power",
-      "cost": "1",
-      "description": "Whenever you play a card with Purge, draw 1 card."
-    },
-    {
-      "name": "Disregard Rules+",
-      "color": "Sleuth_gray_color",
-      "rarity": "Uncommon",
-      "type": "Power",
-      "cost": "1",
-      "description": "Whenever you play a card with Purge, draw 2 cards."
-    },
-    {
       "name": "Distill",
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
@@ -632,7 +616,7 @@
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "1",
+      "cost": "2",
       "description": "Vim 5.\nDiscard your hand.\nGain 2 Temporary_HP for each card discarded.\nExhaust."
     },
     {
@@ -640,7 +624,7 @@
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "0",
+      "cost": "1",
       "description": "Vim 5.\nDiscard your hand.\nGain 2 Temporary_HP for each card discarded.\nExhaust."
     },
     {
@@ -809,7 +793,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Vim 5.\nGain 1 Artifact.\nGain 2 Thorns.\nGain 1 Auto-Parry."
+      "description": "Vim 5.\nGain 1 Artifact.\nGain !sleuthSecondMagic! Thorns.\nGain 1 Auto-Parry."
     },
     {
       "name": "Parry+",
@@ -817,7 +801,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Vim 5.\nGain 2 Artifact.\nGain 2 Thorns.\nGain 1 Auto-Parry."
+      "description": "Vim 5.\nGain 2 Artifact.\nGain !sleuthSecondMagic! Thorns.\nGain 1 Auto-Parry."
     },
     {
       "name": "Reprogram",
@@ -825,7 +809,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Vim 5.\nLook at the top 4 cards of your draw pile. You may discard any of them.\nGain 1 Auto-Parry.\nPurge."
+      "description": "Vim 5.\nDiscard 1 card from your draw pile.\nGain 1 Auto-Parry.\nPurge."
     },
     {
       "name": "Reprogram+",
@@ -833,7 +817,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Vim 5.\nLook at the top 6 cards of your draw pile. You may discard any of them.\nGain 1 Auto-Parry.\nPurge."
+      "description": "Vim 5.\nDiscard 2 cards from your draw pile.\nGain 1 Auto-Parry.\nPurge."
     },
     {
       "name": "Retain Return",
@@ -1065,7 +1049,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Imagination 15.\nGain 16 Block.\nDeal 16 damage.\nLose 3 Imagination."
+      "description": "Imagination !sleuthSecondMagic!.\nGain 16 Block.\nDeal 16 damage.\nLose 3 Imagination."
     },
     {
       "name": "Candy Mech+",
@@ -1073,7 +1057,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Imagination 10.\nGain 16 Block.\nDeal 16 damage.\nLose 2 Imagination."
+      "description": "Imagination !sleuthSecondMagic!.\nGain 16 Block.\nDeal 16 damage.\nLose 2 Imagination."
     },
     {
       "name": "Candycorn Vampire",
@@ -1145,7 +1129,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Pulchritude 8.\nVim 8.\nImagination 8.\nDeal damage equal to your combined stats.\nExhaust."
+      "description": "Pulchritude 8.\nVim 8.\nImagination 8.\nDeal damage equal to your highest stat.\nExhaust."
     },
     {
       "name": "Hit the Mattresses+",
@@ -1153,7 +1137,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Pulchritude 8.\nVim 8.\nImagination 8.\nDeal damage equal to your combined stats."
+      "description": "Pulchritude 8.\nVim 8.\nImagination 8.\nDeal damage equal to your combined stats.\nExhaust."
     },
     {
       "name": "Replicsimile",
@@ -1161,7 +1145,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Imagination 13.\nThe first non-Purge card you play each turn puts a copy of itself on top of your draw pile."
+      "description": "Imagination 13.\nThe first non-Purge card you play each turn puts a copy of itself with Purge on top of your draw pile."
     },
     {
       "name": "Replicsimile+",
@@ -1169,7 +1153,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Imagination 13.\nThe first non-Purge card you play each turn puts a copy of itself on top of your draw pile."
+      "description": "Imagination 13.\nThe first non-Purge card you play each turn puts a copy of itself with Purge on top of your draw pile."
     },
     {
       "name": "Roll Boxcars",
@@ -1257,8 +1241,29 @@
       "name": "Recycler",
       "tier": "Starter",
       "pool": "Sleuth_gray_color",
-      "description": "The first time you play a card with Purge each turn, draw 1 card.",
-      "flavorText": "Smells like slightly more balanced playtest content."
+      "description": "Whenever you play a card with Purge, ALL enemies lose 1 Strength this turn.",
+      "flavorText": "Smells like another attempt at playtest content."
+    },
+    {
+      "name": "Bowen Stilson Dogg",
+      "tier": "Common",
+      "pool": "Sleuth_gray_color",
+      "description": "At the start of each combat, discard 1 card from your draw pile.",
+      "flavorText": "The dreaded bust."
+    },
+    {
+      "name": "Eye of Fluthlu",
+      "tier": "Shop",
+      "pool": "Sleuth_gray_color",
+      "description": "At the start of your turn, add a Dazed into your hand.",
+      "flavorText": "Surprisingly surprising."
+    },
+    {
+      "name": "Penball",
+      "tier": "Shop",
+      "pool": "Sleuth_gray_color",
+      "description": "You now draw cards from the 2nd from top position of your deck.",
+      "flavorText": "Pinball is decidedly less fun with a pen instead of a ball."
     },
     {
       "name": "Sextant",

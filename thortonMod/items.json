@@ -129,7 +129,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 3 Gold.\nDeal 6 damage.\nExhaust."
+      "description": "Gain 3 Gold.\nDeal 7 damage.\nExhaust."
     },
     {
       "name": "Cash Bash+",
@@ -137,7 +137,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 4 Gold.\nDeal 8 damage.\nExhaust."
+      "description": "Gain 5 Gold.\nDeal 9 damage.\nExhaust."
     },
     {
       "name": "Distance",
@@ -416,16 +416,16 @@
       "color": "Thort_gray_color",
       "rarity": "Uncommon",
       "type": "Attack",
-      "cost": "2",
-      "description": "Deal 12 damage.\nShuffle a Business_Card into your draw pile.\nExhaustive !stslib:ex!."
+      "cost": "1",
+      "description": "Deal 8 damage.\nShuffle a Business_Card into your draw pile.\nExhaust."
     },
     {
       "name": "Business Bash+",
       "color": "Thort_gray_color",
       "rarity": "Uncommon",
       "type": "Attack",
-      "cost": "2",
-      "description": "Deal 15 damage.\nShuffle a Business_Card into your draw pile.\nExhaustive !stslib:ex!."
+      "cost": "1",
+      "description": "Deal 11 damage.\nShuffle a Business_Card into your draw pile.\nExhaust."
     },
     {
       "name": "Business Boom",
@@ -572,6 +572,22 @@
       "description": "Deal 9 damage.\nEnemy loses 4 Strength this turn."
     },
     {
+      "name": "Feel No Brain",
+      "color": "Thort_gray_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever a card is Exhausted, gain 2 Block."
+    },
+    {
+      "name": "Feel No Brain+",
+      "color": "Thort_gray_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nWhenever a card is Exhausted, gain 2 Block."
+    },
+    {
       "name": "Focus Strength",
       "color": "Thort_gray_color",
       "rarity": "Uncommon",
@@ -641,7 +657,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 13 damage.\nIf you have less than 50 HP, deal 13 damage.\nIf you have less than 20 HP, deal 13 damage."
+      "description": "Deal 13 damage.\nIf you have less than 50% HP, deal 13 damage.\nIf you have less than 25% HP, deal 13 damage."
     },
     {
       "name": "Last Ditch Effort+",
@@ -649,7 +665,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 16 damage.\nIf you have less than 50 HP, deal 16 damage.\nIf you have less than 20 HP, deal 16 damage."
+      "description": "Deal 16 damage.\nIf you have less than 50% HP, deal 16 damage.\nIf you have less than 25% HP, deal 16 damage."
     },
     {
       "name": "Long Day's Work",
@@ -689,7 +705,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Gain 1 stack of ANY random buff."
+      "description": "Gain 3 of either Malleable, Artifact, Thorns or Plated Armor randomly."
     },
     {
       "name": "Perplexing Power+",
@@ -697,14 +713,14 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Innate.\nGain 1 stack of ANY random buff."
+      "description": "Innate.\nGain 3 of either Malleable, Artifact, Thorns or Plated Armor randomly."
     },
     {
       "name": "Plan Ahead",
       "color": "Thort_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "3",
+      "cost": "2",
       "description": "Gain 1 Strength at the start of the next combat.\nExhaust."
     },
     {
@@ -713,7 +729,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 1 Strength at the start of the next combat.\nExhaust."
+      "description": "Gain 1 Strength and [E] at the start of the next combat.\nExhaust."
     },
     {
       "name": "Promotion",
@@ -737,7 +753,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 12 Gold.\nExhaust."
+      "description": "Ethereal.\nGain 13 Gold.\nExhaust."
     },
     {
       "name": "ROI+",
@@ -745,7 +761,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 12 Gold.\nExhaust."
+      "description": "Ethereal.\nGain 13 Gold.\nExhaust."
     },
     {
       "name": "Rebalance",
@@ -792,8 +808,8 @@
       "color": "Thort_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "1",
-      "description": "Run.\nRun.\nRun."
+      "cost": "0",
+      "description": "Run.\nRun."
     },
     {
       "name": "Running Feint",
@@ -865,7 +881,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Whenever you lose non-Temporary HP, gain 3 Temporary_HP."
+      "description": "Whenever you lose non-Temporary HP, gain 2 Temporary_HP."
     },
     {
       "name": "Thick Skin+",
@@ -873,7 +889,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "0",
-      "description": "Whenever you lose non-Temporary HP, gain 3 Temporary_HP."
+      "description": "Whenever you lose non-Temporary HP, gain 2 Temporary_HP."
     },
     {
       "name": "Toxic Greed",
@@ -1121,7 +1137,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 9 Block.\nDeal 9 damage.\nGain 9 Gold.\nExhaustive !stslib:ex!."
+      "description": "Gain 9 Gold.\nGain 9 Block.\nDeal 9 damage.\nExhaustive !stslib:ex!."
     },
     {
       "name": "Penny Toss+",
@@ -1129,7 +1145,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "0",
-      "description": "Gain 9 Block.\nDeal 9 damage.\nGain 9 Gold.\nExhaustive !stslib:ex!."
+      "description": "Gain 9 Gold.\nGain 9 Block.\nDeal 9 damage.\nExhaustive !stslib:ex!."
     },
     {
       "name": "Portfolio",
@@ -1216,7 +1232,7 @@
       "color": "Thort_gray_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "2",
+      "cost": "1",
       "description": "Ethereal.\nPlay a copy of the next card you play this turn at the start of the next combat.\nExhaust."
     },
     {
@@ -1224,7 +1240,7 @@
       "color": "Thort_gray_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "1",
+      "cost": "0",
       "description": "Ethereal.\nPlay a copy of the next card you play this turn at the start of the next combat.\nExhaust."
     },
     {
@@ -1233,7 +1249,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 20 damage.\nRemove all of the enemy's buffs.\nRemove all of your debuffs."
+      "description": "Deal 20 damage.\nRemove all of your debuffs."
     },
     {
       "name": "You're Fired+",
@@ -1241,7 +1257,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 26 damage.\nRemove all of the enemy's buffs.\nRemove all of your debuffs."
+      "description": "Deal 26 damage.\nRemove all of your debuffs."
     }
   ],
   "relics": [
@@ -1267,8 +1283,29 @@
       "flavorText": "Dad gave this to me."
     },
     {
-      "name": "Bottled Funds",
+      "name": "Running Start",
+      "tier": "Uncommon",
+      "pool": "Thort_gray_color",
+      "description": "Running now carries over between fights.",
+      "flavorText": "I used to do track, you know."
+    },
+    {
+      "name": "Broken Calculator",
       "tier": "Rare",
+      "pool": "Thort_gray_color",
+      "description": "At the start of each combat, play ANY card randomly.",
+      "flavorText": "So what if the math's in my favor?"
+    },
+    {
+      "name": "Helm of Sprinting",
+      "tier": "Rare",
+      "pool": "Thort_gray_color",
+      "description": "At the start of each combat, add a random card with Run into your hand. It costs 0 this combat.",
+      "flavorText": "Helps escape efforts."
+    },
+    {
+      "name": "Bottled Funds",
+      "tier": "Boss",
       "pool": "Thort_gray_color",
       "description": "Upon pickup, choose a card. At the start of each combat, play and Exhaust a copy of it.",
       "flavorText": "Looking empty."
@@ -1279,6 +1316,20 @@
       "pool": "Thort_gray_color",
       "description": "66% chance to gain [E] at the start of your turn.",
       "flavorText": "Why ever stop?"
+    },
+    {
+      "name": "Monopoly",
+      "tier": "Boss",
+      "pool": "Thort_gray_color",
+      "description": "Gain double Gold from all sources.",
+      "flavorText": "I just can't help myself."
+    },
+    {
+      "name": "Resume",
+      "tier": "Shop",
+      "pool": "Thort_gray_color",
+      "description": "The amount of Business_Cards required to obtain a Relic is reduced by 3.",
+      "flavorText": "Graduate of the University of Chicago."
     }
   ],
   "potions": [
@@ -1287,8 +1338,8 @@
     {
       "name": "the Thorton",
       "type": "Player",
-      "minHP": "65",
-      "maxHP": "65"
+      "minHP": "68",
+      "maxHP": "68"
     }
   ],
   "keywords": [
