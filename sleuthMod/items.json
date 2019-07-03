@@ -233,7 +233,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 5.\nGain 1 Imagination.\nGive a card Retain for the rest of combat.\nPurge."
+      "description": "Imagination 5.\nGain 1 Imagination.\nGive a card Retain this combat.\nPurge."
     },
     {
       "name": "Moonshine+",
@@ -241,7 +241,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Imagination 5.\nGain 1 Imagination.\nGive a card Retain for the rest of combat.\nPurge."
+      "description": "Imagination 5.\nGain 1 Imagination.\nGive a card Retain this combat.\nPurge."
     },
     {
       "name": "Ogle",
@@ -345,7 +345,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 1.\nDeal 8 damage.\nGain 2 Auto-Parry.\nPurge."
+      "description": "Vim 1.\nDeal 9 damage.\nGain 1 Auto-Parry.\nPurge."
     },
     {
       "name": "Truffle Shuffle+",
@@ -353,7 +353,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 1.\nDeal 11 damage.\nGain 2 Auto-Parry.\nPurge."
+      "description": "Vim 1.\nDeal 12 damage.\nGain 1 Auto-Parry.\nPurge."
     },
     {
       "name": "Unscale",
@@ -498,22 +498,6 @@
       "type": "Skill",
       "cost": "6",
       "description": "Pulchritude 10.\nCosts 1 less for each card in your hand.\nChoose an Attack card.\nPut 2 copies of that card on top of your draw pile."
-    },
-    {
-      "name": "Conjure",
-      "color": "Sleuth_gray_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "1",
-      "description": "Imagination 6.\nAdd any non-Rare Pulchritude or Vim card to your hand.\nIt gains Purge.\nLose 1 Imagination.\nPurge."
-    },
-    {
-      "name": "Conjure+",
-      "color": "Sleuth_gray_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "0",
-      "description": "Imagination 6.\nAdd any non-Rare Pulchritude or Vim card to your hand.\nIt gains Purge.\nLose 1 Imagination.\nPurge."
     },
     {
       "name": "Cruet of Brandy",
@@ -711,17 +695,17 @@
       "name": "Hangover",
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "2",
-      "description": "Whenever you draw this card, lose 1 Strength.\nIf this card enters your discard pile, gain 2 Strength. Retain."
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 1 Dexterity.\nIf this card enters your discard pile, gain 1 Strength.\nRetain."
     },
     {
       "name": "Hangover+",
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "1",
-      "description": "Whenever you draw this card, lose 1 Strength.\nIf this card enters your discard pile, gain 2 Strength. Retain."
+      "type": "Power",
+      "cost": "0",
+      "description": "Gain 1 Dexterity.\nIf this card enters your discard pile, gain 1 Strength.\nRetain."
     },
     {
       "name": "Heart Stab",
@@ -745,7 +729,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 4 Block 3 times / Deal 4 damage 3 times.\nSwitches form at the start of your turn."
+      "description": "Deal 4 damage 3 times. / Gain 4 Block 3 times.\nSwitches form at the start of your turn."
     },
     {
       "name": "Keyring/Tommygun+",
@@ -753,7 +737,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 5 Block 3 times / Deal 5 damage 3 times.\nSwitches form at the start of your turn."
+      "description": "Deal 5 damage 3 times. / Gain 5 Block 3 times.\nSwitches form at the start of your turn."
     },
     {
       "name": "Leer",
@@ -761,7 +745,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 10.\nImagination 10.\nRemove all Block from the enemy.\nDeal 2 damage 5 times."
+      "description": "Imagination 10.\nRemove all Block from the enemy.\nDeal 2 damage 5 times.\nApply 1 Vulnerable."
     },
     {
       "name": "Leer+",
@@ -769,7 +753,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 10.\nImagination 10.\nRemove all Block from ALL enemies.\nDeal 2 damage 5 times."
+      "description": "Imagination 10.\nRemove all Block from ALL enemies.\nDeal 2 damage 5 times.\nApply 2 Vulnerable."
     },
     {
       "name": "Opportunity Cost",
@@ -984,8 +968,8 @@
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "2",
-      "description": "Imagination 9.\nPlay the top card of your draw pile twice.\nPurge it."
+      "cost": "1",
+      "description": "Imagination 9.\nDraw 1 card.\nIt costs 0 until played."
     },
     {
       "name": "Wizard's Sudoku+",
@@ -993,7 +977,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 9.\nPlay the top card of your draw pile twice.\nPurge it."
+      "description": "Imagination 9.\nDraw 1 card and give it Retain this combat.\nIt costs 0 until played."
     },
     {
       "name": "Brass Tacks",
@@ -1010,22 +994,6 @@
       "type": "Attack",
       "cost": "2",
       "description": "Pulchritude 15.\nDeal 17 damage to ALL enemies.\nDiscard your hand, then draw that many cards."
-    },
-    {
-      "name": "Burn Fat",
-      "color": "Sleuth_gray_color",
-      "rarity": "Rare",
-      "type": "Skill",
-      "cost": "X",
-      "description": "Lose X Vim.\nGain 4 Temporary_HP for each Vim lost."
-    },
-    {
-      "name": "Burn Fat+",
-      "color": "Sleuth_gray_color",
-      "rarity": "Rare",
-      "type": "Skill",
-      "cost": "X",
-      "description": "Lose X Vim.\nGain 5 Temporary_HP for each Vim lost."
     },
     {
       "name": "Candid Bullets",
@@ -1113,7 +1081,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 5 Block 3 times / Deal 5 damage 3 times.\nSwitches form whenever played."
+      "description": "Deal 5 damage 3 times. / Gain 5 Block 3 times.\nSwitches form whenever played."
     },
     {
       "name": "Hairpin/Machinegun+",
@@ -1121,7 +1089,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 6 Block 3 times / Deal 6 damage 3 times.\nSwitches form whenever played."
+      "description": "Deal 6 damage 3 times. / Gain 6 Block 3 times.\nSwitches form whenever played."
     },
     {
       "name": "Hit the Mattresses",
@@ -1129,7 +1097,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Pulchritude 8.\nVim 8.\nImagination 8.\nDeal damage equal to your highest stat.\nExhaust."
+      "description": "Deal damage equal to your combined stats.\nExhaust."
     },
     {
       "name": "Hit the Mattresses+",
@@ -1137,7 +1105,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Pulchritude 8.\nVim 8.\nImagination 8.\nDeal damage equal to your combined stats.\nExhaust."
+      "description": "Pulchritude 5.\nVim 5.\nImagination 5.\nDeal damage equal to your combined stats."
     },
     {
       "name": "Replicsimile",
@@ -1160,7 +1128,7 @@
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "1",
+      "cost": "0",
       "description": "Add any 1 of the 4 Midnight Cards to your hand.\nExhaust."
     },
     {
@@ -1169,7 +1137,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Add any 1 of the 4 Midnight Cards to your hand.\nExhaust."
+      "description": "Add any 1 of the 4 upgraded Midnight Cards to your hand.\nExhaust."
     },
     {
       "name": "Successful Parry",
@@ -1177,7 +1145,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Vim 5.\nGain Temporary_HP equal to your Vim.\nGain 1 Auto-Parry.\nPurge."
+      "description": "Vim 5.\nGain Block equal to your Vim.\nReflect damage this turn.\nGain 1 Auto-Parry.\nPurge."
     },
     {
       "name": "Successful Parry+",
@@ -1185,7 +1153,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Vim 5.\nGain Temporary_HP equal to your Vim.\nGain 1 Auto-Parry.\nPurge."
+      "description": "Vim 5.\nGain Block equal to your Vim.\nReflect damage this turn.\nGain 1 Auto-Parry.\nPurge."
     },
     {
       "name": "The Zillyhammer",
@@ -1201,7 +1169,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Imagination 20.\nDeal 33 damage to ALL enemies.\nLose 5 Imagination."
+      "description": "Imagination 20.\nDeal 33 damage to ALL enemies.\nLose 4 Imagination."
     },
     {
       "name": "Tootsiestein",
@@ -1238,11 +1206,11 @@
   ],
   "relics": [
     {
-      "name": "Recycler",
+      "name": "Typewriter",
       "tier": "Starter",
       "pool": "Sleuth_gray_color",
-      "description": "Whenever you play a card with Purge, ALL enemies lose 1 Strength this turn.",
-      "flavorText": "Smells like another attempt at playtest content."
+      "description": "Whenever you play a card with Purge, gain 1 Temporary_HP and ALL enemies lose 1 Strength this turn.",
+      "flavorText": "Type up an UNPLEASANT NOTE to increase the enemy's SICK BURN levels."
     },
     {
       "name": "Bowen Stilson Dogg",
@@ -1262,15 +1230,8 @@
       "name": "Penball",
       "tier": "Shop",
       "pool": "Sleuth_gray_color",
-      "description": "You now draw cards from the 2nd from top position of your deck.",
+      "description": "You now draw cards from the 2nd from top position of your draw pile.",
       "flavorText": "Pinball is decidedly less fun with a pen instead of a ball."
-    },
-    {
-      "name": "Sextant",
-      "tier": "Shop",
-      "pool": "Sleuth_gray_color",
-      "description": "You can see the contents of ? rooms.",
-      "flavorText": "Useful for sniping."
     }
   ],
   "potions": [

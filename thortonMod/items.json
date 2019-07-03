@@ -25,7 +25,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain 8 Gold.\nExhaust."
+      "description": "Gain 10 Gold.\nExhaust."
     },
     {
       "name": "Defend",
@@ -47,17 +47,17 @@
       "name": "Heckle",
       "color": "Thort_gray_color",
       "rarity": "Basic",
-      "type": "Skill",
+      "type": "Attack",
       "cost": "0",
-      "description": "Apply 1 Vulnerable.\nApply 1 Weak."
+      "description": "Deal 1 damage.\nApply 1 Vulnerable.\nApply 1 Weak."
     },
     {
       "name": "Heckle+",
       "color": "Thort_gray_color",
       "rarity": "Basic",
-      "type": "Skill",
+      "type": "Attack",
       "cost": "0",
-      "description": "Apply 2 Vulnerable.\nApply 2 Weak."
+      "description": "Deal 2 damage.\nApply 2 Vulnerable.\nApply 2 Weak."
     },
     {
       "name": "Strike",
@@ -113,7 +113,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Whenever you play 10 Business_Cards, obtain a Relic.\nExhaust."
+      "description": "Whenever you play 10 thethorton:Business_Cards, obtain a Relic.\nExhaust."
     },
     {
       "name": "Business Card+",
@@ -121,7 +121,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Whenever you play 10 Business_Cards, obtain a Relic.\nDraw 1 card.\nExhaust."
+      "description": "Whenever you play 10 thethorton:Business_Cards, obtain a Relic.\nDraw 1 card.\nExhaust."
     },
     {
       "name": "Cash Bash",
@@ -129,7 +129,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 3 Gold.\nDeal 7 damage.\nExhaust."
+      "description": "Gain 4 Gold.\nDeal 9 damage.\nExhaust."
     },
     {
       "name": "Cash Bash+",
@@ -137,7 +137,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 5 Gold.\nDeal 9 damage.\nExhaust."
+      "description": "Gain 6 Gold.\nDeal 11 damage.\nExhaust."
     },
     {
       "name": "Distance",
@@ -209,7 +209,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 7 Block.\nRun."
+      "description": "Gain 6 Block.\nthethorton:Run."
     },
     {
       "name": "Fearful Run+",
@@ -217,7 +217,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 10 Block.\nRun."
+      "description": "Gain 9 Block.\nthethorton:Run."
     },
     {
       "name": "Gold Buffer",
@@ -225,7 +225,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 7 Block.\nGain 1 Block for each 100 Gold you have."
+      "description": "Gain 4 Gold.\nGain 9 Block.\nExhaust."
     },
     {
       "name": "Gold Buffer+",
@@ -233,7 +233,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 10 Block.\nGain 1 Block for each 100 Gold you have."
+      "description": "Gain 6 Gold.\nGain 11 Block.\nExhaust."
     },
     {
       "name": "Hit Ahead",
@@ -289,7 +289,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\nRun."
+      "description": "Deal 8 damage.\nthethorton:Run."
     },
     {
       "name": "Running Kick+",
@@ -297,7 +297,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage.\nRun."
+      "description": "Deal 11 damage.\nthethorton:Run."
     },
     {
       "name": "Shout and Run",
@@ -305,7 +305,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 1 Weak.\nRun."
+      "description": "Apply 1 Weak.\nthethorton:Run."
     },
     {
       "name": "Shout and Run+",
@@ -313,23 +313,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 2 Weak.\nRun."
-    },
-    {
-      "name": "Sickly Run",
-      "color": "Thort_gray_color",
-      "rarity": "Common",
-      "type": "Skill",
-      "cost": "1",
-      "description": "Apply 4 Poison.\nRun."
-    },
-    {
-      "name": "Sickly Run+",
-      "color": "Thort_gray_color",
-      "rarity": "Common",
-      "type": "Skill",
-      "cost": "1",
-      "description": "Apply 6 Poison.\nRun."
+      "description": "Apply 2 Weak.\nthethorton:Run."
     },
     {
       "name": "Stumbling Slap",
@@ -364,12 +348,28 @@
       "description": "Deal 5 damage.\nDraw 3 cards."
     },
     {
+      "name": "Wailing Run",
+      "color": "Thort_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "ALL enemies lose 2 Strength this turn.\nthethorton:Run."
+    },
+    {
+      "name": "Wailing Run+",
+      "color": "Thort_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "ALL enemies lose 3 Strength this turn.\nthethorton:Run."
+    },
+    {
       "name": "Whirling Briefcase",
       "color": "Thort_gray_color",
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 1 Gold for each enemy in combat.\nDeal 6 damage to ALL enemies.\nExhaust."
+      "description": "Gain 2 gold for each enemy.\nDeal 7 damage to ALL enemies.\nExhaust."
     },
     {
       "name": "Whirling Briefcase+",
@@ -377,7 +377,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 2 Gold for each enemy in combat.\nDeal 8 damage to ALL enemies.\nExhaust."
+      "description": "Gain 3 gold for each enemy.\nDeal 10 damage to ALL enemies.\nExhaust."
     },
     {
       "name": "Battle Trash",
@@ -401,7 +401,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 15 damage to ALL enemies."
+      "description": "Deal 14 damage to ALL enemies."
     },
     {
       "name": "Boardroom Blast+",
@@ -409,7 +409,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 19 damage to ALL enemies."
+      "description": "Deal 18 damage to ALL enemies."
     },
     {
       "name": "Business Bash",
@@ -417,7 +417,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\nShuffle a Business_Card into your draw pile.\nExhaust."
+      "description": "Deal 8 damage.\nAdd a thethorton:Business_Card into your hand.\nExhaust."
     },
     {
       "name": "Business Bash+",
@@ -425,7 +425,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage.\nShuffle a Business_Card into your draw pile.\nExhaust."
+      "description": "Deal 10 damage.\nAdd an upgraded thethorton:Business_Card into your hand.\nExhaust."
     },
     {
       "name": "Business Boom",
@@ -433,7 +433,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "3",
-      "description": "Deal 22 damage.\nShuffle a Business_Card into your draw pile.\nExhaust."
+      "description": "Deal 22 damage.\nShuffle a thethorton:Business_Card into your draw pile.\nExhaust."
     },
     {
       "name": "Business Boom+",
@@ -441,7 +441,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "3",
-      "description": "Deal 28 damage.\nShuffle an upgraded Business_Card into your draw pile.\nExhaust."
+      "description": "Deal 28 damage.\nShuffle an upgraded thethorton:Business_Card into your draw pile.\nExhaust."
     },
     {
       "name": "Business Burst",
@@ -449,7 +449,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 5 Gold.\nShuffle 2 Business_Cards into your draw pile.\nExhaust."
+      "description": "Gain 5 Gold.\nShuffle 2 thethorton:Business_Cards into your draw pile.\nExhaust."
     },
     {
       "name": "Business Burst+",
@@ -457,7 +457,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 5 Gold.\nShuffle 2 Business_Cards into your draw pile.\nExhaust."
+      "description": "Gain 5 Gold.\nShuffle 2 thethorton:Business_Cards into your draw pile.\nExhaust."
     },
     {
       "name": "Call In",
@@ -497,7 +497,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Gain 6 Gold.\nDeal 14 damage.\nExhaust."
+      "description": "Gain 8 Gold.\nDeal 16 damage.\nExhaust."
     },
     {
       "name": "Coin Clash+",
@@ -505,7 +505,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Gain 9 Gold.\nDeal 18 damage.\nExhaust."
+      "description": "Gain 10 Gold.\nDeal 20 damage.\nExhaust."
     },
     {
       "name": "Coin Shield",
@@ -513,7 +513,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 4 Gold.\nGain 13 Block.\nExhaust."
+      "description": "Gain 8 Gold.\nGain 16 Block.\nExhaust."
     },
     {
       "name": "Coin Shield+",
@@ -521,7 +521,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 6 Gold.\nGain 16 Block.\nExhaust."
+      "description": "Gain 10 Gold.\nGain 20 Block.\nExhaust."
     },
     {
       "name": "Crash",
@@ -529,7 +529,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage.\nGain 8 Block."
+      "description": "Deal 8 damage.\nGain 8 Block.\nthethorton:Run."
     },
     {
       "name": "Crash+",
@@ -537,7 +537,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 10 damage.\nGain 10 Block."
+      "description": "Deal 10 damage.\nGain 10 Block.\nthethorton:Run."
     },
     {
       "name": "Desperate Run",
@@ -545,7 +545,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw 3 cards.\nRun."
+      "description": "Draw 3 cards.\nthethorton:Run."
     },
     {
       "name": "Desperate Run+",
@@ -553,7 +553,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw 4 cards.\nRun."
+      "description": "Draw 4 cards.\nthethorton:Run."
     },
     {
       "name": "Dock Pay",
@@ -569,7 +569,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage.\nEnemy loses 4 Strength this turn."
+      "description": "Deal 9 damage.\nEnemy loses 3 Strength this turn."
     },
     {
       "name": "Feel No Brain",
@@ -657,7 +657,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 13 damage.\nIf you have less than 50% HP, deal 13 damage.\nIf you have less than 25% HP, deal 13 damage."
+      "description": "Deal 12 damage.\nIf you have less than 50% HP, deal 12 damage.\nIf you have less than 25% HP, deal 12 damage."
     },
     {
       "name": "Last Ditch Effort+",
@@ -665,7 +665,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 16 damage.\nIf you have less than 50% HP, deal 16 damage.\nIf you have less than 25% HP, deal 16 damage."
+      "description": "Deal 15 damage.\nIf you have less than 50% HP, deal 15 damage.\nIf you have less than 25% HP, deal 15 damage."
     },
     {
       "name": "Long Day's Work",
@@ -689,7 +689,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Heal 3 HP.\nExhaust."
+      "description": "Heal 3 HP.\nAdd a thethorton:Business_Card into your hand.\nExhaust."
     },
     {
       "name": "Momentary Break+",
@@ -697,7 +697,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Heal 3 HP.\nExhaust."
+      "description": "Heal 3 HP.\nAdd a thethorton:Business_Card into your hand.\nExhaust."
     },
     {
       "name": "Perplexing Power",
@@ -753,7 +753,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nGain 13 Gold.\nExhaust."
+      "description": "Ethereal.\nGain 15 Gold.\nExhaust."
     },
     {
       "name": "ROI+",
@@ -761,7 +761,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Ethereal.\nGain 13 Gold.\nExhaust."
+      "description": "Ethereal.\nGain 15 Gold.\nExhaust."
     },
     {
       "name": "Rebalance",
@@ -785,7 +785,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Gold.\nRun.\nExhaust."
+      "description": "Gain 10 Gold.\nthethorton:Run.\nExhaust."
     },
     {
       "name": "Rich Run+",
@@ -793,7 +793,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain 6 Gold.\nRun.\nExhaust."
+      "description": "Gain 10 Gold.\nthethorton:Run.\nExhaust."
     },
     {
       "name": "Run Run",
@@ -801,7 +801,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Run.\nRun."
+      "description": "thethorton:Run.\nthethorton:Run."
     },
     {
       "name": "Run Run+",
@@ -809,7 +809,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Run.\nRun."
+      "description": "thethorton:Run.\nthethorton:Run."
     },
     {
       "name": "Running Feint",
@@ -817,7 +817,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 2 Vulnerable.\nRun."
+      "description": "Apply 2 Vulnerable.\nthethorton:Run."
     },
     {
       "name": "Running Feint+",
@@ -825,7 +825,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 3 Vulnerable.\nRun."
+      "description": "Apply 3 Vulnerable.\nthethorton:Run."
     },
     {
       "name": "Seeing Double",
@@ -849,7 +849,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Channel 1 Frost.\nExhaust."
+      "description": "Channel 1 Frost.\nthethorton:Run.\nExhaust."
     },
     {
       "name": "Snow Day+",
@@ -857,7 +857,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Channel 1 Frost.\nExhaustive !stslib:ex!."
+      "description": "Channel 1 Frost.\nthethorton:Run.\nExhaustive !stslib:ex!."
     },
     {
       "name": "Stamp Smack",
@@ -993,7 +993,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": "Grave. \nAt the start of your turn, play a random card with Run."
+      "description": "Grave. \nAt the start of your turn, thethorton:Run."
     },
     {
       "name": "Coward Form+",
@@ -1001,7 +1001,23 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": "At the start of your turn, play a random card with Run."
+      "description": "At the start of your turn, thethorton:Run."
+    },
+    {
+      "name": "Crashing Stocks",
+      "color": "Thort_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "3",
+      "description": "If you have at least 50 Gold, lose 50 Gold and deal 50 damage to ALL enemies."
+    },
+    {
+      "name": "Crashing Stocks+",
+      "color": "Thort_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "If you have at least 50 Gold, lose 50 Gold and deal 50 damage to ALL enemies."
     },
     {
       "name": "Demotion",
@@ -1009,14 +1025,14 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "ALL enemies cannot buff themselves or debuff you.\nExhaust."
+      "description": "Enemy cannot buff itself or debuff you.\nExhaust."
     },
     {
       "name": "Demotion+",
       "color": "Thort_gray_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "1",
+      "cost": "2",
       "description": "ALL enemies cannot buff themselves or debuff you.\nExhaust."
     },
     {
@@ -1025,7 +1041,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 9 Block.\nNext turn, gain 9 Block.\nRun."
+      "description": "Gain 9 Block.\nNext turn, gain 9 Block.\nthethorton:Run."
     },
     {
       "name": "Dodge & Roll & Run+",
@@ -1033,7 +1049,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 11 Block.\nNext turn, gain 11 Block.\nRun."
+      "description": "Gain 11 Block.\nNext turn, gain 11 Block.\nthethorton:Run."
     },
     {
       "name": "Escape!",
@@ -1089,7 +1105,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "",
-      "description": "Ethereal.\nCan only be played if you've Gathered 6 different Pyro_Buddies this combat.\nIngest two Sync_Boons and gain 2 Boost_Points."
+      "description": "Unplayable unless you've thethorton:Gathered 6 different thethorton:Pyro_Buddies this combat.\nthethorton:Ingest 2 thethorton:Sync_Boons and gain 2 thethorton:Boost_Points."
     },
     {
       "name": "Fish+",
@@ -1153,7 +1169,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 10 Gold.\nShuffle 2 Business_Cards and 1 Investment into your draw pile.\nExhaust."
+      "description": "Gain 5 Gold.\nShuffle 2 thethorton:Business_Cards and 1 Investment into your draw pile.\nExhaust."
     },
     {
       "name": "Portfolio+",
@@ -1161,7 +1177,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 10 Gold.\nShuffle 2 upgraded Business_Cards and 1 upgraded Investment into your draw pile.\nExhaust."
+      "description": "Gain 10 Gold.\nShuffle 2 upgraded thethorton:Business_Cards and 1 upgraded Investment into your draw pile.\nExhaust."
     },
     {
       "name": "Scaling Is Win",
@@ -1196,28 +1212,12 @@
       "description": "Ethereal.\nAdd a copy of a card in your hand to your deck permanently.\nExhaust."
     },
     {
-      "name": "Stock Crash",
-      "color": "Thort_gray_color",
-      "rarity": "Rare",
-      "type": "Attack",
-      "cost": "3",
-      "description": "If you have at least 50 Gold, lose 50 Gold and deal 50 damage to ALL enemies."
-    },
-    {
-      "name": "Stock Crash+",
-      "color": "Thort_gray_color",
-      "rarity": "Rare",
-      "type": "Attack",
-      "cost": "2",
-      "description": "If you have at least 50 Gold, lose 50 Gold and deal 50 damage to ALL enemies."
-    },
-    {
       "name": "Summon Profits",
       "color": "Thort_gray_color",
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Add ANY random card into your hand.\nDraw 1 card.\nExhaust."
+      "description": "Add a random card from any color into your hand.\nDraw 1 card.\nExhaust."
     },
     {
       "name": "Summon Profits+",
@@ -1225,7 +1225,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Add ANY random card into your hand.\nDraw 1 card.\nThey cost 0 until played.\nExhaust."
+      "description": "Add a random card from any color into your hand.\nDraw 1 card.\nThey cost 0 until played.\nExhaust."
     },
     {
       "name": "Temporal Blast",
@@ -1272,7 +1272,7 @@
       "name": "Business Card Printer",
       "tier": "Common",
       "pool": "Thort_gray_color",
-      "description": "At the start of each combat, add a Business_Card into your hand.",
+      "description": "At the start of each combat, add a thethorton:Business_Card into your hand.",
       "flavorText": "Look at that subtle off-white color. The tasteful thickness of it. Oh my God, it even has a watermark."
     },
     {
@@ -1300,7 +1300,7 @@
       "name": "Helm of Sprinting",
       "tier": "Rare",
       "pool": "Thort_gray_color",
-      "description": "At the start of each combat, add a random card with Run into your hand. It costs 0 this combat.",
+      "description": "At the start of each combat, add a random card with thethorton:Run into your hand. It costs 0 this combat.",
       "flavorText": "Helps escape efforts."
     },
     {
@@ -1328,7 +1328,7 @@
       "name": "Resume",
       "tier": "Shop",
       "pool": "Thort_gray_color",
-      "description": "The amount of Business_Cards required to obtain a Relic is reduced by 3.",
+      "description": "The amount of thethorton:Business_Cards required to obtain a Relic is reduced by 3.",
       "flavorText": "Graduate of the University of Chicago."
     }
   ],
@@ -1343,37 +1343,5 @@
     }
   ],
   "keywords": [
-    {
-      "name": "Ingest",
-      "description": "Ingesting Sync Boons activates one of your Destiny Reactors based on the number and type of Ingested Sync Boons."
-    },
-    {
-      "name": "Run",
-      "description": "After Running a certain amount of times, escape combat. If you're fighting a boss, deal 100 damage to ALL enemies instead. Escaping gets harder every time you escape."
-    },
-    {
-      "name": "Boost points",
-      "description": "Boost Points increment the Double Tricks of your Destiny Reactors whenever you Gather a Pyro Buddy."
-    },
-    {
-      "name": "Business card",
-      "description": "Whenever you play 10 Business Cards, obtain a Relic."
-    },
-    {
-      "name": "Gathered",
-      "description": "Gathering a Pyro Buddy places it into your centremost Storage Centre."
-    },
-    {
-      "name": "Investment",
-      "description": "Whenever you play 3 Investments, obtain a Relic."
-    },
-    {
-      "name": "Pyro buddies",
-      "description": "Pyro Buddies can be Gathered into your Storage Centres whereupon they will Generate Sync Boons based on their Type."
-    },
-    {
-      "name": "Sync boons",
-      "description": "Sync Boons activate your Destiny Reactors when Ingested and supply a passive effect to your Pyro Buddies."
-    }
   ]
 }
