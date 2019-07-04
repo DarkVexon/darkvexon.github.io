@@ -201,7 +201,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 5.\nGain 5 Temporary_HP.\nPut a Mural on top of your draw pile."
+      "description": "Vim 5.\nGain 5 Temporary_HP.\nAdd a Mural into your hand."
     },
     {
       "name": "Ignore+",
@@ -209,7 +209,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 5.\nGain 8 Temporary_HP.\nPut a Mural on top of your draw pile."
+      "description": "Vim 5.\nGain 8 Temporary_HP.\nAdd a Mural into your hand."
     },
     {
       "name": "Joust",
@@ -345,7 +345,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 1.\nDeal 9 damage.\nGain 1 Auto-Parry.\nPurge."
+      "description": "Vim 1.\nGain 1 Auto-Parry.\nDeal 9 damage. \nPurge."
     },
     {
       "name": "Truffle Shuffle+",
@@ -353,7 +353,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 1.\nDeal 12 damage.\nGain 1 Auto-Parry.\nPurge."
+      "description": "Vim 1.\nGain 1 Auto-Parry.\nDeal 12 damage. \nPurge."
     },
     {
       "name": "Unscale",
@@ -489,7 +489,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "7",
-      "description": "Pulchritude 10.\nCosts 1 less for each card in your hand.\nChoose an Attack card.\nPut 2 copies of that card on top of your draw pile."
+      "description": "Pulchritude 10.\nCosts 1 less for each card in your hand.\nPut 2 copies of a non-Purge Attack card in your hand on top of your draw pile."
     },
     {
       "name": "Conference+",
@@ -497,23 +497,23 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "6",
-      "description": "Pulchritude 10.\nCosts 1 less for each card in your hand.\nChoose an Attack card.\nPut 2 copies of that card on top of your draw pile."
+      "description": "Pulchritude 10.\nCosts 1 less for each card in your hand.\nPut 2 copies of a non-Purge Attack card in your hand on top of your draw pile."
     },
     {
-      "name": "Cruet of Brandy",
-      "color": "Sleuth_gray_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "1",
-      "description": "Imagination 5.\nDiscard your hand.\nGain 1 Temporary_Imagination for each card discarded.\nPut a card from your discard pile into your hand."
-    },
-    {
-      "name": "Cruet of Brandy+",
+      "name": "Deprogram",
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Imagination 5.\nDiscard your hand.\nGain 1 Temporary_Imagination for each card discarded.\nPut a card from your discard pile into your hand."
+      "description": "Look at the top 4 cards of your draw pile.\nYou may discard any of them."
+    },
+    {
+      "name": "Deprogram+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Look at the top 4 cards of your draw pile.\nYou may discard any of them.\nRetain."
     },
     {
       "name": "Diamond Armor",
@@ -537,7 +537,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 5.\nLose 1 HP.\nObtain a random potion.\nGain 1 Auto-Parry.\nPurge."
+      "description": "Vim 5.\nObtain a random potion.\nGain 1 Auto-Parry.\nPurge."
     },
     {
       "name": "Distill+",
@@ -545,23 +545,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Vim 5.\nLose 1 HP.\nObtain a random potion.\nGain 1 Auto-Parry.\nPurge."
-    },
-    {
-      "name": "Duplicate",
-      "color": "Sleuth_gray_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "1",
-      "description": "Imagination 6.\nThe next Pulchritude or Vim card you play adds a copy of itself to your hand.\nPurge."
-    },
-    {
-      "name": "Duplicate+",
-      "color": "Sleuth_gray_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "0",
-      "description": "Imagination 6.\nThe next Pulchritude or Vim card you play adds a copy of itself to your hand.\nPurge."
+      "description": "Vim 5.\nObtain a random potion.\nGain 1 Auto-Parry.\nPurge."
     },
     {
       "name": "Embarrass",
@@ -724,22 +708,6 @@
       "description": "Deal 10 damage.\nApply 3 Weak.\nApply 3 Vulnerable.\nLose 1 of your highest stat."
     },
     {
-      "name": "Keyring/Tommygun",
-      "color": "Sleuth_gray_color",
-      "rarity": "Uncommon",
-      "type": "Attack",
-      "cost": "1",
-      "description": "Deal 4 damage 3 times. / Gain 4 Block 3 times.\nSwitches form at the start of your turn."
-    },
-    {
-      "name": "Keyring/Tommygun+",
-      "color": "Sleuth_gray_color",
-      "rarity": "Uncommon",
-      "type": "Attack",
-      "cost": "1",
-      "description": "Deal 5 damage 3 times. / Gain 5 Block 3 times.\nSwitches form at the start of your turn."
-    },
-    {
       "name": "Leer",
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
@@ -786,22 +754,6 @@
       "type": "Power",
       "cost": "1",
       "description": "Vim 5.\nGain 2 Artifact.\nGain !sleuthSecondMagic! Thorns.\nGain 1 Auto-Parry."
-    },
-    {
-      "name": "Reprogram",
-      "color": "Sleuth_gray_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "0",
-      "description": "Vim 5.\nDiscard 1 card from your draw pile.\nGain 1 Auto-Parry.\nPurge."
-    },
-    {
-      "name": "Reprogram+",
-      "color": "Sleuth_gray_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "0",
-      "description": "Vim 5.\nDiscard 2 cards from your draw pile.\nGain 1 Auto-Parry.\nPurge."
     },
     {
       "name": "Retain Return",
@@ -884,12 +836,28 @@
       "description": "Pulchritude 5.\nGain 6 Block X+1 times.\nPut the top X+1 cards of your draw pile into your discard pile."
     },
     {
+      "name": "Tommygun/Keyring",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage 3 times. / Gain 4 Block 3 times.\nSwitches form at the start of your turn."
+    },
+    {
+      "name": "Tommygun/Keyring+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 5 damage 3 times. / Gain 5 Block 3 times.\nSwitches form at the start of your turn."
+    },
+    {
       "name": "Torso Flail",
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 9.\nPlay a card in your discard pile.\nPurge it."
+      "description": "Vim 9.\nPlay a card in your discard pile and Exhaust it."
     },
     {
       "name": "Torso Flail+",
@@ -897,7 +865,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Vim 9.\nPlay a card in your discard pile.\nPurge it."
+      "description": "Vim 9.\nPlay a card in your discard pile and Exhaust it."
     },
     {
       "name": "Treaty",
@@ -1049,7 +1017,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Pulchritude 15.\nYou and ALL enemies gain 2 Intangible.\nYou cannot gain Intangible for the rest of the combat."
+      "description": "Pulchritude 15.\nYou and ALL enemies gain 2 Intangible."
     },
     {
       "name": "Ceasefire+",
@@ -1057,7 +1025,23 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Pulchritude 15.\nYou and ALL enemies gain 2 Intangible.\nYou cannot gain Intangible for the rest of the combat.\nRetain."
+      "description": "Pulchritude 15.\nYou and ALL enemies gain 2 Intangible.\nRetain."
+    },
+    {
+      "name": "Conjure",
+      "color": "Sleuth_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Imagination 12.\nChoose twice from: Deal 6 damage. Gain 5 Block. Apply 1 Weak. Apply 1 Vulnerable."
+    },
+    {
+      "name": "Conjure+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Imagination 12.\nChoose thrice from: Deal 6 damage. Gain 5 Block. Apply 1 Weak. Apply 1 Vulnerable."
     },
     {
       "name": "Gummy Zombie",
@@ -1076,22 +1060,6 @@
       "description": "Pulchritude 15.\nVim 15.\nAt the end of your turn, gain 1 Block for each card in your hand."
     },
     {
-      "name": "Hairpin/Machinegun",
-      "color": "Sleuth_gray_color",
-      "rarity": "Rare",
-      "type": "Attack",
-      "cost": "1",
-      "description": "Deal 5 damage 3 times. / Gain 5 Block 3 times.\nSwitches form whenever played."
-    },
-    {
-      "name": "Hairpin/Machinegun+",
-      "color": "Sleuth_gray_color",
-      "rarity": "Rare",
-      "type": "Attack",
-      "cost": "1",
-      "description": "Deal 6 damage 3 times. / Gain 6 Block 3 times.\nSwitches form whenever played."
-    },
-    {
       "name": "Hit the Mattresses",
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
@@ -1106,6 +1074,38 @@
       "type": "Attack",
       "cost": "2",
       "description": "Pulchritude 5.\nVim 5.\nImagination 5.\nDeal damage equal to your combined stats."
+    },
+    {
+      "name": "Machinegun/Hairpin",
+      "color": "Sleuth_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 5 damage 3 times. / Gain 5 Block 3 times.\nSwitches form whenever played."
+    },
+    {
+      "name": "Machinegun/Hairpin+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage 3 times. / Gain 6 Block 3 times.\nSwitches form whenever played."
+    },
+    {
+      "name": "Mob Rule",
+      "color": "Sleuth_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Vim 16.\nStun the enemy.\nPut 4 Murals on top of your draw pile.\nExhaust."
+    },
+    {
+      "name": "Mob Rule+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Vim 16.\nStun the enemy.\nPut 3 Murals on top of your draw pile.\nExhaust."
     },
     {
       "name": "Replicsimile",

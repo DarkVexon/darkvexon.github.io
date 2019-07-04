@@ -1,10 +1,10 @@
 {
   "mod": {
     "name": "thorton",
-    "version": "7683",
-    "authors": ["Vex in one day"],
+    "version": "3133",
+    "authors": ["Vex'd"],
     "credits": "",
-    "description": "A dude lol",
+    "description": "A very regular man.",
     "mts_version": "3.8.0",
     "sts_version": "01-23-2019",
     "dependencies": ["basemod","stslib"],
@@ -129,7 +129,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 4 Gold.\nDeal 9 damage.\nExhaust."
+      "description": "Gain 4 Gold.\nDeal 10 damage.\nExhaust."
     },
     {
       "name": "Cash Bash+",
@@ -137,7 +137,23 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 6 Gold.\nDeal 11 damage.\nExhaust."
+      "description": "Gain 6 Gold.\nDeal 12 damage.\nExhaust."
+    },
+    {
+      "name": "Cash Buffer",
+      "color": "Thort_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 4 Gold.\nGain 10 Block.\nExhaust."
+    },
+    {
+      "name": "Cash Buffer+",
+      "color": "Thort_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 6 Gold.\nGain 12 Block.\nExhaust."
     },
     {
       "name": "Distance",
@@ -172,28 +188,12 @@
       "description": "Gain 4 Block.\nNext turn, gain 4 Block and [E] ."
     },
     {
-      "name": "Dual Bap",
-      "color": "Thort_gray_color",
-      "rarity": "Common",
-      "type": "Attack",
-      "cost": "1",
-      "description": "Deal 4 damage twice."
-    },
-    {
-      "name": "Dual Bap+",
-      "color": "Thort_gray_color",
-      "rarity": "Common",
-      "type": "Attack",
-      "cost": "1",
-      "description": "Deal 6 damage twice."
-    },
-    {
       "name": "Elbow Nudge",
       "color": "Thort_gray_color",
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage."
+      "description": "Deal 4 damage twice.\nDraw 1 additional card next turn."
     },
     {
       "name": "Elbow Nudge+",
@@ -201,7 +201,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 12 damage."
+      "description": "Deal 6 damage twice.\nDraw 1 additional card next turn."
     },
     {
       "name": "Fearful Run",
@@ -218,22 +218,6 @@
       "type": "Skill",
       "cost": "1",
       "description": "Gain 9 Block.\nthethorton:Run."
-    },
-    {
-      "name": "Gold Buffer",
-      "color": "Thort_gray_color",
-      "rarity": "Common",
-      "type": "Skill",
-      "cost": "1",
-      "description": "Gain 4 Gold.\nGain 9 Block.\nExhaust."
-    },
-    {
-      "name": "Gold Buffer+",
-      "color": "Thort_gray_color",
-      "rarity": "Common",
-      "type": "Skill",
-      "cost": "1",
-      "description": "Gain 6 Gold.\nGain 11 Block.\nExhaust."
     },
     {
       "name": "Hit Ahead",
@@ -271,17 +255,17 @@
       "name": "Pocket Change",
       "color": "Thort_gray_color",
       "rarity": "Common",
-      "type": "Skill",
+      "type": "Attack",
       "cost": "0",
-      "description": "Gain 1 Gold.\nDraw 1 card.\nExhaust."
+      "description": "Gain 1 Block.\nDeal 1 damage.\nGain 1 Gold.\nDraw 1 card.\nExhaust."
     },
     {
       "name": "Pocket Change+",
       "color": "Thort_gray_color",
       "rarity": "Common",
-      "type": "Skill",
+      "type": "Attack",
       "cost": "0",
-      "description": "Gain 2 Gold.\nDraw 1 card.\nExhaust."
+      "description": "Gain 2 Block.\nDeal 2 damage.\nGain 2 Gold.\nDraw 1 card.\nExhaust."
     },
     {
       "name": "Running Kick",
@@ -337,7 +321,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage.\nDraw 2 cards."
+      "description": "Deal 6 damage.\nDraw 2 cards."
     },
     {
       "name": "Take Accounts+",
@@ -345,7 +329,23 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage.\nDraw 3 cards."
+      "description": "Deal 6 damage.\nDraw 3 cards."
+    },
+    {
+      "name": "Triple Bap",
+      "color": "Thort_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 3 damage 3 times."
+    },
+    {
+      "name": "Triple Bap+",
+      "color": "Thort_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage 3 times."
     },
     {
       "name": "Wailing Run",
@@ -369,7 +369,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 2 gold for each enemy.\nDeal 7 damage to ALL enemies.\nExhaust."
+      "description": "Gain 2 Gold for each enemy.\nDeal 7 damage to ALL enemies.\nExhaust."
     },
     {
       "name": "Whirling Briefcase+",
@@ -377,7 +377,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 3 gold for each enemy.\nDeal 10 damage to ALL enemies.\nExhaust."
+      "description": "Gain 3 Gold for each enemy.\nDeal 10 damage to ALL enemies.\nExhaust."
     },
     {
       "name": "Battle Trash",
@@ -417,7 +417,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\nAdd a thethorton:Business_Card into your hand.\nExhaust."
+      "description": "Deal 9 damage.\nAdd a thethorton:Business_Card into your hand.\nExhaust."
     },
     {
       "name": "Business Bash+",
@@ -425,7 +425,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\nAdd an upgraded thethorton:Business_Card into your hand.\nExhaust."
+      "description": "Deal 11 damage.\nAdd an upgraded thethorton:Business_Card into your hand.\nExhaust."
     },
     {
       "name": "Business Boom",
@@ -433,7 +433,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "3",
-      "description": "Deal 22 damage.\nShuffle a thethorton:Business_Card into your draw pile.\nExhaust."
+      "description": "Deal 28 damage.\nShuffle a thethorton:Business_Card into your draw pile.\nExhaust."
     },
     {
       "name": "Business Boom+",
@@ -441,14 +441,14 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "3",
-      "description": "Deal 28 damage.\nShuffle an upgraded thethorton:Business_Card into your draw pile.\nExhaust."
+      "description": "Deal 37 damage.\nShuffle an upgraded thethorton:Business_Card into your draw pile.\nExhaust."
     },
     {
       "name": "Business Burst",
       "color": "Thort_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "2",
+      "cost": "1",
       "description": "Gain 5 Gold.\nShuffle 2 thethorton:Business_Cards into your draw pile.\nExhaust."
     },
     {
@@ -456,7 +456,7 @@
       "color": "Thort_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "1",
+      "cost": "0",
       "description": "Gain 5 Gold.\nShuffle 2 thethorton:Business_Cards into your draw pile.\nExhaust."
     },
     {
@@ -497,7 +497,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Gain 8 Gold.\nDeal 16 damage.\nExhaust."
+      "description": "Gain 9 Gold.\nDeal 21 damage.\nExhaust."
     },
     {
       "name": "Coin Clash+",
@@ -505,7 +505,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Gain 10 Gold.\nDeal 20 damage.\nExhaust."
+      "description": "Gain 12 Gold.\nDeal 25 damage.\nExhaust."
     },
     {
       "name": "Coin Shield",
@@ -513,7 +513,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 8 Gold.\nGain 16 Block.\nExhaust."
+      "description": "Gain 9 Gold.\nGain 21 Block.\nExhaust."
     },
     {
       "name": "Coin Shield+",
@@ -521,7 +521,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 10 Gold.\nGain 20 Block.\nExhaust."
+      "description": "Gain 12 Gold.\nGain 25 Block.\nExhaust."
     },
     {
       "name": "Crash",
@@ -684,7 +684,7 @@
       "description": "Deal 10 damage.\nDraw 1 card.\nExhaust a card in your hand."
     },
     {
-      "name": "Momentary Break",
+      "name": "Lunch Break",
       "color": "Thort_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
@@ -692,7 +692,7 @@
       "description": "Heal 3 HP.\nAdd a thethorton:Business_Card into your hand.\nExhaust."
     },
     {
-      "name": "Momentary Break+",
+      "name": "Lunch Break+",
       "color": "Thort_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
@@ -833,7 +833,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nChoose a card.\nAdd a copy of that card into your hand.\nShuffle a copy of that card into your draw pile.\nExhaust."
+      "description": "Ethereal.\nChoose a card.\nPut 2 copies of that card on top of your draw pile.\nExhaust."
     },
     {
       "name": "Seeing Double+",
@@ -841,7 +841,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Ethereal.\nChoose a card.\nAdd a copy of that card into your hand.\nShuffle a copy of that card into your draw pile.\nExhaust."
+      "description": "Ethereal.\nChoose a card.\nPut 2 copies of that card on top of your draw pile.\nExhaust."
     },
     {
       "name": "Snow Day",
@@ -1210,6 +1210,22 @@
       "type": "Skill",
       "cost": "2",
       "description": "Ethereal.\nAdd a copy of a card in your hand to your deck permanently.\nExhaust."
+    },
+    {
+      "name": "Shifting Octopus",
+      "color": "Thort_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Do 2 things."
+    },
+    {
+      "name": "Shifting Octopus+",
+      "color": "Thort_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Do 3 things."
     },
     {
       "name": "Summon Profits",
