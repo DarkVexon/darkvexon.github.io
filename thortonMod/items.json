@@ -480,16 +480,16 @@
       "color": "Thort_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "2",
-      "description": "If the enemy intends to attack, gain 12 Block.\nOtherwise, gain [E] [E] and draw 2 cards next turn."
+      "cost": "1",
+      "description": "If the enemy intends to attack, gain 8 Block.\nOtherwise, gain [E] and draw 1 card next turn."
     },
     {
       "name": "Chart Project+",
       "color": "Thort_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "1",
-      "description": "If the enemy intends to attack, gain 12 Block.\nOtherwise, gain [E] [E] and draw 2 cards next turn."
+      "cost": "0",
+      "description": "If the enemy intends to attack, gain 8 Block.\nOtherwise, gain [E] and draw 1 card next turn."
     },
     {
       "name": "Coin Clash",
@@ -545,7 +545,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw 3 cards.\nthethorton:Run."
+      "description": "Draw 2 cards.\nthethorton:Run."
     },
     {
       "name": "Desperate Run+",
@@ -553,7 +553,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw 4 cards.\nthethorton:Run."
+      "description": "Draw 3 cards.\nthethorton:Run."
     },
     {
       "name": "Dock Pay",
@@ -641,7 +641,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 5 Gold.\nWhenever you play 3 Investments, obtain a Relic.\nExhaust."
+      "description": "Gain 5 Gold.\nWhenever you play 3 thethorton:Investments, obtain a Relic.\nExhaust."
     },
     {
       "name": "Investment+",
@@ -649,7 +649,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 5 Gold.\nWhenever you play 3 Investments, obtain a Relic.\nExhaust."
+      "description": "Gain 5 Gold.\nWhenever you play 3 thethorton:Investments, obtain a Relic.\nExhaust."
     },
     {
       "name": "Last Ditch Effort",
@@ -833,7 +833,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nChoose a card.\nPut 2 copies of that card on top of your draw pile.\nExhaust."
+      "description": "Ethereal.\nChoose a card in your hand.\nPut 2 copies of that card on top of your draw pile.\nExhaust."
     },
     {
       "name": "Seeing Double+",
@@ -841,7 +841,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Ethereal.\nChoose a card.\nPut 2 copies of that card on top of your draw pile.\nExhaust."
+      "description": "Ethereal.\nChoose a card in your hand.\nPut 2 copies of that card on top of your draw pile.\nExhaust."
     },
     {
       "name": "Snow Day",
@@ -897,7 +897,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Apply 4 Poison to a random enemy. Repeat this process for every 100 Gold you have.\nExhaust."
+      "description": "Apply 3 Poison to a random enemy. Repeat this process for every 100 Gold you have.\nExhaust."
     },
     {
       "name": "Toxic Greed+",
@@ -905,23 +905,23 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Apply 4 Poison to a random enemy. Repeat this process for every 100 Gold you have.\nExhaustive !stslib:ex!."
+      "description": "Apply 3 Poison to a random enemy. Repeat this process for every 100 Gold you have.\nExhaustive !stslib:ex!."
     },
     {
       "name": "Administrative Actions",
       "color": "Thort_gray_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "2",
-      "description": "Choose ANY Thorton card to add into your hand.\nExhaust."
+      "cost": "3",
+      "description": "Choose any Thorton card and put it on top of your draw pile.\nExhaust."
     },
     {
       "name": "Administrative Actions+",
       "color": "Thort_gray_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "1",
-      "description": "Choose ANY Thorton card to add into your hand.\nExhaust."
+      "cost": "2",
+      "description": "Choose any Thorton card and put it on top of your draw pile.\nExhaust."
     },
     {
       "name": "Big Break",
@@ -993,7 +993,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": "Grave. \nAt the start of your turn, thethorton:Run."
+      "description": "Starts combat in your discard pile. \nAt the start of your turn, thethorton:Run."
     },
     {
       "name": "Coward Form+",
@@ -1009,7 +1009,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "3",
-      "description": "If you have at least 50 Gold, lose 50 Gold and deal 50 damage to ALL enemies."
+      "description": "If you have at least 100 Gold, lose 100 Gold and deal 50 damage to ALL enemies."
     },
     {
       "name": "Crashing Stocks+",
@@ -1017,14 +1017,14 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "If you have at least 50 Gold, lose 50 Gold and deal 50 damage to ALL enemies."
+      "description": "If you have at least 100 Gold, lose 100 Gold and deal 50 damage to ALL enemies."
     },
     {
       "name": "Demotion",
       "color": "Thort_gray_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "2",
+      "cost": "3",
       "description": "Enemy cannot buff itself or debuff you.\nExhaust."
     },
     {
@@ -1032,7 +1032,7 @@
       "color": "Thort_gray_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "2",
+      "cost": "3",
       "description": "ALL enemies cannot buff themselves or debuff you.\nExhaust."
     },
     {
@@ -1169,7 +1169,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 5 Gold.\nShuffle 2 thethorton:Business_Cards and 1 Investment into your draw pile.\nExhaust."
+      "description": "Gain 5 Gold.\nShuffle 2 thethorton:Business_Cards and 1 thethorton:Investment into your draw pile.\nExhaust."
     },
     {
       "name": "Portfolio+",
@@ -1177,7 +1177,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 10 Gold.\nShuffle 2 upgraded thethorton:Business_Cards and 1 upgraded Investment into your draw pile.\nExhaust."
+      "description": "Gain 10 Gold.\nShuffle 2 upgraded thethorton:Business_Cards and 1 upgraded thethorton:Investment into your draw pile.\nExhaust."
     },
     {
       "name": "Scaling Is Win",
@@ -1217,7 +1217,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Do 2 things."
+      "description": "Do 2 things.\nExhaust."
     },
     {
       "name": "Shifting Octopus+",
@@ -1225,7 +1225,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Do 3 things."
+      "description": "Do 3 things.\nExhaust."
     },
     {
       "name": "Summon Profits",
@@ -1299,13 +1299,6 @@
       "flavorText": "Dad gave this to me."
     },
     {
-      "name": "Running Start",
-      "tier": "Uncommon",
-      "pool": "Thort_gray_color",
-      "description": "Running now carries over between fights.",
-      "flavorText": "I used to do track, you know."
-    },
-    {
       "name": "Broken Calculator",
       "tier": "Rare",
       "pool": "Thort_gray_color",
@@ -1323,7 +1316,7 @@
       "name": "Bottled Funds",
       "tier": "Boss",
       "pool": "Thort_gray_color",
-      "description": "Upon pickup, choose a card. At the start of each combat, play and Exhaust a copy of it.",
+      "description": "Upon pickup, choose a card in your deck. At the start of each combat, play and Exhaust a copy of it.",
       "flavorText": "Looking empty."
     },
     {
@@ -1346,6 +1339,13 @@
       "pool": "Thort_gray_color",
       "description": "The amount of thethorton:Business_Cards required to obtain a Relic is reduced by 3.",
       "flavorText": "Graduate of the University of Chicago."
+    },
+    {
+      "name": "Running Start",
+      "tier": "Shop",
+      "pool": "Thort_gray_color",
+      "description": "Running now carries over between fights.",
+      "flavorText": "I used to do track, you know."
     }
   ],
   "potions": [

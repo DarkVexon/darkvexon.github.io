@@ -169,7 +169,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Pulchritude 11.\nDeal 11 damage.\nPut the top card of your draw pile into your discard pile."
+      "description": "Pulchritude 11.\nDeal 11 damage.\nDiscard the top card of your draw pile."
     },
     {
       "name": "Charisma Blast+",
@@ -177,7 +177,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Pulchritude 11.\nDeal 14 damage.\nPut the top card of your draw pile into your discard pile."
+      "description": "Pulchritude 11.\nDeal 14 damage.\nDiscard the top card of your draw pile."
     },
     {
       "name": "Fortify",
@@ -217,7 +217,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "0",
-      "description": "Can only be played if no other cards in your hand are Attacks.\nDeal 12 damage.\nApply 1 Weak."
+      "description": "Can only be played if no other cards in your hand are Attacks.\nDeal 12 damage."
     },
     {
       "name": "Joust+",
@@ -225,7 +225,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "0",
-      "description": "Can only be played if no other cards in your hand are Attacks.\nDeal 15 damage.\nApply 2 Weak."
+      "description": "Can only be played if no other cards in your hand are Attacks.\nDeal 15 damage.\nApply 1 Weak."
     },
     {
       "name": "Moonshine",
@@ -265,7 +265,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 11. ALWAYS costs 1.\nGain 12 Block."
+      "description": "Imagination 11. ALWAYS costs 1.\nGain 11 Block."
     },
     {
       "name": "Pepperminthryl+",
@@ -273,7 +273,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 11. ALWAYS costs 1.\nGain 15 Block."
+      "description": "Imagination 11. ALWAYS costs 1.\nGain 14 Block."
     },
     {
       "name": "Pez Uzi",
@@ -305,7 +305,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 12 damage.\nPut a card from your draw pile on top of your draw pile."
+      "description": "Deal 9 damage.\nApply 1 Weak.\nPut a card from your draw pile on top of your draw pile."
     },
     {
       "name": "Think Ahead",
@@ -409,7 +409,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Vim 10.\nDeal 9 damage.\nGain Temporary_HP equal to unblocked damage dealt.\nExhaust."
+      "description": "Vim 10.\nDeal 9 damage.\nGain 9 Temporary_HP.\nExhaust."
     },
     {
       "name": "Bite Hardly+",
@@ -417,23 +417,23 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Vim 10.\nDeal 12 damage.\nGain Temporary_HP equal to unblocked damage dealt.\nExhaust."
+      "description": "Vim 10.\nDeal 12 damage.\nGain 12 Temporary_HP.\nExhaust."
     },
     {
       "name": "Busts-R-Us",
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "",
-      "description": "Unplayable. While in hand, if any card enters your discard or exhaust pile, deal 2 damage to a random enemy."
+      "cost": "1",
+      "description": "If this card enters your discard or exhaust pile, gain [E] ."
     },
     {
       "name": "Busts-R-Us+",
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "",
-      "description": "Unplayable. While in hand, if any card enters your discard or exhaust pile, deal 2 damage to ALL enemies."
+      "cost": "0",
+      "description": "If this card enters your discard or exhaust pile, gain [E] ."
     },
     {
       "name": "Candy Cane",
@@ -482,6 +482,22 @@
       "type": "Attack",
       "cost": "1",
       "description": "Deal 5 damage to ALL enemies 3 times.\nDiscard 1 card.\nLose 1 of your highest stat."
+    },
+    {
+      "name": "Commandeer",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Put a card from your discard pile into your hand.\nYour stats are 0 this turn."
+    },
+    {
+      "name": "Commandeer+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Put a card from your discard pile into your hand.\nYour stats are 0 this turn."
     },
     {
       "name": "Conference",
@@ -708,12 +724,28 @@
       "description": "Deal 10 damage.\nApply 3 Weak.\nApply 3 Vulnerable.\nLose 1 of your highest stat."
     },
     {
+      "name": "Imagiblast",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Imagination 1.\nRetain.\nAt the start of each of your turns, deal 3 damage to ALL enemies."
+    },
+    {
+      "name": "Imagiblast+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Imagination 1.\nRetain.\nAt the start of each of your turns, deal 3 damage to ALL enemies."
+    },
+    {
       "name": "Leer",
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Imagination 10.\nRemove all Block from the enemy.\nDeal 2 damage 5 times.\nApply 1 Vulnerable."
+      "description": "Imagination 10.\nRemove all Block from the enemy.\nDeal 3 damage 3 times.\nApply 1 Vulnerable."
     },
     {
       "name": "Leer+",
@@ -721,7 +753,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Imagination 10.\nRemove all Block from ALL enemies.\nDeal 2 damage 5 times.\nApply 2 Vulnerable."
+      "description": "Imagination 10.\nRemove all Block from ALL enemies.\nDeal 3 damage 3 times.\nApply 2 Vulnerable."
     },
     {
       "name": "Opportunity Cost",
@@ -793,7 +825,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "If this card enters your discard or exhaust pile, apply 1 Weak and 1 Vulnerable ALL enemies.\nRetain."
+      "description": "If this card enters your discard or exhaust pile, apply 1 Weak and 1 Vulnerable to ALL enemies.\nRetain."
     },
     {
       "name": "Snoop Dogg Bust+",
@@ -801,7 +833,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "If this card enters your discard or exhaust pile, apply 2 Weak and 2 Vulnerable ALL enemies.\nRetain."
+      "description": "If this card enters your discard or exhaust pile, apply 2 Weak and 1 Vulnerable to ALL enemies.\nRetain."
     },
     {
       "name": "Spade Dig",
@@ -825,7 +857,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "X",
-      "description": "Pulchritude 5.\nGain 6 Block X times.\nPut the top X cards of your draw pile into your discard pile."
+      "description": "Pulchritude 5.\nGain 6 Block X times.\nDiscard the top X cards of your draw pile."
     },
     {
       "name": "Throw Hat+",
@@ -833,7 +865,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "X",
-      "description": "Pulchritude 5.\nGain 6 Block X+1 times.\nPut the top X+1 cards of your draw pile into your discard pile."
+      "description": "Pulchritude 5.\nGain 6 Block X+1 times.\nDiscard the top X+1 cards of your draw pile."
     },
     {
       "name": "Tommygun/Keyring",
@@ -969,7 +1001,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Imagination 5.\nGain 4 Strength.\nAt the end of your turn, lose 1 Imagination."
+      "description": "Imagination 5.\nGain 3 Strength.\nAt the end of your turn, lose 1 Imagination."
     },
     {
       "name": "Candid Bullets+",
@@ -977,7 +1009,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "0",
-      "description": "Imagination 5.\nGain 4 Strength.\nAt the end of your turn, lose 1 Imagination."
+      "description": "Imagination 5.\nGain 3 Strength.\nAt the end of your turn, lose 1 Imagination."
     },
     {
       "name": "Candy Mech",
@@ -1012,22 +1044,6 @@
       "description": "Pulchritude 15.\nImagination 15.\nGain 5 Malleable.\nYou cannot gain Malleable for the rest of the combat."
     },
     {
-      "name": "Ceasefire",
-      "color": "Sleuth_gray_color",
-      "rarity": "Rare",
-      "type": "Power",
-      "cost": "2",
-      "description": "Pulchritude 15.\nYou and ALL enemies gain 2 Intangible."
-    },
-    {
-      "name": "Ceasefire+",
-      "color": "Sleuth_gray_color",
-      "rarity": "Rare",
-      "type": "Power",
-      "cost": "2",
-      "description": "Pulchritude 15.\nYou and ALL enemies gain 2 Intangible.\nRetain."
-    },
-    {
       "name": "Conjure",
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
@@ -1042,6 +1058,22 @@
       "type": "Attack",
       "cost": "1",
       "description": "Imagination 12.\nChoose thrice from: Deal 6 damage. Gain 5 Block. Apply 1 Weak. Apply 1 Vulnerable."
+    },
+    {
+      "name": "Diabeatdown",
+      "color": "Sleuth_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Vim 20.\nDeal 30 damage to the enemy with the least HP. If this kills an enemy, repeat it."
+    },
+    {
+      "name": "Diabeatdown+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Vim 20.\nDeal 36 damage to the enemy with the least HP. If this kills an enemy, repeat it."
     },
     {
       "name": "Gummy Zombie",
@@ -1076,6 +1108,22 @@
       "description": "Pulchritude 5.\nVim 5.\nImagination 5.\nDeal damage equal to your combined stats."
     },
     {
+      "name": "Leverage Height",
+      "color": "Sleuth_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Pulchritude 11.\nDeal 12 damage.\nDiscard 1 card.\nDraw 1 card."
+    },
+    {
+      "name": "Leverage Height+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Pulchritude 11.\nDeal 15 damage.\nDiscard 2 cards.\nDraw 2 cards."
+    },
+    {
       "name": "Machinegun/Hairpin",
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
@@ -1097,7 +1145,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Vim 16.\nStun the enemy.\nPut 4 Murals on top of your draw pile.\nExhaust."
+      "description": "Vim 16.\nALL enemies become Stunned.\nPut 4 Murals on top of your draw pile."
     },
     {
       "name": "Mob Rule+",
@@ -1105,23 +1153,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Vim 16.\nStun the enemy.\nPut 3 Murals on top of your draw pile.\nExhaust."
-    },
-    {
-      "name": "Replicsimile",
-      "color": "Sleuth_gray_color",
-      "rarity": "Rare",
-      "type": "Power",
-      "cost": "2",
-      "description": "Imagination 13.\nThe first non-Purge card you play each turn puts a copy of itself with Purge on top of your draw pile."
-    },
-    {
-      "name": "Replicsimile+",
-      "color": "Sleuth_gray_color",
-      "rarity": "Rare",
-      "type": "Power",
-      "cost": "1",
-      "description": "Imagination 13.\nThe first non-Purge card you play each turn puts a copy of itself with Purge on top of your draw pile."
+      "description": "Vim 16.\nALL enemies become Stunned.\nPut 3 Murals on top of your draw pile."
     },
     {
       "name": "Roll Boxcars",
@@ -1140,7 +1172,7 @@
       "description": "Add any 1 of the 4 upgraded Midnight Cards to your hand.\nExhaust."
     },
     {
-      "name": "Successful Parry",
+      "name": "Supermassive",
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
       "type": "Skill",
@@ -1148,7 +1180,7 @@
       "description": "Vim 5.\nGain Block equal to your Vim.\nReflect damage this turn.\nGain 1 Auto-Parry.\nPurge."
     },
     {
-      "name": "Successful Parry+",
+      "name": "Supermassive+",
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
       "type": "Skill",
@@ -1209,7 +1241,7 @@
       "name": "Typewriter",
       "tier": "Starter",
       "pool": "Sleuth_gray_color",
-      "description": "Whenever you play a card with Purge, gain 1 Temporary_HP and ALL enemies lose 1 Strength this turn.",
+      "description": "When a card Purges, gain 1 Temporary_HP and ALL enemies lose 1 Strength this turn.",
       "flavorText": "Type up an UNPLEASANT NOTE to increase the enemy's SICK BURN levels."
     },
     {
@@ -1220,6 +1252,27 @@
       "flavorText": "The dreaded bust."
     },
     {
+      "name": "Encumbrance Jester",
+      "tier": "Uncommon",
+      "pool": "Sleuth_gray_color",
+      "description": "At the start of each combat, choose a card in your draw pile and give it to an enemy. That card returns to your hand when the enemy is slain.",
+      "flavorText": "The CLOWN PONTIFICATE is summoned and wields his legendary HAMPER OF THE JADED FOOL'S ENNUI."
+    },
+    {
+      "name": "Affinity Crow",
+      "tier": "Boss",
+      "pool": "Sleuth_gray_color",
+      "description": "Whenever your Block is broken, apply 1 Weak to ALL enemies.",
+      "flavorText": "Caw!"
+    },
+    {
+      "name": "Megaton Key",
+      "tier": "Boss",
+      "pool": "Sleuth_gray_color",
+      "description": "Gain [E] at the start of your turn.\nUpon pickup, lose your leftmost 2 relics.",
+      "flavorText": "These brass knuckles are so heavy."
+    },
+    {
       "name": "Eye of Fluthlu",
       "tier": "Shop",
       "pool": "Sleuth_gray_color",
@@ -1227,11 +1280,11 @@
       "flavorText": "Surprisingly surprising."
     },
     {
-      "name": "Penball",
+      "name": "Jammed Printer",
       "tier": "Shop",
       "pool": "Sleuth_gray_color",
-      "description": "You now draw cards from the 2nd from top position of your draw pile.",
-      "flavorText": "Pinball is decidedly less fun with a pen instead of a ball."
+      "description": "You draw cards from the 2nd from top position of your draw pile.",
+      "flavorText": "It's stuck!"
     }
   ],
   "potions": [
