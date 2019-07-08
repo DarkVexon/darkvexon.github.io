@@ -44,6 +44,22 @@
       "description": "The next octomod:Choose card you play has 1 additional choice."
     },
     {
+      "name": "Prepare",
+      "color": "Octo_gray_color",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 3 Block.\nThe next octomod:Choose card you play this turn has 1 additional choice.\nExhaust."
+    },
+    {
+      "name": "Prepare+",
+      "color": "Octo_gray_color",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 3 Block.\nThe next octomod:Choose card you play this turn has 1 additional choice."
+    },
+    {
       "name": "Strike/Defend",
       "color": "Octo_gray_color",
       "rarity": "Basic",
@@ -60,6 +76,38 @@
       "description": "octomod:Choose 1:\nGain 8 Block.\nDeal 9 damage."
     },
     {
+      "name": "Big Hug",
+      "color": "Octo_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "octomod:Choose 2:\nApply 2 Constricted to ALL enemies.\nDraw 1 card."
+    },
+    {
+      "name": "Big Hug+",
+      "color": "Octo_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "octomod:Choose 3:\nApply 2 Constricted to ALL enemies.\nDraw 1 card."
+    },
+    {
+      "name": "Choke",
+      "color": "Octo_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "octomod:Choose 1:\nApply 3 Constricted.\nActivate the enemy's Constricted."
+    },
+    {
+      "name": "Choke+",
+      "color": "Octo_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "octomod:Choose 2:\nApply 3 Constricted.\nActivate the enemy's Constricted."
+    },
+    {
       "name": "Forethink",
       "color": "Octo_gray_color",
       "rarity": "Common",
@@ -74,6 +122,22 @@
       "type": "Skill",
       "cost": "1",
       "description": "octomod:Choose 2:\nGain 6 Block.\nGain 6 Block next turn."
+    },
+    {
+      "name": "Ink Spurt",
+      "color": "Octo_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 3 Poison.\nApply 2 Constricted."
+    },
+    {
+      "name": "Ink Spurt+",
+      "color": "Octo_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 3 Poison.\nApply 3 Constricted."
     },
     {
       "name": "Punch",
@@ -106,6 +170,22 @@
       "type": "Skill",
       "cost": "1",
       "description": "octomod:Choose 2:\nGain 4 Block.\nUpgrade a card in your hand."
+    },
+    {
+      "name": "Sting Slap",
+      "color": "Octo_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage.\noctomod:Choose 1:\nApply 2 Constricted.\nGain 2 Temporary_HP."
+    },
+    {
+      "name": "Sting Slap+",
+      "color": "Octo_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage.\noctomod:Choose 2:\nApply 2 Constricted.\nGain 2 Temporary_HP."
     },
     {
       "name": "Strangle",
@@ -153,7 +233,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "octomod:Choose 2:\nDeal 5 damage.\nDeal !octoMagic! damage to ALL enemies."
+      "description": "octomod:Choose 2:\nDeal 7 damage.\nDeal !octoMagic! damage to ALL enemies."
     },
     {
       "name": "Adaptoform",
@@ -161,7 +241,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "X",
-      "description": "octomod:Choose X+0:\nGain 1 Strength.\nGain 1 Dexterity."
+      "description": "octomod:Choose X + 0:\nGain 1 Strength.\nGain 1 Dexterity."
     },
     {
       "name": "Adaptoform+",
@@ -169,7 +249,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "X",
-      "description": "octomod:Choose X+1:\nGain 1 Strength.\nGain 1 Dexterity."
+      "description": "octomod:Choose X + 1:\nGain 1 Strength.\nGain 1 Dexterity."
     },
     {
       "name": "Blast Smash",
@@ -177,7 +257,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "octomod:Choose 2:\nDeal 4 damage.\nLose 2 HP and deal !octoMagic! damage."
+      "description": "octomod:Choose 2:\nDeal 5 damage.\nLose 2 HP and deal !octoMagic! damage."
     },
     {
       "name": "Blast Smash+",
@@ -185,7 +265,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "octomod:Choose 3:\nDeal 4 damage.\nLose 2 HP and deal !octoMagic! damage."
+      "description": "octomod:Choose 2:\nDeal 6 damage.\nLose 2 HP and deal !octoMagic! damage."
     },
     {
       "name": "Bulky Move",
@@ -193,7 +273,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Exhaust.\noctomod:Choose 4:\nApply 2 Constricted.\nGain 2 Temporary HP."
+      "description": "octomod:Choose 4:\nApply 2 Constricted.\nGain 2 Temporary_HP.\nExhaust."
     },
     {
       "name": "Bulky Move+",
@@ -201,7 +281,39 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Exhaust.\noctomod:Choose 5:\nApply 2 Constricted.\nGain 2 Temporary HP."
+      "description": "octomod:Choose 5:\nApply 2 Constricted.\nGain 2 Temporary_HP.\nExhaust."
+    },
+    {
+      "name": "Conjure",
+      "color": "Octo_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "octomod:Choose 2:\nDeal 6 damage.\nGain 5 Block.\nApply 1 Weak.\nApply 1 Vulnerable."
+    },
+    {
+      "name": "Conjure+",
+      "color": "Octo_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "octomod:Choose 3:\nDeal 6 damage.\nGain 5 Block.\nApply 1 Weak.\nApply 1 Vulnerable."
+    },
+    {
+      "name": "Crampage",
+      "color": "Octo_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "octomod:Choose 2:\nDeal 3 damage.\nIncrease this card's damage by !octoMagic! this combat."
+    },
+    {
+      "name": "Crampage+",
+      "color": "Octo_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "octomod:Choose 2:\nDeal 4 damage.\nIncrease this card's damage by !octoMagic! this combat."
     },
     {
       "name": "Deep Thought",
@@ -233,7 +345,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "The next octomod:Choose card you play has 2 additional choices.\nExhaustive !stslib:ex!"
+      "description": "The next octomod:Choose card you play has 2 additional choices.\nExhaustive !stslib:ex!."
     },
     {
       "name": "Lash",
@@ -268,6 +380,22 @@
       "description": "octomod:Choose 3:\nDeal !octoMagic! damage.\nDeal 5 damage and gain [E] ."
     },
     {
+      "name": "Special Skill",
+      "color": "Octo_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "octomod:Choose 1:\nGain 1 Artifact.\nEnemy loses 1 Strength.\nGain 1 Thorns.\nExhaust."
+    },
+    {
+      "name": "Special Skill+",
+      "color": "Octo_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "octomod:Choose 2:\nGain 1 Artifact.\nEnemy loses 1 Strength.\nGain 1 Thorns.\nExhaust."
+    },
+    {
       "name": "Tangle",
       "color": "Octo_gray_color",
       "rarity": "Uncommon",
@@ -284,20 +412,20 @@
       "description": "octomod:Choose 2:\nDeal 12 damage.\nApply !octoMagic! Constricted."
     },
     {
-      "name": "[MISSING_TITLE]",
+      "name": "Eightfold Wrath",
       "color": "Octo_gray_color",
-      "rarity": "Uncommon",
+      "rarity": "Rare",
       "type": "Attack",
-      "cost": "1",
-      "description": "[MISSING_DESCRIPTION]"
+      "cost": "3",
+      "description": "octomod:Choose 8:\nDeal 3 damage to ALL enemies.\nGain 2 Block.\nDraw 1 card.\nApply 1 Weak.\nApply 1 Vulnerable.\nApply 1 Constricted.\nGain 1 Temporary_HP.\nGain 2 Gold.\nExhaust."
     },
     {
-      "name": "[MISSING_TITLE]+",
+      "name": "Eightfold Wrath+",
       "color": "Octo_gray_color",
-      "rarity": "Uncommon",
+      "rarity": "Rare",
       "type": "Attack",
-      "cost": "1",
-      "description": "[MISSING_DESCRIPTION]"
+      "cost": "2",
+      "description": "octomod:Choose 8:\nDeal 3 damage to ALL enemies.\nGain 2 Block.\nDraw 1 card.\nApply 1 Weak.\nApply 1 Vulnerable.\nApply 1 Constricted.\nGain 1 Temporary_HP.\nGain 2 Gold.\nExhaust."
     },
     {
       "name": "Ensnare",
@@ -305,7 +433,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Exhaust.\noctomod:Choose 1:\nDouble the enemy's Constricted."
+      "description": "octomod:Choose 1:\nDouble the enemy's Constricted.\nExhaust."
     },
     {
       "name": "Ensnare+",
@@ -313,23 +441,23 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Exhaust.\noctomod:Choose 1:\nDouble the enemy's Constricted."
+      "description": "octomod:Choose 1:\nDouble the enemy's Constricted.\nExhaust."
     },
     {
       "name": "Expansion",
       "color": "Octo_gray_color",
       "rarity": "Rare",
-      "type": "Attack",
+      "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nExhaust.\noctomod:Choose 1:\nGain 12 Block and deal 12 damage.\nHeal 5 HP.\nGain 10 Gold.\nObtain a random potion."
+      "description": "Ethereal.\noctomod:Choose 1:\nHeal 5 HP.\nGain 10 Gold.\nObtain a random potion.\nExhaust."
     },
     {
       "name": "Expansion+",
       "color": "Octo_gray_color",
       "rarity": "Rare",
-      "type": "Attack",
+      "type": "Skill",
       "cost": "1",
-      "description": "Ethereal.\nExhaust.\noctomod:Choose 1:\nGain 12 Block and deal 12 damage.\nHeal 5 HP.\nGain 10 Gold.\nObtain a random potion."
+      "description": "Ethereal.\noctomod:Choose 1:\nHeal 5 HP.\nGain 10 Gold.\nObtain a random potion.\nExhaust."
     },
     {
       "name": "Extra Arm",
@@ -344,8 +472,24 @@
       "color": "Octo_gray_color",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "2",
+      "cost": "1",
       "description": "octomod:Choose 2:\nAt the start of your turn, draw 1 additional card.\nThe first octomod:Choose card you play each turn has 1 additional choice."
+    },
+    {
+      "name": "Grand Fin-ale",
+      "color": "Octo_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Deal 15 damage.\noctomod:Choose -2:\nDeal !octoMagic! damage to ALL enemies."
+    },
+    {
+      "name": "Grand Fin-ale+",
+      "color": "Octo_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 15 damage.\noctomod:Choose -2:\nDeal !octoMagic! damage to ALL enemies."
     },
     {
       "name": "Indecisiveness",

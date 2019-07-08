@@ -1177,7 +1177,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Vim 5.\nGain Block equal to your Vim.\nReflect damage this turn.\nGain 1 Auto-Parry.\nPurge."
+      "description": "Vim 5.\nGain Block equal to your Vim.\nReflect damage this turn.\nExhaust."
     },
     {
       "name": "Supermassive+",
@@ -1185,7 +1185,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Vim 5.\nGain Block equal to your Vim.\nReflect damage this turn.\nGain 1 Auto-Parry.\nPurge."
+      "description": "Vim 5.\nGain Block equal to your Vim.\nReflect damage this turn.\nExhaust."
     },
     {
       "name": "The Zillyhammer",
@@ -1252,11 +1252,18 @@
       "flavorText": "The dreaded bust."
     },
     {
-      "name": "Encumbrance Jester",
+      "name": "Jester of Encumbrance",
       "tier": "Uncommon",
       "pool": "Sleuth_gray_color",
       "description": "At the start of each combat, choose a card in your draw pile and give it to an enemy. That card returns to your hand when the enemy is slain.",
       "flavorText": "The CLOWN PONTIFICATE is summoned and wields his legendary HAMPER OF THE JADED FOOL'S ENNUI."
+    },
+    {
+      "name": "Elf Eggs",
+      "tier": "Rare",
+      "pool": "Sleuth_gray_color",
+      "description": "Whenever you Smith, gain 3 Max HP.",
+      "flavorText": "You yearn to crack out the succulent yolk."
     },
     {
       "name": "Affinity Crow",

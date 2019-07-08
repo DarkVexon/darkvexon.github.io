@@ -76,7 +76,7 @@
 | Machinegun/Hairpin | ![](small-card-images/MachinegunHairpin.png) | ![](small-card-images/MachinegunHairpinPlus.png) | Rare | Attack | 1 | Deal 5(6) damage 3 times. / Gain 5(6) Block 3 times. Switches form whenever played. |
 | Mob Rule | ![](small-card-images/MobRule.png) | ![](small-card-images/MobRulePlus.png) | Rare | Skill | 2 | Vim 16. ALL enemies become Stunned. Put 4(3) Murals on top of your draw pile. |
 | Roll Boxcars | ![](small-card-images/RollBoxcars.png) | ![](small-card-images/RollBoxcarsPlus.png) | Rare | Skill | 0 | Add any 1 of the 4 (upgraded) Midnight Cards to your hand. Exhaust. |
-| Supermassive | ![](small-card-images/Supermassive.png) | ![](small-card-images/SupermassivePlus.png) | Rare | Skill | 3(2) | Vim 5. Gain Block equal to your Vim. Reflect damage this turn. Gain 1 Auto-Parry. Purge. |
+| Supermassive | ![](small-card-images/Supermassive.png) | ![](small-card-images/SupermassivePlus.png) | Rare | Skill | 3(2) | Vim 5. Gain Block equal to your Vim. Reflect damage this turn. Exhaust. |
 | The Zillyhammer | ![](small-card-images/TheZillyhammer.png) | ![](small-card-images/TheZillyhammerPlus.png) | Rare | Attack | 2 | Imagination 20. Deal 25(33) damage to ALL enemies. Lose 5(4) Imagination. |
 | Tootsiestein | ![](small-card-images/Tootsiestein.png) | ![](small-card-images/TootsiesteinPlus.png) | Rare | Power | 1(0) | Vim 15. Imagination 15. Whenever you gain Imagination, gain that much Temporary_HP. |
 | Weird Puzzle Shit | ![](small-card-images/WeirdPuzzleShit.png) | ![](small-card-images/WeirdPuzzleShitPlus.png) | Rare | Skill | 1 | Pulchritude 16. Costs 1 more for every 2 cards in your draw pile. Add a (an upgraded) Moustache_Fire into your hand. |
@@ -99,7 +99,8 @@
 | ----- | ---- | ------ | ----- | ----------- | ------ |
 | ![](relics/theSleuth-Recycler.png) | Typewriter | Starter | Sleuth_gray_color | When a card #yPurges, gain #b1 #yTemporary_HP and ALL enemies lose #b1 #yStrength this turn. | Type up an UNPLEASANT NOTE to increase the enemy's SICK BURN levels. |
 | ![](relics/theSleuth-BowenStilsonRelic.png) | Bowen Stilson Dogg | Common | Sleuth_gray_color | At the start of each combat, discard #b1 card from your draw pile. | The dreaded bust. |
-| ![](relics/theSleuth-DMKHat.png) | Encumbrance Jester | Uncommon | Sleuth_gray_color | At the start of each combat, choose a card in your draw pile and give it to an enemy. That card returns to your hand when the enemy is slain. | The CLOWN PONTIFICATE is summoned and wields his legendary HAMPER OF THE JADED FOOL'S ENNUI. |
+| ![](relics/theSleuth-DMKHat.png) | Jester of Encumbrance | Uncommon | Sleuth_gray_color | At the start of each combat, choose a card in your draw pile and give it to an enemy. That card returns to your hand when the enemy is slain. | The CLOWN PONTIFICATE is summoned and wields his legendary HAMPER OF THE JADED FOOL'S ENNUI. |
+| ![](relics/theSleuth-ElfEgg.png) | Elf Eggs | Rare | Sleuth_gray_color | Whenever you #ySmith, gain #b3 Max HP. | You yearn to crack out the succulent yolk. |
 | ![](relics/theSleuth-NonEnergyBossRelic.png) | Affinity Crow | Boss | Sleuth_gray_color | Whenever your #yBlock is broken, apply #b1 #yWeak to ALL enemies. | Caw! |
 | ![](relics/theSleuth-MegatonKey.png) | Megaton Key | Boss | Sleuth_gray_color | Gain [E] at the start of your turn. NL Upon pickup, lose your leftmost #b2 relics. | These brass knuckles are so heavy. |
 | ![](relics/theSleuth-FluthluEye.png) | Eye of Fluthlu | Shop | Sleuth_gray_color | At the start of your turn, add a #yDazed into your hand. | Surprisingly surprising. |
