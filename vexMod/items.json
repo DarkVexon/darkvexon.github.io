@@ -556,6 +556,14 @@
       "description": "Gain 1 Strength.\nGain 1 Dexterity.\nGain 1 Focus."
     },
     {
+      "name": "Virus",
+      "color": "Colorless",
+      "rarity": "Common",
+      "type": "Status",
+      "cost": "",
+      "description": "Unplayable.\nWhenever you draw this card, add a copy of it into your hand."
+    },
+    {
       "name": "Plotting",
       "color": "Colorless",
       "rarity": "Uncommon",
@@ -668,22 +676,6 @@
       "description": "Effect varies based on current master volume.\nExhaust."
     },
     {
-      "name": "Resourcefulness",
-      "color": "Colorless",
-      "rarity": "Rare",
-      "type": "Skill",
-      "cost": "0",
-      "description": "Draw 2 cards."
-    },
-    {
-      "name": "Resourcefulness+",
-      "color": "Colorless",
-      "rarity": "Rare",
-      "type": "Skill",
-      "cost": "0",
-      "description": "Put a card from your draw pile into your hand.\nDraw 1 card."
-    },
-    {
       "name": "Spire Strike",
       "color": "Colorless",
       "rarity": "Rare",
@@ -762,14 +754,6 @@
       "type": "Curse",
       "cost": "1",
       "description": ""
-    },
-    {
-      "name": "Virus",
-      "color": "Curse",
-      "rarity": "Curse",
-      "type": "Curse",
-      "cost": "",
-      "description": "Unplayable.\nWhenever you draw this card, add a copy of it into your hand."
     }
   ],
   "relics": [
@@ -800,20 +784,6 @@
       "pool": "Blue",
       "description": "At the start of each combat, Channel 1 Frost.",
       "flavorText": "You wonder if your enemies are lactose-intolerant."
-    },
-    {
-      "name": "Consolation Prize",
-      "tier": "Common",
-      "pool": "",
-      "description": "Whenever you lose HP, gain Gold equal to HP lost.",
-      "flavorText": "Gold oozes from your wounds."
-    },
-    {
-      "name": "Dusty Game Cartridge",
-      "tier": "Common",
-      "pool": "",
-      "description": "Whenever you draw a card during your turn, gain 1 Block.",
-      "flavorText": "It's unclear which system the game was meant for."
     },
     {
       "name": "Gazer Beam",
@@ -868,7 +838,7 @@
       "name": "Strike Shooter",
       "tier": "Common",
       "pool": "",
-      "description": "At the start of every third turn, play a \u03C0Strike at a random target.",
+      "description": "You cannot read this out of combat.",
       "flavorText": "All your sword-firing needs in one medium package!"
     },
     {
@@ -886,11 +856,25 @@
       "flavorText": "Mechanical device certain to improve your life somehow!"
     },
     {
+      "name": "Consolation Prize",
+      "tier": "Uncommon",
+      "pool": "",
+      "description": "Whenever you lose HP in combat, gain that much gold at the end of combat.",
+      "flavorText": "Gold oozes from your wounds."
+    },
+    {
       "name": "Dragon Fruit",
       "tier": "Uncommon",
       "pool": "",
       "description": "Upon pickup, raise your Max HP by 5. At the end of your turn, deal 1 damage to ALL enemies for each Attack played this turn.",
       "flavorText": "As a connoisseur would say, piquant."
+    },
+    {
+      "name": "Dusty Game Cartridge",
+      "tier": "Uncommon",
+      "pool": "",
+      "description": "Whenever you draw a card during your turn, gain 1 Block.",
+      "flavorText": "It's unclear which system the game was meant for."
     },
     {
       "name": "Focus Sash",
@@ -1007,7 +991,7 @@
     {
       "name": "Retaliation Kit",
       "tier": "Rare",
-      "pool": "Green",
+      "pool": "",
       "description": "The first time your Block is broken each combat, apply 2 Weak to ALL enemies.",
       "flavorText": "All you need to disappear in a burst of smoke! Smoke no longer included."
     },
@@ -1017,13 +1001,6 @@
       "pool": "",
       "description": "Glows sometime.\nRight click while glowing for a massive reward.",
       "flavorText": "Watch for thorns."
-    },
-    {
-      "name": "Teal Tab",
-      "tier": "Rare",
-      "pool": "",
-      "description": "Add 2 copies of the 18th card you draw each combat into your hand. They cost 0 this combat.",
-      "flavorText": "Useful for categorization."
     },
     {
       "name": "Timesight Glass",
@@ -1038,27 +1015,6 @@
       "pool": "",
       "description": "At the start of each combat, gain 3 Malleable.",
       "flavorText": "It squirms on your face uncomfortably."
-    },
-    {
-      "name": "Berry Sword",
-      "tier": "Special",
-      "pool": "",
-      "description": "Upon pickup, raise your Max HP by 8. The first card you play each combat is removed from your deck.",
-      "flavorText": "Tiny bites of this sword invigorate you."
-    },
-    {
-      "name": "Broadsword",
-      "tier": "Special",
-      "pool": "",
-      "description": "Draw 1 less card each turn. Start each combat with 4 Strength.",
-      "flavorText": "The smith fashioned you a slightly oversized weapon!"
-    },
-    {
-      "name": "Double-Edged Sword",
-      "tier": "Special",
-      "pool": "",
-      "description": "Start each combat with 3 Strength. ALL enemies start combat with 1 Thorns.",
-      "flavorText": "The smith fashioned you an overly sharp blade!"
     },
     {
       "name": "Energy Relic",
@@ -1080,20 +1036,6 @@
       "pool": "",
       "description": "All combats drop an additional Colorless card reward.",
       "flavorText": "Used for many a not-so-good deed."
-    },
-    {
-      "name": "Imaginary Sword",
-      "tier": "Special",
-      "pool": "",
-      "description": "Upon pickup, remove 2 Attacks from your deck.",
-      "flavorText": "Already, your memories of a smith feel faint..."
-    },
-    {
-      "name": "Infernal Sword",
-      "tier": "Special",
-      "pool": "",
-      "description": "At the start of each combat, add a random Attack into your hand.\nIt costs 0 this turn.",
-      "flavorText": "This sword burns endlessly. You can't even hold it..."
     },
     {
       "name": "Juggling Balls",
@@ -1159,20 +1101,6 @@
       "flavorText": "Now it all feels immersive."
     },
     {
-      "name": "Robot's Gift",
-      "tier": "Special",
-      "pool": "",
-      "description": "Start each combat with 2 Orb slots.",
-      "flavorText": "The thankful boon of a strange automaton."
-    },
-    {
-      "name": "Rusty Sword",
-      "tier": "Special",
-      "pool": "",
-      "description": "Start each combat with 1 less Strength. ALL enemies start combat with 2 less Strength.",
-      "flavorText": "The smith fashioned you a crunchy sword..."
-    },
-    {
       "name": "Spire Shuffle",
       "tier": "Special",
       "pool": "",
@@ -1185,13 +1113,6 @@
       "pool": "",
       "description": "Whenever you climb a floor, the Story grows.",
       "flavorText": ""
-    },
-    {
-      "name": "Toy Sword",
-      "tier": "Special",
-      "pool": "",
-      "description": "Start each combat with 2 less Strength. Whenever you play an Attack, the enemy loses 2 Strength this turn.",
-      "flavorText": "The smith fashioned you a little sword charm!"
     },
     {
       "name": "Voice Box",
@@ -1222,10 +1143,17 @@
       "flavorText": "You had no idea they could get this big."
     },
     {
+      "name": "Bot Bait",
+      "tier": "Boss",
+      "pool": "",
+      "description": "Gain [E] at the start of your turn.\nEvery 6 turns, a Mini-Bot joins battle.",
+      "flavorText": "Found in some mediocre Factory."
+    },
+    {
       "name": "Clock Rock",
       "tier": "Boss",
       "pool": "",
-      "description": "Gain [E] at the start of your turn. Upon pickup, set your run timer to -10 minutes. At the end of combat, rewind your run timer by 30 seconds. When your run timer hits 0, you lose.",
+      "description": "Gain [E] at the start of your turn. Upon pickup, set your run timer to -10 minutes. At the end of combat, rewind your run timer by 45 seconds. When your run timer hits 0, you lose.",
       "flavorText": "Tick tock goes the clock rock."
     },
     {
@@ -1239,7 +1167,7 @@
       "name": "Devious Botling",
       "tier": "Boss",
       "pool": "",
-      "description": "Gain [E] at the start of your turn. Torments you every 3rd turn in annoying ways. Insults you on Twitter when you die.",
+      "description": "Gain [E] at the start of your turn. Torments you every 3rd turn and in other ways. Insults you on Twitter when you die.",
       "flavorText": "A tiny little mini-bot whose prime directive is to mess with people. Twitter at @DBotling."
     },
     {
@@ -1274,7 +1202,7 @@
       "name": "Mall Pass",
       "tier": "Boss",
       "pool": "",
-      "description": "ALL ? rooms contain The Merchant. Whenever you encounter The Merchant, gain 50 Gold.",
+      "description": "ALL ? rooms contain The Merchant. Whenever you encounter The Merchant, gain 50 Gold.\nYou cannot remove cards at The Merchant.",
       "flavorText": "Now you can get the great discounts!"
     },
     {
@@ -1390,13 +1318,6 @@
       "flavorText": "Someone is going to want this back."
     },
     {
-      "name": "Sword of Lies",
-      "tier": "Shop",
-      "pool": "Red",
-      "description": "Start each combat with 2 Strength. At the start of each combat, add a random Curse into your hand.",
-      "flavorText": "\"I am the Sword of Truth.\""
-    },
-    {
       "name": "Xtacy",
       "tier": "Shop",
       "pool": "",
@@ -1459,8 +1380,8 @@
     {
       "name": "Lich's Phylactery",
       "type": "Normal",
-      "minHP": "100",
-      "maxHP": "100"
+      "minHP": "75",
+      "maxHP": "75"
     },
     {
       "name": "Mechanical Combatant",

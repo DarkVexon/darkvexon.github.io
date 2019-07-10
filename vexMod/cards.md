@@ -34,6 +34,7 @@
 | Growing Storm | ![](small-card-images/GrowingStorm.png) | ![](small-card-images/GrowingStormPlus.png) | Rare | Skill | 1 | Channel 1(2) Lightning. Increase the number of Lightning this card Channels by 1 this combat. |
 | Overload | ![](small-card-images/Overload.png) | ![](small-card-images/OverloadPlus.png) | Rare | Skill | 3 | Channel 1 random Orb for each Orb slot you have. (Gain 2 Orb slots.)  Exhaust. |
 | System Update | ![](small-card-images/SystemUpdate.png) | ![](small-card-images/SystemUpdatePlus.png) | Rare | Skill | 3(2) | Gain 1 Strength. Gain 1 Dexterity. Gain 1 Focus. |
+| Virus | ![](small-card-images/Virus.png) | ![]() | Common | Status |  | Unplayable. Whenever you draw this card, add a copy of it into your hand. |
 | Plotting | ![](small-card-images/Plotting.png) | ![](small-card-images/PlottingPlus.png) | Uncommon | Skill | 0 | Next turn, draw 2(3) additional cards. |
 | Tweet Strike | ![](small-card-images/TweetStrike.png) | ![](small-card-images/TweetStrikePlus.png) | Uncommon | Attack | 1 | Deal 13(19) damage. If this kills a non-minion enemy, @DBotling tweets about it. Exhaust. |
 | Antique Fury | ![](small-card-images/AntiqueFury.png) | ![](small-card-images/AntiqueFuryPlus.png) | Rare | Attack | 2 | Deal damage equal to 3 times the number of Relics you have. Exhaust. (not Exhaust.) |
@@ -41,7 +42,6 @@
 | Full Service | ![](small-card-images/FullService.png) | ![](small-card-images/FullServicePlus.png) | Rare | Attack | 3 | Gain 5(6) Block. Deal 5(6) damage. Gain 5(6) Block next turn. Gain 5(6) Gold. Apply !vexMod:SecondMagic! Weak. Apply !vexMod:SecondMagic! Vulnerable. Apply !vexMod:SecondMagic! Poison. Draw !vexMod:SecondMagic! cards. Draw !vexMod:SecondMagic! more cards next turn. Heal !vexMod:SecondMagic! HP. Next turn, gain 1 Energy. Upgrade a card in your hand. Exhaust. |
 | Name Guard | ![](small-card-images/NameGuard.png) | ![](small-card-images/NameGuardPlus.png) | Rare | Skill | 2(1) | Gain 4 Block for each character in your name. Exhaust. |
 | Resonance | ![](small-card-images/Resonance.png) | ![](small-card-images/ResonancePlus.png) | Rare | Skill | 1(0) | Effect varies based on current master volume. Exhaust. |
-| Resourcefulness | ![](small-card-images/Resourcefulness.png) | ![](small-card-images/ResourcefulnessPlus.png) | Rare | Skill | 0 | (Put a card from your draw pile into your hand.)  Draw 2 cards (1 card). |
 | Spire Strike | ![](small-card-images/SpireStrike.png) | ![](small-card-images/SpireStrikePlus.png) | Rare | Attack | 0 | Costs 1 more for each Act cleared. Deal damage equal to your floor number. Exhaust. (not Exhaust.) |
 | Very Week Card | ![](small-card-images/VeryWeekCard.png) | ![](small-card-images/VeryWeekCardPlus.png) | Rare | Skill | 1 | Effect varies based on day of the week. Exhaust. (not Exhaust.) |
 | Well-Timed Strike | ![](small-card-images/Well-TimedStrike.png) | ![](small-card-images/Well-TimedStrikePlus.png) | Rare | Attack | 3 | Deal 0 damage. Damage cycles from 0 to 50 quickly (slowly). |
@@ -49,4 +49,3 @@
 | Greed | ![](small-card-images/Greed.png) | ![]() | Curse | Curse |  | Unplayable. At the end of your turn, lose 6 Gold. |
 | Sloth | ![](small-card-images/Sloth.png) | ![]() | Curse | Curse |  | Unplayable. At the end of your turn, draw 1 less card next turn. |
 | The Ultimate Card | ![](small-card-images/TheUltimateCard.png) | ![]() | Curse | Curse | 1 |  |
-| Virus | ![](small-card-images/Virus.png) | ![]() | Curse | Curse |  | Unplayable. Whenever you draw this card, add a copy of it into your hand. |
