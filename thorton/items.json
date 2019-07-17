@@ -161,7 +161,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 3 Block.\nApply 1 Weak to ALL enemies."
+      "description": "Gain 2 Block.\nApply 1 Weak to ALL enemies."
     },
     {
       "name": "Distance+",
@@ -169,7 +169,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 5 Block.\nApply 1 Weak to ALL enemies."
+      "description": "Gain 4 Block.\nApply 1 Weak to ALL enemies."
     },
     {
       "name": "Down Payment",
@@ -561,7 +561,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\nEnemy loses 1 Strength this turn."
+      "description": "Deal 7 damage.\nEnemy loses 1 Strength this turn."
     },
     {
       "name": "Dock Pay+",
@@ -569,7 +569,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\nEnemy loses 2 Strength this turn."
+      "description": "Deal 9 damage.\nEnemy loses 2 Strength this turn."
     },
     {
       "name": "Feel No Brain",
@@ -956,6 +956,22 @@
       "description": "Deal 4 damage.\nHeal HP equal to unblocked damage.\nExhaust."
     },
     {
+      "name": "Boss Rush",
+      "color": "Thort_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Enemy becomes a random Boss."
+    },
+    {
+      "name": "Boss Rush+",
+      "color": "Thort_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Enemy becomes a random Boss."
+    },
+    {
       "name": "Call Of Commerce",
       "color": "Thort_gray_color",
       "rarity": "Rare",
@@ -986,6 +1002,22 @@
       "type": "Power",
       "cost": "1",
       "description": "Gain 1 Intangible."
+    },
+    {
+      "name": "Compound Interest",
+      "color": "Thort_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Exhaust.\nChoose 1:\nDouble this card's Gold permanently.\nGain 1 Gold and remove this card from your deck permanently."
+    },
+    {
+      "name": "Compound Interest+",
+      "color": "Thort_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Exhaust.\nChoose 1:\nDouble this card's Gold permanently.\nGain 1 Gold and remove this card from your deck permanently."
     },
     {
       "name": "Coward Form",
@@ -1024,8 +1056,8 @@
       "color": "Thort_gray_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "2",
-      "description": "Enemy cannot buff itself or debuff you.\nExhaust."
+      "cost": "3",
+      "description": "ALL enemies cannot buff themselves or debuff you.\nExhaust."
     },
     {
       "name": "Demotion+",
@@ -1137,7 +1169,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Enemy becomes a Hexaghost."
+      "description": "Enemy becomes a Hexaghost.\nExhaust."
     },
     {
       "name": "Hexaghostify+",
@@ -1145,7 +1177,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "ALL enemies become Hexaghosts."
+      "description": "ALL enemies become Hexaghosts.\nExhaust."
     },
     {
       "name": "Penny Toss",
@@ -1281,7 +1313,7 @@
       "name": "Potion of Courage",
       "tier": "Starter",
       "pool": "Thort_gray_color",
-      "description": "Start each Elite combat with 3 Strength.",
+      "description": "Start each Elite combat with 2 Strength.",
       "flavorText": "Drink in emergencies."
     },
     {

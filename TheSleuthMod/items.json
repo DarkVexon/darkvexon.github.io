@@ -1,10 +1,10 @@
 {
   "mod": {
     "name": "The Problem Sleuth",
-    "version": "0.0.3",
+    "version": "1.0",
     "authors": ["Vex'd and Spleen"],
     "credits": "",
-    "description": "buncha weird puzzle shit.",
+    "description": "buncha weird puzzle shit",
     "mts_version": "3.8.0",
     "sts_version": "01-23-2019",
     "dependencies": ["basemod","stslib"],
@@ -209,7 +209,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 3 Temporary_Imagination.\nGain 5 Block.\nPut a card from your hand on top of your draw pile."
+      "description": "Gain 3 Temp._Imagination.\nGain 5 Block.\nPut a card from your hand on top of your draw pile."
     },
     {
       "name": "Fortify+",
@@ -217,7 +217,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Temporary_Imagination.\nGain 7 Block.\nPut a card from your hand on top of your draw pile."
+      "description": "Gain 4 Temp._Imagination.\nGain 7 Block.\nPut a card from your hand on top of your draw pile."
     },
     {
       "name": "Ignore",
@@ -236,28 +236,12 @@
       "description": "Vim 5.\nGain 7 Temporary_HP.\nAdd a Mural into your hand."
     },
     {
-      "name": "Joust",
-      "color": "Sleuth_gray_color",
-      "rarity": "Common",
-      "type": "Attack",
-      "cost": "0",
-      "description": "Can only be played if no other cards in your hand are Attacks.\nDeal 10 damage."
-    },
-    {
-      "name": "Joust+",
-      "color": "Sleuth_gray_color",
-      "rarity": "Common",
-      "type": "Attack",
-      "cost": "0",
-      "description": "Can only be played if no other cards in your hand are Attacks.\nDeal 13 damage.\nApply 1 Weak."
-    },
-    {
       "name": "Moonshine",
       "color": "Sleuth_gray_color",
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 5.\nGain 1 Imagination.\nGive a card Retain this combat.\nPurge."
+      "description": "Imagination 5.\nGain 1 Imagination.\nGive a card in your hand Retain this combat.\nPurge."
     },
     {
       "name": "Moonshine+",
@@ -265,7 +249,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Imagination 5.\nGain 1 Imagination.\nGive a card Retain this combat.\nPurge."
+      "description": "Imagination 5.\nGain 1 Imagination.\nGive a card in your hand Retain this combat.\nPurge."
     },
     {
       "name": "Ogle",
@@ -289,7 +273,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 11. ALWAYS costs 1.\nGain 11 Block."
+      "description": "ALWAYS costs 1.\nImagination 11.\nGain 11 Block."
     },
     {
       "name": "Pepperminthryl+",
@@ -297,7 +281,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 11. ALWAYS costs 1.\nGain 14 Block."
+      "description": "ALWAYS costs 1.\nImagination 11.\nGain 14 Block."
     },
     {
       "name": "Pez Uzi",
@@ -305,7 +289,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Imagination 3.\nDeal 8 damage to ALL enemies.\nGain 1 Temporary_Imagination."
+      "description": "Imagination 3.\nDeal 8 damage to ALL enemies.\nGain 1 Temp._Imagination."
     },
     {
       "name": "Pez Uzi+",
@@ -313,7 +297,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Imagination 3.\nDeal 11 damage to ALL enemies.\nGain 2 Temporary_Imagination."
+      "description": "Imagination 3.\nDeal 11 damage to ALL enemies.\nGain 2 Temp._Imagination."
     },
     {
       "name": "Taze",
@@ -321,7 +305,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage.\nPut a card from your draw pile on top of your draw pile."
+      "description": "Deal 7 damage.\nApply 1 Weak.\nPut a card from your draw pile on top of your draw pile."
     },
     {
       "name": "Taze+",
@@ -417,7 +401,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Retain.\nIf this card enters your discard or exhaust pile, gain 5 Block."
+      "description": "Retain.\nIf this card enters your discard or exhaust pile, gain 6 Block."
     },
     {
       "name": "Wilson Bust+",
@@ -425,14 +409,14 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Retain.\nIf this card enters your discard or exhaust pile, gain 8 Block."
+      "description": "Retain.\nIf this card enters your discard or exhaust pile, gain 9 Block."
     },
     {
       "name": "Appropriate",
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "0",
+      "cost": "1",
       "description": "Put a card from your discard pile into your hand.\nYour stats are 0 this turn.\nExhaust."
     },
     {
@@ -441,7 +425,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Put a card from your discard pile into your hand.\nYour stats are 0 this turn."
+      "description": "Put a card from your discard pile into your hand.\nYour stats are 0 this turn.\nExhaust."
     },
     {
       "name": "Bite Hardly",
@@ -465,7 +449,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Imagination 6.\nDeal 7 damage.\nGain 2 Temporary_Imagination."
+      "description": "Imagination 6.\nDeal 7 damage.\nGain 2 Temp._Imagination."
     },
     {
       "name": "Candy Cane+",
@@ -473,7 +457,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Imagination 6.\nDeal 10 damage.\nGain 3 Temporary_Imagination."
+      "description": "Imagination 6.\nDeal 10 damage.\nGain 3 Temp._Imagination."
     },
     {
       "name": "Candy Leather",
@@ -521,7 +505,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nLook at the top 4 cards of your draw pile.\nYou may discard any of them.\nApply 1 Vulnerable to ALL enemies."
+      "description": "Look at the top 4 cards of your draw pile.\nYou may discard any of them.\nApply 2 Vulnerable to ALL enemies."
     },
     {
       "name": "Diamond Armor",
@@ -625,7 +609,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "5",
-      "description": "Imagination 10.\nCosts 1 less for each Temporary_Imagination you have.\nGain 8 Block.\nDraw 1 cards."
+      "description": "Imagination 10.\nCosts 1 less for each Temp._Imagination you have.\nGain 8 Block.\nDraw 1 cards."
     },
     {
       "name": "Fortune+",
@@ -633,7 +617,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "5",
-      "description": "Imagination 10.\nCosts 1 less for each Temporary_Imagination you have.\nGain 10 Block.\nDraw 2 cards."
+      "description": "Imagination 10.\nCosts 1 less for each Temp._Imagination you have.\nGain 10 Block.\nDraw 2 cards."
     },
     {
       "name": "Frijolaegis",
@@ -698,6 +682,22 @@
       "type": "Attack",
       "cost": "1",
       "description": "Deal 14 damage.\nApply 2 Weak.\nApply 2 Vulnerable.\nLose 1 of your highest stat."
+    },
+    {
+      "name": "Joust",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Can only be played if no other cards in your hand are Attacks.\nDeal 8 damage.\nApply 1 Weak."
+    },
+    {
+      "name": "Joust+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Can only be played if no other cards in your hand are Attacks.\nDeal 11 damage.\nApply 1 Weak."
     },
     {
       "name": "Kingpin Bust",
@@ -849,7 +849,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage twice. / Gain 6 Block twice.\nSwitches form at the start of your turn."
+      "description": "Deal 6 damage twice. / Gain 5 Block twice.\nSwitches form at the start of your turn."
     },
     {
       "name": "Tommygun/Keyring+",
@@ -857,7 +857,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage twice. / Gain 8 Block twice.\nSwitches form at the start of your turn."
+      "description": "Deal 8 damage twice. / Gain 6 Block twice.\nSwitches form at the start of your turn."
     },
     {
       "name": "Torso Flail",
@@ -889,7 +889,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain. Pulchritude 10.\nYou and ALL enemies cannot gain buffs for 1 turn."
+      "description": "Retain.\nPulchritude 10.\nYou and ALL enemies cannot gain buffs for 1 turn."
     },
     {
       "name": "Triple Scuffle",
@@ -940,6 +940,22 @@
       "description": "Retain.\nPulchritude 10.\nYou lose 1 stack of all debuffs."
     },
     {
+      "name": "Weigh In",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Innate.\nApply 2 Weak and !sleuthSecondMagic! Vulnerable to ALL enemies.\nExhaust."
+    },
+    {
+      "name": "Weigh In+",
+      "color": "Sleuth_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Innate.\nApply 3 Weak and !sleuthSecondMagic! Vulnerable to ALL enemies.\nExhaust."
+    },
+    {
       "name": "Wizard's Sudoku",
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
@@ -961,7 +977,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Pulchritude 15.\nDeal 17 damage to ALL enemies.\nDiscard your hand, then draw that many cards."
+      "description": "Pulchritude 15.\nDeal 16 damage to ALL enemies.\nDiscard your hand, then draw that many cards."
     },
     {
       "name": "Brass Tacks+",
@@ -1009,7 +1025,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Pulchritude 15.\nImagination 15.\nGain !sleuthSecondMagic! Dexterity.\nGain 3 Malleable.\nYou cannot gain Malleable for the rest of the combat."
+      "description": "Pulchritude 15.\nImagination 15.\nGain !sleuthSecondMagic! Dexterity.\nGain 3 Malleable."
     },
     {
       "name": "Candycorn Vampire+",
@@ -1017,7 +1033,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Pulchritude 15.\nImagination 15.\nGain !sleuthSecondMagic! Dexterity.\nGain 6 Malleable.\nYou cannot gain Malleable for the rest of the combat."
+      "description": "Pulchritude 15.\nImagination 15.\nGain !sleuthSecondMagic! Dexterity.\nGain 6 Malleable."
     },
     {
       "name": "Conjure",
@@ -1025,7 +1041,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 6. Imagination 12.\nChoose 2:  Deal 8 damage. Gain 8 Block. Apply 2 Weak. Apply 2 Vulnerable."
+      "description": "Vim 6. Imagination 12.\nChoose 2:   Deal 8 damage. Gain 8 Block. Apply 2 Weak. Apply 2 Vulnerable."
     },
     {
       "name": "Conjure+",
@@ -1033,7 +1049,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 6. Imagination 12.\nChoose 3:  Deal 8 damage. Gain 8 Block. Apply 2 Weak. Apply 2 Vulnerable."
+      "description": "Vim 6. Imagination 12.\nChoose 3:   Deal 8 damage. Gain 8 Block. Apply 2 Weak. Apply 2 Vulnerable."
     },
     {
       "name": "Diabeatdown",
@@ -1041,7 +1057,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Vim 20.\nDeal 24 damage to the enemy with the least HP. If this kills an enemy, repeat it."
+      "description": "Vim 15.\nDeal 24 damage to the enemy with the least HP. If this kills an enemy, repeat it."
     },
     {
       "name": "Diabeatdown+",
@@ -1049,7 +1065,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Vim 20.\nDeal 30 damage to the enemy with the least HP. If this kills an enemy, repeat it."
+      "description": "Vim 15.\nDeal 30 damage to the enemy with the least HP. If this kills an enemy, repeat it."
     },
     {
       "name": "Gummy Zombie",
@@ -1105,7 +1121,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Pulchritude 11.\nDeal 12 damage.\nDiscard 1 card.\nDraw 1 card."
+      "description": "Pulchritude 12.\nDeal 12 damage.\nDiscard 1 card.\nDraw 1 card."
     },
     {
       "name": "Leverage Height+",
@@ -1113,7 +1129,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Pulchritude 11.\nDeal 15 damage.\nDiscard 2 cards.\nDraw 2 cards."
+      "description": "Pulchritude 12.\nDeal 15 damage.\nDiscard 2 cards.\nDraw 2 cards."
     },
     {
       "name": "Machinegun/Hairpin",
@@ -1121,7 +1137,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage twice. / Gain 8 Block twice.\nSwitches form whenever played."
+      "description": "Deal 8 damage twice. / Gain 7 Block twice.\nSwitches form whenever played."
     },
     {
       "name": "Machinegun/Hairpin+",
@@ -1129,7 +1145,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage twice. / Gain 10 Block twice.\nSwitches form whenever played."
+      "description": "Deal 10 damage twice. / Gain 9 Block twice.\nSwitches form whenever played."
     },
     {
       "name": "Mob Rule",
@@ -1233,7 +1249,7 @@
       "name": "Typewriter",
       "tier": "Starter",
       "pool": "Sleuth_gray_color",
-      "description": "When a card Purges, apply 1 Weak and 1 Vulnerable to an enemy.",
+      "description": "When a card Purges, gain 1 Temp. HP and ALL enemies lose 1 Strength this turn.",
       "flavorText": "Type up an UNPLEASANT NOTE to increase the enemy's SICK BURN levels."
     },
     {
@@ -1268,22 +1284,22 @@
       "name": "Salted Melon",
       "tier": "Special",
       "pool": "Sleuth_gray_color",
-      "description": "Whenever you enter a Rest Site, increase your Max HP by 3.",
+      "description": "Whenever you enter a Rest Site, increase your Max HP by 1.",
       "flavorText": "The tastiest QUEST OF SPIRIT is satisfied."
     },
     {
       "name": "Tectrixcalibur",
       "tier": "Special",
       "pool": "Sleuth_gray_color",
-      "description": "Enemies cannot intend to attack for more than 30 damage.",
-      "flavorText": "Heads will roll."
+      "description": "Start each combat with 2 Strength and 1 Dexterity.",
+      "flavorText": "Scaling!"
     },
     {
       "name": "Affinity Crow",
       "tier": "Boss",
       "pool": "",
-      "description": "Whenever an enemy gains Strength, gain 1 Strength and 1 Dexterity.",
-      "flavorText": "Caw!"
+      "description": "Enemies cannot intend to attack for more than 30 damage.",
+      "flavorText": "Heads will roll."
     },
     {
       "name": "Megaton Key",
@@ -1317,7 +1333,7 @@
   "potions": [
     {
       "name": "Demotion Potion",
-      "rarity": "Rare",
+      "rarity": "Uncommon",
       "description": "Enemy cannot buff itself or debuff you."
     }
   ],
@@ -1336,7 +1352,7 @@
     },
     {
       "name": "Imagination",
-      "description": "Imaginary statistic. If you have don't have enough Imagination for a card, it will cost 0, Retain, Purge, and give you 1 point of Imagination permanently instead of any other effects."
+      "description": "Imaginary statistic. If you have don't have enough Imagination for a card, it will cost 0, Retain, Purge, and give you 1 point of Imagination permanently instead of activating the card's effects."
     },
     {
       "name": "Moustache fire",
@@ -1348,15 +1364,15 @@
     },
     {
       "name": "Pulchritude",
-      "description": "Charismatic statistic. If you don't have enough Pulchritude for a card, it will cost 0, Retain, Purge, and give you 1 point of Pulchritude permanently instead of any other effects."
+      "description": "Charismatic statistic. If you don't have enough Pulchritude for a card, it will cost 0, Retain, Purge, and give you 1 point of Pulchritude permanently instead of activating the card's effects."
     },
     {
-      "name": "Temporary imagination",
+      "name": "Temp. imagination",
       "description": "Temporary Imagination disappears at the end of combat."
     },
     {
       "name": "Vim",
-      "description": "Stamina statistic. If you don't have enough Vim for a card, it will cost 0, Retain, Purge, and give you 1 point of Vim permanently instead of any other effects."
+      "description": "Stamina statistic. If you don't have enough Vim for a card, it will cost 0, Retain, Purge, and give you 1 point of Vim permanently instead of activating the card's effects."
     }
   ]
 }

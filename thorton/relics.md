@@ -1,6 +1,6 @@
 | Image | Name | Rarity | Color | Description | Flavor |
 | ----- | ---- | ------ | ----- | ----------- | ------ |
-| ![](relics/thethorton-CouragePotion.png) | Potion of Courage | Starter | Thort_gray_color | Start each Elite combat with #b3 #yStrength. | Drink in emergencies. |
+| ![](relics/thethorton-CouragePotion.png) | Potion of Courage | Starter | Thort_gray_color | Start each Elite combat with #b2 #yStrength. | Drink in emergencies. |
 | ![](relics/thethorton-BusinessCardPrinter.png) | Business Card Printer | Common | Thort_gray_color | At the start of each combat, add a #ythethorton:Business_Card into your hand. | Look at that subtle off-white color. The tasteful thickness of it. Oh my God, it even has a watermark. |
 | ![](relics/thethorton-BankDeed.png) | Bank Deed | Uncommon |  | Whenever you climb a floor, gain #b3% interest on held #yGold. | Dad gave this to me. |
 | ![](relics/thethorton-BrokenCalculator.png) | Broken Calculator | Rare |  | At the start of each combat, play a random Thorton card. | So what if the math's in my favor? |

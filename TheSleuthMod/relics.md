@@ -1,13 +1,13 @@
 | Image | Name | Rarity | Color | Description | Flavor |
 | ----- | ---- | ------ | ----- | ----------- | ------ |
-| ![](relics/theSleuth-Typewriter.png) | Typewriter | Starter | Sleuth_gray_color | When a card #yPurges, apply #b1 Weak and #b1 Vulnerable to an enemy. | Type up an UNPLEASANT NOTE to increase the enemy's SICK BURN levels. |
+| ![](relics/theSleuth-Typewriter.png) | Typewriter | Starter | Sleuth_gray_color | When a card #yPurges, gain #b1 #yTemp. #yHP and ALL enemies lose #b1 #yStrength this turn. | Type up an UNPLEASANT NOTE to increase the enemy's SICK BURN levels. |
 | ![](relics/theSleuth-BowenStilsonDogg.png) | Bowen Stilson Dogg | Common | Sleuth_gray_color | At the start of each combat, discard #b1 card from your draw pile. | The dreaded bust. |
 | ![](relics/theSleuth-JesterOfEncumbrance.png) | Jester of Encumbrance | Uncommon |  | At the start of each combat, choose a card in your draw pile and give it to an enemy. That card is put into your hand when the enemy is slain. | Exiled from CLOWN TERRITORY for the crime of BEING MISPLACED BY THE CLOWN PONTIFICATE. |
 | ![](relics/theSleuth-ElfEgg.png) | Elf Eggs | Rare |  | Whenever you #ySmith, increase your Max HP by #b3. | You yearn to crack out the succulent yolk. |
 | ![](relics/theSleuth-HAMPEROFTHEJADEDFOOLSENNUI.png) | HAMPER OF THE JADED FOOL'S ENNUI | Special | Sleuth_gray_color | Start each combat with #b10 #yThorns. | The Clown Pontificate (hereafter: "CP") has granted one (1) boon (hereafter: "the product") in exchange for the services rendered by you to slay the spire. The product may be leased for up to three combat encounters (hereafter: "battles") due to the eventuality in which the merchant (hereafter: "dead-o") is murdered. The product will be returned to CP within 3-4 business days. |
-| ![](relics/theSleuth-SaltedMelon.png) | Salted Melon | Special | Sleuth_gray_color | Whenever you enter a Rest Site, increase your Max HP by #b3. | The tastiest QUEST OF SPIRIT is satisfied. |
-| ![](relics/theSleuth-Tectrixcalibur.png) | Tectrixcalibur | Special | Sleuth_gray_color | Enemies cannot intend to attack for more than #b30 damage. | Heads will roll. |
-| ![](relics/theSleuth-AffinityCrow.png) | Affinity Crow | Boss |  | Whenever an enemy gains #yStrength, gain #b1 #yStrength and #b1 #yDexterity. | Caw! |
+| ![](relics/theSleuth-SaltedMelon.png) | Salted Melon | Special | Sleuth_gray_color | Whenever you enter a Rest Site, increase your Max HP by #b1. | The tastiest QUEST OF SPIRIT is satisfied. |
+| ![](relics/theSleuth-Tectrixcalibur.png) | Tectrixcalibur | Special | Sleuth_gray_color | Start each combat with #b2 #yStrength and #b1 #yDexterity. | Scaling! |
+| ![](relics/theSleuth-AffinityCrow.png) | Affinity Crow | Boss |  | Enemies cannot intend to attack for more than #b30 damage. | Heads will roll. |
 | ![](relics/theSleuth-MegatonKey.png) | Megaton Key | Boss |  | Gain [E] at the start of your turn. NL Upon pickup, lose your leftmost #b2 relics. | These brass knuckles are so heavy. |
 | ![](relics/theSleuth-CallOfFluthlu.png) | Call of Fluthlu | Shop | Sleuth_gray_color | At the start of your turn, add a #yDazed into your hand. | Surprisingly surprising. |
 | ![](relics/theSleuth-JammedPrinter.png) | Jammed Printer | Shop | Sleuth_gray_color | You draw cards from the #b2nd from top position of your draw pile. | It's stuck! |

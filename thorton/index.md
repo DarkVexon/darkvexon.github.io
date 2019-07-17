@@ -12,7 +12,7 @@
 | Business Card | ![](small-card-images/BusinessCard.png) | ![](small-card-images/BusinessCardPlus.png) | Common | Skill | 0 | Whenever you play 10 thethorton:Business_Cards, obtain a Relic. (Draw 1 card.)  Exhaust. |
 | Cash Bash | ![](small-card-images/CashBash.png) | ![](small-card-images/CashBashPlus.png) | Common | Attack | 1 | Gain 5(6) Gold. Deal 10(12) damage. Exhaust. |
 | Cash Buffer | ![](small-card-images/CashBuffer.png) | ![](small-card-images/CashBufferPlus.png) | Common | Skill | 1 | Gain 4(6) Gold. Gain 10(12) Block. Exhaust. |
-| Distance | ![](small-card-images/Distance.png) | ![](small-card-images/DistancePlus.png) | Common | Skill | 1 | Gain 3(5) Block. Apply 1 Weak to ALL enemies. |
+| Distance | ![](small-card-images/Distance.png) | ![](small-card-images/DistancePlus.png) | Common | Skill | 1 | Gain 2(4) Block. Apply 1 Weak to ALL enemies. |
 | Down Payment | ![](small-card-images/DownPayment.png) | ![](small-card-images/DownPaymentPlus.png) | Common | Skill | 1 | Gain 3(4) Block. Next turn, gain 3(4) Block and [E] . |
 | Elbow Nudge | ![](small-card-images/ElbowNudge.png) | ![](small-card-images/ElbowNudgePlus.png) | Common | Attack | 1 | Deal 4(6) damage twice. Draw 1 additional card next turn. |
 | Fearful Run | ![](small-card-images/FearfulRun.png) | ![](small-card-images/FearfulRunPlus.png) | Common | Skill | 1 | Gain 6(9) Block. thethorton:Run. |
@@ -37,7 +37,7 @@
 | Coin Shield | ![](small-card-images/CoinShield.png) | ![](small-card-images/CoinShieldPlus.png) | Uncommon | Skill | 2 | Gain 8(10) Gold. Gain 16(20) Block. Exhaust. |
 | Crash | ![](small-card-images/Crash.png) | ![](small-card-images/CrashPlus.png) | Uncommon | Attack | 2 | Deal 8(10) damage. Gain 8(10) Block. thethorton:Run. |
 | Desperate Run | ![](small-card-images/DesperateRun.png) | ![](small-card-images/DesperateRunPlus.png) | Uncommon | Skill | 1 | Draw 2(3) cards. thethorton:Run. |
-| Dock Pay | ![](small-card-images/DockPay.png) | ![](small-card-images/DockPayPlus.png) | Uncommon | Attack | 1 | Deal 8(10) damage. Enemy loses 1(2) Strength this turn. |
+| Dock Pay | ![](small-card-images/DockPay.png) | ![](small-card-images/DockPayPlus.png) | Uncommon | Attack | 1 | Deal 7(9) damage. Enemy loses 1(2) Strength this turn. |
 | Feel No Brain | ![](small-card-images/FeelNoBrain.png) | ![](small-card-images/FeelNoBrainPlus.png) | Uncommon | Power | 1 | (Innate.)  Whenever a card is Exhausted, gain 2 Block. |
 | Focus Strength | ![](small-card-images/FocusStrength.png) | ![](small-card-images/FocusStrengthPlus.png) | Uncommon | Skill | 1(0) | Gain 1 Strength. End the turn. |
 | Hedge Fund | ![](small-card-images/HedgeFund.png) | ![](small-card-images/HedgeFundPlus.png) | Uncommon | Attack | 1 | Deal 12(15) damage. Next turn, draw 1 less card. |
@@ -62,18 +62,20 @@
 | Administrative Actions | ![](small-card-images/AdministrativeActions.png) | ![](small-card-images/AdministrativeActionsPlus.png) | Rare | Skill | 3(2) | Choose any Thorton card and put it on top of your draw pile. Exhaust. |
 | Big Break | ![](small-card-images/BigBreak.png) | ![](small-card-images/BigBreakPlus.png) | Rare | Power | 1 | (Innate.)  Gain 3 Strength. |
 | Blood Debt | ![](small-card-images/BloodDebt.png) | ![](small-card-images/BloodDebtPlus.png) | Rare | Attack | 1(0) | Deal 4 damage. Heal HP equal to unblocked damage. Exhaust. |
+| Boss Rush | ![](small-card-images/BossRush.png) | ![](small-card-images/BossRushPlus.png) | Rare | Skill | 2(1) | Enemy becomes a random Boss. |
 | Call Of Commerce | ![](small-card-images/CallOfCommerce.png) | ![](small-card-images/CallOfCommercePlus.png) | Rare | Skill | 3(2) | Ethereal. Gain 15 Gold. The next ? room you enter contains a shop. Exhaust. |
 | Cardboard Box | ![](small-card-images/CardboardBox.png) | ![](small-card-images/CardboardBoxPlus.png) | Rare | Power | 2(1) | Gain 1 Intangible. |
+| Compound Interest | ![](small-card-images/CompoundInterest.png) | ![](small-card-images/CompoundInterestPlus.png) | Rare | Skill | 2(1) | Exhaust. Choose 1: Double this card's Gold permanently. Gain 1 Gold and remove this card from your deck permanently. |
 | Coward Form | ![](small-card-images/CowardForm.png) | ![](small-card-images/CowardFormPlus.png) | Rare | Power | 3 | Starts combat in your discard pile. (not Starts combat in your discard pile.) At the start of your turn, thethorton:Run. |
 | Crashing Stocks | ![](small-card-images/CrashingStocks.png) | ![](small-card-images/CrashingStocksPlus.png) | Rare | Attack | 3(2) | If you have at least 100 Gold, lose 100 Gold and deal 50 damage to ALL enemies. |
-| Demotion | ![](small-card-images/Demotion.png) | ![](small-card-images/DemotionPlus.png) | Rare | Skill | 2 | Enemy (ALL enemies) cannot buff itself (themselves) or debuff you. Exhaust. |
+| Demotion | ![](small-card-images/Demotion.png) | ![](small-card-images/DemotionPlus.png) | Rare | Skill | 3(2) | ALL enemies cannot buff themselves or debuff you. Exhaust. |
 | Dodge & Roll & Run | ![](small-card-images/Dodge&Roll&Run.png) | ![](small-card-images/Dodge&Roll&RunPlus.png) | Rare | Skill | 2 | Gain 9(11) Block. Next turn, gain 9(11) Block. thethorton:Run. |
 | Escape! | ![](small-card-images/Escape!.png) | ![](small-card-images/Escape!Plus.png) | Rare | Skill | 3 | 33% chance to escape a non-boss combat. Receive no rewards. (not Receive no rewards.)NL Exhaustive !stslib:ex!. |
 | Fair Trade | ![](small-card-images/FairTrade.png) | ![](small-card-images/FairTradePlus.png) | Rare | Skill | 1(0) | Exhaust a card in your hand. Put a card from your exhaust pile into your hand. Exhaust. |
 | Fatigue | ![](small-card-images/Fatigue.png) | ![](small-card-images/FatiguePlus.png) | Rare | Skill | 2(1) | Apply Weak equal to your held Gold. |
 | Fish | ![](small-card-images/Fish.png) | ![](small-card-images/FishPlus.png) | Rare | Skill | (4) | Unplayable unless you've thethorton:Gathered 6 different thethorton:Pyro_Buddies this combat (Ethereal). thethorton:Ingest 2 thethorton:Sync_Boons and gain 2 thethorton:Boost_Points (Cost cannot be modified).  (Obtain a Relic. Exhaust.) |
 | Fortune | ![](small-card-images/Fortune.png) | ![](small-card-images/FortunePlus.png) | Rare | Skill | X | Gain X0 Gold. (Gain [E].)  Exhaust. |
-| Hexaghostify | ![](small-card-images/Hexaghostify.png) | ![](small-card-images/HexaghostifyPlus.png) | Rare | Skill | 3 | Enemy becomes a (ALL enemies become) Hexaghost(s). |
+| Hexaghostify | ![](small-card-images/Hexaghostify.png) | ![](small-card-images/HexaghostifyPlus.png) | Rare | Skill | 3 | Enemy becomes a (ALL enemies become) Hexaghost(s). Exhaust. |
 | Penny Toss | ![](small-card-images/PennyToss.png) | ![](small-card-images/PennyTossPlus.png) | Rare | Attack | 1(0) | Gain 9 Gold. Gain 9 Block. Deal 9 damage. Exhaustive !stslib:ex!. |
 | Portfolio | ![](small-card-images/Portfolio.png) | ![](small-card-images/PortfolioPlus.png) | Rare | Skill | 2 | Gain 5(10) Gold. Shuffle 2 (upgraded) thethorton:Business_Cards and 1 (upgraded) thethorton:Investment into your draw pile. Exhaust. |
 | Scaling Is Win | ![](small-card-images/ScalingIsWin.png) | ![](small-card-images/ScalingIsWinPlus.png) | Rare | Power | 2(1) | At the start of your turn, gain 1 Strength and draw 1 additional card. |
@@ -99,7 +101,7 @@
 
 | Image | Name | Rarity | Color | Description | Flavor |
 | ----- | ---- | ------ | ----- | ----------- | ------ |
-| ![](relics/thethorton-CouragePotion.png) | Potion of Courage | Starter | Thort_gray_color | Start each Elite combat with #b3 #yStrength. | Drink in emergencies. |
+| ![](relics/thethorton-CouragePotion.png) | Potion of Courage | Starter | Thort_gray_color | Start each Elite combat with #b2 #yStrength. | Drink in emergencies. |
 | ![](relics/thethorton-BusinessCardPrinter.png) | Business Card Printer | Common | Thort_gray_color | At the start of each combat, add a #ythethorton:Business_Card into your hand. | Look at that subtle off-white color. The tasteful thickness of it. Oh my God, it even has a watermark. |
 | ![](relics/thethorton-BankDeed.png) | Bank Deed | Uncommon |  | Whenever you climb a floor, gain #b3% interest on held #yGold. | Dad gave this to me. |
 | ![](relics/thethorton-BrokenCalculator.png) | Broken Calculator | Rare |  | At the start of each combat, play a random Thorton card. | So what if the math's in my favor? |

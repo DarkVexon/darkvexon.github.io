@@ -1,4 +1,4 @@
 | Image | Name | Rarity | Description |
 | ----- | ---- | ------ | ----------- |
-| ![](potions/DemotionPotion.png) | Demotion Potion | Rare | Enemy cannot buff itself or debuff you. |
+| ![](potions/DemotionPotion.png) | Demotion Potion | Uncommon | Enemy cannot buff itself or debuff you. |
 
