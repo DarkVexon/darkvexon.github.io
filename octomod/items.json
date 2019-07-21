@@ -140,6 +140,22 @@
       "description": "octomod:Choose 3:\nGain 1 Strength this turn only.\nGain 1 Dexterity this turn only."
     },
     {
+      "name": "Flurry",
+      "color": "Octo_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain [E] .\nPlay the top card of your draw pile.\nIf it's a octomod:Choose card, octomod:Choose randomly."
+    },
+    {
+      "name": "Flurry+",
+      "color": "Octo_gray_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain [E] [E] .\nPlay the top card of your draw pile.\nIf it's a octomod:Choose card, octomod:Choose randomly."
+    },
+    {
       "name": "Foresight",
       "color": "Octo_gray_color",
       "rarity": "Common",
@@ -396,6 +412,22 @@
       "description": "Deal 20 damage.\noctomod:Choose 2:\nLose 3 HP.\nDraw 1 less card next turn."
     },
     {
+      "name": "Arrow Flurry",
+      "color": "Octo_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Next turn, deal 8 damage and apply 1 Weak.\nExhaust."
+    },
+    {
+      "name": "Arrow Flurry+",
+      "color": "Octo_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Next turn, deal 8 damage and apply 1 Weak.\nAdd a copy of this card into your hand.\nExhaust."
+    },
+    {
       "name": "Auto-Turret",
       "color": "Octo_gray_color",
       "rarity": "Uncommon",
@@ -412,6 +444,22 @@
       "description": "Whenever you octomod:Choose, deal 3 damage to a random enemy."
     },
     {
+      "name": "Biggest Hug",
+      "color": "Octo_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 7 octomod:Constricted.\nApply !octoMagic! octomod:Constricted to ALL enemies."
+    },
+    {
+      "name": "Biggest Hug+",
+      "color": "Octo_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 3 octomod:Constricted.\nApply !octoMagic! octomod:Constricted to ALL enemies."
+    },
+    {
       "name": "Blast Smash",
       "color": "Octo_gray_color",
       "rarity": "Uncommon",
@@ -426,6 +474,22 @@
       "type": "Attack",
       "cost": "1",
       "description": "octomod:Choose 2:\nDeal 6 damage.\nLose 2 HP and deal !secondDamage! damage."
+    },
+    {
+      "name": "Blindside",
+      "color": "Octo_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "X",
+      "description": "Choose X + 0:\nRandomize the costs of cards in your hand.\nGain [E] ."
+    },
+    {
+      "name": "Blindside+",
+      "color": "Octo_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "X",
+      "description": "Choose X + 1:\nRandomize the costs of cards in your hand.\nGain [E] ."
     },
     {
       "name": "Boosted",
@@ -796,6 +860,22 @@
       "description": "Deal 20 damage.\nExhaustive !stslib:ex!."
     },
     {
+      "name": "Dish",
+      "color": "Octo_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "",
+      "description": "Unplayable.\nDid you know: You can commission Vex to make your custom character! Contact Vex'd#2468 on Discord for more info."
+    },
+    {
+      "name": "Dish+",
+      "color": "Octo_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "octomod:Choose 1 non-rare Octopus card(s).\nReplace this card with those ones permanently.\nExhaust."
+    },
+    {
       "name": "Donu || Deca",
       "color": "Octo_gray_color",
       "rarity": "Rare",
@@ -986,6 +1066,22 @@
       "type": "Skill",
       "cost": "0",
       "description": "Exhaust. Increase this card's Choose amount by 1 permanently.\noctomod:Choose 1:\nApply 2 Constricted.\nGain 2 Block."
+    },
+    {
+      "name": "Mirror Body",
+      "color": "Octo_gray_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "Starts combat in your discard pile.\nReflect all damage."
+    },
+    {
+      "name": "Mirror Body+",
+      "color": "Octo_gray_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "Reflect all damage."
     },
     {
       "name": "Power Pulse",

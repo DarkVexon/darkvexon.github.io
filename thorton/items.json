@@ -1,7 +1,7 @@
 {
   "mod": {
     "name": "thorton",
-    "version": "3133",
+    "version": "8",
     "authors": ["Vex'd"],
     "credits": "",
     "description": "A very regular man.",
@@ -177,15 +177,15 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 3 Block.\nNext turn, gain 3 Block and [E] ."
+      "description": "The top card of your draw pile costs 0 until played."
     },
     {
       "name": "Down Payment+",
       "color": "Thort_gray_color",
       "rarity": "Common",
       "type": "Skill",
-      "cost": "1",
-      "description": "Gain 4 Block.\nNext turn, gain 4 Block and [E] ."
+      "cost": "0",
+      "description": "The top card of your draw pile costs 0 until played."
     },
     {
       "name": "Elbow Nudge",
@@ -193,7 +193,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 4 damage twice.\nDraw 1 additional card next turn."
+      "description": "Deal 7 damage.\nDraw 1 additional card next turn."
     },
     {
       "name": "Elbow Nudge+",
@@ -201,7 +201,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage twice.\nDraw 1 additional card next turn."
+      "description": "Deal 10 damage.\nDraw 1 additional card next turn."
     },
     {
       "name": "Fearful Run",
@@ -289,14 +289,14 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 1 Weak.\nthethorton:Run."
+      "description": "Apply 2 Weak.\nthethorton:Run."
     },
     {
       "name": "Shout and Run+",
       "color": "Thort_gray_color",
       "rarity": "Common",
       "type": "Skill",
-      "cost": "1",
+      "cost": "0",
       "description": "Apply 2 Weak.\nthethorton:Run."
     },
     {
@@ -337,7 +337,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 3 damage 3 times."
+      "description": "Deal 4 damage twice."
     },
     {
       "name": "Triple Bap+",
@@ -345,7 +345,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 4 damage 3 times."
+      "description": "Deal 6 damage twice."
     },
     {
       "name": "Wailing Run",
@@ -417,7 +417,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage.\nAdd a thethorton:Business_Card into your hand.\nExhaust."
+      "description": "Deal 9 damage.\nAdd 1 thethorton:Business_Card into your hand.\nExhaust."
     },
     {
       "name": "Business Bash+",
@@ -425,7 +425,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage.\nAdd an upgraded thethorton:Business_Card into your hand.\nExhaust."
+      "description": "Deal 11 damage.\nAdd 1 upgraded thethorton:Business_Card into your hand.\nExhaust."
     },
     {
       "name": "Business Boom",
@@ -433,7 +433,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "3",
-      "description": "Deal 28 damage.\nShuffle a thethorton:Business_Card into your draw pile.\nExhaust."
+      "description": "Deal 25 damage.\nShuffle a thethorton:Business_Card into your draw pile.\nExhaust."
     },
     {
       "name": "Business Boom+",
@@ -441,7 +441,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "3",
-      "description": "Deal 37 damage.\nShuffle an upgraded thethorton:Business_Card into your draw pile.\nExhaust."
+      "description": "Deal 32 damage.\nShuffle an upgraded thethorton:Business_Card into your draw pile.\nExhaust."
     },
     {
       "name": "Business Burst",
@@ -481,15 +481,15 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "If the enemy intends to attack, gain 7 Block.\nOtherwise, gain [E] and draw 1 card next turn."
+      "description": "If the enemy intends to attack, gain 6 Block.\nOtherwise, gain [E] and draw 1 card next turn."
     },
     {
       "name": "Chart Project+",
       "color": "Thort_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "0",
-      "description": "If the enemy intends to attack, gain 7 Block.\nOtherwise, gain [E] and draw 1 card next turn."
+      "cost": "1",
+      "description": "Draw 1 card.\nIf the enemy intends to attack, gain 6 Block.\nOtherwise, gain [E] and draw 1 card next turn."
     },
     {
       "name": "Coin Clash",
@@ -513,7 +513,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 8 Gold.\nGain 16 Block.\nExhaust."
+      "description": "Gain 7 Gold.\nGain 14 Block.\nExhaust."
     },
     {
       "name": "Coin Shield+",
@@ -521,7 +521,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 10 Gold.\nGain 20 Block.\nExhaust."
+      "description": "Gain 9 Gold.\nGain 18 Block.\nExhaust."
     },
     {
       "name": "Crash",
@@ -689,15 +689,15 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Heal 3 HP.\nAdd a thethorton:Business_Card into your hand.\nExhaust."
+      "description": "Heal 3 HP.\nShuffle 1 thethorton:Business_Card into your draw pile.\nExhaust."
     },
     {
       "name": "Lunch Break+",
       "color": "Thort_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "0",
-      "description": "Heal 3 HP.\nAdd a thethorton:Business_Card into your hand.\nExhaust."
+      "cost": "1",
+      "description": "Heal 4 HP.\nAdd 1 thethorton:Business_Card into your hand.\nExhaust."
     },
     {
       "name": "Perplexing Power",
@@ -721,15 +721,15 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 1 Strength at the start of the next combat.\nExhaust."
+      "description": "Choose an effect to start the next combat with.\nExhaust."
     },
     {
       "name": "Plan Ahead+",
       "color": "Thort_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "2",
-      "description": "Gain 1 Strength and [E] at the start of the next combat.\nExhaust."
+      "cost": "1",
+      "description": "Choose an effect to start the next combat with.\nExhaust."
     },
     {
       "name": "Promotion",
@@ -780,22 +780,6 @@
       "description": "Gain 1 Strength.\nALL enemies lose 1 Strength.\nExhaustive !stslib:ex!."
     },
     {
-      "name": "Rich Run",
-      "color": "Thort_gray_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "1",
-      "description": "Gain 10 Gold.\nthethorton:Run.\nExhaust."
-    },
-    {
-      "name": "Rich Run+",
-      "color": "Thort_gray_color",
-      "rarity": "Uncommon",
-      "type": "Skill",
-      "cost": "0",
-      "description": "Gain 10 Gold.\nthethorton:Run.\nExhaust."
-    },
-    {
       "name": "Run Run",
       "color": "Thort_gray_color",
       "rarity": "Uncommon",
@@ -810,6 +794,22 @@
       "type": "Skill",
       "cost": "0",
       "description": "thethorton:Run.\nthethorton:Run."
+    },
+    {
+      "name": "Running Business",
+      "color": "Thort_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 10 Gold.\nthethorton:Run.\nExhaust."
+    },
+    {
+      "name": "Running Business+",
+      "color": "Thort_gray_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 10 Gold.\nthethorton:Run.\nExhaust."
     },
     {
       "name": "Running Feint",
@@ -865,7 +865,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage to a random enemy.\nDeal 7 damage to a random enemy at the start of the next combat.\nExhaust."
+      "description": "Deal 7 damage.\nDeal 7 damage to a random enemy at the start of the next combat.\nExhaust."
     },
     {
       "name": "Stamp Smack+",
@@ -873,7 +873,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage to a random enemy.\nDeal 9 damage to a random enemy at the start of the next combat.\nExhaust."
+      "description": "Deal 9 damage.\nDeal 9 damage to a random enemy at the start of the next combat.\nExhaust."
     },
     {
       "name": "Thick Skin",
@@ -945,7 +945,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 4 damage.\nHeal HP equal to unblocked damage.\nExhaust."
+      "description": "Deal 3 damage.\nHeal HP equal to unblocked damage.\nExhaust."
     },
     {
       "name": "Blood Debt+",
@@ -953,14 +953,14 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 4 damage.\nHeal HP equal to unblocked damage.\nExhaust."
+      "description": "Deal 3 damage.\nHeal HP equal to unblocked damage.\nExhaust."
     },
     {
       "name": "Boss Rush",
       "color": "Thort_gray_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "2",
+      "cost": "1",
       "description": "Enemy becomes a random Boss."
     },
     {
@@ -968,7 +968,7 @@
       "color": "Thort_gray_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "1",
+      "cost": "0",
       "description": "Enemy becomes a random Boss."
     },
     {
@@ -992,7 +992,7 @@
       "color": "Thort_gray_color",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "2",
+      "cost": "1",
       "description": "Gain 1 Intangible."
     },
     {
@@ -1000,7 +1000,7 @@
       "color": "Thort_gray_color",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "1",
+      "cost": "0",
       "description": "Gain 1 Intangible."
     },
     {
@@ -1009,7 +1009,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Exhaust.\nChoose 1:\nDouble this card's Gold permanently.\nGain 1 Gold and remove this card from your deck permanently."
+      "description": "Exhaust.\nChoose 1:\nDouble this card's Gold permanently.\nGain 2 Gold and remove this card from your deck permanently."
     },
     {
       "name": "Compound Interest+",
@@ -1017,7 +1017,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Exhaust.\nChoose 1:\nDouble this card's Gold permanently.\nGain 1 Gold and remove this card from your deck permanently."
+      "description": "Exhaust.\nChoose 1:\nDouble this card's Gold permanently.\nGain 2 Gold and remove this card from your deck permanently."
     },
     {
       "name": "Coward Form",
@@ -1089,7 +1089,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "33% chance to escape a non-boss combat. Receive no rewards.\nExhaustive !stslib:ex!."
+      "description": "33% chance to escape a non-boss combat.\nReceive no rewards.\nExhaustive !stslib:ex!."
     },
     {
       "name": "Escape!+",
@@ -1169,7 +1169,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Enemy becomes a Hexaghost.\nExhaust."
+      "description": "Starts combat in your discard pile.\nEnemy becomes a Hexaghost.\nExhaust."
     },
     {
       "name": "Hexaghostify+",
@@ -1177,7 +1177,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "ALL enemies become Hexaghosts.\nExhaust."
+      "description": "Starts combat in your discard pile.\nALL enemies become Hexaghosts.\nExhaust."
     },
     {
       "name": "Penny Toss",
@@ -1185,7 +1185,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 9 Gold.\nGain 9 Block.\nDeal 9 damage.\nExhaustive !stslib:ex!."
+      "description": "Gain 11 Gold.\nGain 11 Block.\nDeal 11 damage.\nExhaust."
     },
     {
       "name": "Penny Toss+",
@@ -1193,7 +1193,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "0",
-      "description": "Gain 9 Gold.\nGain 9 Block.\nDeal 9 damage.\nExhaustive !stslib:ex!."
+      "description": "Gain 11 Gold.\nGain 11 Block.\nDeal 11 damage.\nExhaust."
     },
     {
       "name": "Portfolio",
@@ -1217,14 +1217,14 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "At the start of your turn, gain 1 Strength and draw 1 additional card."
+      "description": "At the start of your turn, gain 1 Strength."
     },
     {
       "name": "Scaling Is Win+",
       "color": "Thort_gray_color",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "1",
+      "cost": "2",
       "description": "At the start of your turn, gain 1 Strength and draw 1 additional card."
     },
     {
@@ -1233,7 +1233,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Ethereal.\nAdd a copy of a card in your hand to your deck permanently.\nExhaust."
+      "description": "Ethereal.\nAdd 1 copy of a card in your hand to your deck permanently.\nExhaust."
     },
     {
       "name": "Sell Short+",
@@ -1241,7 +1241,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nAdd a copy of a card in your hand to your deck permanently.\nExhaust."
+      "description": "Ethereal.\nAdd 1 copy of a card in your hand to your deck permanently.\nExhaust."
     },
     {
       "name": "Shifting Octopus",
@@ -1265,7 +1265,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a random card from any color into your hand.\nDraw 1 card.\nExhaust."
+      "description": "Add 1 random card from any color into your hand.\nDraw 1 card.\nExhaust."
     },
     {
       "name": "Summon Profits+",
@@ -1273,7 +1273,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a random card from any color into your hand.\nDraw 1 card.\nThey cost 0 until played.\nExhaust."
+      "description": "Add 1 random card from any color into your hand.\nDraw 1 card.\nThey cost 0 until played.\nExhaust."
     },
     {
       "name": "Temporal Blast",
@@ -1331,13 +1331,6 @@
       "flavorText": "Dad gave this to me."
     },
     {
-      "name": "Broken Calculator",
-      "tier": "Rare",
-      "pool": "",
-      "description": "At the start of each combat, play a random Thorton card.",
-      "flavorText": "So what if the math's in my favor?"
-    },
-    {
       "name": "Helm of Sprinting",
       "tier": "Rare",
       "pool": "Thort_gray_color",
@@ -1364,6 +1357,20 @@
       "pool": "",
       "description": "Gain 50% more Gold from all sources.",
       "flavorText": "I just can't help myself."
+    },
+    {
+      "name": "Necklace of Time",
+      "tier": "Boss",
+      "pool": "Thort_gray_color",
+      "description": "Replaces Potion of Courage.\nA copy of the first card you play from your hand each combat is played at the start of the next combat.",
+      "flavorText": "Your secret powers, revealed!"
+    },
+    {
+      "name": "Broken Calculator",
+      "tier": "Shop",
+      "pool": "",
+      "description": "At the start of each combat, play a random Thorton card.",
+      "flavorText": "So what if the math's in my favor?"
     },
     {
       "name": "Resume",

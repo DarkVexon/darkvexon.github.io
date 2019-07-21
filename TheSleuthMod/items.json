@@ -1,7 +1,7 @@
 {
   "mod": {
     "name": "The Problem Sleuth",
-    "version": "1.0",
+    "version": "1.6",
     "authors": ["Vex'd and Spleen"],
     "credits": "",
     "description": "buncha weird puzzle shit",
@@ -25,7 +25,7 @@
       "rarity": "Curse",
       "type": "Curse",
       "cost": "",
-      "description": "Unplayable.\nWhenever a card Purges, move this to the top of your draw pile from anywhere."
+      "description": "Unplayable.\nWhenever a card Purges, Topdeck this."
     },
     {
       "name": "Morthol Dryax",
@@ -65,7 +65,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "1",
-      "description": "Pulchritude 5.\nGain 7 Block.\nDeal 7 damage.\nExhaust a card in your hand."
+      "description": "Gain 7 Block.\nDeal 7 damage.\nExhaust a card in your hand."
     },
     {
       "name": "Diplomacy+",
@@ -73,7 +73,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "1",
-      "description": "Pulchritude 5.\nGain 9 Block.\nDeal 9 damage.\nExhaust a card in your hand."
+      "description": "Gain 9 Block.\nDeal 9 damage.\nExhaust a card in your hand."
     },
     {
       "name": "Strike",
@@ -129,7 +129,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 15 damage.\nPut a copy of this card on top of your draw pile.\nExhaust."
+      "description": "Deal 12 damage.\nTopdeck a copy of this.\nExhaust."
     },
     {
       "name": "Moustache Fire+",
@@ -137,7 +137,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 20 damage.\nPut a copy of this card on top of your draw pile.\nExhaust."
+      "description": "Deal 16 damage.\nTopdeck a copy of this.\nExhaust."
     },
     {
       "name": "Belly O' The Whale",
@@ -145,7 +145,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 10.\nDeal 10 damage.\nExhaust a card in your discard pile."
+      "description": "Deal 10 damage.\nExhaust a card in your discard pile."
     },
     {
       "name": "Belly O' The Whale+",
@@ -153,7 +153,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 10.\nDeal 13 damage.\nExhaust a card in your discard pile."
+      "description": "Deal 13 damage.\nExhaust a card in your discard pile."
     },
     {
       "name": "Ben Stiller Bust",
@@ -161,7 +161,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Retain.\nDeal 4 damage.\nIf this card enters your discard or exhaust pile, deal 6 damage to ALL enemies."
+      "description": "Retain.\nDeal 4 damage.\nDrop: deal 6 damage to ALL enemies."
     },
     {
       "name": "Ben Stiller Bust+",
@@ -169,7 +169,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Retain.\nDeal 5 damage.\nIf this card enters your discard or exhaust pile, deal 7 damage to ALL enemies."
+      "description": "Retain.\nDeal 5 damage.\nDrop: deal 7 damage to ALL enemies."
     },
     {
       "name": "Candy Corn",
@@ -193,7 +193,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Pulchritude 11.\nDeal 11 damage.\nDiscard the top card of your draw pile."
+      "description": "Deal 11 damage.\nMill 1."
     },
     {
       "name": "Charisma Blast+",
@@ -201,7 +201,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Pulchritude 11.\nDeal 14 damage.\nDiscard the top card of your draw pile."
+      "description": "Deal 14 damage.\nMill 1."
     },
     {
       "name": "Fortify",
@@ -209,7 +209,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 3 Temp._Imagination.\nGain 5 Block.\nPut a card from your hand on top of your draw pile."
+      "description": "Gain 3 Temp._Imagination.\nGain 5 Block.\nTopdeck 1 card from your hand."
     },
     {
       "name": "Fortify+",
@@ -217,7 +217,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Temp._Imagination.\nGain 7 Block.\nPut a card from your hand on top of your draw pile."
+      "description": "Gain 4 Temp._Imagination.\nGain 7 Block.\nTopdeck 1 card from your hand."
     },
     {
       "name": "Ignore",
@@ -225,7 +225,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 5.\nGain 6 Temporary_HP.\nPut a Mural on top of your draw pile."
+      "description": "Gain 6 Temporary_HP.\nTopdeck 1 Mural."
     },
     {
       "name": "Ignore+",
@@ -233,7 +233,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 5.\nGain 7 Temporary_HP.\nAdd a Mural into your hand."
+      "description": "Gain 7 Temporary_HP.\nAdd 1 Mural into your hand."
     },
     {
       "name": "Moonshine",
@@ -241,7 +241,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 5.\nGain 1 Imagination.\nGive a card in your hand Retain this combat.\nPurge."
+      "description": "Gain 1 Imagination.\nGive a card in your hand Retain this combat.\nPurge."
     },
     {
       "name": "Moonshine+",
@@ -249,7 +249,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Imagination 5.\nGain 1 Imagination.\nGive a card in your hand Retain this combat.\nPurge."
+      "description": "Gain 1 Imagination.\nGive a card in your hand Retain this combat.\nPurge."
     },
     {
       "name": "Ogle",
@@ -257,7 +257,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Imagination 5.\nDeal 7 damage.\nShift the enemy's intent ahead 1 turn.\nExhaust."
+      "description": "IDeal 7 damage.\nShift the enemy's intent ahead 1 turn.\nExhaust."
     },
     {
       "name": "Ogle+",
@@ -265,7 +265,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Retain.\nImagination 5.\nDeal 8 damage.\nShift the enemy's intent ahead 1 turn.\nExhaust."
+      "description": "Retain.\nDeal 8 damage.\nShift the enemy's intent ahead 1 turn.\nExhaust."
     },
     {
       "name": "Pepperminthryl",
@@ -273,7 +273,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "ALWAYS costs 1.\nImagination 11.\nGain 11 Block."
+      "description": "ALWAYS costs 1.\nGain 11 Block."
     },
     {
       "name": "Pepperminthryl+",
@@ -281,7 +281,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "ALWAYS costs 1.\nImagination 11.\nGain 14 Block."
+      "description": "ALWAYS costs 1.\nGain 14 Block."
     },
     {
       "name": "Pez Uzi",
@@ -289,7 +289,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Imagination 3.\nDeal 8 damage to ALL enemies.\nGain 1 Temp._Imagination."
+      "description": "Deal 8 damage to ALL enemies.\nGain 1 Temp._Imagination."
     },
     {
       "name": "Pez Uzi+",
@@ -297,7 +297,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Imagination 3.\nDeal 11 damage to ALL enemies.\nGain 2 Temp._Imagination."
+      "description": "Deal 11 damage to ALL enemies.\nGain 2 Temp._Imagination."
     },
     {
       "name": "Taze",
@@ -305,7 +305,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage.\nApply 1 Weak.\nPut a card from your draw pile on top of your draw pile."
+      "description": "Deal 7 damage.\nApply 1 Weak.\nTopdeck a card from your draw pile."
     },
     {
       "name": "Taze+",
@@ -313,7 +313,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\nApply 1 Weak.\nPut a card from your draw pile on top of your draw pile."
+      "description": "Deal 10 damage.\nApply 1 Weak.\nTopdeck a card from your draw pile."
     },
     {
       "name": "Think Ahead",
@@ -321,7 +321,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 5.\nPlay the top card of your draw pile."
+      "description": "Play the top card of your draw pile."
     },
     {
       "name": "Think Ahead+",
@@ -329,7 +329,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Imagination 5.\nPlay the top card of your draw pile."
+      "description": "Play the top card of your draw pile."
     },
     {
       "name": "Tootsie Shotgun",
@@ -337,7 +337,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 3.\nDeal 5 damage twice.\nDamage is increased by Auto-Parry as well as Strength."
+      "description": "Deal 5 damage twice.\nDamage is increased by Auto-Parry stacks."
     },
     {
       "name": "Tootsie Shotgun+",
@@ -345,7 +345,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 3.\nDeal 7 damage twice.\nDamage is increased by Auto-Parry as well as Strength."
+      "description": "Deal 7 damage twice.\nDamage is increased by Auto-Parry stacks."
     },
     {
       "name": "Truffle Shuffle",
@@ -353,7 +353,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 1.\nGain 1 Auto-Parry.\nDeal 9 damage. \nPurge."
+      "description": "Gain 1 Auto-Parry.\nDeal 9 damage. \nPurge."
     },
     {
       "name": "Truffle Shuffle+",
@@ -361,7 +361,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 1.\nGain 1 Auto-Parry.\nDeal 12 damage. \nPurge."
+      "description": "Gain 1 Auto-Parry.\nDeal 12 damage. \nPurge."
     },
     {
       "name": "Unscale",
@@ -369,7 +369,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Pulchritude 5.\nYou and ALL enemies lose 4 Strength this turn."
+      "description": "You and ALL enemies lose 3 Strength this turn."
     },
     {
       "name": "Unscale+",
@@ -377,7 +377,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nPulchritude 5.\nYou and ALL enemies lose 4 Strength this turn."
+      "description": "Retain.\nYou and ALL enemies lose 3 Strength this turn."
     },
     {
       "name": "Victory Pose",
@@ -401,7 +401,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Retain.\nIf this card enters your discard or exhaust pile, gain 6 Block."
+      "description": "Retain.\nDrop: gain 6 Block."
     },
     {
       "name": "Wilson Bust+",
@@ -409,7 +409,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Retain.\nIf this card enters your discard or exhaust pile, gain 9 Block."
+      "description": "Retain.\nDrop: gain 9 Block."
     },
     {
       "name": "Appropriate",
@@ -433,7 +433,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Vim 10.\nDeal 9 damage.\nGain 9 Temporary_HP.\nExhaust."
+      "description": "Deal 9 damage.\nGain 9 Temporary_HP.\nExhaust."
     },
     {
       "name": "Bite Hardly+",
@@ -441,7 +441,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Vim 10.\nDeal 12 damage.\nGain 12 Temporary_HP.\nExhaust."
+      "description": "Deal 12 damage.\nGain 12 Temporary_HP.\nExhaust."
     },
     {
       "name": "Candy Cane",
@@ -449,7 +449,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Imagination 6.\nDeal 7 damage.\nGain 2 Temp._Imagination."
+      "description": "Deal 7 damage.\nGain 2 Temp._Imagination."
     },
     {
       "name": "Candy Cane+",
@@ -457,7 +457,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Imagination 6.\nDeal 10 damage.\nGain 3 Temp._Imagination."
+      "description": "Deal 10 damage.\nGain 3 Temp._Imagination."
     },
     {
       "name": "Candy Leather",
@@ -465,7 +465,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 9.\nGain 5 Block.\nReturn an Imagination card from your discard pile to your hand.\nEthereal."
+      "description": "Gain 5 Block.\nReturn an Imagination card from your discard pile to your hand."
     },
     {
       "name": "Candy Leather+",
@@ -473,23 +473,23 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 9.\nGain 8 Block.\nReturn an Imagination card from your discard pile to your hand.\nEthereal."
+      "description": "Gain 8 Block.\nReturn an Imagination card from your discard pile to your hand."
     },
     {
-      "name": "Club Club Club",
+      "name": "Club Club",
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 4 damage to ALL enemies 3 times.\nDiscard 1 card.\nLose 1 of your highest stat."
+      "description": "Deal 6 damage to ALL enemies twice.\nLose 1 of your highest stat."
     },
     {
-      "name": "Club Club Club+",
+      "name": "Club Club+",
       "color": "Sleuth_gray_color",
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage to ALL enemies 3 times.\nDiscard 1 card.\nLose 1 of your highest stat."
+      "description": "Deal 8 damage to ALL enemies twice.\nLose 1 of your highest stat."
     },
     {
       "name": "Deprogram",
@@ -513,7 +513,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 14 Block.\nLose 1 of your highest stat."
+      "description": "Gain 14 Block.\nDiscard 1 card.\nLose 1 of your highest stat."
     },
     {
       "name": "Diamond Armor+",
@@ -521,7 +521,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 17 Block.\nLose 1 of your highest stat."
+      "description": "Gain 17 Block.\nDiscard 1 card.\nLose 1 of your highest stat."
     },
     {
       "name": "Distill",
@@ -529,7 +529,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 5.\nObtain a random potion.\nGain 1 Auto-Parry.\nPurge."
+      "description": "Obtain a random potion.\nGain 1 Auto-Parry.\nPurge."
     },
     {
       "name": "Distill+",
@@ -537,7 +537,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Vim 5.\nObtain a random potion.\nGain 1 Auto-Parry.\nPurge."
+      "description": "Obtain a random potion.\nGain 1 Auto-Parry.\nPurge."
     },
     {
       "name": "Embarrass",
@@ -545,7 +545,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 5.\nApply 3 Weak.\nApply 3 Vulnerable.\nPut a Mural on top of your draw pile."
+      "description": "Apply 3 Weak.\nApply 3 Vulnerable.\nTopdeck 1 Mural."
     },
     {
       "name": "Embarrass+",
@@ -553,7 +553,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Vim 5.\nApply 3 Weak.\nApply 3 Vulnerable.\nPut a Mural on top of your draw pile."
+      "description": "Apply 3 Weak.\nApply 3 Vulnerable.\nTopdeck 1 Mural."
     },
     {
       "name": "Fair Shake",
@@ -561,7 +561,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Pulchritude 14.\nGain 10 Block.\nDeal 14 damage to ALL enemies.\nExhaust a card in your hand."
+      "description": "Gain 10 Block.\nDeal 13 damage to ALL enemies.\nExhaust a card in your hand."
     },
     {
       "name": "Fair Shake+",
@@ -569,7 +569,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Pulchritude 14.\nGain 13 Block.\nDeal 18 damage to ALL enemies.\nExhaust a card in your hand."
+      "description": "Gain 13 Block.\nDeal 16 damage to ALL enemies.\nExhaust a card in your hand."
     },
     {
       "name": "Fool Plate",
@@ -577,7 +577,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Vim 5.\nDiscard your hand.\nGain 2 Temporary_HP for each card discarded.\nExhaust."
+      "description": "Discard your hand.\nGain 2 Temporary_HP for each card.\nExhaust."
     },
     {
       "name": "Fool Plate+",
@@ -585,7 +585,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 5.\nDiscard your hand.\nGain 2 Temporary_HP for each card discarded.\nExhaust."
+      "description": "Discard your hand.\nGain 2 Temporary_HP for each card.\nExhaust."
     },
     {
       "name": "Force Deck",
@@ -593,7 +593,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Imagination 9.\nAt the start of your turn, draw 1 card and put 1 card from your hand on top of your draw pile."
+      "description": "At the start of your turn, draw 1 card and Topdeck 1 card from your hand."
     },
     {
       "name": "Force Deck+",
@@ -601,7 +601,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "0",
-      "description": "Imagination 9.\nAt the start of your turn, draw 1 card and put 1 card from your hand on top of your draw pile."
+      "description": "At the start of your turn, draw 1 card and Topdeck 1 card from your hand."
     },
     {
       "name": "Fortune",
@@ -625,7 +625,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Vim 1.\nWhenever you draw this card, add a copy of it into your hand.\nGain 3 Block.\nExhaust."
+      "description": "Whenever you draw this card, add a copy of it into your hand.\nGain 3 Block.\nExhaust."
     },
     {
       "name": "Frijolaegis+",
@@ -633,7 +633,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Vim 1.\nWhenever you draw this card, add a copy of it into your hand.\nGain 4 Block.\nExhaust."
+      "description": "Whenever you draw this card, add a copy of it into your hand.\nGain 4 Block.\nExhaust."
     },
     {
       "name": "Fudge Deck",
@@ -641,7 +641,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Pulchritude 9.\nAt the start of your turn, draw 1 card and discard 1 card."
+      "description": "At the start of your turn, draw 1 card and discard 1 card."
     },
     {
       "name": "Fudge Deck+",
@@ -649,7 +649,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "0",
-      "description": "Pulchritude 9.\nAt the start of your turn, draw 1 card and discard 1 card."
+      "description": "At the start of your turn, draw 1 card and discard 1 card."
     },
     {
       "name": "Hand Cannon",
@@ -705,7 +705,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Retain.\nIf this card enters your discard or exhaust pile, gain [E] ."
+      "description": "Retain.\nDrop: Gain [E] ."
     },
     {
       "name": "Kingpin Bust+",
@@ -713,7 +713,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nIf this card enters your discard or exhaust pile, gain [E] ."
+      "description": "Retain.\nDrop: Gain [E] ."
     },
     {
       "name": "Leer",
@@ -721,7 +721,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Imagination 10.\nRemove all Block from the enemy.\nDeal 3 damage 3 times.\nApply 1 Vulnerable."
+      "description": "Remove all Block from the enemy.\nDeal 3 damage 3 times.\nApply 1 Vulnerable."
     },
     {
       "name": "Leer+",
@@ -729,7 +729,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Imagination 10.\nRemove all Block from ALL enemies.\nDeal 3 damage 3 times.\nApply 2 Vulnerable."
+      "description": "Remove all Block from ALL enemies.\nDeal 3 damage 3 times.\nApply 2 Vulnerable."
     },
     {
       "name": "Opportunity Cost",
@@ -753,7 +753,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Vim 5.\nGain 1 Artifact.\nGain !sleuthSecondMagic! Thorns.\nGain 1 Auto-Parry."
+      "description": "Gain 1 Artifact.\nGain !sleuthSecondMagic! Thorns.\nGain 1 Auto-Parry."
     },
     {
       "name": "Parry+",
@@ -761,7 +761,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Vim 5.\nGain 2 Artifact.\nGain !sleuthSecondMagic! Thorns.\nGain 1 Auto-Parry."
+      "description": "Gain 2 Artifact.\nGain !sleuthSecondMagic! Thorns.\nGain 1 Auto-Parry."
     },
     {
       "name": "Retain Return",
@@ -769,7 +769,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Pulchritude 9.\nReturn all cards with Retain from your discard pile to your hand.\nAt the end of your turn, discard all cards with Retain."
+      "description": "Add all cards with Retain from your discard pile to your hand.\nAt the end of your turn, discard your hand."
     },
     {
       "name": "Retain Return+",
@@ -777,7 +777,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Pulchritude 9.\nReturn all cards with Retain from your discard pile to your hand.\nAt the end of your turn, discard all cards with Retain."
+      "description": "Add all cards with Retain from your discard pile to your hand.\nAt the end of your turn, discard your hand."
     },
     {
       "name": "Retrieve Arms",
@@ -801,7 +801,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Retain.\nIf this card enters your discard or exhaust pile, apply 1 Weak and 1 Vulnerable to ALL enemies."
+      "description": "Retain.\nDrop: Apply 1 Weak and 1 Vulnerable to ALL enemies."
     },
     {
       "name": "Snoop Dogg Bust+",
@@ -809,7 +809,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Retain.\nIf this card enters your discard or exhaust pile, apply 2 Weak and 1 Vulnerable to ALL enemies."
+      "description": "Retain.\nDrop: Apply 2 Weak and 1 Vulnerable to ALL enemies."
     },
     {
       "name": "Spade Dig",
@@ -817,7 +817,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Put 1 card from your draw pile into your hand.\nPut a card from your discard pile on top of your draw pile.\nLose 1 of your highest stat."
+      "description": "Put 1 card from your draw pile into your hand.\nTopdeck a card from your discard pile.\nLose 1 of your highest stat."
     },
     {
       "name": "Spade Dig+",
@@ -825,7 +825,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Put 1 card from your draw pile into your hand.\nPut a card from your discard pile on top of your draw pile.\nLose 1 of your highest stat."
+      "description": "Put 1 card from your draw pile into your hand.\nTopdeck a card from your discard pile.\nLose 1 of your highest stat."
     },
     {
       "name": "Throw Hat",
@@ -833,7 +833,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "X",
-      "description": "Pulchritude 5.\nGain 6 Block X times.\nDiscard the top X cards of your draw pile."
+      "description": "Gain 6 Block X times.\nMill X."
     },
     {
       "name": "Throw Hat+",
@@ -841,7 +841,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "X",
-      "description": "Pulchritude 5.\nGain 6 Block X+1 times.\nDiscard the top X+1 cards of your draw pile."
+      "description": "Gain 6 Block X+1 times.\nMill X+1."
     },
     {
       "name": "Tommygun/Keyring",
@@ -865,7 +865,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Vim 9.\nPlay a card in your discard pile and Exhaust it."
+      "description": "Play a card in your discard pile and Exhaust it."
     },
     {
       "name": "Torso Flail+",
@@ -873,7 +873,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Vim 9.\nPlay a card in your discard pile and Exhaust it."
+      "description": "Play a card in your discard pile and Exhaust it."
     },
     {
       "name": "Treaty",
@@ -881,7 +881,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nPulchritude 10.\nYou and the enemy cannot gain buffs for 1 turn."
+      "description": "Retain.\nYou and the enemy cannot gain buffs for 1 turn."
     },
     {
       "name": "Treaty+",
@@ -889,7 +889,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nPulchritude 10.\nYou and ALL enemies cannot gain buffs for 1 turn."
+      "description": "Retain.\nYou and ALL enemies cannot gain buffs for 1 turn."
     },
     {
       "name": "Triple Scuffle",
@@ -897,7 +897,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 10.\nDeal 8 damage.\nDraw 2 cards.\nDiscard all cards drawn this way with Retain."
+      "description": "Deal 8 damage.\nDraw 2 cards.\nDiscard all cards drawn this way with Retain."
     },
     {
       "name": "Triple Scuffle+",
@@ -905,7 +905,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 10.\nDeal 10 damage.\nDraw 3 cards.\nDiscard all cards drawn this way with Retain."
+      "description": "Deal 10 damage.\nDraw 3 cards.\nDiscard all cards drawn this way with Retain."
     },
     {
       "name": "Truffle Trouble",
@@ -913,7 +913,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "5",
-      "description": "Vim 10.\nCosts 1 less [E] for each time you play a Vim card this combat.\nDeal 21 damage."
+      "description": "Costs 1 less for each Vim card played this combat.\nDeal 21 damage."
     },
     {
       "name": "Truffle Trouble+",
@@ -921,7 +921,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "4",
-      "description": "Vim 10.\nCosts 1 less [E] for each time you play a Vim card this combat.\nDeal 24 damage."
+      "description": "Costs 1 less for each Vim card played this combat.\nDeal 24 damage."
     },
     {
       "name": "Un-De-Escalate",
@@ -929,7 +929,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nPulchritude 10.\nYou and ALL enemies lose 1 stack of all debuffs."
+      "description": "Retain.\nYou and ALL enemies lose 1 stack of all debuffs."
     },
     {
       "name": "Un-De-Escalate+",
@@ -937,7 +937,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nPulchritude 10.\nYou lose 1 stack of all debuffs."
+      "description": "Retain.\nYou lose 1 stack of all debuffs."
     },
     {
       "name": "Weigh In",
@@ -953,7 +953,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Innate.\nApply 3 Weak and !sleuthSecondMagic! Vulnerable to ALL enemies.\nExhaust."
+      "description": "Innate.\nApply 2 Weak and !sleuthSecondMagic! Vulnerable to ALL enemies.\nExhaust."
     },
     {
       "name": "Wizard's Sudoku",
@@ -961,7 +961,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 9.\nDraw 1 card.\nIt costs 0 until played."
+      "description": "Draw 1 card.\nIt costs 0 until played."
     },
     {
       "name": "Wizard's Sudoku+",
@@ -969,7 +969,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Imagination 9.\nDraw 1 card and give it Retain this combat.\nIt costs 0 until played."
+      "description": "Draw 1 card and give it Retain this combat.\nIt costs 0 until played."
     },
     {
       "name": "Brass Tacks",
@@ -977,7 +977,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Pulchritude 15.\nDeal 16 damage to ALL enemies.\nDiscard your hand, then draw that many cards."
+      "description": "Deal 15 damage to ALL enemies.\nDiscard your hand, then draw that many cards."
     },
     {
       "name": "Brass Tacks+",
@@ -985,7 +985,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Pulchritude 15.\nDeal 20 damage to ALL enemies.\nDiscard your hand, then draw that many cards."
+      "description": "Deal 18 damage to ALL enemies.\nDiscard your hand, then draw that many cards."
     },
     {
       "name": "Candid Bullets",
@@ -993,7 +993,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Imagination 5.\nGain 3 Strength.\nAt the end of your turn, lose 1 Imagination."
+      "description": "Gain 3 Strength.\nAt the end of your turn, lose 1 Imagination."
     },
     {
       "name": "Candid Bullets+",
@@ -1001,7 +1001,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "0",
-      "description": "Imagination 5.\nGain 3 Strength.\nAt the end of your turn, lose 1 Imagination."
+      "description": "Gain 3 Strength.\nAt the end of your turn, lose 1 Imagination."
     },
     {
       "name": "Candy Mech",
@@ -1009,7 +1009,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Imagination !sleuthSecondMagic!.\nGain 16 Block.\nDeal 16 damage.\nLose 3 Imagination."
+      "description": "Gain 16 Block.\nDeal 16 damage.\nLose 3 Imagination."
     },
     {
       "name": "Candy Mech+",
@@ -1017,7 +1017,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Imagination !sleuthSecondMagic!.\nGain 16 Block.\nDeal 16 damage.\nLose 2 Imagination."
+      "description": "Gain 16 Block.\nDeal 16 damage.\nLose 2 Imagination."
     },
     {
       "name": "Candycorn Vampire",
@@ -1025,7 +1025,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Pulchritude 15.\nImagination 15.\nGain !sleuthSecondMagic! Dexterity.\nGain 3 Malleable."
+      "description": " Gain !sleuthSecondMagic! Dexterity.\nGain 3 Malleable."
     },
     {
       "name": "Candycorn Vampire+",
@@ -1033,7 +1033,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Pulchritude 15.\nImagination 15.\nGain !sleuthSecondMagic! Dexterity.\nGain 6 Malleable."
+      "description": " Gain !sleuthSecondMagic! Dexterity.\nGain 6 Malleable."
     },
     {
       "name": "Conjure",
@@ -1041,7 +1041,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 6. Imagination 12.\nChoose 2:   Deal 8 damage. Gain 8 Block. Apply 2 Weak. Apply 2 Vulnerable."
+      "description": "Choose 2: Deal 6 damage. Apply 2 Weak. Apply 2 Vulnerable."
     },
     {
       "name": "Conjure+",
@@ -1049,7 +1049,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Vim 6. Imagination 12.\nChoose 3:   Deal 8 damage. Gain 8 Block. Apply 2 Weak. Apply 2 Vulnerable."
+      "description": "Choose 3: Deal 6 damage. Apply 2 Weak. Apply 2 Vulnerable."
     },
     {
       "name": "Diabeatdown",
@@ -1057,7 +1057,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Vim 15.\nDeal 24 damage to the enemy with the least HP. If this kills an enemy, repeat it."
+      "description": "Deal 24 damage to the enemy with the least HP. If this kills an enemy, repeat it."
     },
     {
       "name": "Diabeatdown+",
@@ -1065,7 +1065,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Vim 15.\nDeal 30 damage to the enemy with the least HP. If this kills an enemy, repeat it."
+      "description": "Deal 30 damage to the enemy with the least HP. If this kills an enemy, repeat it."
     },
     {
       "name": "Gummy Zombie",
@@ -1073,7 +1073,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Pulchritude 15.\nVim 15.\nAt the end of your turn, gain 1 Temporary_HP for each card in your hand."
+      "description": "At the end of your turn, gain 1 Temporary_HP for each card in your hand."
     },
     {
       "name": "Gummy Zombie+",
@@ -1081,7 +1081,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Pulchritude 15.\nVim 15.\nAt the end of your turn, gain 1 Temporary_HP for each card in your hand."
+      "description": "At the end of your turn, gain 1 Temporary_HP for each card in your hand."
     },
     {
       "name": "Hero Bust",
@@ -1089,7 +1089,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Retain.\nIf this card enters your discard or exhaust pile, prevent the next time you would lose HP."
+      "description": "Retain.\nDrop: Prevent the next time you would lose HP."
     },
     {
       "name": "Hero Bust+",
@@ -1097,7 +1097,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Retain.\nIf this card enters your discard or exhaust pile, prevent the next time you would lose HP."
+      "description": "Retain.\nDrop: Prevent the next time you would lose HP."
     },
     {
       "name": "Hit the Mattresses",
@@ -1113,7 +1113,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Pulchritude 10.\nVim 10.\nImagination 10.\nDeal damage equal to your combined stats.\nExhaust."
+      "description": "Deal damage equal to your combined stats.\nExhaust."
     },
     {
       "name": "Leverage Height",
@@ -1121,7 +1121,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Pulchritude 12.\nDeal 12 damage.\nDiscard 1 card.\nDraw 1 card."
+      "description": "Deal 12 damage.\nDiscard 1 card.\nDraw 1 card."
     },
     {
       "name": "Leverage Height+",
@@ -1129,7 +1129,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Pulchritude 12.\nDeal 15 damage.\nDiscard 2 cards.\nDraw 2 cards."
+      "description": "Deal 15 damage.\nDiscard 2 cards.\nDraw 2 cards."
     },
     {
       "name": "Machinegun/Hairpin",
@@ -1153,7 +1153,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Vim 16.\nALL enemies become Stunned.\nPut 4 Murals on top of your draw pile."
+      "description": "ALL enemies become Stunned.\nTopdeck 4 Murals."
     },
     {
       "name": "Mob Rule+",
@@ -1161,7 +1161,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Vim 16.\nALL enemies become Stunned.\nPut 3 Murals on top of your draw pile."
+      "description": "ALL enemies become Stunned.\nTopdeck 3 Murals."
     },
     {
       "name": "Roll Boxcars",
@@ -1185,7 +1185,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Vim 5.\nGain Block equal to your Vim.\nReflect damage this turn.\nExhaust."
+      "description": "Gain Block equal to your Vim.\nReflect damage this turn.\nExhaust."
     },
     {
       "name": "Supermassive+",
@@ -1193,7 +1193,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Vim 5.\nGain Block equal to your Vim.\nReflect damage this turn.\nExhaust."
+      "description": "Gain Block equal to your Vim.\nReflect damage this turn.\nExhaust."
     },
     {
       "name": "The Zillyhammer",
@@ -1201,7 +1201,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Imagination 20.\nDeal 30 damage to ALL enemies.\nLose 5 Imagination."
+      "description": "Deal 30 damage to ALL enemies.\nLose 5 Imagination."
     },
     {
       "name": "The Zillyhammer+",
@@ -1209,15 +1209,15 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Imagination 20.\nDeal 40 damage to ALL enemies.\nLose 4 Imagination."
+      "description": "Deal 40 damage to ALL enemies.\nLose 4 Imagination."
     },
     {
       "name": "Tootsiestein",
       "color": "Sleuth_gray_color",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "0",
-      "description": "Vim 15.\nImagination 15.\nWhenever you play an Imagination card, draw 1 card."
+      "cost": "1",
+      "description": " Whenever you play an Imagination card, draw 1 card."
     },
     {
       "name": "Tootsiestein+",
@@ -1225,7 +1225,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "0",
-      "description": "Vim 15.\nImagination 15.\nWhenever you play an Imagination card, draw 2 cards."
+      "description": " Whenever you play an Imagination card, draw 1 card."
     },
     {
       "name": "Weird Puzzle Shit",
@@ -1233,7 +1233,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Pulchritude 16.\nCosts 1 more for every 2 cards in your draw pile.\nAdd a Moustache_Fire into your hand."
+      "description": "Costs 1 more for every 2 cards in your draw pile.\nAdd a Moustache_Fire into your hand."
     },
     {
       "name": "Weird Puzzle Shit+",
@@ -1241,7 +1241,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Pulchritude 16.\nCosts 1 more for every 2 cards in your draw pile.\nAdd an upgraded Moustache_Fire into your hand."
+      "description": "Costs 1 more for every 2 cards in your draw pile.\nAdd an upgraded Moustache_Fire into your hand."
     }
   ],
   "relics": [
@@ -1270,7 +1270,7 @@
       "name": "Elf Eggs",
       "tier": "Rare",
       "pool": "",
-      "description": "Whenever you Smith, increase your Max HP by 3.",
+      "description": "Whenever you enter a Rest Site, increase your Max HP by 3.",
       "flavorText": "You yearn to crack out the succulent yolk."
     },
     {
@@ -1321,20 +1321,13 @@
       "pool": "Sleuth_gray_color",
       "description": "You draw cards from the 2nd from top position of your draw pile.",
       "flavorText": "It's stuck!"
-    },
-    {
-      "name": "Sextant",
-      "tier": "Shop",
-      "pool": "",
-      "description": "You can see the contents of ? rooms.",
-      "flavorText": "Useful for sniping."
     }
   ],
   "potions": [
     {
       "name": "Demotion Potion",
       "rarity": "Uncommon",
-      "description": "Enemy cannot buff itself or debuff you."
+      "description": "Enemy cannot gain Strength above 0 or debuff you."
     }
   ],
   "creatures": [
@@ -1351,8 +1344,16 @@
       "description": "Whenever you lose HP, gain 1 Vim and lose 1 Auto-Parry."
     },
     {
+      "name": "Drop",
+      "description": "Effect activates whenever this card enters the discard or exhaust pile."
+    },
+    {
       "name": "Imagination",
       "description": "Imaginary statistic. If you have don't have enough Imagination for a card, it will cost 0, Retain, Purge, and give you 1 point of Imagination permanently instead of activating the card's effects."
+    },
+    {
+      "name": "Mill",
+      "description": "Discard an amount of cards from the top of your draw pile."
     },
     {
       "name": "Moustache fire",
@@ -1369,6 +1370,10 @@
     {
       "name": "Temp. imagination",
       "description": "Temporary Imagination disappears at the end of combat."
+    },
+    {
+      "name": "Topdeck",
+      "description": "Place on top of your draw pile."
     },
     {
       "name": "Vim",
