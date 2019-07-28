@@ -627,6 +627,13 @@
       "flavorText": "It's fucking raw!"
     },
     {
+      "name": "Namtar's Ward",
+      "tier": "Boss",
+      "pool": "",
+      "description": "When you would die, lose 50% of your Max HP, lose 1 Strength permanently, and heal to full HP instead.",
+      "flavorText": "It's said even Death could not find its holder."
+    },
+    {
       "name": "New, Clear Reactor",
       "tier": "Boss",
       "pool": "",
