@@ -14,13 +14,13 @@
 | Key/Handgun | ![](small-card-images/KeyHandgun.png) | ![](small-card-images/KeyHandgunPlus.png) | Special | Attack | 1 | If the enemy intends to attack, gain 8(11) Block. Otherwise, deal 8(11) damage. |
 | Moustache Fire | ![](small-card-images/MoustacheFire.png) | ![](small-card-images/MoustacheFirePlus.png) | Special | Attack | 0 | Deal 12(16) damage. Topdeck a copy of this. Exhaust. |
 | Belly O' The Whale | ![](small-card-images/BellyOTheWhale.png) | ![](small-card-images/BellyOTheWhalePlus.png) | Common | Attack | 1 | Deal 10(13) damage. Exhaust a card in your discard pile. |
-| Ben Stiller Bust | ![](small-card-images/BenStillerBust.png) | ![](small-card-images/BenStillerBustPlus.png) | Common | Attack | 1 | Retain. Deal 4(5) damage. Drop: deal 6(7) damage to ALL enemies. |
+| Ben Stiller Bust | ![](small-card-images/BenStillerBust.png) | ![](small-card-images/BenStillerBustPlus.png) | Common | Attack | 1 | Retain. Deal 4(5) damage. Drop: Deal 6(7) damage to ALL enemies. |
 | Candy Corn | ![](small-card-images/CandyCorn.png) | ![](small-card-images/CandyCornPlus.png) | Common | Skill |  | Unplayable. At the end of your turn, gain 3(5) Block. |
 | Charisma Blast | ![](small-card-images/CharismaBlast.png) | ![](small-card-images/CharismaBlastPlus.png) | Common | Attack | 1 | Deal 11(14) damage. Mill 1. |
 | Fortify | ![](small-card-images/Fortify.png) | ![](small-card-images/FortifyPlus.png) | Common | Skill | 1 | Gain 3(4) Temp._Imagination. Gain 5(7) Block. Topdeck 1 card from your hand. |
 | Ignore | ![](small-card-images/Ignore.png) | ![](small-card-images/IgnorePlus.png) | Common | Skill | 1 | Gain 6(7) Temporary_HP. Topdeck (Add) 1 Mural (into your hand). |
 | Moonshine | ![](small-card-images/Moonshine.png) | ![](small-card-images/MoonshinePlus.png) | Common | Skill | 1(0) | Gain 1 Imagination. Give a card in your hand Retain this combat. Purge. |
-| Ogle | ![](small-card-images/Ogle.png) | ![](small-card-images/OglePlus.png) | Common | Attack | 1 | IDeal (Retain. Deal) 7(8) damage. Shift the enemy's intent ahead 1 turn. Exhaust. |
+| Ogle | ![](small-card-images/Ogle.png) | ![](small-card-images/OglePlus.png) | Common | Attack | 1 | (Retain.)  Deal 7(8) damage. Shift the enemy's intent ahead 1 turn. Exhaust. |
 | Pepperminthryl | ![](small-card-images/Pepperminthryl.png) | ![](small-card-images/PepperminthrylPlus.png) | Common | Skill | 1 | ALWAYS costs 1. Gain 11(14) Block. |
 | Pez Uzi | ![](small-card-images/PezUzi.png) | ![](small-card-images/PezUziPlus.png) | Common | Attack | 1 | Deal 8(11) damage to ALL enemies. Gain 1(2) Temp._Imagination. |
 | Taze | ![](small-card-images/Taze.png) | ![](small-card-images/TazePlus.png) | Common | Attack | 1 | Deal 7(10) damage. Apply 1 Weak. Topdeck a card from your draw pile. |
@@ -29,7 +29,7 @@
 | Truffle Shuffle | ![](small-card-images/TruffleShuffle.png) | ![](small-card-images/TruffleShufflePlus.png) | Common | Attack | 1 | Gain 1 Auto-Parry. Deal 9(12) damage.  Purge. |
 | Unscale | ![](small-card-images/Unscale.png) | ![](small-card-images/UnscalePlus.png) | Common | Skill | 0 | (Retain.)  You and ALL enemies lose 3 Strength this turn. |
 | Victory Pose | ![](small-card-images/VictoryPose.png) | ![](small-card-images/VictoryPosePlus.png) | Common | Skill | 1 | Gain 8(10) Block. Gain 2(4) more if an enemy has been slain this combat. |
-| Wilson Bust | ![](small-card-images/WilsonBust.png) | ![](small-card-images/WilsonBustPlus.png) | Common | Skill | 1 | Retain. Drop: gain 6(9) Block. |
+| Wilson Bust | ![](small-card-images/WilsonBust.png) | ![](small-card-images/WilsonBustPlus.png) | Common | Skill | 1 | Retain. Drop: Gain 6(9) Block. |
 | Appropriate | ![](small-card-images/Appropriate.png) | ![](small-card-images/AppropriatePlus.png) | Uncommon | Skill | 1(0) | Put a card from your discard pile into your hand. Your stats are 0 this turn. Exhaust. |
 | Bite Hardly | ![](small-card-images/BiteHardly.png) | ![](small-card-images/BiteHardlyPlus.png) | Uncommon | Attack | 2 | Deal 9(12) damage. Gain 9(12) Temporary_HP. Exhaust. |
 | Candy Cane | ![](small-card-images/CandyCane.png) | ![](small-card-images/CandyCanePlus.png) | Uncommon | Attack | 0 | Deal 7(10) damage. Gain 2(3) Temp._Imagination. |
@@ -42,17 +42,17 @@
 | Fair Shake | ![](small-card-images/FairShake.png) | ![](small-card-images/FairShakePlus.png) | Uncommon | Attack | 2 | Gain 10(13) Block. Deal 13(16) damage to ALL enemies. Exhaust a card in your hand. |
 | Fool Plate | ![](small-card-images/FoolPlate.png) | ![](small-card-images/FoolPlatePlus.png) | Uncommon | Skill | 2(1) | Discard your hand. Gain 2 Temporary_HP for each card. Exhaust. |
 | Force Deck | ![](small-card-images/ForceDeck.png) | ![](small-card-images/ForceDeckPlus.png) | Uncommon | Power | 1(0) | At the start of your turn, draw 1 card and Topdeck 1 card from your hand. |
-| Fortune | ![](small-card-images/Fortune.png) | ![](small-card-images/FortunePlus.png) | Uncommon | Skill | 5 | Imagination 10. Costs 1 less for each Temp._Imagination you have. Gain 8(10) Block. Draw 1(2) cards. |
+| Fortune | ![](small-card-images/Fortune.png) | ![](small-card-images/FortunePlus.png) | Uncommon | Skill | 5 | Costs 1 less for each Temp._Imagination you have. Gain 8(10) Block. Draw 1(2) card(s). |
 | Frijolaegis | ![](small-card-images/Frijolaegis.png) | ![](small-card-images/FrijolaegisPlus.png) | Uncommon | Skill | 0 | Whenever you draw this card, add a copy of it into your hand. Gain 3(4) Block. Exhaust. |
 | Fudge Deck | ![](small-card-images/FudgeDeck.png) | ![](small-card-images/FudgeDeckPlus.png) | Uncommon | Power | 1(0) | At the start of your turn, draw 1 card and discard 1 card. |
-| Hand Cannon | ![](small-card-images/HandCannon.png) | ![](small-card-images/HandCannonPlus.png) | Uncommon | Attack | 2 | Deal 18(24) damage. Retain your hand this turn. |
+| Hand Cannon | ![](small-card-images/HandCannon.png) | ![](small-card-images/HandCannonPlus.png) | Uncommon | Attack | 2 | Deal 16(20) damage. Retain your hand this turn. |
 | Heart Stab | ![](small-card-images/HeartStab.png) | ![](small-card-images/HeartStabPlus.png) | Uncommon | Attack | 1 | Deal 10(14) damage. Apply 2 Weak. Apply 2 Vulnerable. Lose 1 of your highest stat. |
 | Joust | ![](small-card-images/Joust.png) | ![](small-card-images/JoustPlus.png) | Uncommon | Attack | 0 | Can only be played if no other cards in your hand are Attacks. Deal 8(11) damage. Apply 1 Weak. |
 | Kingpin Bust | ![](small-card-images/KingpinBust.png) | ![](small-card-images/KingpinBustPlus.png) | Uncommon | Skill | 1(0) | Retain. Drop: Gain [E] . |
 | Leer | ![](small-card-images/Leer.png) | ![](small-card-images/LeerPlus.png) | Uncommon | Attack | 1 | Remove all Block from the enemy (ALL enemies). Deal 3 damage 3 times. Apply 1(2) Vulnerable. |
 | Opportunity Cost | ![](small-card-images/OpportunityCost.png) | ![](small-card-images/OpportunityCostPlus.png) | Uncommon | Skill | 0 | Permanently upgrade a card in your hand. Lose 1 of each stat. (not Lose 1 of each stat.) Remove this card from your deck. Purge. |
 | Parry | ![](small-card-images/Parry.png) | ![](small-card-images/ParryPlus.png) | Uncommon | Power | 1 | Gain 1(2) Artifact. Gain !sleuthSecondMagic! Thorns. Gain 1 Auto-Parry. |
-| Retain Return | ![](small-card-images/RetainReturn.png) | ![](small-card-images/RetainReturnPlus.png) | Uncommon | Skill | 1(0) | Add all cards with Retain from your discard pile to your hand. At the end of your turn, discard your hand. |
+| Retain Return | ![](small-card-images/RetainReturn.png) | ![](small-card-images/RetainReturnPlus.png) | Uncommon | Skill | 1(0) | Return all cards with Retain from your discard pile to your hand. At the end of your turn, discard your hand. |
 | Retrieve Arms | ![](small-card-images/RetrieveArms.png) | ![](small-card-images/RetrieveArmsPlus.png) | Uncommon | Skill |  | Unplayable. Whenever you draw this card, add a (an upgraded) Key/Handgun into your hand. Ethereal. |
 | Snoop Dogg Bust | ![](small-card-images/SnoopDoggBust.png) | ![](small-card-images/SnoopDoggBustPlus.png) | Uncommon | Skill | 1 | Retain. Drop: Apply 1(2) Weak and 1 Vulnerable to ALL enemies. |
 | Spade Dig | ![](small-card-images/SpadeDig.png) | ![](small-card-images/SpadeDigPlus.png) | Uncommon | Skill | 1(0) | Put 1 card from your draw pile into your hand. Topdeck a card from your discard pile. Lose 1 of your highest stat. |
@@ -80,7 +80,7 @@
 | Roll Boxcars | ![](small-card-images/RollBoxcars.png) | ![](small-card-images/RollBoxcarsPlus.png) | Rare | Skill | 0 | Add any 1 of the 4 (upgraded) Midnight Cards to your hand. Exhaust. |
 | Supermassive | ![](small-card-images/Supermassive.png) | ![](small-card-images/SupermassivePlus.png) | Rare | Skill | 3(2) | Gain Block equal to your Vim. Reflect damage this turn. Exhaust. |
 | The Zillyhammer | ![](small-card-images/TheZillyhammer.png) | ![](small-card-images/TheZillyhammerPlus.png) | Rare | Attack | 2 | Deal 30(40) damage to ALL enemies. Lose 5(4) Imagination. |
-| Tootsiestein | ![](small-card-images/Tootsiestein.png) | ![](small-card-images/TootsiesteinPlus.png) | Rare | Power | 1(0) |  Whenever you play an Imagination card, draw 1 card. |
+| Tootsiestein | ![](small-card-images/Tootsiestein.png) | ![](small-card-images/TootsiesteinPlus.png) | Rare | Power | 1(0) | Whenever you play an Imagination card, draw 1 card. |
 | Weird Puzzle Shit | ![](small-card-images/WeirdPuzzleShit.png) | ![](small-card-images/WeirdPuzzleShitPlus.png) | Rare | Skill | 1 | Costs 1 more for every 2 cards in your draw pile. Add a (an upgraded) Moustache_Fire into your hand. |
 
 

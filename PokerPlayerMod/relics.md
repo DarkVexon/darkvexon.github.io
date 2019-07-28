@@ -1,0 +1,15 @@
+| Image | Name | Rarity | Color | Description | Flavor |
+| ----- | ---- | ------ | ----- | ----------- | ------ |
+| ![](relics/DeckCase.png) | Deck Case | Starter | Poker_player_gray | Each combat, the first #b6 #yStatus cards entering your deck are #yexhausted. | Having this calms you down and help you quickly recover from bad conditions. |
+| ![](relics/BottledPoker.png) | Bottled Poker | Common | Poker_player_gray | Upon pick up, choose up to #b3 Poker cards. Start each combat with these cards in your hand. | You feel nostalgic while looking at this bottle. |
+| ![](relics/Splitter.png) | Splitter | Common | Poker_player_gray | Whenever you play a Poker card #ypokerplayer:ranked #b3 or less, deal #b5 damage to ALL enemies. | The magical abilities of lower Poker cards shine! |
+| ![](relics/BrokenClock.png) | Broken Clock | Uncommon | Poker_player_gray | When you would add a Poker Card into your hand, you may choose to draw #b1 card instead. | Only you know that this clock moves slowly. |
+| ![](relics/ClubPass.png) | Club Pass | Uncommon | Poker_player_gray | Whenever you play a card containing "Club", your #ypokerplayer:Clubs deal #b1 more damage until the end of combat. | Of course it's the Club of Joking. |
+| ![](relics/CoolBox.png) | Cool Box | Uncommon | Poker_player_gray | At the start of each combat, add a #b10 of #ypokerplayer:Spades with Ethereal into your hand. It costs #b0. | Contains tools for cooling your cool head. |
+| ![](relics/FairLicense.png) | Fair License | Uncommon | Poker_player_gray | If you do not play any Poker cards during your turn and score any Poker hand, gain [E] [E] next turn. | Great present for honest people. |
+| ![](relics/EnergeticBat.png) | Energetic Bat | Rare | Poker_player_gray | Whenever you play a #yStrike card, gain [E] . | This lively bat strikes enemies before you even realize it. |
+| ![](relics/JackpotMachine.png) | Jackpot Machine | Rare | Poker_player_gray | If you have #b3 or more Poker Cards with #ypokerplayer:Rank #b7 during Showdown, deal #b52 damage to ALL enemies. | Looks like a jackpot machine, but actually a calendar. |
+| ![](relics/StuffedPocket.png) | Stuffed Pocket | Rare | Poker_player_gray | You receive the #ypokerplayer:Showdown effects from all Poker cards in your hand instead of max. #b5 cards. | Warning: Poker hand might be determined unexpectedly. |
+| ![](relics/AceCard.png) | Ace Card | Boss | Poker_player_gray | #ypokerplayer:Rank #b1 Poker Cards cost #b0 and gives you #b2 #yBlock when played. | The single card to trump the opponents. |
+| ![](relics/PenAndEraser.png) | Pen and Eraser | Shop | Poker_player_gray | Upon pickup, raise the #ypokerplayer:Rank of two random Poker Cards by #b3. | The best tool for "modifying" poker cards. |
+| ![](relics/PendantOfEscape.png) | Pendant of Escape | Shop | Poker_player_gray | [#2aecd7]Once [#2aecd7]per [#2aecd7]combat, [#2aecd7]right [#2aecd7]click [#2aecd7]to [#2aecd7]activate.[] NL Discard your hand and draw #b5 cards. | Touch this if you feel hopeless. |

@@ -161,7 +161,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Retain.\nDeal 4 damage.\nDrop: deal 6 damage to ALL enemies."
+      "description": "Retain.\nDeal 4 damage.\nDrop: Deal 6 damage to ALL enemies."
     },
     {
       "name": "Ben Stiller Bust+",
@@ -169,7 +169,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Retain.\nDeal 5 damage.\nDrop: deal 7 damage to ALL enemies."
+      "description": "Retain.\nDeal 5 damage.\nDrop: Deal 7 damage to ALL enemies."
     },
     {
       "name": "Candy Corn",
@@ -257,7 +257,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "IDeal 7 damage.\nShift the enemy's intent ahead 1 turn.\nExhaust."
+      "description": "Deal 7 damage.\nShift the enemy's intent ahead 1 turn.\nExhaust."
     },
     {
       "name": "Ogle+",
@@ -401,7 +401,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Retain.\nDrop: gain 6 Block."
+      "description": "Retain.\nDrop: Gain 6 Block."
     },
     {
       "name": "Wilson Bust+",
@@ -409,7 +409,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Retain.\nDrop: gain 9 Block."
+      "description": "Retain.\nDrop: Gain 9 Block."
     },
     {
       "name": "Appropriate",
@@ -609,7 +609,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "5",
-      "description": "Imagination 10.\nCosts 1 less for each Temp._Imagination you have.\nGain 8 Block.\nDraw 1 cards."
+      "description": "Costs 1 less for each Temp._Imagination you have.\nGain 8 Block.\nDraw 1 card."
     },
     {
       "name": "Fortune+",
@@ -617,7 +617,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "5",
-      "description": "Imagination 10.\nCosts 1 less for each Temp._Imagination you have.\nGain 10 Block.\nDraw 2 cards."
+      "description": "Costs 1 less for each Temp._Imagination you have.\nGain 10 Block.\nDraw 2 cards."
     },
     {
       "name": "Frijolaegis",
@@ -657,7 +657,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 18 damage.\nRetain your hand this turn."
+      "description": "Deal 16 damage.\nRetain your hand this turn."
     },
     {
       "name": "Hand Cannon+",
@@ -665,7 +665,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 24 damage.\nRetain your hand this turn."
+      "description": "Deal 20 damage.\nRetain your hand this turn."
     },
     {
       "name": "Heart Stab",
@@ -769,7 +769,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Add all cards with Retain from your discard pile to your hand.\nAt the end of your turn, discard your hand."
+      "description": "Return all cards with Retain from your discard pile to your hand.\nAt the end of your turn, discard your hand."
     },
     {
       "name": "Retain Return+",
@@ -777,7 +777,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Add all cards with Retain from your discard pile to your hand.\nAt the end of your turn, discard your hand."
+      "description": "Return all cards with Retain from your discard pile to your hand.\nAt the end of your turn, discard your hand."
     },
     {
       "name": "Retrieve Arms",
@@ -1217,7 +1217,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": " Whenever you play an Imagination card, draw 1 card."
+      "description": "Whenever you play an Imagination card, draw 1 card."
     },
     {
       "name": "Tootsiestein+",
@@ -1225,7 +1225,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "0",
-      "description": " Whenever you play an Imagination card, draw 1 card."
+      "description": "Whenever you play an Imagination card, draw 1 card."
     },
     {
       "name": "Weird Puzzle Shit",
@@ -1341,15 +1341,11 @@
   "keywords": [
     {
       "name": "Auto-parry",
-      "description": "Whenever you lose HP, gain 1 Vim and lose 1 Auto-Parry."
+      "description": "At the end of combat or whenever you lose HP, gain 1 Vim and lose 1 Auto-Parry."
     },
     {
       "name": "Drop",
       "description": "Effect activates whenever this card enters the discard or exhaust pile."
-    },
-    {
-      "name": "Imagination",
-      "description": "Imaginary statistic. If you have don't have enough Imagination for a card, it will cost 0, Retain, Purge, and give you 1 point of Imagination permanently instead of activating the card's effects."
     },
     {
       "name": "Mill",
@@ -1364,20 +1360,12 @@
       "description": "Murals are unplayable status cards that Retain and Exhaust when discarded."
     },
     {
-      "name": "Pulchritude",
-      "description": "Charismatic statistic. If you don't have enough Pulchritude for a card, it will cost 0, Retain, Purge, and give you 1 point of Pulchritude permanently instead of activating the card's effects."
-    },
-    {
       "name": "Temp. imagination",
       "description": "Temporary Imagination disappears at the end of combat."
     },
     {
       "name": "Topdeck",
       "description": "Place on top of your draw pile."
-    },
-    {
-      "name": "Vim",
-      "description": "Stamina statistic. If you don't have enough Vim for a card, it will cost 0, Retain, Purge, and give you 1 point of Vim permanently instead of activating the card's effects."
     }
   ]
 }

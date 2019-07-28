@@ -1,16 +1,32 @@
 {
   "mod": {
     "name": "octomod",
-    "version": "0.0.1",
+    "version": "1.3",
     "authors": ["Vex'd"],
     "credits": "",
-    "description": "A very regular octopus.",
+    "description": "An octopus with choices to make.",
     "mts_version": "3.8.0",
     "sts_version": "01-23-2019",
     "dependencies": ["basemod","stslib"],
     "optional_dependencies": []
   },
   "cards": [
+    {
+      "name": "Defend",
+      "color": "Octo_gray_color",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 5 Block."
+    },
+    {
+      "name": "Defend+",
+      "color": "Octo_gray_color",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block."
+    },
     {
       "name": "Ink Spray",
       "color": "Octo_gray_color",
@@ -44,12 +60,28 @@
       "description": "Next time you octomod:Choose, octomod:Choose 1 additional time."
     },
     {
+      "name": "Strike",
+      "color": "Octo_gray_color",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage."
+    },
+    {
+      "name": "Strike+",
+      "color": "Octo_gray_color",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage."
+    },
+    {
       "name": "Strike/Defend",
       "color": "Octo_gray_color",
       "rarity": "Basic",
       "type": "Attack",
       "cost": "1",
-      "description": "octomod:Choose 1:\nGain 5 Block.\nDeal 6 damage."
+      "description": "octomod:Choose 1:\nDeal 6 damage.\nGain 5 Block."
     },
     {
       "name": "Strike/Defend+",
@@ -57,7 +89,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "1",
-      "description": "octomod:Choose 1:\nGain 8 Block.\nDeal 9 damage."
+      "description": "octomod:Choose 1:\nDeal 9 damage.\nGain 8 Block."
     },
     {
       "name": "Big Hug",
@@ -144,7 +176,7 @@
       "color": "Octo_gray_color",
       "rarity": "Common",
       "type": "Skill",
-      "cost": "0",
+      "cost": "1",
       "description": "Gain [E] .\nPlay the top card of your draw pile.\nIf it's a octomod:Choose card, octomod:Choose randomly."
     },
     {
@@ -153,7 +185,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain [E] [E] .\nPlay the top card of your draw pile.\nIf it's a octomod:Choose card, octomod:Choose randomly."
+      "description": "Gain [E] .\nPlay the top card of your draw pile.\nIf it's a octomod:Choose card, octomod:Choose randomly."
     },
     {
       "name": "Foresight",
@@ -193,7 +225,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\nYour next card with octomod:Choose has an additional option to deal 8 damage to a random enemy."
+      "description": "Deal 7 damage.\nYour next card with octomod:Choose has an additional option to deal 7 damage to a random enemy."
     },
     {
       "name": "Head Slam+",
@@ -201,7 +233,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\nYour next card with octomod:Choose has an additional option to deal 10 damage to a random enemy."
+      "description": "Deal 9 damage.\nYour next card with octomod:Choose has an additional option to deal 9 damage to a random enemy."
     },
     {
       "name": "Ink Spurt",
@@ -209,7 +241,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 3 Poison.\nApply 2 octomod:Constricted."
+      "description": "Apply 2 Poison.\nApply 2 octomod:Constricted."
     },
     {
       "name": "Ink Spurt+",
@@ -401,7 +433,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 15 damage.\noctomod:Choose 1:\nLose 3 HP.\nDraw 1 less card next turn."
+      "description": "Deal 14 damage.\noctomod:Choose 1:\nLose 3 HP.\nDraw 1 less card next turn."
     },
     {
       "name": "Arm Tangle+",
@@ -409,7 +441,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 20 damage.\noctomod:Choose 2:\nLose 3 HP.\nDraw 1 less card next turn."
+      "description": "Deal 18 damage.\noctomod:Choose 1:\nLose 3 HP.\nDraw 1 less card next turn."
     },
     {
       "name": "Arrow Flurry",
@@ -417,7 +449,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Next turn, deal 8 damage and apply 1 Weak.\nExhaust."
+      "description": "Next turn, deal 8 damage.\nAdd a copy of this card into your hand.\nExhaust."
     },
     {
       "name": "Arrow Flurry+",
@@ -433,15 +465,15 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Whenever you octomod:Choose, deal 2 damage to a random enemy."
+      "description": "Whenever you octomod:Choose, deal 1 damage to a random enemy."
     },
     {
       "name": "Auto-Turret+",
       "color": "Octo_gray_color",
       "rarity": "Uncommon",
       "type": "Power",
-      "cost": "1",
-      "description": "Whenever you octomod:Choose, deal 3 damage to a random enemy."
+      "cost": "0",
+      "description": "Whenever you octomod:Choose, deal 1 damage to a random enemy."
     },
     {
       "name": "Biggest Hug",
@@ -449,7 +481,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 7 octomod:Constricted.\nApply !octoMagic! octomod:Constricted to ALL enemies."
+      "description": "Gain 6 octomod:Constricted.\nApply !octoMagic! octomod:Constricted to ALL enemies."
     },
     {
       "name": "Biggest Hug+",
@@ -457,7 +489,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 3 octomod:Constricted.\nApply !octoMagic! octomod:Constricted to ALL enemies."
+      "description": "Gain 4 octomod:Constricted.\nApply !octoMagic! octomod:Constricted to ALL enemies."
     },
     {
       "name": "Blast Smash",
@@ -513,7 +545,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Gain 3 Plated Armor.\nGain 3 Malleable."
+      "description": "Gain 2 Plated Armor.\nGain 2 Malleable."
     },
     {
       "name": "Camouflage+",
@@ -521,7 +553,23 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Gain 4 Plated Armor.\nGain 4 Malleable."
+      "description": "Gain 3 Plated Armor.\nGain 3 Malleable."
+    },
+    {
+      "name": "Cannon Shot",
+      "color": "Octo_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage.\nDeal !secondDamage! damage to this Act's boss.\nExhaust."
+    },
+    {
+      "name": "Cannon Shot+",
+      "color": "Octo_gray_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage.\nDeal !secondDamage! damage to this Act's boss.\nExhaust."
     },
     {
       "name": "Conjure",
@@ -609,7 +657,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 15 Block.\nApply 5 octomod:Constricted."
+      "description": "Enemy gains 16 Block.\nApply 5 octomod:Constricted."
     },
     {
       "name": "Friendly Feint+",
@@ -617,7 +665,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 15 Block.\nApply 7 octomod:Constricted."
+      "description": "Enemy gains 8 Block.\nApply 5 octomod:Constricted."
     },
     {
       "name": "Harden Body",
@@ -625,7 +673,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Temporary_HP.\nYour next card with octomod:Choose has an additional option to gain 4 Temporary_HP."
+      "description": "Gain 3 Temporary_HP.\nYour next card with octomod:Choose has an additional option to gain 3 Temporary_HP."
     },
     {
       "name": "Harden Body+",
@@ -633,7 +681,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Temporary_HP.\nYour next card with octomod:Choose has an additional option to gain 6 Temporary_HP."
+      "description": "Gain 4 Temporary_HP.\nYour next card with octomod:Choose has an additional option to gain 4 Temporary_HP."
     },
     {
       "name": "Heat Shield",
@@ -641,7 +689,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "octomod:Choose 2:\nGain 6 Block.\nWhenever you are attacked this turn, deal !octoMagic! damage back."
+      "description": "octomod:Choose 3:\nGain 5 Block.\nWhenever you are attacked this turn, deal !octoMagic! damage back."
     },
     {
       "name": "Heat Shield+",
@@ -649,7 +697,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "octomod:Choose 2:\nGain 8 Block.\nWhenever you are attacked this turn, deal !octoMagic! damage back."
+      "description": "octomod:Choose 3:\nGain 6 Block.\nWhenever you are attacked this turn, deal !octoMagic! damage back."
     },
     {
       "name": "Influx",
@@ -721,7 +769,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "3",
-      "description": "octomod:Choose 2:\nDeal 15 damage.\nDeal !secondDamage! damage and gain [E] ."
+      "description": "octomod:Choose 2:\nDeal 12 damage.\nDeal !secondDamage! damage and gain [E] ."
     },
     {
       "name": "Octo Slam+",
@@ -729,7 +777,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "3",
-      "description": "octomod:Choose 2:\nDeal 18 damage.\nDeal !secondDamage! damage and gain [E] ."
+      "description": "octomod:Choose 2:\nDeal 15 damage.\nDeal !secondDamage! damage and gain [E] ."
     },
     {
       "name": "Rethink",
@@ -769,7 +817,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Can be upgraded any number of times.\noctomod:Choose 4:\nApply 2 octomod:Constricted.\nGain 2 Block."
+      "description": "Can be upgraded any number of times.\nApply 2 Constricted."
     },
     {
       "name": "Squeeze Tighter+1",
@@ -777,7 +825,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Can be upgraded any number of times.\noctomod:Choose 7:\nApply 2 octomod:Constricted.\nGain 2 Block."
+      "description": "Can be upgraded any number of times.\nApply 4 Constricted."
     },
     {
       "name": "Tangle",
@@ -785,7 +833,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "octomod:Choose 2:\nDeal 10 damage.\nApply !octoMagic! octomod:Constricted."
+      "description": "octomod:Choose 2:\nDeal 8 damage.\nApply !octoMagic! octomod:Constricted."
     },
     {
       "name": "Tangle+",
@@ -793,7 +841,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "octomod:Choose 2:\nDeal 12 damage.\nApply !octoMagic! octomod:Constricted."
+      "description": "octomod:Choose 2:\nDeal 10 damage.\nApply !octoMagic! octomod:Constricted."
     },
     {
       "name": "Tentaparty",
@@ -801,7 +849,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "ALL enemies heal 15 HP.\nApply 7 octomod:Constricted to ALL enemies."
+      "description": "ALL enemies heal 15 HP.\nApply 6 octomod:Constricted to ALL enemies."
     },
     {
       "name": "Tentaparty+",
@@ -809,7 +857,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "ALL enemies heal 15 HP.\nApply 10 octomod:Constricted to ALL enemies."
+      "description": "ALL enemies heal 15 HP.\nApply 9 octomod:Constricted to ALL enemies."
     },
     {
       "name": "Tighten",
@@ -828,12 +876,28 @@
       "description": "Can only be played if ALL enemies are octomod:Constricted.\nApply 3 octomod:Constricted to ALL enemies.\nDraw 1 card."
     },
     {
+      "name": "Tobey Maguire",
+      "color": "Octo_gray_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the end of your turn, either gain 2 Block or deal 4 damage to ALL enemies."
+    },
+    {
+      "name": "Tobey Maguire+",
+      "color": "Octo_gray_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nAt the end of your turn, either gain 2 Block or deal 4 damage to ALL enemies."
+    },
+    {
       "name": "Vengeful Splash",
       "color": "Octo_gray_color",
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 15 damage.\nRepeat for every enemy slain this combat."
+      "description": "Deal 14 damage.\nRepeat for every enemy slain this combat."
     },
     {
       "name": "Vengeful Splash+",
@@ -841,7 +905,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 20 damage.\nRepeat for every enemy slain this combat."
+      "description": "Deal 18 damage.\nRepeat for every enemy slain this combat."
     },
     {
       "name": "Big Slap",
@@ -881,7 +945,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "3",
-      "description": "Shuffle 2 Dazed into your draw pile.\noctomod:Choose 1:\nGain 16 Block.\nDeal 10 damage twice.\nGain 3 Strength."
+      "description": "Shuffle !octoMagic! Dazed into your draw pile.\noctomod:Choose 2:\nGain 16 Block.\nDeal 10 damage twice.\nGain 3 Strength."
     },
     {
       "name": "Donu || Deca+",
@@ -889,7 +953,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "3",
-      "description": "Shuffle 2 Dazed into your draw pile.\noctomod:Choose 2:\nGain 16 Block.\nDeal 10 damage twice.\nGain 3 Strength."
+      "description": "Shuffle !octoMagic! Dazed into your draw pile.\noctomod:Choose 2:\nGain 16 Block.\nDeal 10 damage twice.\nGain 3 Strength."
     },
     {
       "name": "Eightfold Wrath",
@@ -922,22 +986,6 @@
       "type": "Skill",
       "cost": "1",
       "description": "Exhaust.\noctomod:Choose 1:\nDouble the enemy's octomod:Constricted."
-    },
-    {
-      "name": "Expansion",
-      "color": "Octo_gray_color",
-      "rarity": "Rare",
-      "type": "Skill",
-      "cost": "2",
-      "description": "Exhaust.\nEthereal.\noctomod:Choose 1:\nHeal 5 HP.\nGain 10 Gold.\nObtain a random potion."
-    },
-    {
-      "name": "Expansion+",
-      "color": "Octo_gray_color",
-      "rarity": "Rare",
-      "type": "Skill",
-      "cost": "1",
-      "description": "Exhaust.\nEthereal.\noctomod:Choose 1:\nHeal 5 HP.\nGain 10 Gold.\nObtain a random potion."
     },
     {
       "name": "Extra Arm",
@@ -1041,7 +1089,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Exhaust.\noctomod:Choose 666:\nLose !octoMagic! HP and play the top card of your draw pile at the end of the turn.\nEnd the turn."
+      "description": "You may lose !octoMagic! HP, draw 1 card, and gain [E] any number of times.\nExhaust."
     },
     {
       "name": "Life Tap+",
@@ -1049,7 +1097,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Exhaust.\noctomod:Choose 666:\nLose !octoMagic! HP and play the top card of your draw pile at the end of the turn.\nEnd the turn."
+      "description": "You may lose !octoMagic! HP, draw 1 card, and gain [E] any number of times.\nExhaust."
     },
     {
       "name": "Magnum Octopus",
@@ -1057,7 +1105,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Exhaust. Increase this card's Choose amount by 1 permanently.\noctomod:Choose 1:\nApply 2 Constricted.\nGain 2 Block."
+      "description": "Exhaust.\nIncrease this card's Choose amount by 1 permanently.\noctomod:Choose 1:\nApply 2 Constricted.\nGain 2 Block."
     },
     {
       "name": "Magnum Octopus+",
@@ -1065,7 +1113,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Exhaust. Increase this card's Choose amount by 1 permanently.\noctomod:Choose 1:\nApply 2 Constricted.\nGain 2 Block."
+      "description": "Exhaust.\nIncrease this card's Choose amount by 1 permanently.\noctomod:Choose 1:\nApply 2 Constricted.\nGain 2 Block."
     },
     {
       "name": "Mirror Body",
@@ -1073,7 +1121,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Starts combat in your discard pile.\nReflect all damage."
+      "description": "Grave.\nWhenever you receive damage, deal that much damage back."
     },
     {
       "name": "Mirror Body+",
@@ -1081,7 +1129,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Reflect all damage."
+      "description": "Whenever you receive damage, deal that much damage back."
     },
     {
       "name": "Power Pulse",
@@ -1097,7 +1145,23 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Next time you octomod:Choose, octomod:Choose 5 additional times.\nExhaust."
+      "description": "Next time you octomod:Choose, octomod:Choose 4 additional times.\nExhaust."
+    },
+    {
+      "name": "Shifting Octopus",
+      "color": "Octo_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "octomod:Choose 2:\nDeal 6 damage.\nGain 5 Block.\nNext turn, gain 5 Block.\nApply 1 Weak.\nApply 1 Vulnerable.\nGain 1 Energy.\nNext turn, gain 1 Energy.\nDraw 1 card.\nNext turn, draw 1 additional card.\nEnemy loses 2 Strength this turn.\nGain 2 Strength this turn.\nUpgrade a random card in your hand.\nExhaust a card in your hand.\nWhenever you are attacked this turn, deal 4 damage back.\nRandomize the cost of your hand."
+    },
+    {
+      "name": "Shifting Octopus+",
+      "color": "Octo_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "octomod:Choose 3:\nDeal 6 damage.\nGain 5 Block.\nNext turn, gain 5 Block.\nApply 1 Weak.\nApply 1 Vulnerable.\nGain 1 Energy.\nNext turn, gain 1 Energy.\nDraw 1 card.\nNext turn, draw 1 additional card.\nEnemy loses 2 Strength this turn.\nGain 2 Strength this turn.\nUpgrade a random card in your hand.\nExhaust a card in your hand.\nWhenever you are attacked this turn, deal 4 damage back.\nRandomize the cost of your hand."
     },
     {
       "name": "Spiny Arms",
@@ -1116,20 +1180,20 @@
       "description": "Whenever an Attack deals unblocked damage, apply 1 octomod:Constricted."
     },
     {
-      "name": "The Shifting Octopus",
+      "name": "Treasure Chest",
       "color": "Octo_gray_color",
       "rarity": "Rare",
-      "type": "Attack",
-      "cost": "1",
-      "description": "octomod:Choose 2:\nDeal 6 damage.\nGain 5 Block.\nNext turn, gain 5 Block.\nApply 1 Weak.\nApply 1 Vulnerable.\nGain 1 Energy.\nNext turn, gain 1 Energy.\nDraw 1 card.\nNext turn, draw 1 additional card.\nEnemy loses 2 Strength this turn.\nGain 2 Strength this turn.\nUpgrade a random card in your hand.\nExhaust a card in your hand.\nWhenever you are attacked this turn, deal 4 damage back.\nRandomize the cost of your hand."
+      "type": "Skill",
+      "cost": "2",
+      "description": "Ethereal.\nExhaust.\noctomod:Choose 1:\nHeal 5 HP.\nGain 10 Gold.\nObtain a random potion."
     },
     {
-      "name": "The Shifting Octopus+",
+      "name": "Treasure Chest+",
       "color": "Octo_gray_color",
       "rarity": "Rare",
-      "type": "Attack",
+      "type": "Skill",
       "cost": "1",
-      "description": "octomod:Choose 3:\nDeal 6 damage.\nGain 5 Block.\nNext turn, gain 5 Block.\nApply 1 Weak.\nApply 1 Vulnerable.\nGain 1 Energy.\nNext turn, gain 1 Energy.\nDraw 1 card.\nNext turn, draw 1 additional card.\nEnemy loses 2 Strength this turn.\nGain 2 Strength this turn.\nUpgrade a random card in your hand.\nExhaust a card in your hand.\nWhenever you are attacked this turn, deal 4 damage back.\nRandomize the cost of your hand."
+      "description": "Ethereal.\nExhaust.\noctomod:Choose 1:\nHeal 5 HP.\nGain 10 Gold.\nObtain a random potion."
     }
   ],
   "relics": [
@@ -1141,7 +1205,14 @@
       "flavorText": "bloorp bloorp"
     },
     {
-      "name": "Blindfold",
+      "name": "Choiceinator",
+      "tier": "Common",
+      "pool": "Octo_gray_color",
+      "description": "Every 10th time you octomod:Choose, octomod:Choose 1 additional time.",
+      "flavorText": "bloorp"
+    },
+    {
+      "name": "Fake Beard",
       "tier": "Boss",
       "pool": "Octo_gray_color",
       "description": "Gain [E] at the start of your turn. You cannot read choices.",
@@ -1161,8 +1232,8 @@
     {
       "name": "the Octopus",
       "type": "Player",
-      "minHP": "70",
-      "maxHP": "70"
+      "minHP": "71",
+      "maxHP": "71"
     }
   ],
   "keywords": [

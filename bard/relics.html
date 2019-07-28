@@ -1,0 +1,113 @@
+<!DOCTYPE html!>
+<html>
+  <head>
+    <title>Relics</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+  </head>
+  <body>
+    <h1>Relics</h1>
+    <table class="sortable">
+  <tr>
+    <th>Name</th>
+    <th>Image</th>
+    <th>Tier</th>
+    <th>Pool</th>
+    <th>Description</th>
+    <th>Flavor</th>
+  </tr>
+  
+  <tr>
+    <td><a href="relics/popup/BagPipes.png">Bag Pipes</a></td>
+    <td><img src="relics/BagPipes.png" width="128" height="128"><a href="relics/popup/BagPipes.png"><img src="relics/small-popup/BagPipes.png" class="popup"></a></td>
+    <td>Starter</td>
+    <td>Bard_color</td>
+    <td>Each card you play may also <span class="color-y">bard:Queue</span> <span class="color-y">bard:Notes.</span> The <span class="color-y">bard:Notes</span> <span class="color-y">bard:Queued</span> depend on the type of the card played and are shown in the card's tooltips.</td>
+    <td>Your trusty instrument and weapon.</td>
+  </tr>
+  
+  <tr>
+    <td><a href="relics/popup/PitchPipe.png">Pitch Pipe</a></td>
+    <td><img src="relics/PitchPipe.png" width="128" height="128"><a href="relics/popup/PitchPipe.png"><img src="relics/small-popup/PitchPipe.png" class="popup"></a></td>
+    <td>Starter</td>
+    <td>Bard_color</td>
+    <td>At the start of each combat, <span class="color-y">bard:Queue</span> a [BuffNote] [REMOVE_SPACE].</td>
+    <td>Stay in tune.</td>
+  </tr>
+  
+  <tr>
+    <td><a href="relics/popup/OilPainting.png">Oil Painting</a></td>
+    <td><img src="relics/OilPainting.png" width="128" height="128"><a href="relics/popup/OilPainting.png"><img src="relics/small-popup/OilPainting.png" class="popup"></a></td>
+    <td>Common</td>
+    <td>Bard_color</td>
+    <td>Start each combat with <span class="color-y">bard:Inspiration</span> <span class="color-b">100.</span></td>
+    <td>This painting depicts a group of people standing on a stage together. They feel oddly familiar to you.</td>
+  </tr>
+  
+  <tr>
+    <td><a href="relics/popup/StrangeHarp.png">Strange Harp</a></td>
+    <td><img src="relics/StrangeHarp.png" width="128" height="128"><a href="relics/popup/StrangeHarp.png"><img src="relics/small-popup/StrangeHarp.png" class="popup"></a></td>
+    <td>Uncommon</td>
+    <td>Bard_color</td>
+    <td>Whenever an enemy dies, transfer any <span class="color-y">Weak</span> or <span class="color-y">Vulnerable</span> it has to a random enemy.</td>
+    <td>Every note played on this harp sounds eerie.</td>
+  </tr>
+  
+  <tr>
+    <td><a href="relics/popup/CoralOrchestra.png">Coral Orchestra</a></td>
+    <td><img src="relics/CoralOrchestra.png" width="128" height="128"><a href="relics/popup/CoralOrchestra.png"><img src="relics/small-popup/CoralOrchestra.png" class="popup"></a></td>
+    <td>Rare</td>
+    <td>Bard_color</td>
+    <td>Every <span class="color-b">5th</span> <span class="color-y">bard:Melody</span> you perform is performed twice.</td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td><a href="relics/popup/EchoChamber.png">Echo Chamber</a></td>
+    <td><img src="relics/EchoChamber.png" width="128" height="128"><a href="relics/popup/EchoChamber.png"><img src="relics/small-popup/EchoChamber.png" class="popup"></a></td>
+    <td>Rare</td>
+    <td>Bard_color</td>
+    <td>At the start of each combat, perform the last <span class="color-y">bard:Melody</span> performed in the previous combat.</td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td><a href="relics/popup/MagicTuningFork.png">Magic Tuning Fork</a></td>
+    <td><img src="relics/MagicTuningFork.png" width="128" height="128"><a href="relics/popup/MagicTuningFork.png"><img src="relics/small-popup/MagicTuningFork.png" class="popup"></a></td>
+    <td>Special</td>
+    <td>Bard_color</td>
+    <td>At the start of your turn, <span class="color-y">bard:Queue</span> a [WildNote] [REMOVE_SPACE].</td>
+    <td>A memento of your past life. Rings with the sound of a constantly changing note.</td>
+  </tr>
+  
+  <tr>
+    <td><a href="relics/popup/DeepVero.png">Deep Vero</a></td>
+    <td><img src="relics/DeepVero.png" width="128" height="128"><a href="relics/popup/DeepVero.png"><img src="relics/small-popup/DeepVero.png" class="popup"></a></td>
+    <td>Boss</td>
+    <td>Bard_color</td>
+    <td>Gain [E] at the start of each turn. Clear your Note Queue at the end of each turn.</td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td><a href="relics/popup/SelfPlayingFlute.png">Self-Playing Flute</a></td>
+    <td><img src="relics/SelfPlayingFlute.png" width="128" height="128"><a href="relics/popup/SelfPlayingFlute.png"><img src="relics/small-popup/SelfPlayingFlute.png" class="popup"></a></td>
+    <td>Boss</td>
+    <td>Bard_color</td>
+    <td>Replaces <span style="color:#4169e1ff">Pitch</span> <span style="color:#4169e1ff">Pipe</span><span style="color:#4169e1ff">.</span>
+At the start of each combat, <span class="color-y">bard:Queue</span> <span class="color-b">2</span> [WildNote] [REMOVE_SPACE].</td>
+    <td>A magical flute, enchanted to play songs on its own.</td>
+  </tr>
+  
+  <tr>
+    <td><a href="relics/popup/ConductorsBaton.png">Conductor's Baton</a></td>
+    <td><img src="relics/ConductorsBaton.png" width="128" height="128"><a href="relics/popup/ConductorsBaton.png"><img src="relics/small-popup/ConductorsBaton.png" class="popup"></a></td>
+    <td>Shop</td>
+    <td>Bard_color</td>
+    <td>Your Note Queue can hold <span class="color-b">2</span> additional <span class="color-y">bard:Notes.</span></td>
+    <td>Beatings will continue until the music improves.</td>
+  </tr>
+  
+</table>
+  </body>
+</html>

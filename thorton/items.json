@@ -1,7 +1,7 @@
 {
   "mod": {
     "name": "thorton",
-    "version": "8",
+    "version": "65",
     "authors": ["Vex'd"],
     "credits": "",
     "description": "A very regular man.",
@@ -145,7 +145,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Gold.\nGain 10 Block.\nExhaust."
+      "description": "Gain 4 Gold.\nGain 8 Block.\nExhaust."
     },
     {
       "name": "Cash Buffer+",
@@ -153,7 +153,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Gold.\nGain 12 Block.\nExhaust."
+      "description": "Gain 6 Gold.\nGain 10 Block.\nExhaust."
     },
     {
       "name": "Distance",
@@ -268,6 +268,22 @@
       "description": "Gain 2 Gold.\nGain 2 Block.\nDeal 2 damage.\nDraw 1 card.\nExhaust."
     },
     {
+      "name": "Quintuple Bop",
+      "color": "Thort_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage twice."
+    },
+    {
+      "name": "Quintuple Bop+",
+      "color": "Thort_gray_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage twice."
+    },
+    {
       "name": "Running Kick",
       "color": "Thort_gray_color",
       "rarity": "Common",
@@ -330,22 +346,6 @@
       "type": "Attack",
       "cost": "1",
       "description": "Deal 6 damage.\nDraw 3 cards."
-    },
-    {
-      "name": "Triple Bap",
-      "color": "Thort_gray_color",
-      "rarity": "Common",
-      "type": "Attack",
-      "cost": "1",
-      "description": "Deal 4 damage twice."
-    },
-    {
-      "name": "Triple Bap+",
-      "color": "Thort_gray_color",
-      "rarity": "Common",
-      "type": "Attack",
-      "cost": "1",
-      "description": "Deal 6 damage twice."
     },
     {
       "name": "Wailing Run",
@@ -417,7 +417,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage.\nAdd 1 thethorton:Business_Card into your hand.\nExhaust."
+      "description": "Deal 8 damage.\nAdd 1 thethorton:Business_Card into your hand.\nExhaust."
     },
     {
       "name": "Business Bash+",
@@ -425,7 +425,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage.\nAdd 1 upgraded thethorton:Business_Card into your hand.\nExhaust."
+      "description": "Deal 10 damage.\nAdd 1 upgraded thethorton:Business_Card into your hand.\nExhaust."
     },
     {
       "name": "Business Boom",
@@ -641,7 +641,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 5 Gold.\nWhenever you play 3 thethorton:Investments, obtain a Relic.\nExhaust."
+      "description": "Ethereal.\nWhenever you play 4 thethorton:Investments, obtain a Relic.\nExhaust."
     },
     {
       "name": "Investment+",
@@ -649,7 +649,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 5 Gold.\nWhenever you play 3 thethorton:Investments, obtain a Relic.\nExhaust."
+      "description": "Ethereal.\nWhenever you play 4 thethorton:Investments, obtain a Relic.\nExhaust."
     },
     {
       "name": "Last Ditch Effort",
@@ -721,7 +721,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Choose an effect to start the next combat with.\nExhaust."
+      "description": "Choose a bonus to start the next combat with.\nExhaust."
     },
     {
       "name": "Plan Ahead+",
@@ -729,7 +729,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose an effect to start the next combat with.\nExhaust."
+      "description": "Choose a bonus to start the next combat with.\nExhaust."
     },
     {
       "name": "Promotion",
@@ -897,15 +897,15 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Apply 3 Poison to a random enemy. Repeat this process for every 100 Gold you have.\nExhaust."
+      "description": "Apply 3 Poison to a random enemy. Repeat this process up to 5 times for every 100 Gold you have.\nExhaust."
     },
     {
       "name": "Toxic Greed+",
       "color": "Thort_gray_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "2",
-      "description": "Apply 3 Poison to a random enemy. Repeat this process for every 100 Gold you have.\nExhaustive !stslib:ex!."
+      "cost": "1",
+      "description": "Apply 3 Poison to a random enemy. Repeat this process up to 5 times for every 100 Gold you have.\nExhaust."
     },
     {
       "name": "Administrative Actions",
@@ -945,7 +945,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 3 damage.\nHeal HP equal to unblocked damage.\nExhaust."
+      "description": "Deal 4 damage.\nGain Temporary_HP equal to unblocked damage.\nExhaust."
     },
     {
       "name": "Blood Debt+",
@@ -953,7 +953,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 3 damage.\nHeal HP equal to unblocked damage.\nExhaust."
+      "description": "Deal 4 damage.\nGain Temporary_HP equal to unblocked damage.\nExhaust."
     },
     {
       "name": "Boss Rush",
@@ -1025,7 +1025,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": "Starts combat in your discard pile. \nAt the start of your turn, thethorton:Run."
+      "description": "Grave.\nthethorton:Run.\nAt the start of your turn, thethorton:Run."
     },
     {
       "name": "Coward Form+",
@@ -1033,7 +1033,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": "At the start of your turn, thethorton:Run."
+      "description": "thethorton:Run.\nAt the start of your turn, thethorton:Run."
     },
     {
       "name": "Crashing Stocks",
@@ -1121,7 +1121,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Apply Weak equal to your held Gold."
+      "description": "Apply Weak equal to your held Gold.\nExhaust."
     },
     {
       "name": "Fatigue+",
@@ -1129,7 +1129,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply Weak equal to your held Gold."
+      "description": "Apply Weak equal to your held Gold.\nExhaust."
     },
     {
       "name": "Fish",
@@ -1153,7 +1153,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Gain X0 Gold.\nExhaust."
+      "description": "Gain X0 Gold.\nthethorton:Run.\nExhaust."
     },
     {
       "name": "Fortune+",
@@ -1161,7 +1161,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Gain X0 Gold.\nGain [E] .\nExhaust."
+      "description": "Gain X0 Gold.\nGain [E] .\nthethorton:Run.\nExhaust."
     },
     {
       "name": "Hexaghostify",
@@ -1169,7 +1169,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Starts combat in your discard pile.\nEnemy becomes a Hexaghost.\nExhaust."
+      "description": "Grave.\nEnemy becomes a Hexaghost.\nExhaust."
     },
     {
       "name": "Hexaghostify+",
@@ -1177,7 +1177,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Starts combat in your discard pile.\nALL enemies become Hexaghosts.\nExhaust."
+      "description": "Grave.\nALL enemies become Hexaghosts.\nExhaust."
     },
     {
       "name": "Penny Toss",
@@ -1327,7 +1327,7 @@
       "name": "Bank Deed",
       "tier": "Uncommon",
       "pool": "",
-      "description": "Whenever you climb a floor, gain 3% interest on held Gold.",
+      "description": "Whenever you climb a floor, gain 2% interest on held Gold.",
       "flavorText": "Dad gave this to me."
     },
     {

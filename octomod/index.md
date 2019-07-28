@@ -3,19 +3,21 @@
 
 | Name | Image | Upgraded image | Rarity | Type | Cost | Description |
 | ---- | ----- | -------------- | ------ | ---- | ---- | ----------- |
+| Defend | ![](small-card-images/Defend.png) | ![](small-card-images/DefendPlus.png) | Basic | Skill | 1 | Gain 5(8) Block. |
 | Ink Spray | ![](small-card-images/InkSpray.png) | ![](small-card-images/InkSprayPlus.png) | Basic | Skill | 1(0) | octomod:Choose 2: Apply 1 Weak. Apply 1 Vulnerable. |
 | Octo Boost | ![](small-card-images/OctoBoost.png) | ![](small-card-images/OctoBoostPlus.png) | Basic | Skill | 1(0) | Next time you octomod:Choose, octomod:Choose 1 additional time. |
-| Strike/Defend | ![](small-card-images/StrikeDefend.png) | ![](small-card-images/StrikeDefendPlus.png) | Basic | Attack | 1 | octomod:Choose 1: Gain 5(8) Block. Deal 6(9) damage. |
+| Strike | ![](small-card-images/Strike.png) | ![](small-card-images/StrikePlus.png) | Basic | Attack | 1 | Deal 6(9) damage. |
+| Strike/Defend | ![](small-card-images/StrikeDefend.png) | ![](small-card-images/StrikeDefendPlus.png) | Basic | Attack | 1 | octomod:Choose 1: Deal 6(9) damage. Gain 5(8) Block. |
 | Big Hug | ![](small-card-images/BigHug.png) | ![](small-card-images/BigHugPlus.png) | Common | Skill | 1 | octomod:Choose 2(3): Apply 2 octomod:Constricted to ALL enemies. Draw 1 card. |
 | Choke | ![](small-card-images/Choke.png) | ![](small-card-images/ChokePlus.png) | Common | Skill | 1(0) | octomod:Choose 1: Apply 3 octomod:Constricted. Activate the enemy's octomod:Constricted. |
 | Consideration | ![](small-card-images/Consideration.png) | ![](small-card-images/ConsiderationPlus.png) | Common | Skill | 1 | (Draw 1 card.)  octomod:Choose 1: Next time you octomod:Choose this turn, octomod:Choose 1 additional time. Next turn, gain [E]. |
 | Double Slap | ![](small-card-images/DoubleSlap.png) | ![](small-card-images/DoubleSlapPlus.png) | Common | Attack | 2 | (Gain 5 Block.)  octomod:Choose 2: Deal 9 damage. Draw 2 cards. |
 | Flexability | ![](small-card-images/Flexability.png) | ![](small-card-images/FlexabilityPlus.png) | Common | Skill | 0 | octomod:Choose 2(3): Gain 1 Strength this turn only. Gain 1 Dexterity this turn only. |
-| Flurry | ![](small-card-images/Flurry.png) | ![](small-card-images/FlurryPlus.png) | Common | Skill | 0 | Gain [E] ([E]). Play the top card of your draw pile. If it's a octomod:Choose card, octomod:Choose randomly. |
+| Flurry | ![](small-card-images/Flurry.png) | ![](small-card-images/FlurryPlus.png) | Common | Skill | 1(0) | Gain [E] . Play the top card of your draw pile. If it's a octomod:Choose card, octomod:Choose randomly. |
 | Foresight | ![](small-card-images/Foresight.png) | ![](small-card-images/ForesightPlus.png) | Common | Attack | 1 | Deal 8(9) damage. octomod:Choose 1(2): Draw 1 card. Next turn, draw 1 additional card. |
 | Forethink | ![](small-card-images/Forethink.png) | ![](small-card-images/ForethinkPlus.png) | Common | Skill | 1 | octomod:Choose 2: Gain 4(6) Block. Gain 4(6) Block next turn. |
-| Head Slam | ![](small-card-images/HeadSlam.png) | ![](small-card-images/HeadSlamPlus.png) | Common | Attack | 1 | Deal 8(10) damage. Your next card with octomod:Choose has an additional option to deal 8(10) damage to a random enemy. |
-| Ink Spurt | ![](small-card-images/InkSpurt.png) | ![](small-card-images/InkSpurtPlus.png) | Common | Skill | 1 | Apply 3 Poison. Apply 2(3) octomod:Constricted. |
+| Head Slam | ![](small-card-images/HeadSlam.png) | ![](small-card-images/HeadSlamPlus.png) | Common | Attack | 1 | Deal 7(9) damage. Your next card with octomod:Choose has an additional option to deal 7(9) damage to a random enemy. |
+| Ink Spurt | ![](small-card-images/InkSpurt.png) | ![](small-card-images/InkSpurtPlus.png) | Common | Skill | 1 | Apply 2(3) Poison. Apply 2(3) octomod:Constricted. |
 | Mini-Strangle | ![](small-card-images/Mini-Strangle.png) | ![](small-card-images/Mini-StranglePlus.png) | Common | Skill | 0 | Apply 2(3) octomod:Constricted. |
 | Prepare | ![](small-card-images/Prepare.png) | ![](small-card-images/PreparePlus.png) | Common | Skill | 1 | Gain 3 Block. Next time you octomod:Choose, octomod:Choose 1 additional time. Exhaust. (not Exhaust.) |
 | Punch | ![](small-card-images/Punch.png) | ![](small-card-images/PunchPlus.png) | Common | Attack | 1 | octomod:Choose 1: Deal 10(14) damage. |
@@ -27,52 +29,54 @@
 | Writhing Wrath | ![](small-card-images/WrithingWrath.png) | ![](small-card-images/WrithingWrathPlus.png) | Common | Attack | 1 | octomod:Choose 2: Deal !secondDamage! damage. Deal 4(6) damage to ALL enemies. |
 | Adaptability | ![](small-card-images/Adaptability.png) | ![](small-card-images/AdaptabilityPlus.png) | Uncommon | Attack | 1 | octomod:Choose 4(6): Gain 2 Block. Deal 2 damage. |
 | Adaptoform | ![](small-card-images/Adaptoform.png) | ![](small-card-images/AdaptoformPlus.png) | Uncommon | Power | X | octomod:Choose X + 0(1): Gain 1 Strength. Gain 1 Dexterity. |
-| Arm Tangle | ![](small-card-images/ArmTangle.png) | ![](small-card-images/ArmTanglePlus.png) | Uncommon | Attack | 1 | Deal 15(20) damage. octomod:Choose 1(2): Lose 3 HP. Draw 1 less card next turn. |
-| Arrow Flurry | ![](small-card-images/ArrowFlurry.png) | ![](small-card-images/ArrowFlurryPlus.png) | Uncommon | Attack | 1 | Next turn, deal 8 damage and apply 1 Weak. (Add a copy of this card into your hand.)  Exhaust. |
-| Auto-Turret | ![](small-card-images/Auto-Turret.png) | ![](small-card-images/Auto-TurretPlus.png) | Uncommon | Power | 1 | Whenever you octomod:Choose, deal 2(3) damage to a random enemy. |
-| Biggest Hug | ![](small-card-images/BiggestHug.png) | ![](small-card-images/BiggestHugPlus.png) | Uncommon | Skill | 1 | Gain 7(3) octomod:Constricted. Apply !octoMagic! octomod:Constricted to ALL enemies. |
+| Arm Tangle | ![](small-card-images/ArmTangle.png) | ![](small-card-images/ArmTanglePlus.png) | Uncommon | Attack | 1 | Deal 14(18) damage. octomod:Choose 1: Lose 3 HP. Draw 1 less card next turn. |
+| Arrow Flurry | ![](small-card-images/ArrowFlurry.png) | ![](small-card-images/ArrowFlurryPlus.png) | Uncommon | Attack | 1 | Next turn, deal 8 damage (and apply 1 Weak). Add a copy of this card into your hand. Exhaust. |
+| Auto-Turret | ![](small-card-images/Auto-Turret.png) | ![](small-card-images/Auto-TurretPlus.png) | Uncommon | Power | 1(0) | Whenever you octomod:Choose, deal 1 damage to a random enemy. |
+| Biggest Hug | ![](small-card-images/BiggestHug.png) | ![](small-card-images/BiggestHugPlus.png) | Uncommon | Skill | 1 | Gain 6(4) octomod:Constricted. Apply !octoMagic! octomod:Constricted to ALL enemies. |
 | Blast Smash | ![](small-card-images/BlastSmash.png) | ![](small-card-images/BlastSmashPlus.png) | Uncommon | Attack | 1 | octomod:Choose 2: Deal 5(6) damage. Lose 2 HP and deal !secondDamage! damage. |
 | Blindside | ![](small-card-images/Blindside.png) | ![](small-card-images/BlindsidePlus.png) | Uncommon | Skill | X | Choose X + 0(1): Randomize the costs of cards in your hand. Gain [E] . |
 | Boosted | ![](small-card-images/Boosted.png) | ![](small-card-images/BoostedPlus.png) | Uncommon | Skill | 1 | (Innate.)  Gain 1 Strength. |
-| Camouflage | ![](small-card-images/Camouflage.png) | ![](small-card-images/CamouflagePlus.png) | Uncommon | Power | 1 | Gain 3(4) Plated Armor. Gain 3(4) Malleable. |
+| Camouflage | ![](small-card-images/Camouflage.png) | ![](small-card-images/CamouflagePlus.png) | Uncommon | Power | 1 | Gain 2(3) Plated Armor. Gain 2(3) Malleable. |
+| Cannon Shot | ![](small-card-images/CannonShot.png) | ![](small-card-images/CannonShotPlus.png) | Uncommon | Attack | 1 | Deal 8(10) damage. Deal !secondDamage! damage to this Act's boss. Exhaust. |
 | Conjure | ![](small-card-images/Conjure.png) | ![](small-card-images/ConjurePlus.png) | Uncommon | Attack | 1 | octomod:Choose 2(3): Deal 6 damage. Gain 5 Block. Apply 1 Weak. Apply 1 Vulnerable. |
 | Crampage | ![](small-card-images/Crampage.png) | ![](small-card-images/CrampagePlus.png) | Uncommon | Attack | 1 | octomod:Choose 2: Deal 3(4) damage. Increase this card's damage by !octoMagic! this combat. |
 | Decisive Hit | ![](small-card-images/DecisiveHit.png) | ![](small-card-images/DecisiveHitPlus.png) | Uncommon | Attack | 2 | Deal 16(20) damage. Next time you octomod:Choose this turn (not this turn), octomod:Choose 1 additional time. |
 | Deep Thought | ![](small-card-images/DeepThought.png) | ![](small-card-images/DeepThoughtPlus.png) | Uncommon | Skill | 2 | octomod:Choose 2(3): Gain [E] . Draw 1 card. Next turn, gain [E] . Next turn, draw 1 additional card. |
 | Duplicate | ![](small-card-images/Duplicate.png) | ![](small-card-images/DuplicatePlus.png) | Uncommon | Skill | 1(0) | The next card you play puts a copy of itself on top of your draw pile. Exhaust. |
-| Friendly Feint | ![](small-card-images/FriendlyFeint.png) | ![](small-card-images/FriendlyFeintPlus.png) | Uncommon | Skill | 1 | Apply 15 Block. Apply 5(7) octomod:Constricted. |
-| Harden Body | ![](small-card-images/HardenBody.png) | ![](small-card-images/HardenBodyPlus.png) | Uncommon | Skill | 1 | Gain 4(6) Temporary_HP. Your next card with octomod:Choose has an additional option to gain 4(6) Temporary_HP. |
-| Heat Shield | ![](small-card-images/HeatShield.png) | ![](small-card-images/HeatShieldPlus.png) | Uncommon | Skill | 2 | octomod:Choose 2: Gain 6(8) Block. Whenever you are attacked this turn, deal !octoMagic! damage back. |
+| Friendly Feint | ![](small-card-images/FriendlyFeint.png) | ![](small-card-images/FriendlyFeintPlus.png) | Uncommon | Skill | 1 | Enemy gains 16(8) Block. Apply 5 octomod:Constricted. |
+| Harden Body | ![](small-card-images/HardenBody.png) | ![](small-card-images/HardenBodyPlus.png) | Uncommon | Skill | 1 | Gain 3(4) Temporary_HP. Your next card with octomod:Choose has an additional option to gain 3(4) Temporary_HP. |
+| Heat Shield | ![](small-card-images/HeatShield.png) | ![](small-card-images/HeatShieldPlus.png) | Uncommon | Skill | 2 | octomod:Choose 3: Gain 5(6) Block. Whenever you are attacked this turn, deal !octoMagic! damage back. |
 | Influx | ![](small-card-images/Influx.png) | ![](small-card-images/InfluxPlus.png) | Uncommon | Skill | 1 | Next time you octomod:Choose, octomod:Choose 2 additional times. Exhaust (Exhaustive !stslib:ex!). |
 | Lash | ![](small-card-images/Lash.png) | ![](small-card-images/LashPlus.png) | Uncommon | Attack | 2 | octomod:Choose 3(4): Gain 5 Block. Deal 5 damage. |
 | Leeching Acid | ![](small-card-images/LeechingAcid.png) | ![](small-card-images/LeechingAcidPlus.png) | Uncommon | Skill | 1 | octomod:Choose 1(2): Gain 1 Strength. Enemy loses 1 Strength. Exhaustive !stslib:ex!. |
 | Long Game | ![](small-card-images/LongGame.png) | ![](small-card-images/LongGamePlus.png) | Uncommon | Skill | 1 | The next 2 times you octomod:Choose, octomod:Choose 1 additional time. Exhaust (Exhaustive !stslib:ex!). |
-| Octo Slam | ![](small-card-images/OctoSlam.png) | ![](small-card-images/OctoSlamPlus.png) | Uncommon | Attack | 3 | octomod:Choose 2: Deal 15(18) damage. Deal !secondDamage! damage and gain [E] . |
+| Octo Slam | ![](small-card-images/OctoSlam.png) | ![](small-card-images/OctoSlamPlus.png) | Uncommon | Attack | 3 | octomod:Choose 2: Deal 12(15) damage. Deal !secondDamage! damage and gain [E] . |
 | Rethink | ![](small-card-images/Rethink.png) | ![](small-card-images/RethinkPlus.png) | Uncommon | Skill | 1(0) | Exhaust. octomod:Choose 1: Put a card from your draw pile on top of your draw pile. Put a card from your discard pile on top of your draw pile. |
 | Special Skill | ![](small-card-images/SpecialSkill.png) | ![](small-card-images/SpecialSkillPlus.png) | Uncommon | Skill | 1 | Exhaust. octomod:Choose 1(2): Gain 1 Artifact. Enemy loses 1 Strength. Gain 1 Thorns. |
-| Squeeze Tighter | ![](small-card-images/SqueezeTighter.png) | ![](small-card-images/SqueezeTighterPlus1.png) | Uncommon | Skill | 1 | Can be upgraded any number of times. octomod:Choose 4(7): Apply 2 octomod:Constricted. Gain 2 Block. |
-| Tangle | ![](small-card-images/Tangle.png) | ![](small-card-images/TanglePlus.png) | Uncommon | Attack | 2 | octomod:Choose 2: Deal 10(12) damage. Apply !octoMagic! octomod:Constricted. |
-| Tentaparty | ![](small-card-images/Tentaparty.png) | ![](small-card-images/TentapartyPlus.png) | Uncommon | Skill | 2 | ALL enemies heal 15 HP. Apply 7(10) octomod:Constricted to ALL enemies. |
+| Squeeze Tighter | ![](small-card-images/SqueezeTighter.png) | ![](small-card-images/SqueezeTighterPlus1.png) | Uncommon | Skill | 1 | Can be upgraded any number of times. Apply 2(4) Constricted. |
+| Tangle | ![](small-card-images/Tangle.png) | ![](small-card-images/TanglePlus.png) | Uncommon | Attack | 2 | octomod:Choose 2: Deal 8(10) damage. Apply !octoMagic! octomod:Constricted. |
+| Tentaparty | ![](small-card-images/Tentaparty.png) | ![](small-card-images/TentapartyPlus.png) | Uncommon | Skill | 2 | ALL enemies heal 15 HP. Apply 6(9) octomod:Constricted to ALL enemies. |
 | Tighten | ![](small-card-images/Tighten.png) | ![](small-card-images/TightenPlus.png) | Uncommon | Skill | 0 | Can only be played if ALL enemies are octomod:Constricted. Apply 2(3) octomod:Constricted to ALL enemies. Draw 1 card. |
-| Vengeful Splash | ![](small-card-images/VengefulSplash.png) | ![](small-card-images/VengefulSplashPlus.png) | Uncommon | Attack | 2 | Deal 15(20) damage. Repeat for every enemy slain this combat. |
+| Tobey Maguire | ![](small-card-images/TobeyMaguire.png) | ![](small-card-images/TobeyMaguirePlus.png) | Uncommon | Power | 1 | (Innate.)  At the end of your turn, either gain 2 Block or deal 4 damage to ALL enemies. |
+| Vengeful Splash | ![](small-card-images/VengefulSplash.png) | ![](small-card-images/VengefulSplashPlus.png) | Uncommon | Attack | 2 | Deal 14(18) damage. Repeat for every enemy slain this combat. |
 | Big Slap | ![](small-card-images/BigSlap.png) | ![](small-card-images/BigSlapPlus.png) | Rare | Attack | 1 | Deal 15(20) damage. Exhaustive !stslib:ex!. |
 | Dish | ![](small-card-images/Dish.png) | ![](small-card-images/DishPlus.png) | Rare | Skill | (2) | Unplayable (octomod:Choose 1 non-rare Octopus card(s)). Did you know: You can commission Vex to make your custom character! Contact Vex'd#2468 on Discord for more info (Replace this card with those ones permanently).  (Exhaust.) |
-| Donu || Deca | ![](small-card-images/DonuDeca.png) | ![](small-card-images/DonuDecaPlus.png) | Rare | Attack | 3 | Shuffle 2 Dazed into your draw pile. octomod:Choose 1(2): Gain 16 Block. Deal 10 damage twice. Gain 3 Strength. |
+| Donu || Deca | ![](small-card-images/DonuDeca.png) | ![](small-card-images/DonuDecaPlus.png) | Rare | Attack | 3 | Shuffle !octoMagic! Dazed into your draw pile. octomod:Choose 2: Gain 16 Block. Deal 10 damage twice. Gain 3 Strength. |
 | Eightfold Wrath | ![](small-card-images/EightfoldWrath.png) | ![](small-card-images/EightfoldWrathPlus.png) | Rare | Attack | 3(2) | Exhaust. octomod:Choose 8: Deal 3 damage to ALL enemies. Gain 2 Block. Draw 1 card. Apply 1 Weak. Apply 1 Vulnerable. Apply 1 octomod:Constricted. Gain 1 Temporary_HP. Gain 2 Gold. |
 | Ensnare | ![](small-card-images/Ensnare.png) | ![](small-card-images/EnsnarePlus.png) | Rare | Skill | 2(1) | Exhaust. octomod:Choose 1: Double the enemy's octomod:Constricted. |
-| Expansion | ![](small-card-images/Expansion.png) | ![](small-card-images/ExpansionPlus.png) | Rare | Skill | 2(1) | Exhaust. Ethereal. octomod:Choose 1: Heal 5 HP. Gain 10 Gold. Obtain a random potion. |
 | Extra Arm | ![](small-card-images/ExtraArm.png) | ![](small-card-images/ExtraArmPlus.png) | Rare | Power | 2(1) | octomod:Choose 1: At the start of your turn, draw 1 additional card. The first octomod:Choose card you play each turn has 1 additional choice. |
 | Grand Fin-ale | ![](small-card-images/GrandFin-ale.png) | ![](small-card-images/GrandFin-alePlus.png) | Rare | Attack | 3(2) | Deal 15 damage. octomod:Choose -2: Deal !secondDamage! damage. |
 | Hindsight | ![](small-card-images/Hindsight.png) | ![](small-card-images/HindsightPlus.png) | Rare | Skill | 1(0) | Your next card with octomod:Choose also has all the options of your last card with octomod:Choose. Exhaust. |
 | Indecisiveness | ![](small-card-images/Indecisiveness.png) | ![](small-card-images/IndecisivenessPlus.png) | Rare | Skill | 1(0) | Whenever you octomod:Choose this turn, trigger the effects of ALL options. Exhaust. |
 | Ink Splat | ![](small-card-images/InkSplat.png) | ![](small-card-images/InkSplatPlus.png) | Rare | Skill | 1(0) | Enemy becomes Stunned. You can't read choices until the end of your next turn. Exhaust. |
 | Kraken Form | ![](small-card-images/KrakenForm.png) | ![](small-card-images/KrakenFormPlus.png) | Rare | Power | 3(2) | Whenever you octomod:Choose, octomod:Choose 1 additional time. |
-| Life Tap | ![](small-card-images/LifeTap.png) | ![](small-card-images/LifeTapPlus.png) | Rare | Skill | 2 | Exhaust. octomod:Choose 666: Lose !octoMagic! HP and play the top card of your draw pile at the end of the turn. End the turn. |
+| Life Tap | ![](small-card-images/LifeTap.png) | ![](small-card-images/LifeTapPlus.png) | Rare | Skill | 2 | You may lose !octoMagic! HP, draw 1 card, and gain [E] any number of times. Exhaust. |
 | Magnum Octopus | ![](small-card-images/MagnumOctopus.png) | ![](small-card-images/MagnumOctopusPlus.png) | Rare | Skill | 1(0) | Exhaust. Increase this card's Choose amount by 1 permanently. octomod:Choose 1: Apply 2 Constricted. Gain 2 Block. |
-| Mirror Body | ![](small-card-images/MirrorBody.png) | ![](small-card-images/MirrorBodyPlus.png) | Rare | Power | 2 | Starts combat in your discard pile. (not Starts combat in your discard pile.) Reflect all damage. |
-| Power Pulse | ![](small-card-images/PowerPulse.png) | ![](small-card-images/PowerPulsePlus.png) | Rare | Skill | 1 | Next time you octomod:Choose, octomod:Choose 3(5) additional times. Exhaust. |
+| Mirror Body | ![](small-card-images/MirrorBody.png) | ![](small-card-images/MirrorBodyPlus.png) | Rare | Power | 2 | Grave. (not Grave.) Whenever you receive damage, deal that much damage back. |
+| Power Pulse | ![](small-card-images/PowerPulse.png) | ![](small-card-images/PowerPulsePlus.png) | Rare | Skill | 1 | Next time you octomod:Choose, octomod:Choose 3(4) additional times. Exhaust. |
+| Shifting Octopus | ![](small-card-images/ShiftingOctopus.png) | ![](small-card-images/ShiftingOctopusPlus.png) | Rare | Attack | 1 | octomod:Choose 2(3): Deal 6 damage. Gain 5 Block. Next turn, gain 5 Block. Apply 1 Weak. Apply 1 Vulnerable. Gain 1 Energy. Next turn, gain 1 Energy. Draw 1 card. Next turn, draw 1 additional card. Enemy loses 2 Strength this turn. Gain 2 Strength this turn. Upgrade a random card in your hand. Exhaust a card in your hand. Whenever you are attacked this turn, deal 4 damage back. Randomize the cost of your hand. |
 | Spiny Arms | ![](small-card-images/SpinyArms.png) | ![](small-card-images/SpinyArmsPlus.png) | Rare | Power | 3(2) | Whenever an Attack deals unblocked damage, apply 1 octomod:Constricted. |
-| The Shifting Octopus | ![](small-card-images/TheShiftingOctopus.png) | ![](small-card-images/TheShiftingOctopusPlus.png) | Rare | Attack | 1 | octomod:Choose 2(3): Deal 6 damage. Gain 5 Block. Next turn, gain 5 Block. Apply 1 Weak. Apply 1 Vulnerable. Gain 1 Energy. Next turn, gain 1 Energy. Draw 1 card. Next turn, draw 1 additional card. Enemy loses 2 Strength this turn. Gain 2 Strength this turn. Upgrade a random card in your hand. Exhaust a card in your hand. Whenever you are attacked this turn, deal 4 damage back. Randomize the cost of your hand. |
+| Treasure Chest | ![](small-card-images/TreasureChest.png) | ![](small-card-images/TreasureChestPlus.png) | Rare | Skill | 2(1) | Ethereal. Exhaust. octomod:Choose 1: Heal 5 HP. Gain 10 Gold. Obtain a random potion. |
 
 
 
@@ -91,8 +95,9 @@
 | Image | Name | Rarity | Color | Description | Flavor |
 | ----- | ---- | ------ | ----- | ----------- | ------ |
 | ![](relics/InkBottle.png) | Ink Bottle | Starter | Octo_gray_color | The first time you #yoctomod:Choose each combat, #yoctomod:Choose #b1 additional time. | bloorp bloorp |
-| ![](relics/Blindfold.png) | Blindfold | Boss | Octo_gray_color | Gain [E] at the start of your turn. You cannot read choices. | bloorp? bloorp. bloorp... bloorp? |
-| ![](relics/Inkjector.png) | Inkjector | Boss | Octo_gray_color | Replaces [#005466ff]Ink[] [#005466ff]Bottle[][#005466ff].[] NL The first time you #yoctomod:Choose each turn, #yoctomod:Choose #b1 additional time. | bloorp. bloorp bloorp. |
+| ![](relics/Choiceinator.png) | Choiceinator | Common | Octo_gray_color | Every #b10th time you #yoctomod:Choose, #yoctomod:Choose #b1 additional time. | bloorp |
+| ![](relics/Blindfold.png) | Fake Beard | Boss | Octo_gray_color | Gain [E] at the start of your turn. You cannot read choices. | bloorp? bloorp. bloorp... bloorp? |
+| ![](relics/Inkjector.png) | Inkjector | Boss | Octo_gray_color | Replaces [#46ffc0ff]Ink[] [#46ffc0ff]Bottle[][#46ffc0ff].[] NL The first time you #yoctomod:Choose each turn, #yoctomod:Choose #b1 additional time. | bloorp. bloorp bloorp. |
 
 
 

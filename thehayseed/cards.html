@@ -1,0 +1,790 @@
+<!DOCTYPE html!>
+<html>
+  <head>
+    <title>The Hayseed cards</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+  </head>
+  <body>
+    <h1>The Hayseed cards</h1>
+    <table class="sortable">
+  <tr>
+    <th>Name</th>
+    <th>Image</th>
+    <th>Upgraded image</th>
+    <th>Rarity</th>
+    <th>Type</th>
+    <th>Cost</th>
+    <th>Description</th>
+  </tr>
+  
+  <tr>
+    <td>Defend</td>
+    <td><a href="card-images/Defend.png"><img src="small-card-images/Defend.png" height="298"></a></td>
+    <td><a href="card-images/DefendPlus.png"><img src="small-card-images/DefendPlus.png" height="298"></a></td>
+    <td>Basic</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Gain 5(8) Block.</td>
+  </tr>
+  
+  <tr>
+    <td>Haymaker</td>
+    <td><a href="card-images/Haymaker.png"><img src="small-card-images/Haymaker.png" height="298"></a></td>
+    <td><a href="card-images/HaymakerPlus.png"><img src="small-card-images/HaymakerPlus.png" height="298"></a></td>
+    <td>Basic</td>
+    <td>Attack</td>
+    <td>2</td>
+    <td>Deal 9(13) damage.
+Heal 4(6) HP.
+Apply 1 Vulnerable to ALL enemies.
+Exhaust.</td>
+  </tr>
+  
+  <tr>
+    <td>Reap and Sow</td>
+    <td><a href="card-images/ReapandSow.png"><img src="small-card-images/ReapandSow.png" height="298"></a></td>
+    <td><a href="card-images/ReapandSowPlus.png"><img src="small-card-images/ReapandSowPlus.png" height="298"></a></td>
+    <td>Basic</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 4(6) damage to ALL enemies.
+Plant 1(2) Potatoes, then add a Cultivate to your discard pile if you have any Mature Crops.</td>
+  </tr>
+  
+  <tr>
+    <td>Strike</td>
+    <td><a href="card-images/Strike.png"><img src="small-card-images/Strike.png" height="298"></a></td>
+    <td><a href="card-images/StrikePlus.png"><img src="small-card-images/StrikePlus.png" height="298"></a></td>
+    <td>Basic</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 6(9) damage.</td>
+  </tr>
+  
+  <tr>
+    <td>Aerate</td>
+    <td><a href="card-images/Aerate.png"><img src="small-card-images/Aerate.png" height="298"></a></td>
+    <td><a href="card-images/AeratePlus.png"><img src="small-card-images/AeratePlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>2</td>
+    <td>Gain 9(13) Block.
+Plant 2 of your newest Crop.</td>
+  </tr>
+  
+  <tr>
+    <td>Bumper Crop</td>
+    <td><a href="card-images/BumperCrop.png"><img src="small-card-images/BumperCrop.png" height="298"></a></td>
+    <td><a href="card-images/BumperCropPlus.png"><img src="small-card-images/BumperCropPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Gain 7(10) Block.
+Harvest 1 of your newest Crop.</td>
+  </tr>
+  
+  <tr>
+    <td>Close Scrape</td>
+    <td><a href="card-images/CloseScrape.png"><img src="small-card-images/CloseScrape.png" height="298"></a></td>
+    <td><a href="card-images/CloseScrapePlus.png"><img src="small-card-images/CloseScrapePlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 9(12) damage.
+Plant 1 of your oldest Crop.</td>
+  </tr>
+  
+  <tr>
+    <td>Culling Strike</td>
+    <td><a href="card-images/CullingStrike.png"><img src="small-card-images/CullingStrike.png" height="298"></a></td>
+    <td><a href="card-images/CullingStrikePlus.png"><img src="small-card-images/CullingStrikePlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 7(9) damage.
+If you've Harvested this turn, deal 7(9) damage again.</td>
+  </tr>
+  
+  <tr>
+    <td>Double Barrel</td>
+    <td><a href="card-images/DoubleBarrel.png"><img src="small-card-images/DoubleBarrel.png" height="298"></a></td>
+    <td><a href="card-images/DoubleBarrelPlus.png"><img src="small-card-images/DoubleBarrelPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 6(9) damage.
+If the enemy is Weak, gain [E] and deal 6(9) damage again.</td>
+  </tr>
+  
+  <tr>
+    <td>Ferment</td>
+    <td><a href="card-images/Ferment.png"><img src="small-card-images/Ferment.png" height="298"></a></td>
+    <td><a href="card-images/FermentPlus.png"><img src="small-card-images/FermentPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Shuffle 2 cards from your hand into your draw pile (, then draw a card).
+Gain 2 Energy.</td>
+  </tr>
+  
+  <tr>
+    <td>Fertilaser</td>
+    <td><a href="card-images/Fertilaser.png"><img src="small-card-images/Fertilaser.png" height="298"></a></td>
+    <td><a href="card-images/FertilaserPlus.png"><img src="small-card-images/FertilaserPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Attack</td>
+    <td>2</td>
+    <td>Deal 11(14) damage.
+Plant 1 more of each Crop.</td>
+  </tr>
+  
+  <tr>
+    <td>Onion Bloom</td>
+    <td><a href="card-images/OnionBloom.png"><img src="small-card-images/OnionBloom.png" height="298"></a></td>
+    <td><a href="card-images/OnionBloomPlus.png"><img src="small-card-images/OnionBloomPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>0</td>
+    <td>Innate.
+Plant 1 Onion.
+Draw a card.
+Discard a card.
+Exhaust. (not
+Exhaust.)</td>
+  </tr>
+  
+  <tr>
+    <td>Onions</td>
+    <td><a href="card-images/Onions.png"><img src="small-card-images/Onions.png" height="298"></a></td>
+    <td><a href="card-images/OnionsPlus.png"><img src="small-card-images/OnionsPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Power</td>
+    <td>1(0)</td>
+    <td>Plant 3 Onions.</td>
+  </tr>
+  
+  <tr>
+    <td>Pest Management</td>
+    <td><a href="card-images/PestManagement.png"><img src="small-card-images/PestManagement.png" height="298"></a></td>
+    <td><a href="card-images/PestManagementPlus.png"><img src="small-card-images/PestManagementPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 8(10) damage.
+Next turn, gain 8(10) Block.</td>
+  </tr>
+  
+  <tr>
+    <td>Potatoes</td>
+    <td><a href="card-images/Potatoes.png"><img src="small-card-images/Potatoes.png" height="298"></a></td>
+    <td><a href="card-images/PotatoesPlus.png"><img src="small-card-images/PotatoesPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Power</td>
+    <td>1(0)</td>
+    <td>Plant 3 Potatoes.</td>
+  </tr>
+  
+  <tr>
+    <td>Pruning</td>
+    <td><a href="card-images/Pruning.png"><img src="small-card-images/Pruning.png" height="298"></a></td>
+    <td><a href="card-images/PruningPlus.png"><img src="small-card-images/PruningPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>0</td>
+    <td>Harvest all of your oldest Crop, then Plant 1(2) stack(s).</td>
+  </tr>
+  
+  <tr>
+    <td>Rototilling</td>
+    <td><a href="card-images/Rototilling.png"><img src="small-card-images/Rototilling.png" height="298"></a></td>
+    <td><a href="card-images/RototillingPlus.png"><img src="small-card-images/RototillingPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Draw 2(3) cards.
+Exhaust a card from your hand.</td>
+  </tr>
+  
+  <tr>
+    <td>Salad Shooter</td>
+    <td><a href="card-images/SaladShooter.png"><img src="small-card-images/SaladShooter.png" height="298"></a></td>
+    <td><a href="card-images/SaladShooterPlus.png"><img src="small-card-images/SaladShooterPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 6(7) damage to a random enemy.
+Repeat for each time you've Harvested this turn.</td>
+  </tr>
+  
+  <tr>
+    <td>Seed Coat</td>
+    <td><a href="card-images/SeedCoat.png"><img src="small-card-images/SeedCoat.png" height="298"></a></td>
+    <td><a href="card-images/SeedCoatPlus.png"><img src="small-card-images/SeedCoatPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Gain 12 Block.
+The first time this card is played this combat, decrease its Block by 8(4) and it gains Exhaust.</td>
+  </tr>
+  
+  <tr>
+    <td>Slash And Burn</td>
+    <td><a href="card-images/SlashAndBurn.png"><img src="small-card-images/SlashAndBurn.png" height="298"></a></td>
+    <td><a href="card-images/SlashAndBurnPlus.png"><img src="small-card-images/SlashAndBurnPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 7(10) damage.
+Apply 7(10) Burning.</td>
+  </tr>
+  
+  <tr>
+    <td>Spice Up</td>
+    <td><a href="card-images/SpiceUp.png"><img src="small-card-images/SpiceUp.png" height="298"></a></td>
+    <td><a href="card-images/SpiceUpPlus.png"><img src="small-card-images/SpiceUpPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Apply 10(12) Burning.
+Draw 1 (2) card(s).</td>
+  </tr>
+  
+  <tr>
+    <td>Squash</td>
+    <td><a href="card-images/Squash.png"><img src="small-card-images/Squash.png" height="298"></a></td>
+    <td><a href="card-images/SquashPlus.png"><img src="small-card-images/SquashPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Power</td>
+    <td>1(0)</td>
+    <td>Plant 3 Squash.</td>
+  </tr>
+  
+  <tr>
+    <td>Swelter</td>
+    <td><a href="card-images/Swelter.png"><img src="small-card-images/Swelter.png" height="298"></a></td>
+    <td><a href="card-images/SwelterPlus.png"><img src="small-card-images/SwelterPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>0</td>
+    <td>Apply 1 (2) Weak and 4(6) Burning.
+Gain 4(6) Block.</td>
+  </tr>
+  
+  <tr>
+    <td>Toughen Up</td>
+    <td><a href="card-images/ToughenUp.png"><img src="small-card-images/ToughenUp.png" height="298"></a></td>
+    <td><a href="card-images/ToughenUpPlus.png"><img src="small-card-images/ToughenUpPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Gain 8 Block.
+If you have any Squash, Plant 1(2) Squash.</td>
+  </tr>
+  
+  <tr>
+    <td>Artichokes</td>
+    <td><a href="card-images/Artichokes.png"><img src="small-card-images/Artichokes.png" height="298"></a></td>
+    <td><a href="card-images/ArtichokesPlus.png"><img src="small-card-images/ArtichokesPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Power</td>
+    <td>2(1)</td>
+    <td>Plant 2 Artichokes.</td>
+  </tr>
+  
+  <tr>
+    <td>Controlled Burn</td>
+    <td><a href="card-images/ControlledBurn.png"><img src="small-card-images/ControlledBurn.png" height="298"></a></td>
+    <td><a href="card-images/ControlledBurnPlus.png"><img src="small-card-images/ControlledBurnPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Apply 14(20) Burning.
+Exhaust if the enemy didn't already have Burning.</td>
+  </tr>
+  
+  <tr>
+    <td>Corn</td>
+    <td><a href="card-images/Corn.png"><img src="small-card-images/Corn.png" height="298"></a></td>
+    <td><a href="card-images/CornPlus.png"><img src="small-card-images/CornPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Power</td>
+    <td>1</td>
+    <td>Plant 1(2) Corn.</td>
+  </tr>
+  
+  <tr>
+    <td>Crop Rotation</td>
+    <td><a href="card-images/CropRotation.png"><img src="small-card-images/CropRotation.png" height="298"></a></td>
+    <td><a href="card-images/CropRotationPlus.png"><img src="small-card-images/CropRotationPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>2(1)</td>
+    <td>Harvest all of a random Crop.
+Gain a random In-Season Crop Power card.</td>
+  </tr>
+  
+  <tr>
+    <td>Dig In</td>
+    <td><a href="card-images/DigIn.png"><img src="small-card-images/DigIn.png" height="298"></a></td>
+    <td><a href="card-images/DigInPlus.png"><img src="small-card-images/DigInPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>0</td>
+    <td>Gain 10(14) Block.
+Add a Depletion to your discard pile.</td>
+  </tr>
+  
+  <tr>
+    <td>Germinate</td>
+    <td><a href="card-images/Germinate.png"><img src="small-card-images/Germinate.png" height="298"></a></td>
+    <td><a href="card-images/GerminatePlus.png"><img src="small-card-images/GerminatePlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>If your newest Crop is Mature, gain 14(18) Block. Otherwise, Plant 2 of that Crop.</td>
+  </tr>
+  
+  <tr>
+    <td>Go to Market</td>
+    <td><a href="card-images/GotoMarket.png"><img src="small-card-images/GotoMarket.png" height="298"></a></td>
+    <td><a href="card-images/GotoMarketPlus.png"><img src="small-card-images/GotoMarketPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>1(0)</td>
+    <td>Draw a card for each different type of Crop you have.</td>
+  </tr>
+  
+  <tr>
+    <td>Innovate</td>
+    <td><a href="card-images/Innovate.png"><img src="small-card-images/Innovate.png" height="298"></a></td>
+    <td><a href="card-images/InnovatePlus.png"><img src="small-card-images/InnovatePlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Add a random card with Harvest to your hand. It costs 0 this turn (combat).</td>
+  </tr>
+  
+  <tr>
+    <td>Keen Edge</td>
+    <td><a href="card-images/KeenEdge.png"><img src="small-card-images/KeenEdge.png" height="298"></a></td>
+    <td><a href="card-images/KeenEdgePlus.png"><img src="small-card-images/KeenEdgePlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Ethereal.
+(not Ethereal.)
+Deal 9 damage.
+Increase this card's damage by 9 and its cost by 1 this combat.</td>
+  </tr>
+  
+  <tr>
+    <td>Mulch</td>
+    <td><a href="card-images/Mulch.png"><img src="small-card-images/Mulch.png" height="298"></a></td>
+    <td><a href="card-images/MulchPlus.png"><img src="small-card-images/MulchPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>1(0)</td>
+    <td>Exhaust a card, then gain an effect based on its type:
+NL Attack: Gain 6 Block.
+Skill: Apply 4 Burning to ALL.
+All Others: Draw 2 cards.</td>
+  </tr>
+  
+  <tr>
+    <td>Polyculture</td>
+    <td><a href="card-images/Polyculture.png"><img src="small-card-images/Polyculture.png" height="298"></a></td>
+    <td><a href="card-images/PolyculturePlus.png"><img src="small-card-images/PolyculturePlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Shuffle 2(3) random Crop Power cards into your draw pile.
+Exhaust.</td>
+  </tr>
+  
+  <tr>
+    <td>Rake</td>
+    <td><a href="card-images/Rake.png"><img src="small-card-images/Rake.png" height="298"></a></td>
+    <td><a href="card-images/RakePlus.png"><img src="small-card-images/RakePlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 7(8) damage.
+Apply 1(2) Weak.</td>
+  </tr>
+  
+  <tr>
+    <td>Root Down</td>
+    <td><a href="card-images/RootDown.png"><img src="small-card-images/RootDown.png" height="298"></a></td>
+    <td><a href="card-images/RootDownPlus.png"><img src="small-card-images/RootDownPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Attack</td>
+    <td>0</td>
+    <td>(Innate.)
+ Deal 6 damage.
+If Turnips are Mature, Harvest all Turnips. Otherwise, Plant 1 Turnips.</td>
+  </tr>
+  
+  <tr>
+    <td>Soil Sample</td>
+    <td><a href="card-images/SoilSample.png"><img src="small-card-images/SoilSample.png" height="298"></a></td>
+    <td><a href="card-images/SoilSamplePlus.png"><img src="small-card-images/SoilSamplePlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Shuffle up to 3 cards from your discard pile into your draw pile, then draw (Draw) a card. It costs 0 this turn.
+Exhaust. (not
+Exhaust.)</td>
+  </tr>
+  
+  <tr>
+    <td>Stock the Cellar</td>
+    <td><a href="card-images/StocktheCellar.png"><img src="small-card-images/StocktheCellar.png" height="298"></a></td>
+    <td><a href="card-images/StocktheCellarPlus.png"><img src="small-card-images/StocktheCellarPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Ethereal.
+Gain 6(8) Block.
+Each time this is card shuffled into your draw pile, increase its Block by 2(3) for this combat.</td>
+  </tr>
+  
+  <tr>
+    <td>Sunchoke</td>
+    <td><a href="card-images/Sunchoke.png"><img src="small-card-images/Sunchoke.png" height="298"></a></td>
+    <td><a href="card-images/SunchokePlus.png"><img src="small-card-images/SunchokePlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 7(9) damage to ALL enemies.
+Each Weak enemy that takes damage also gains 7(9) Burning.</td>
+  </tr>
+  
+  <tr>
+    <td>Sunflowers</td>
+    <td><a href="card-images/Sunflowers.png"><img src="small-card-images/Sunflowers.png" height="298"></a></td>
+    <td><a href="card-images/SunflowersPlus.png"><img src="small-card-images/SunflowersPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Power</td>
+    <td>1</td>
+    <td>Plant 1(2) Sunflower(s).</td>
+  </tr>
+  
+  <tr>
+    <td>Sunseed</td>
+    <td><a href="card-images/Sunseed.png"><img src="small-card-images/Sunseed.png" height="298"></a></td>
+    <td><a href="card-images/SunseedPlus.png"><img src="small-card-images/SunseedPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Attack</td>
+    <td>0</td>
+    <td>(Innate.) When drawn, copy this card if your discard is empty.
+Deal 3 damage and gain [E].
+Exhaust.</td>
+  </tr>
+  
+  <tr>
+    <td>Thresh</td>
+    <td><a href="card-images/Thresh.png"><img src="small-card-images/Thresh.png" height="298"></a></td>
+    <td><a href="card-images/ThreshPlus.png"><img src="small-card-images/ThreshPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Attack</td>
+    <td>3</td>
+    <td>Deal 22(28) damage.
+Costs [E] less for each time you Harvest this turn.</td>
+  </tr>
+  
+  <tr>
+    <td>Turnips</td>
+    <td><a href="card-images/Turnips.png"><img src="small-card-images/Turnips.png" height="298"></a></td>
+    <td><a href="card-images/TurnipsPlus.png"><img src="small-card-images/TurnipsPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Power</td>
+    <td>1</td>
+    <td>Plant 2(3) Turnips.</td>
+  </tr>
+  
+  <tr>
+    <td>Vine Ripen</td>
+    <td><a href="card-images/VineRipen.png"><img src="small-card-images/VineRipen.png" height="298"></a></td>
+    <td><a href="card-images/VineRipenPlus.png"><img src="small-card-images/VineRipenPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>2(1)</td>
+    <td>Plant 2 Squash.
+If Squash is Mature, Block is not removed at the start of your next turn.</td>
+  </tr>
+  
+  <tr>
+    <td>Asparagus</td>
+    <td><a href="card-images/Asparagus.png"><img src="small-card-images/Asparagus.png" height="298"></a></td>
+    <td><a href="card-images/AsparagusPlus.png"><img src="small-card-images/AsparagusPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Power</td>
+    <td>1</td>
+    <td>Plant 1(2) Asparagus.</td>
+  </tr>
+  
+  <tr>
+    <td>Barnstorm</td>
+    <td><a href="card-images/Barnstorm.png"><img src="small-card-images/Barnstorm.png" height="298"></a></td>
+    <td><a href="card-images/BarnstormPlus.png"><img src="small-card-images/BarnstormPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Attack</td>
+    <td>3</td>
+    <td>Deal 4 damage to a random enemy (ALL enemies) for each Crop stack you have.
+Mature Crops deal double damage.
+Exhaust.</td>
+  </tr>
+  
+  <tr>
+    <td>Biorefinement</td>
+    <td><a href="card-images/Biorefinement.png"><img src="small-card-images/Biorefinement.png" height="298"></a></td>
+    <td><a href="card-images/BiorefinementPlus.png"><img src="small-card-images/BiorefinementPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Power</td>
+    <td>2(1)</td>
+    <td>The first time each turn that you play a card with Harvest, reduce the cost of a random card in your hand by 1 this combat.</td>
+  </tr>
+  
+  <tr>
+    <td>Birdfeeder</td>
+    <td><a href="card-images/Birdfeeder.png"><img src="small-card-images/Birdfeeder.png" height="298"></a></td>
+    <td><a href="card-images/BirdfeederPlus.png"><img src="small-card-images/BirdfeederPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Power</td>
+    <td>1</td>
+    <td>The next 3(5) times you play a Power card this combat, heal 4 HP.</td>
+  </tr>
+  
+  <tr>
+    <td>Buzz Bomb</td>
+    <td><a href="card-images/BuzzBomb.png"><img src="small-card-images/BuzzBomb.png" height="298"></a></td>
+    <td><a href="card-images/BuzzBombPlus.png"><img src="small-card-images/BuzzBombPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Attack</td>
+    <td>2</td>
+    <td>Deal 12 damage to a random enemy 2(3) times.
+Plant 1 Sunflower for each enemy killed this way.</td>
+  </tr>
+  
+  <tr>
+    <td>Chilis</td>
+    <td><a href="card-images/Chilis.png"><img src="small-card-images/Chilis.png" height="298"></a></td>
+    <td><a href="card-images/ChilisPlus.png"><img src="small-card-images/ChilisPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Power</td>
+    <td>1(0)</td>
+    <td>Plant 3 Chilis.</td>
+  </tr>
+  
+  <tr>
+    <td>Crop Diversity</td>
+    <td><a href="card-images/CropDiversity.png"><img src="small-card-images/CropDiversity.png" height="298"></a></td>
+    <td><a href="card-images/CropDiversityPlus.png"><img src="small-card-images/CropDiversityPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Add 1 of 2(3) random Crop Power cards to your hand. It costs 0 this turn.
+Exhaust.</td>
+  </tr>
+  
+  <tr>
+    <td>Desperate Plunge</td>
+    <td><a href="card-images/DesperatePlunge.png"><img src="small-card-images/DesperatePlunge.png" height="298"></a></td>
+    <td><a href="card-images/DesperatePlungePlus.png"><img src="small-card-images/DesperatePlungePlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Skill</td>
+    <td>3</td>
+    <td>Costs [E] less for each Power card played this turn.
+Gain 30(40) Block.
+Next turn, lose [E].</td>
+  </tr>
+  
+  <tr>
+    <td>Double Digging</td>
+    <td><a href="card-images/DoubleDigging.png"><img src="small-card-images/DoubleDigging.png" height="298"></a></td>
+    <td><a href="card-images/DoubleDiggingPlus.png"><img src="small-card-images/DoubleDiggingPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>This turn, the next (1(2)) card(s) you play that costs (cost) 1 or less is (are) played twice.</td>
+  </tr>
+  
+  <tr>
+    <td>Erosion Control</td>
+    <td><a href="card-images/ErosionControl.png"><img src="small-card-images/ErosionControl.png" height="298"></a></td>
+    <td><a href="card-images/ErosionControlPlus.png"><img src="small-card-images/ErosionControlPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Skill</td>
+    <td>3</td>
+    <td>Harvest all crops.
+Gain 1(2) Intangible.
+Exhaust.</td>
+  </tr>
+  
+  <tr>
+    <td>Fan the Flames</td>
+    <td><a href="card-images/FantheFlames.png"><img src="small-card-images/FantheFlames.png" height="298"></a></td>
+    <td><a href="card-images/FantheFlamesPlus.png"><img src="small-card-images/FantheFlamesPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Apply 10 Burning (to ALL enemies), then double the (each) enemy's Burning.
+Exhaust.</td>
+  </tr>
+  
+  <tr>
+    <td>Fecundity</td>
+    <td><a href="card-images/Fecundity.png"><img src="small-card-images/Fecundity.png" height="298"></a></td>
+    <td><a href="card-images/FecundityPlus.png"><img src="small-card-images/FecundityPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Power</td>
+    <td>3(2)</td>
+    <td>Gain 1 Abundance.</td>
+  </tr>
+  
+  <tr>
+    <td>Flash Pasteurize</td>
+    <td><a href="card-images/FlashPasteurize.png"><img src="small-card-images/FlashPasteurize.png" height="298"></a></td>
+    <td><a href="card-images/FlashPasteurizePlus.png"><img src="small-card-images/FlashPasteurizePlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Attack</td>
+    <td>0</td>
+    <td>Deal 7 damage to ALL characters.
+Remove all of your Debuffs.
+(Gain 7 Block.)
+ Exhaust.</td>
+  </tr>
+  
+  <tr>
+    <td>Hit the Sack</td>
+    <td><a href="card-images/HittheSack.png"><img src="small-card-images/HittheSack.png" height="298"></a></td>
+    <td><a href="card-images/HittheSackPlus.png"><img src="small-card-images/HittheSackPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Attack</td>
+    <td>X</td>
+    <td>Deal 7 damage X (X+1) times.
+Plant X (X+1) Potatoes.</td>
+  </tr>
+  
+  <tr>
+    <td>Land Grant</td>
+    <td><a href="card-images/LandGrant.png"><img src="small-card-images/LandGrant.png" height="298"></a></td>
+    <td><a href="card-images/LandGrantPlus.png"><img src="small-card-images/LandGrantPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Power</td>
+    <td>1</td>
+    <td>Gain 1(2) Plot(s).</td>
+  </tr>
+  
+  <tr>
+    <td>Mushrooms</td>
+    <td><a href="card-images/Mushrooms.png"><img src="small-card-images/Mushrooms.png" height="298"></a></td>
+    <td><a href="card-images/MushroomsPlus.png"><img src="small-card-images/MushroomsPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Power</td>
+    <td>2(1)</td>
+    <td>Plant 2 Mushrooms.</td>
+  </tr>
+  
+  <tr>
+    <td>Photosynthesis</td>
+    <td><a href="card-images/Photosynthesis.png"><img src="small-card-images/Photosynthesis.png" height="298"></a></td>
+    <td><a href="card-images/PhotosynthesisPlus.png"><img src="small-card-images/PhotosynthesisPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Power</td>
+    <td>1(0)</td>
+    <td>At the end of your turn, spend all your unused Energy and Plant that many random In-Season Crops.</td>
+  </tr>
+  
+  <tr>
+    <td>Research Grant</td>
+    <td><a href="card-images/ResearchGrant.png"><img src="small-card-images/ResearchGrant.png" height="298"></a></td>
+    <td><a href="card-images/ResearchGrantPlus.png"><img src="small-card-images/ResearchGrantPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Gain 16(20) Block.
+Add 2(3) copies of Soil Sample to your discard pile.
+Exhaust.</td>
+  </tr>
+  
+  <tr>
+    <td>Resistant Strain</td>
+    <td><a href="card-images/ResistantStrain.png"><img src="small-card-images/ResistantStrain.png" height="298"></a></td>
+    <td><a href="card-images/ResistantStrainPlus.png"><img src="small-card-images/ResistantStrainPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Power</td>
+    <td>1</td>
+    <td>Whenever you apply a debuff to an enemy, gain 4(5) Block.</td>
+  </tr>
+  
+  <tr>
+    <td>Salt the Earth</td>
+    <td><a href="card-images/SalttheEarth.png"><img src="small-card-images/SalttheEarth.png" height="298"></a></td>
+    <td><a href="card-images/SalttheEarthPlus.png"><img src="small-card-images/SalttheEarthPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Attack</td>
+    <td>2</td>
+    <td>Deal 24(32) damage to ALL enemies.
+Add 2 Depletions to your hand.</td>
+  </tr>
+  
+  <tr>
+    <td>Spinach</td>
+    <td><a href="card-images/Spinach.png"><img src="small-card-images/Spinach.png" height="298"></a></td>
+    <td><a href="card-images/SpinachPlus.png"><img src="small-card-images/SpinachPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Power</td>
+    <td>2(1)</td>
+    <td>Plant 2 Spinach.</td>
+  </tr>
+  
+  <tr>
+    <td>Strawberries</td>
+    <td><a href="card-images/Strawberries.png"><img src="small-card-images/Strawberries.png" height="298"></a></td>
+    <td><a href="card-images/StrawberriesPlus.png"><img src="small-card-images/StrawberriesPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Power</td>
+    <td>1</td>
+    <td>Plant 2(3) Strawberries.</td>
+  </tr>
+  
+  <tr>
+    <td>Surplus</td>
+    <td><a href="card-images/Surplus.png"><img src="small-card-images/Surplus.png" height="298"></a></td>
+    <td><a href="card-images/SurplusPlus.png"><img src="small-card-images/SurplusPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Add 2(3) random Common Crop Power cards to your hand.
+Exhaust.</td>
+  </tr>
+  
+  <tr>
+    <td>Take Heart</td>
+    <td><a href="card-images/TakeHeart.png"><img src="small-card-images/TakeHeart.png" height="298"></a></td>
+    <td><a href="card-images/TakeHeartPlus.png"><img src="small-card-images/TakeHeartPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Skill</td>
+    <td>3(2)</td>
+    <td>Gain 16 Block.
+Heal 5 HP.
+Plant 2 Artichokes.
+Do this again if your HP is at 50% or less.
+Exhaust.</td>
+  </tr>
+  
+  <tr>
+    <td>Volatile Fumes</td>
+    <td><a href="card-images/VolatileFumes.png"><img src="small-card-images/VolatileFumes.png" height="298"></a></td>
+    <td><a href="card-images/VolatileFumesPlus.png"><img src="small-card-images/VolatileFumesPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Power</td>
+    <td>0</td>
+    <td>Whenever you attack an enemy with Weak, apply 4(6) Burning.</td>
+  </tr>
+  
+</table>
+  </body>
+</html>

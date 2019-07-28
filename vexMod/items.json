@@ -12,22 +12,6 @@
   },
   "cards": [
     {
-      "name": "Ghostly Blitz",
-      "color": "Green",
-      "rarity": "Rare",
-      "type": "Skill",
-      "cost": "3",
-      "description": "Play a copy of all Attacks in your Exhaust pile.\nExhaust."
-    },
-    {
-      "name": "Ghostly Blitz+",
-      "color": "Green",
-      "rarity": "Rare",
-      "type": "Skill",
-      "cost": "2",
-      "description": "Play a copy of all Attacks in your Exhaust pile.\nExhaust."
-    },
-    {
       "name": "Virus",
       "color": "Colorless",
       "rarity": "Common",
@@ -100,44 +84,12 @@
       "description": "Costs 1 more for each Act cleared.\nDeal damage equal to your floor number."
     },
     {
-      "name": "Well-Timed Strike",
-      "color": "Colorless",
-      "rarity": "Rare",
-      "type": "Attack",
-      "cost": "3",
-      "description": "Deal 0 damage.\nDamage cycles from 0 to 50 quickly."
-    },
-    {
-      "name": "Well-Timed Strike+",
-      "color": "Colorless",
-      "rarity": "Rare",
-      "type": "Attack",
-      "cost": "3",
-      "description": "Deal 0 damage.\nDamage cycles from 0 to 50 slowly."
-    },
-    {
       "name": "Fear",
       "color": "Curse",
       "rarity": "Curse",
       "type": "Curse",
       "cost": "1",
       "description": "Ethereal.\nAt the end of your turn, gain 1 Vulnerable."
-    },
-    {
-      "name": "Greed",
-      "color": "Curse",
-      "rarity": "Curse",
-      "type": "Curse",
-      "cost": "",
-      "description": "Unplayable.\nAt the end of your turn, lose 6 Gold."
-    },
-    {
-      "name": "Sloth",
-      "color": "Curse",
-      "rarity": "Curse",
-      "type": "Curse",
-      "cost": "",
-      "description": "Unplayable.\nAt the end of your turn, draw 1 less card next turn."
     },
     {
       "name": "The Ultimate Card",
@@ -160,7 +112,7 @@
       "name": "Bandanna of Resilience",
       "tier": "Common",
       "pool": "",
-      "description": "If you have 30 or less HP at the start of your turn, gain 5 Block.",
+      "description": "If you have 25% or less HP at the start of your turn, gain 4 Block.",
       "flavorText": "In your strangest dreams, it appears and yells orders at you."
     },
     {
@@ -227,13 +179,6 @@
       "flavorText": "It's, like, in tune with the planet's energy, dude!"
     },
     {
-      "name": "Special Power Activator",
-      "tier": "Common",
-      "pool": "",
-      "description": "You cannot read this out of combat.",
-      "flavorText": "Does many things!"
-    },
-    {
       "name": "Spotlight",
       "tier": "Common",
       "pool": "Astrologer",
@@ -276,13 +221,6 @@
       "flavorText": "Gold oozes from your wounds."
     },
     {
-      "name": "Dead Requiem",
-      "tier": "Uncommon",
-      "pool": "Bard_color",
-      "description": "Whenever you perform a bard:Melody, bard:Queue a random bard:Note.",
-      "flavorText": "Your toughest sheets."
-    },
-    {
       "name": "Dragon Fruit",
       "tier": "Uncommon",
       "pool": "",
@@ -318,27 +256,6 @@
       "flavorText": "Molten gold pours endlessly down the shrine."
     },
     {
-      "name": "Invisible Cloak",
-      "tier": "Uncommon",
-      "pool": "",
-      "description": "At the start of each combat, ALL enemies lose 1 Strength.",
-      "flavorText": "You're far too modest to \"wear\" this."
-    },
-    {
-      "name": "Key Chain",
-      "tier": "Uncommon",
-      "pool": "",
-      "description": "Start each combat with 1 Intangible.",
-      "flavorText": "Surprisingly blunt!"
-    },
-    {
-      "name": "Orb of Greed",
-      "tier": "Uncommon",
-      "pool": "Blue",
-      "description": "At the start of each combat, Channel 1 Golden \u03C0Lightning.",
-      "flavorText": "Mmm, money!"
-    },
-    {
       "name": "Randomized Relic",
       "tier": "Uncommon",
       "pool": "",
@@ -351,6 +268,13 @@
       "pool": "",
       "description": "Elites drop an additional Rare card reward.",
       "flavorText": "You're bringing this conflict to a head."
+    },
+    {
+      "name": "Special Power Activator",
+      "tier": "Uncommon",
+      "pool": "",
+      "description": "Has a special effect based on what character you're playing as.",
+      "flavorText": "Does many things!"
     },
     {
       "name": "Thirteen-Hour Stone",
@@ -395,13 +319,6 @@
       "flavorText": "Vends only when shown cool techniques."
     },
     {
-      "name": "Code Smelter",
-      "tier": "Rare",
-      "pool": "Blue",
-      "description": "Whenever you Channel an Orb, trigger its passive ability.",
-      "flavorText": "Combines subprocesses into one big clump. Simple!"
-    },
-    {
       "name": "Fake Star",
       "tier": "Rare",
       "pool": "Astrologer",
@@ -409,11 +326,32 @@
       "flavorText": "But if you squint it looks pretty real!"
     },
     {
+      "name": "Gilded Clover",
+      "tier": "Rare",
+      "pool": "",
+      "description": "ALL future cards you find are Rare.",
+      "flavorText": "Super-duper rare!"
+    },
+    {
       "name": "Gravitational Rainbow",
       "tier": "Rare",
       "pool": "Astrologer",
       "description": "At the start of every odd-numbered turn, put the bottom card of your draw pile into your hand.",
       "flavorText": "\"But rainbows aren't affected by gravity!\" you say. Well, pah!"
+    },
+    {
+      "name": "Invisible Cloak",
+      "tier": "Rare",
+      "pool": "",
+      "description": "At the start of each combat, ALL enemies lose 1 Strength.",
+      "flavorText": "You're far too modest to \"wear\" this."
+    },
+    {
+      "name": "Key Chain",
+      "tier": "Rare",
+      "pool": "",
+      "description": "Start each combat with 1 Intangible.",
+      "flavorText": "Surprisingly blunt!"
     },
     {
       "name": "Plasma Pancake",
@@ -577,6 +515,13 @@
       "flavorText": "bottle"
     },
     {
+      "name": "Adventure Map",
+      "tier": "Boss",
+      "pool": "",
+      "description": "ALL ? rooms contain events.",
+      "flavorText": "The real treasure was the friends we made along the way."
+    },
+    {
       "name": "Auto Tuner",
       "tier": "Boss",
       "pool": "Bard_color",
@@ -658,7 +603,7 @@
       "tier": "Boss",
       "pool": "",
       "description": "Prevent ALL HP loss. For every 10 damage prevented, remove a random card from your deck. When your deck has no cards, you lose.",
-      "flavorText": "It feels cold in your hands, no matter what you do ..."
+      "flavorText": "It feels cold in your hands, no matter what you do..."
     },
     {
       "name": "Mall Pass",
@@ -685,7 +630,7 @@
       "name": "New, Clear Reactor",
       "tier": "Boss",
       "pool": "",
-      "description": "Energy is conserved between turns and combats. You no longer gain Energy each turn. Set your energy to 100 upon pickup and at the start of each Act.",
+      "description": "Energy is conserved between turns and combats. You no longer gain Energy each turn. Set your energy to 111 upon pickup and at the start of each Act.",
       "flavorText": "Totally safe! Good for the environment! Fosters mutations!"
     },
     {
@@ -720,15 +665,8 @@
       "name": "Tangling Vine",
       "tier": "Boss",
       "pool": "",
-      "description": "Gain [E] at the start of your turn. Start each combat with 3 Constricted.",
+      "description": "Gain [E] at the start of your turn. At the end of your turn, take 3 damage.",
       "flavorText": "Don't take this the wrong way."
-    },
-    {
-      "name": "Adventure Map",
-      "tier": "Shop",
-      "pool": "",
-      "description": "ALL ? rooms contain events.",
-      "flavorText": "The real treasure was the friends we made along the way."
     },
     {
       "name": "Broken Bowl",
@@ -738,11 +676,11 @@
       "flavorText": "Sand drains from it endlessly."
     },
     {
-      "name": "Cooldron",
+      "name": "Dead Requiem",
       "tier": "Shop",
-      "pool": "",
-      "description": "All Potions you find are Entropic Brews.",
-      "flavorText": "This cauldron is a lot cooler than any regular old cauldron."
+      "pool": "Bard_color",
+      "description": "Whenever you perform a bard:Melody, bard:Queue a random bard:Note.",
+      "flavorText": "Your toughest sheets."
     },
     {
       "name": "Ghostly Gear",
@@ -752,11 +690,11 @@
       "flavorText": "The sword and shield are more difficult to see each time you look."
     },
     {
-      "name": "Gilded Clover",
+      "name": "Naga Cauldron",
       "tier": "Shop",
       "pool": "",
-      "description": "ALL future cards you find are Rare.",
-      "flavorText": "Super-duper rare!"
+      "description": "All Potions you find are Entropic Brews.",
+      "flavorText": "Secretly the greatest playmaker ever to be concieved by mankind."
     },
     {
       "name": "Paid Education",
@@ -766,25 +704,11 @@
       "flavorText": "That was just the down payment."
     },
     {
-      "name": "Pill Tracker",
-      "tier": "Shop",
-      "pool": "",
-      "description": "At the start of turn 5, remove all of your debuffs.",
-      "flavorText": "Always remember to take your medication on time!"
-    },
-    {
       "name": "Salvaging Tools",
       "tier": "Shop",
       "pool": "Green",
       "description": "Whenever you discard a card, reduce the cost of a random card in your hand by 1 this turn.",
       "flavorText": "\"Curious! These primitive things are utterly useless.\" -Ranwid"
-    },
-    {
-      "name": "Scavenger Helm",
-      "tier": "Shop",
-      "pool": "",
-      "description": "At the end of your turn, Retain up to 1 card.",
-      "flavorText": "Used by the tribes far from the Spire."
     },
     {
       "name": "Sextant",

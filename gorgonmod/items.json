@@ -1,0 +1,1092 @@
+{
+  "mod": {
+    "name": "gorgonmod",
+    "version": "0.0.1",
+    "authors": ["Vex'd"],
+    "credits": "",
+    "description": "A very regular gorgon.",
+    "mts_version": "3.8.0",
+    "sts_version": "01-23-2019",
+    "dependencies": ["basemod","stslib"],
+    "optional_dependencies": []
+  },
+  "cards": [
+    {
+      "name": "Deathstare",
+      "color": "Gorgon_purple_color",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Enemy loses 2 Strength this turn.\nGain !deathGaze! gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Deathstare+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Enemy loses 2 Strength this turn.\nGain !deathGaze! gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Defend",
+      "color": "Gorgon_purple_color",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 5 Block."
+    },
+    {
+      "name": "Defend+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block."
+    },
+    {
+      "name": "Snake Skin",
+      "color": "Gorgon_purple_color",
+      "rarity": "Basic",
+      "type": "Power",
+      "cost": "1",
+      "description": "Reduce all your HP loss by 1."
+    },
+    {
+      "name": "Snake Skin+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Basic",
+      "type": "Power",
+      "cost": "0",
+      "description": "Reduce all your HP loss by 1."
+    },
+    {
+      "name": "Strike",
+      "color": "Gorgon_purple_color",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage."
+    },
+    {
+      "name": "Strike+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage."
+    },
+    {
+      "name": "Beamburn",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage.\nGain 2 Block."
+    },
+    {
+      "name": "Beamburn+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage.\nGain 4 Block."
+    },
+    {
+      "name": "Blazeblast",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 12 damage.\nEnemy loses 2 Strength this turn."
+    },
+    {
+      "name": "Blazeblast+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 15 damage.\nEnemy loses 3 Strength this turn."
+    },
+    {
+      "name": "Bloodcast",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Lose 3 HP.\nALL enemies lose 6 Strength this turn."
+    },
+    {
+      "name": "Bloodcast+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Lose 3 HP.\nALL enemies lose 8 Strength this turn."
+    },
+    {
+      "name": "Bloodshield",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Lose 3 HP.\nGain 15 Block."
+    },
+    {
+      "name": "Bloodshield+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Lose 3 HP.\nGain 18 Block."
+    },
+    {
+      "name": "Burning Eyes",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain !deathGaze! gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Burning Eyes+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain !deathGaze! gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Concentrate",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Return a card from your discard pile to your hand.\nGain !deathGaze! gorgonmod:Deathgaze.\nExhaust."
+    },
+    {
+      "name": "Concentrate+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Return a card from your discard pile to your hand.\nGain !deathGaze! gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Dark Presence",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "ALL enemies lose 2 Strength this turn.\nGain !deathGaze! gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Dark Presence+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "ALL enemies lose 3 Strength this turn.\nGain !deathGaze! gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Flamelock",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage.\nGain 2 Temporary_HP."
+    },
+    {
+      "name": "Flamelock+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.\nGain 3 Temporary_HP."
+    },
+    {
+      "name": "Harden Skin",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 5 Temporary_HP."
+    },
+    {
+      "name": "Harden Skin+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Temporary_HP."
+    },
+    {
+      "name": "Meditate",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 7 Block.\nNext turn, draw 1 additional card."
+    },
+    {
+      "name": "Meditate+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 10 Block.\nNext turn, draw 1 additional card."
+    },
+    {
+      "name": "Refreshment",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 3 Temporary_HP.\nDraw 2 cards."
+    },
+    {
+      "name": "Refreshment+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 5 Temporary_HP.\nDraw 2 cards."
+    },
+    {
+      "name": "Scale Shrapnel",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Lose 3 HP.\nDeal 12 damage to ALL enemies."
+    },
+    {
+      "name": "Scale Shrapnel+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Lose 3 HP.\nDeal 15 damage to ALL enemies."
+    },
+    {
+      "name": "Shielded",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 5 Block.\nGain 2 Temporary_HP."
+    },
+    {
+      "name": "Shielded+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 6 Block.\nGain 3 Temporary_HP."
+    },
+    {
+      "name": "Shocker",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 3 damage.\nEnemy loses 1 Strength this turn."
+    },
+    {
+      "name": "Shocker+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 4 damage.\nEnemy loses 2 Strength this turn."
+    },
+    {
+      "name": "Snakebite",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Activate the enemy's Poison.\nDeal 8 damage."
+    },
+    {
+      "name": "Snakebite+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Activate the enemy's Poison.\nDeal 12 damage."
+    },
+    {
+      "name": "Stealing Stare",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Enemy loses 2 Strength this turn.\nGain 2 Temporary_HP."
+    },
+    {
+      "name": "Stealing Stare+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Enemy loses 3 Strength this turn.\nGain 3 Temporary_HP."
+    },
+    {
+      "name": "Stoneglare",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 7 Block.\nGain !deathGaze! gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Stoneglare+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 10 Block.\nGain !deathGaze! gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Triposte",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Lose 3 HP.\nDeal 10 damage.\nGain 8 Block."
+    },
+    {
+      "name": "Triposte+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Lose 3 HP.\nDeal 12 damage.\nGain 10 Block."
+    },
+    {
+      "name": "Zap",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.\nGain !deathGaze! gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Zap+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 12 damage.\nGain !deathGaze! gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Accelerate",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Draw 2 cards.\nGain [E].\nEnemy gains 2 Strength."
+    },
+    {
+      "name": "Accelerate+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Draw 2 cards.\nGain [E] [E] .\nEnemy gains 2 Strength."
+    },
+    {
+      "name": "Allomantic Circle",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Whenever you lose HP or Block this turn, deal 4 damage to ALL enemies."
+    },
+    {
+      "name": "Allomantic Circle+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Whenever you lose HP or Block this turn, deal 6 damage to ALL enemies."
+    },
+    {
+      "name": "Backslash",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.\nDamage is also affected by enemy's Strength."
+    },
+    {
+      "name": "Backslash+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 12 damage.\nDamage is also affected by enemy's Strength."
+    },
+    {
+      "name": "Blare",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 3 Temporary HP.\nGain !deathGaze! gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Blare+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 5 Temporary HP.\nGain !deathGaze! gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Blood Guard",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Lose 3 HP.\nGain 11 Temporary_HP."
+    },
+    {
+      "name": "Blood Guard+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Lose 3 HP.\nGain 13 Temporary_HP."
+    },
+    {
+      "name": "Blooderstanding",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Lose 3 HP.\nGain [E] ."
+    },
+    {
+      "name": "Blooderstanding+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Lose 3 HP.\nGain [E] [E] ."
+    },
+    {
+      "name": "Bloodsight",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Lose 3 HP.\nDraw 3 cards."
+    },
+    {
+      "name": "Bloodsight+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Lose 3 HP.\nDraw 4 cards."
+    },
+    {
+      "name": "Blunder",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Deal 22 damage.\nIf this kills an enemy, gain 8 Temporary_HP."
+    },
+    {
+      "name": "Blunder+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Deal 28 damage.\nIf this kills an enemy, gain 10 Temporary_HP."
+    },
+    {
+      "name": "Bubble Shield",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 5 Block.\nIf the enemy has positive Strength, gain Block equal to their Strength."
+    },
+    {
+      "name": "Bubble Shield+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 6 Block.\nIf the enemy has positive Strength, gain Block equal to their Strength."
+    },
+    {
+      "name": "Bzzt",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the end of your turn, gain 3 gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Bzzt+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the end of your turn, gain 5 gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Cliposte",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Lose 3 HP.\nDeal 12 damage.\nGain 12 Block."
+    },
+    {
+      "name": "Cliposte+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Lose 3 HP.\nDeal 15 damage.\nGain 15 Block."
+    },
+    {
+      "name": "Constrain",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 25 damage.\nEnemy gains 2 Strength."
+    },
+    {
+      "name": "Constrain+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 30 damage.\nEnemy gains 2 Strength."
+    },
+    {
+      "name": "Cripple",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Enemy loses 3 Strength for 2 turns."
+    },
+    {
+      "name": "Cripple+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Enemy loses 4 Strength for 2 turns."
+    },
+    {
+      "name": "Cursed Piercing",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage.\nIn 2 turns, play a Cursed Piercing."
+    },
+    {
+      "name": "Cursed Piercing+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 6 damage.\nIn 2 turns, play a Cursed Piercing."
+    },
+    {
+      "name": "Dualslash",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Lose 3 HP.\nEnemy loses 12 HP."
+    },
+    {
+      "name": "Dualslash+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Lose 3 HP.\nEnemy loses 16 HP."
+    },
+    {
+      "name": "Eye Beam",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal damage equal to your gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Eye Beam+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal damage equal to your gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Leaning Spire of Pisa",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Unplayable.\nRetain.\nWhenever you draw this card, deal 10 damage to ALL enemies."
+    },
+    {
+      "name": "Leaning Spire of Pisa+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Unplayable.\nRetain.\nWhenever you draw this card, deal 14 damage to ALL enemies."
+    },
+    {
+      "name": "Life Drain",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Enemy loses !deathGaze! HP.\nGain 2 Temporary_HP."
+    },
+    {
+      "name": "Life Drain+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Enemy loses !deathGaze! HP.\nGain 3 Temporary_HP."
+    },
+    {
+      "name": "Masterful Stab???",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Can only be played if you have exactly 2 cards in your hand.\nDeal 14 damage."
+    },
+    {
+      "name": "Masterful Stab???+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Can only be played if you have exactly 2 cards in your hand.\nDeal 18 damage."
+    },
+    {
+      "name": "On Guard",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block.\nWhenever you lose HP this turn, gain 2 Block next turn."
+    },
+    {
+      "name": "On Guard+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 10 Block.\nWhenever you lose HP this turn, gain 3 Block next turn."
+    },
+    {
+      "name": "Passion of the Cultist",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Unplayable.\nRetain.\nWhenever you draw this card, gain [E] ."
+    },
+    {
+      "name": "Passion of the Cultist+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Unplayable.\nRetain.\nWhenever you draw this card, gain [E] [E] ."
+    },
+    {
+      "name": "Postpone",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 15 Block.\nEnemy gains 2 Strength."
+    },
+    {
+      "name": "Postpone+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 18 Block.\nEnemy gains 2 Strength."
+    },
+    {
+      "name": "Presto! Curse",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Enemy loses 4 HP at the start of each of its turns."
+    },
+    {
+      "name": "Presto! Curse+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Innate.\nEnemy loses 4 HP at the start of each of its turns."
+    },
+    {
+      "name": "Pyroball",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 16 damage.\nGain !deathGaze! gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Pyroball+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 18 damage.\nGain !deathGaze! gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Retaliation",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you lose HP or Block, gain 2 Deathgaze."
+    },
+    {
+      "name": "Retaliation+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you lose HP or Block, gain 3 Deathgaze."
+    },
+    {
+      "name": "Revolve",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you lose HP, draw 1 card."
+    },
+    {
+      "name": "Revolve+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "0",
+      "description": "Whenever you lose HP, draw 1 card."
+    },
+    {
+      "name": "Seduce",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Lose 3 HP.\nEnemy loses HP equal to its attacking intent."
+    },
+    {
+      "name": "Seduce+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Lose 3 HP.\nALL enemies lose HP equal to their attacking intent."
+    },
+    {
+      "name": "Seen In Half",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage.\nIf the enemy has positive Strength, it loses its Strength this turn."
+    },
+    {
+      "name": "Seen In Half+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 12 damage.\nIf the enemy has positive Strength, it loses its Strength this turn."
+    },
+    {
+      "name": "Sightsing",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "X",
+      "description": "Gain X gorgonmod:Deathgaze twice. Enemy loses X Strength this turn."
+    },
+    {
+      "name": "Sightsing+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "X",
+      "description": "Gain X+1 gorgonmod:Deathgaze twice. Enemy loses X+1 Strength this turn."
+    },
+    {
+      "name": "Snake Stance",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the end of your turn, gain 2 Temporary_HP."
+    },
+    {
+      "name": "Snake Stance+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "0",
+      "description": "At the end of your turn, gain 2 Temporary_HP."
+    },
+    {
+      "name": "Statue Shield",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 10 Block.\nShuffle a Leaning Spire of Pisa into your draw pile."
+    },
+    {
+      "name": "Statue Shield+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 12 Block.\nShuffle an upgraded Leaning Spire of Pisa into your draw pile."
+    },
+    {
+      "name": "Statute of Libertations",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Unplayable.\nRetain.\nWhenever you draw this card, gain 4 Temporary_HP."
+    },
+    {
+      "name": "Statute of Libertations+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Unplayable.\nRetain.\nWhenever you draw this card, gain 6 Temporary_HP."
+    },
+    {
+      "name": "The Thonker",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Unplayable.\nRetain.\nWhenever you draw this card, draw 2 cards."
+    },
+    {
+      "name": "The Thonker+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Unplayable.\nRetain.\nWhenever you draw this card, draw 3 cards."
+    },
+    {
+      "name": "Tickle",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Steal the enemy's Block.\nDeal 5 damage."
+    },
+    {
+      "name": "Tickle+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Steal the enemy's Block.\nDeal 8 damage."
+    },
+    {
+      "name": "Binlor's Ironshield",
+      "color": "Gorgon_purple_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 10 Temporary_HP."
+    },
+    {
+      "name": "Binlor's Ironshield+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nGain 10 Temporary_HP."
+    },
+    {
+      "name": "Forbidden Magic",
+      "color": "Gorgon_purple_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Either apply 1 Weak or apply 1 Vulnerable.\nExhaust a card in your hand."
+    },
+    {
+      "name": "Forbidden Magic+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Either apply 1 Weak or apply 1 Vulnerable.\nExhaust a card in your hand."
+    },
+    {
+      "name": "Foresight",
+      "color": "Gorgon_purple_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage.\nPlay the top card of your draw pile."
+    },
+    {
+      "name": "Foresight+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 15 damage.\nPlay the top card of your draw pile."
+    },
+    {
+      "name": "Mirror Shield",
+      "color": "Gorgon_purple_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Reflect Weak and Vulnerable this turn."
+    },
+    {
+      "name": "Mirror Shield+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Reflect Weak and Vulnerable this turn."
+    },
+    {
+      "name": "Mirror Shock",
+      "color": "Gorgon_purple_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the start of yor turn, lose 3 HP, gain [E] , and draw 1 card."
+    },
+    {
+      "name": "Mirror Shock+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the start of yor turn, lose 2 HP, gain [E] , and draw 1 card."
+    },
+    {
+      "name": "Paralyzing Stare",
+      "color": "Gorgon_purple_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "Enemy becomes Stunned.\nGain !deathGaze! gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Paralyzing Stare+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "3",
+      "description": "ALL enemies become Stunned.\nGain !deathGaze! gorgonmod:Deathgaze."
+    },
+    {
+      "name": "Slot Machine",
+      "color": "Gorgon_purple_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Play a slot machine."
+    },
+    {
+      "name": "Slot Machine+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Play a lucky slot machine."
+    },
+    {
+      "name": "Statue Toss",
+      "color": "Gorgon_purple_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Discard 1 card.\nDeal 22 damage.\n5 % chance: Enemy becomes Stunned."
+    },
+    {
+      "name": "Statue Toss+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Discard 1 card.\nDeal 25 damage.\n10 % chance: Enemy becomes Stunned."
+    },
+    {
+      "name": "Water Level",
+      "color": "Gorgon_purple_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "Grave.\nAt the start of your turn, deal 1 damage to all enemies and double this damage."
+    },
+    {
+      "name": "Water Level+",
+      "color": "Gorgon_purple_color",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "At the start of your turn, deal 1 damage to all enemies and double this damage."
+    }
+  ],
+  "relics": [
+    {
+      "name": "Sapphire Locks",
+      "tier": "Starter",
+      "pool": "Gorgon_purple_color",
+      "description": "Whenever an Attack deals unblocked damage, apply 1 Poison.",
+      "flavorText": "Hissss!"
+    }
+  ],
+  "potions": [
+  ],
+  "creatures": [
+    {
+      "name": "the Gorgon",
+      "type": "Player",
+      "minHP": "66",
+      "maxHP": "66"
+    }
+  ],
+  "keywords": [
+  ]
+}
