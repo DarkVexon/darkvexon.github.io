@@ -9,7 +9,7 @@
 | Close Scrape | ![](small-card-images/CloseScrape.png) | ![](small-card-images/CloseScrapePlus.png) | Common | Attack | 1 | Deal 9(12) damage. Plant 1 of your oldest Crop. |
 | Culling Strike | ![](small-card-images/CullingStrike.png) | ![](small-card-images/CullingStrikePlus.png) | Common | Attack | 1 | Deal 7(9) damage. If you've Harvested this turn, deal 7(9) damage again. |
 | Double Barrel | ![](small-card-images/DoubleBarrel.png) | ![](small-card-images/DoubleBarrelPlus.png) | Common | Attack | 1 | Deal 6(9) damage. If the enemy is Weak, gain [E] and deal 6(9) damage again. |
-| Ferment | ![](small-card-images/Ferment.png) | ![](small-card-images/FermentPlus.png) | Common | Skill | 1 | Shuffle 2 cards from your hand into your draw pile (, then draw a card). Gain 2 Energy. |
+| Ferment | ![](small-card-images/Ferment.png) | ![](small-card-images/FermentPlus.png) | Common | Skill | 1 | Shuffle 2 cards from your hand into your draw pile (, then draw a card). Gain [E] [E]. |
 | Fertilaser | ![](small-card-images/Fertilaser.png) | ![](small-card-images/FertilaserPlus.png) | Common | Attack | 2 | Deal 11(14) damage. Plant 1 more of each Crop. |
 | Onion Bloom | ![](small-card-images/OnionBloom.png) | ![](small-card-images/OnionBloomPlus.png) | Common | Skill | 0 | Innate. Plant 1 Onion. Draw a card. Discard a card. Exhaust. (not Exhaust.) |
 | Onions | ![](small-card-images/Onions.png) | ![](small-card-images/OnionsPlus.png) | Common | Power | 1(0) | Plant 3 Onions. |
@@ -38,7 +38,7 @@
 | Rake | ![](small-card-images/Rake.png) | ![](small-card-images/RakePlus.png) | Uncommon | Attack | 1 | Deal 7(8) damage. Apply 1(2) Weak. |
 | Root Down | ![](small-card-images/RootDown.png) | ![](small-card-images/RootDownPlus.png) | Uncommon | Attack | 0 | (Innate.)  Deal 6 damage. If Turnips are Mature, Harvest all Turnips. Otherwise, Plant 1 Turnips. |
 | Soil Sample | ![](small-card-images/SoilSample.png) | ![](small-card-images/SoilSamplePlus.png) | Uncommon | Skill | 1 | Shuffle up to 3 cards from your discard pile into your draw pile, then draw (Draw) a card. It costs 0 this turn. Exhaust. (not Exhaust.) |
-| Stock the Cellar | ![](small-card-images/StocktheCellar.png) | ![](small-card-images/StocktheCellarPlus.png) | Uncommon | Skill | 1 | Ethereal. Gain 6(8) Block. Each time this is card shuffled into your draw pile, increase its Block by 2(3) for this combat. |
+| Stock the Cellar | ![](small-card-images/StocktheCellar.png) | ![](small-card-images/StocktheCellarPlus.png) | Uncommon | Skill | 1 | Ethereal. Gain 6(8) Block. Each time this card is shuffled into your draw pile, increase its Block by 2(3) for this combat. |
 | Sunchoke | ![](small-card-images/Sunchoke.png) | ![](small-card-images/SunchokePlus.png) | Uncommon | Attack | 1 | Deal 7(9) damage to ALL enemies. Each Weak enemy that takes damage also gains 7(9) Burning. |
 | Sunflowers | ![](small-card-images/Sunflowers.png) | ![](small-card-images/SunflowersPlus.png) | Uncommon | Power | 1 | Plant 1(2) Sunflower(s). |
 | Sunseed | ![](small-card-images/Sunseed.png) | ![](small-card-images/SunseedPlus.png) | Uncommon | Attack | 0 | (Innate.) When drawn, copy this card if your discard is empty. Deal 3 damage and gain [E]. Exhaust. |
@@ -46,11 +46,12 @@
 | Turnips | ![](small-card-images/Turnips.png) | ![](small-card-images/TurnipsPlus.png) | Uncommon | Power | 1 | Plant 2(3) Turnips. |
 | Vine Ripen | ![](small-card-images/VineRipen.png) | ![](small-card-images/VineRipenPlus.png) | Uncommon | Skill | 2(1) | Plant 2 Squash. If Squash is Mature, Block is not removed at the start of your next turn. |
 | Asparagus | ![](small-card-images/Asparagus.png) | ![](small-card-images/AsparagusPlus.png) | Rare | Power | 1 | Plant 1(2) Asparagus. |
-| Barnstorm | ![](small-card-images/Barnstorm.png) | ![](small-card-images/BarnstormPlus.png) | Rare | Attack | 3 | Deal 4 damage to a random enemy (ALL enemies) for each Crop stack you have. Mature Crops deal double damage. Exhaust. |
+| Barnstorm | ![](small-card-images/Barnstorm.png) | ![](small-card-images/BarnstormPlus.png) | Rare | Attack | 3 | Deal 5 damage to a random enemy (ALL enemies) for each Crop stack you have. Mature Crops deal double damage. Exhaust. |
 | Biorefinement | ![](small-card-images/Biorefinement.png) | ![](small-card-images/BiorefinementPlus.png) | Rare | Power | 2(1) | The first time each turn that you play a card with Harvest, reduce the cost of a random card in your hand by 1 this combat. |
 | Birdfeeder | ![](small-card-images/Birdfeeder.png) | ![](small-card-images/BirdfeederPlus.png) | Rare | Power | 1 | The next 3(5) times you play a Power card this combat, heal 4 HP. |
 | Buzz Bomb | ![](small-card-images/BuzzBomb.png) | ![](small-card-images/BuzzBombPlus.png) | Rare | Attack | 2 | Deal 12 damage to a random enemy 2(3) times. Plant 1 Sunflower for each enemy killed this way. |
 | Chilis | ![](small-card-images/Chilis.png) | ![](small-card-images/ChilisPlus.png) | Rare | Power | 1(0) | Plant 3 Chilis. |
+| Crack of Dawn | ![](small-card-images/CrackofDawn.png) | ![](small-card-images/CrackofDawnPlus.png) | Rare | Power | 2(1) | In 2 turns, deal 16 damage to ALL enemies, Plant 3 Corn, and gain [E] [E] [E] . |
 | Crop Diversity | ![](small-card-images/CropDiversity.png) | ![](small-card-images/CropDiversityPlus.png) | Rare | Skill | 1 | Add 1 of 2(3) random Crop Power cards to your hand. It costs 0 this turn. Exhaust. |
 | Desperate Plunge | ![](small-card-images/DesperatePlunge.png) | ![](small-card-images/DesperatePlungePlus.png) | Rare | Skill | 3 | Costs [E] less for each Power card played this turn. Gain 30(40) Block. Next turn, lose [E]. |
 | Double Digging | ![](small-card-images/DoubleDigging.png) | ![](small-card-images/DoubleDiggingPlus.png) | Rare | Skill | 1 | This turn, the next (1(2)) card(s) you play that costs (cost) 1 or less is (are) played twice. |

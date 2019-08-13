@@ -217,7 +217,7 @@
       "name": "Consolation Prize",
       "tier": "Uncommon",
       "pool": "",
-      "description": "Whenever you lose HP in combat, gain that much gold at the end of combat.",
+      "description": "Whenever you lose HP in combat, gain that much Gold at the end of combat.",
       "flavorText": "Gold oozes from your wounds."
     },
     {
@@ -287,7 +287,7 @@
       "name": "Throwing Star",
       "tier": "Uncommon",
       "pool": "Astrologer",
-      "description": "Every time you play or exhaust 3 Stars in a single turn, gain 1 Strength.",
+      "description": "Every time you play or Exhaust 3 Stars in a single turn, gain 1 Strength.",
       "flavorText": "Unorthodox use for the stars, but it's OK."
     },
     {
@@ -345,13 +345,6 @@
       "pool": "",
       "description": "At the start of each combat, ALL enemies lose 1 Strength.",
       "flavorText": "You're far too modest to \"wear\" this."
-    },
-    {
-      "name": "Key Chain",
-      "tier": "Rare",
-      "pool": "",
-      "description": "Start each combat with 1 Intangible.",
-      "flavorText": "Surprisingly blunt!"
     },
     {
       "name": "Plasma Pancake",

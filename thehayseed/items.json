@@ -1,10 +1,10 @@
 {
   "mod": {
     "name": "The Hayseed",
-    "version": "0.0.5",
+    "version": "0.9.0",
     "authors": ["jwoolley"],
-    "credits": "",
-    "description": "An extremely simple character with a head like a pinewood block.",
+    "credits": "Thanks to: \n\nSpleen \u2014 for amazing relic art. \n\nsolderist.park \u2014 whose Cursed mod source code I used to get started (use Default Mod!)\n\nHarryWardp, Basilisk, Greuben, CannonballFun, and Toddells \u2014 for invaluable playtesting and feedback.",
+    "description": "An simple farmer with a head like a pinewood block.",
     "mts_version": "3.8.3",
     "sts_version": "07-17-2019",
     "dependencies": ["basemod","stslib"],
@@ -161,7 +161,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Shuffle 2 cards from your hand into your draw pile.\nGain 2 Energy."
+      "description": "Shuffle 2 cards from your hand into your draw pile.\nGain [E] [E]."
     },
     {
       "name": "Ferment+",
@@ -169,7 +169,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Shuffle 2 cards from your hand into your draw pile, then draw a card.\nGain 2 Energy."
+      "description": "Shuffle 2 cards from your hand into your draw pile, then draw a card.\nGain [E] [E]."
     },
     {
       "name": "Fertilaser",
@@ -625,7 +625,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Ethereal.\nGain 6 Block.\nEach time this is card shuffled into your draw pile, increase its Block by 2 for this combat."
+      "description": "Ethereal.\nGain 6 Block.\nEach time this card is shuffled into your draw pile, increase its Block by 2 for this combat."
     },
     {
       "name": "Stock the Cellar+",
@@ -633,7 +633,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Ethereal.\nGain 8 Block.\nEach time this is card shuffled into your draw pile, increase its Block by 3 for this combat."
+      "description": "Ethereal.\nGain 8 Block.\nEach time this card is shuffled into your draw pile, increase its Block by 3 for this combat."
     },
     {
       "name": "Sunchoke",
@@ -753,7 +753,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "3",
-      "description": "Deal 4 damage to a random enemy for each Crop stack you have.\nMature Crops deal double damage.\nExhaust."
+      "description": "Deal 5 damage to a random enemy for each Crop stack you have.\nMature Crops deal double damage.\nExhaust."
     },
     {
       "name": "Barnstorm+",
@@ -761,7 +761,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "3",
-      "description": "Deal 4 damage to ALL enemies for each Crop stack you have.\nMature Crops deal double damage. \nExhaust."
+      "description": "Deal 5 damage to ALL enemies for each Crop stack you have.\nMature Crops deal double damage. \nExhaust."
     },
     {
       "name": "Biorefinement",
@@ -826,6 +826,22 @@
       "type": "Power",
       "cost": "0",
       "description": "Plant 3 Chilis."
+    },
+    {
+      "name": "Crack of Dawn",
+      "color": "The_simpleton_blue",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "In 2 turns, deal 16 damage to ALL enemies, Plant 3 Corn, and gain [E] [E] [E] ."
+    },
+    {
+      "name": "Crack of Dawn+",
+      "color": "The_simpleton_blue",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "In 2 turns, deal 16 damage to ALL enemies, Plant 3 Corn, and gain [E] [E] [E] ."
     },
     {
       "name": "Crop Diversity",
@@ -1176,32 +1192,11 @@
       "flavorText": "What can expand to fill any container?"
     },
     {
-      "name": "Gourd Charm",
-      "tier": "Uncommon",
-      "pool": "The_simpleton_blue",
-      "description": "Replaces Spud of the Innocent. At the start of each combat, Plant 2 Squash.",
-      "flavorText": "Crafted specifically for adventurers who prefer Hard Mode."
-    },
-    {
-      "name": "Horn Of Plenty",
-      "tier": "Uncommon",
-      "pool": "The_simpleton_blue",
-      "description": "At the start of each combat, gain 1 Abundance.",
-      "flavorText": "More than adequate."
-    },
-    {
       "name": "Hot Potato",
       "tier": "Uncommon",
       "pool": "The_simpleton_blue",
       "description": "Harvesting Potatoes now yields Flaming Spuds, which also apply Burning damage.",
       "flavorText": "There's no topping this one."
-    },
-    {
-      "name": "Onion Belt",
-      "tier": "Uncommon",
-      "pool": "The_simpleton_blue",
-      "description": "Replaces Spud of the Innocent. At the start of each combat, Plant 2 Onions.",
-      "flavorText": "Once wielded by the Elders, now largely out of style."
     },
     {
       "name": "Pickling Jar",
@@ -1218,6 +1213,27 @@
       "flavorText": "Imported soil tends to produce a less twisted harvest."
     },
     {
+      "name": "Horn Of Plenty",
+      "tier": "Rare",
+      "pool": "The_simpleton_blue",
+      "description": "At the start of each combat, gain 1 Abundance.",
+      "flavorText": "More than adequate."
+    },
+    {
+      "name": "Gourd Charm",
+      "tier": "Boss",
+      "pool": "The_simpleton_blue",
+      "description": "Replaces Spud of the Innocent. At the start of each combat, Plant 2 Squash.",
+      "flavorText": "Crafted specifically for adventurers who prefer Hard Mode."
+    },
+    {
+      "name": "Onion Belt",
+      "tier": "Boss",
+      "pool": "The_simpleton_blue",
+      "description": "Replaces Spud of the Innocent. At the start of each combat, Plant 2 Onions.",
+      "flavorText": "Once wielded by the Elders, now largely out of style."
+    },
+    {
       "name": "Spud of the Martyr",
       "tier": "Boss",
       "pool": "The_simpleton_blue",
@@ -1230,6 +1246,11 @@
       "name": "Abundance Potion",
       "rarity": "Uncommon",
       "description": "Gain 1 Abundance."
+    },
+    {
+      "name": "Kindling Potion",
+      "rarity": "Uncommon",
+      "description": "Apply 15 Burning to ALL enemies."
     }
   ],
   "creatures": [

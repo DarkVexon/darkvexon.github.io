@@ -73,10 +73,11 @@
 | Escape! | ![](small-card-images/Escape!.png) | ![](small-card-images/Escape!Plus.png) | Rare | Skill | 3 | 33% chance to escape a non-boss combat. Receive no rewards. (not Receive no rewards.) Exhaustive !stslib:ex!. |
 | Fair Trade | ![](small-card-images/FairTrade.png) | ![](small-card-images/FairTradePlus.png) | Rare | Skill | 1(0) | Exhaust a card in your hand. Put a card from your exhaust pile into your hand. Exhaust. |
 | Fatigue | ![](small-card-images/Fatigue.png) | ![](small-card-images/FatiguePlus.png) | Rare | Skill | 2(1) | Apply Weak equal to your held Gold. Exhaust. |
-| Fish | ![](small-card-images/Fish.png) | ![](small-card-images/FishPlus.png) | Rare | Skill | (4) | Unplayable unless you've thethorton:Gathered 6 different thethorton:Pyro_Buddies this combat (Ethereal). thethorton:Ingest 2 thethorton:Sync_Boons and gain 2 thethorton:Boost_Points (Cost cannot be modified).  (Obtain a Relic. Exhaust.) |
 | Fortune | ![](small-card-images/Fortune.png) | ![](small-card-images/FortunePlus.png) | Rare | Skill | X | Gain X0 Gold. (Gain [E].)  thethorton:Run. Exhaust. |
 | Hexaghostify | ![](small-card-images/Hexaghostify.png) | ![](small-card-images/HexaghostifyPlus.png) | Rare | Skill | 3 | Grave. Enemy becomes a (ALL enemies become) Hexaghost(s). Exhaust. |
+| Message From Our Sponsors | ![](small-card-images/MessageFromOurSponsors.png) | ![](small-card-images/MessageFromOurSponsorsPlus.png) | Rare | Skill | (4) | Unplayable (Ethereal). Fun fact: You can commission Vex to make your custom mod idea! Contact Vex'd#2468 on Discord for more info (Cost cannot be modified).  (Obtain a Relic. Exhaust.) |
 | Penny Toss | ![](small-card-images/PennyToss.png) | ![](small-card-images/PennyTossPlus.png) | Rare | Attack | 1(0) | Gain 11 Gold. Gain 11 Block. Deal 11 damage. Exhaust. |
+| Planned Obsolescence | ![](small-card-images/PlannedObsolescence.png) | ![](small-card-images/PlannedObsolescencePlus.png) | Rare | Attack | 1 | Deal 10(12) damage. Deal 5(6) damage to this Act's boss. Exhaust. |
 | Portfolio | ![](small-card-images/Portfolio.png) | ![](small-card-images/PortfolioPlus.png) | Rare | Skill | 2 | Gain 5(10) Gold. Shuffle 2 (upgraded) thethorton:Business_Cards and 1 (upgraded) thethorton:Investment into your draw pile. Exhaust. |
 | Scaling Is Win | ![](small-card-images/ScalingIsWin.png) | ![](small-card-images/ScalingIsWinPlus.png) | Rare | Power | 2 | At the start of your turn, gain 1 Strength (and draw 1 additional card). |
 | Sell Short | ![](small-card-images/SellShort.png) | ![](small-card-images/SellShortPlus.png) | Rare | Skill | 3(2) | Ethereal. Add 1 copy of a card in your hand to your deck permanently. Exhaust. |
@@ -103,13 +104,13 @@
 | ----- | ---- | ------ | ----- | ----------- | ------ |
 | ![](relics/thethorton-CouragePotion.png) | Potion of Courage | Starter | Thort_gray_color | Start each Elite combat with #b2 #yStrength. | Drink in emergencies. |
 | ![](relics/thethorton-BusinessCardPrinter.png) | Business Card Printer | Common | Thort_gray_color | At the start of each combat, add a #ythethorton:Business_Card into your hand. | Look at that subtle off-white color. The tasteful thickness of it. Oh my God, it even has a watermark. |
-| ![](relics/thethorton-BankDeed.png) | Bank Deed | Uncommon |  | Whenever you climb a floor, gain #b2% interest on held #yGold. | Dad gave this to me. |
+| ![](relics/thethorton-BankDeed.png) | Bank Deed | Uncommon | Thort_gray_color | Whenever you climb a floor, gain #b2% interest on held #yGold. | Dad gave this to me. |
 | ![](relics/thethorton-StoneOfSprinting.png) | Helm of Sprinting | Rare | Thort_gray_color | At the start of each combat, add a random card with #ythethorton:Run into your hand. It costs #b0 this combat. | Helps escape efforts. |
-| ![](relics/thethorton-BottledFunds.png) | Bottled Funds | Boss |  | Upon pickup, choose a card in your deck. At the start of each combat, play and #yExhaust a copy of it. | Looking empty. |
-| ![](relics/thethorton-CrushedCigarette.png) | Lucky Clover | Boss |  | 66% chance to gain [E] at the start of your turn. | Why ever stop? |
-| ![](relics/thethorton-GreedFountain.png) | Monopoly | Boss |  | Gain #b50% more #yGold from all sources. | I just can't help myself. |
+| ![](relics/thethorton-BottledFunds.png) | Bottled Funds | Boss | Thort_gray_color | Upon pickup, choose a card in your deck. At the start of each combat, play and #yExhaust a copy of it. | Looking empty. |
+| ![](relics/thethorton-CrushedCigarette.png) | Lucky Clover | Boss | Thort_gray_color | 66% chance to gain [E] at the start of your turn. | Why ever stop? |
+| ![](relics/thethorton-GreedFountain.png) | Monopoly | Boss | Thort_gray_color | Gain #b50% more #yGold from all sources. | I just can't help myself. |
 | ![](relics/thethorton-TimeNecklace.png) | Necklace of Time | Boss | Thort_gray_color | Replaces [#005466ff]Potion[] [#005466ff]of[] [#005466ff]Courage[][#005466ff].[] NL A copy of the first card you play from your hand each combat is played at the start of the next combat. | Your secret powers, revealed! |
-| ![](relics/thethorton-BrokenCalculator.png) | Broken Calculator | Shop |  | At the start of each combat, play a random Thorton card. | So what if the math's in my favor? |
+| ![](relics/thethorton-BrokenCalculator.png) | Broken Calculator | Shop | Thort_gray_color | At the start of each combat, play a random Thorton card. | So what if the math's in my favor? |
 | ![](relics/thethorton-Resume.png) | Resume | Shop | Thort_gray_color | The amount of #ythethorton:Business_Cards required to obtain a #yRelic is reduced by #b3. | Graduate of the University of Chicago. |
 | ![](relics/thethorton-RunningStart.png) | Running Start | Shop | Thort_gray_color | #yRunning now carries over between fights. | I used to do track, you know. |
 

@@ -1262,14 +1262,14 @@
     {
       "name": "Jester of Encumbrance",
       "tier": "Uncommon",
-      "pool": "",
+      "pool": "Sleuth_gray_color",
       "description": "At the start of each combat, choose a card in your draw pile and give it to an enemy. That card is put into your hand when the enemy is slain.",
       "flavorText": "Exiled from CLOWN TERRITORY for the crime of BEING MISPLACED BY THE CLOWN PONTIFICATE."
     },
     {
       "name": "Elf Eggs",
       "tier": "Rare",
-      "pool": "",
+      "pool": "Sleuth_gray_color",
       "description": "Whenever you enter a Rest Site, increase your Max HP by 3.",
       "flavorText": "You yearn to crack out the succulent yolk."
     },
@@ -1297,14 +1297,14 @@
     {
       "name": "Affinity Crow",
       "tier": "Boss",
-      "pool": "",
+      "pool": "Sleuth_gray_color",
       "description": "Enemies cannot intend to attack for more than 30 damage.",
       "flavorText": "Heads will roll."
     },
     {
       "name": "Megaton Key",
       "tier": "Boss",
-      "pool": "",
+      "pool": "Sleuth_gray_color",
       "description": "Gain [E] at the start of your turn.\nUpon pickup, lose your leftmost 2 relics.",
       "flavorText": "These brass knuckles are so heavy."
     },

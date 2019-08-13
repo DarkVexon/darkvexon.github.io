@@ -45,7 +45,7 @@
 | ![](relics/BerryBomb.png) | Berry Bomb | Uncommon |  | Upon pickup, raise your Max HP by #b6. In #b8 combats, explodes and deals #b100 damage to ALL enemies. | Tastes explosive! |
 | ![](relics/BetterTron.png) | Better-O-Tron | Uncommon |  | The next #b3 unupgraded cards you add into your deck are #yupgraded. | Mechanical device certain to improve your life somehow! |
 | ![](relics/BottledTune.png) | Bottled Tune | Uncommon | Bard_color | Upon pickup, choose a #ybard:Note. At the start of each combat, #ybard:Queue that #ybard:Note. | You crack the lid and hear a faint sound. |
-| ![](relics/ConsolationPrize.png) | Consolation Prize | Uncommon |  | Whenever you lose HP in combat, gain that much gold at the end of combat. | Gold oozes from your wounds. |
+| ![](relics/ConsolationPrize.png) | Consolation Prize | Uncommon |  | Whenever you lose HP in combat, gain that much Gold at the end of combat. | Gold oozes from your wounds. |
 | ![](relics/Dragonfruit.png) | Dragon Fruit | Uncommon |  | Upon pickup, raise your Max HP by #b5. At the end of your turn, deal #b1 damage to ALL enemies for each #yAttack played this turn. | As a connoisseur would say, piquant. |
 | ![](relics/DrawConverter.png) | Dusty Game Cartridge | Uncommon |  | Whenever you draw a card during your turn, gain #b1 #yBlock. | It's unclear which system the game was meant for. |
 | ![](relics/FocusSash.png) | Focus Sash | Uncommon |  | When you would die while you have at least #b10 HP, heal to #b1 HP instead. | It's super effective! |
@@ -55,7 +55,7 @@
 | ![](relics/HeadHunter.png) | Skull Hunter | Uncommon |  | Elites drop an additional Rare card reward. | You're bringing this conflict to a head. |
 | ![](relics/StrikeShooter.png) | Special Power Activator | Uncommon |  | Has a special effect based on what character you're playing as. | Does many things! |
 | ![](relics/ThirteenHourStone.png) | Thirteen-Hour Stone | Uncommon |  | Every time you you draw #b13 cards, draw #b1 card. | Number nine is the most important. |
-| ![](relics/ThrowingStar.png) | Throwing Star | Uncommon | Astrologer | Every time you play or exhaust #b3 #yStars in a single turn, gain #b1 #yStrength. | Unorthodox use for the stars, but it's OK. |
+| ![](relics/ThrowingStar.png) | Throwing Star | Uncommon | Astrologer | Every time you play or Exhaust #b3 #yStars in a single turn, gain #b1 #yStrength. | Unorthodox use for the stars, but it's OK. |
 | ![](relics/MagicMissile.png) | Wand of Magic Missile | Uncommon |  | Whenever you shuffle your draw pile, deal #b2-5 damage to a random enemy #b3 times. | The end of this magic wand glows. |
 | ![](relics/ScavengeHelm.png) | Writhing Mask | Uncommon |  | At the start of each combat, gain #b3 #yMalleable. | It squirms on your face uncomfortably. |
 | ![](relics/AudienceDoll.png) | Audience Doll | Rare | Bard_color | Whenever you perform a #ybard:Melody, draw #b1 card. | Always there to listen and offer support! |
@@ -64,7 +64,6 @@
 | ![](relics/GildedClover.png) | Gilded Clover | Rare |  | ALL future cards you find are #yRare. | Super-duper rare! |
 | ![](relics/GravityRainbow.png) | Gravitational Rainbow | Rare | Astrologer | At the start of every odd-numbered turn, put the bottom card of your draw pile into your hand. | "But rainbows aren't affected by gravity!" you say. Well, pah! |
 | ![](relics/InvisibilityCloak.png) | Invisible Cloak | Rare |  | At the start of each combat, ALL enemies lose #b1 #yStrength. | You're far too modest to "wear" this. |
-| ![](relics/KeyChain.png) | Key Chain | Rare |  | Start each combat with #b1 #yIntangible. | Surprisingly blunt! |
 | ![](relics/PlasmaPancake.png) | Plasma Pancake | Rare |  | Upon pickup, raise your Max HP by #b6. NL At the start of each combat, deal #b11 damage to ALL enemies. | It's literally on fire. |
 | ![](relics/PolyformStone.png) | Polyform Stone | Rare |  | #gRight #gclick #gto #gstop. | What the fuck!? |
 | ![](relics/RetaliationKit.png) | Retaliation Kit | Rare |  | The first time your #yBlock is broken each combat, apply #b2 #yWeak to ALL enemies. | All you need to disappear in a burst of smoke! Smoke no longer included. |

@@ -1,7 +1,7 @@
 {
   "mod": {
     "name": "thorton",
-    "version": "65",
+    "version": "100",
     "authors": ["Vex'd"],
     "credits": "",
     "description": "A very regular man.",
@@ -1132,22 +1132,6 @@
       "description": "Apply Weak equal to your held Gold.\nExhaust."
     },
     {
-      "name": "Fish",
-      "color": "Thort_gray_color",
-      "rarity": "Rare",
-      "type": "Skill",
-      "cost": "",
-      "description": "Unplayable unless you've thethorton:Gathered 6 different thethorton:Pyro_Buddies this combat.\nthethorton:Ingest 2 thethorton:Sync_Boons and gain 2 thethorton:Boost_Points."
-    },
-    {
-      "name": "Fish+",
-      "color": "Thort_gray_color",
-      "rarity": "Rare",
-      "type": "Skill",
-      "cost": "4",
-      "description": "Ethereal.\nCost cannot be modified.\nObtain a Relic.\nExhaust."
-    },
-    {
       "name": "Fortune",
       "color": "Thort_gray_color",
       "rarity": "Rare",
@@ -1180,6 +1164,22 @@
       "description": "Grave.\nALL enemies become Hexaghosts.\nExhaust."
     },
     {
+      "name": "Message From Our Sponsors",
+      "color": "Thort_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "",
+      "description": "Unplayable.\nFun fact: You can commission Vex to make your custom mod idea! Contact Vex'd#2468 on Discord for more info."
+    },
+    {
+      "name": "Message From Our Sponsors+",
+      "color": "Thort_gray_color",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "4",
+      "description": "Ethereal.\nCost cannot be modified.\nObtain a Relic.\nExhaust."
+    },
+    {
       "name": "Penny Toss",
       "color": "Thort_gray_color",
       "rarity": "Rare",
@@ -1194,6 +1194,22 @@
       "type": "Attack",
       "cost": "0",
       "description": "Gain 11 Gold.\nGain 11 Block.\nDeal 11 damage.\nExhaust."
+    },
+    {
+      "name": "Planned Obsolescence",
+      "color": "Thort_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage.\nDeal 5 damage to this Act's boss.\nExhaust."
+    },
+    {
+      "name": "Planned Obsolescence+",
+      "color": "Thort_gray_color",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 12 damage.\nDeal 6 damage to this Act's boss.\nExhaust."
     },
     {
       "name": "Portfolio",
@@ -1326,7 +1342,7 @@
     {
       "name": "Bank Deed",
       "tier": "Uncommon",
-      "pool": "",
+      "pool": "Thort_gray_color",
       "description": "Whenever you climb a floor, gain 2% interest on held Gold.",
       "flavorText": "Dad gave this to me."
     },
@@ -1340,21 +1356,21 @@
     {
       "name": "Bottled Funds",
       "tier": "Boss",
-      "pool": "",
+      "pool": "Thort_gray_color",
       "description": "Upon pickup, choose a card in your deck. At the start of each combat, play and Exhaust a copy of it.",
       "flavorText": "Looking empty."
     },
     {
       "name": "Lucky Clover",
       "tier": "Boss",
-      "pool": "",
+      "pool": "Thort_gray_color",
       "description": "66% chance to gain [E] at the start of your turn.",
       "flavorText": "Why ever stop?"
     },
     {
       "name": "Monopoly",
       "tier": "Boss",
-      "pool": "",
+      "pool": "Thort_gray_color",
       "description": "Gain 50% more Gold from all sources.",
       "flavorText": "I just can't help myself."
     },
@@ -1368,7 +1384,7 @@
     {
       "name": "Broken Calculator",
       "tier": "Shop",
-      "pool": "",
+      "pool": "Thort_gray_color",
       "description": "At the start of each combat, play a random Thorton card.",
       "flavorText": "So what if the math's in my favor?"
     },
