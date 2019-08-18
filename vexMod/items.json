@@ -755,14 +755,14 @@
     {
       "name": "Bomb Belcher",
       "type": "Elite",
-      "minHP": "179",
-      "maxHP": "179"
+      "minHP": "177",
+      "maxHP": "177"
     },
     {
       "name": "Dagger Pharaoh",
       "type": "Boss",
-      "minHP": "177",
-      "maxHP": "177"
+      "minHP": "176",
+      "maxHP": "176"
     },
     {
       "name": "Grifter",
@@ -773,20 +773,20 @@
     {
       "name": "Infection Beast",
       "type": "Elite",
-      "minHP": "203",
-      "maxHP": "203"
+      "minHP": "204",
+      "maxHP": "204"
     },
     {
       "name": "Lich's Phylactery",
       "type": "Normal",
-      "minHP": "63",
-      "maxHP": "63"
+      "minHP": "60",
+      "maxHP": "60"
     },
     {
       "name": "Mechanical Combatant",
       "type": "Elite",
-      "minHP": "85",
-      "maxHP": "85"
+      "minHP": "84",
+      "maxHP": "84"
     },
     {
       "name": "Undercity Lichlord",

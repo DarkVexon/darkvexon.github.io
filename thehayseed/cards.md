@@ -39,7 +39,7 @@
 | Root Down | ![](small-card-images/RootDown.png) | ![](small-card-images/RootDownPlus.png) | Uncommon | Attack | 0 | (Innate.)  Deal 6 damage. If Turnips are Mature, Harvest all Turnips. Otherwise, Plant 1 Turnips. |
 | Soil Sample | ![](small-card-images/SoilSample.png) | ![](small-card-images/SoilSamplePlus.png) | Uncommon | Skill | 1 | Shuffle up to 3 cards from your discard pile into your draw pile, then draw (Draw) a card. It costs 0 this turn. Exhaust. (not Exhaust.) |
 | Stock the Cellar | ![](small-card-images/StocktheCellar.png) | ![](small-card-images/StocktheCellarPlus.png) | Uncommon | Skill | 1 | Ethereal. Gain 6(8) Block. Each time this card is shuffled into your draw pile, increase its Block by 2(3) for this combat. |
-| Sunchoke | ![](small-card-images/Sunchoke.png) | ![](small-card-images/SunchokePlus.png) | Uncommon | Attack | 1 | Deal 7(9) damage to ALL enemies. Each Weak enemy that takes damage also gains 7(9) Burning. |
+| Sunchoke | ![](small-card-images/Sunchoke.png) | ![](small-card-images/SunchokePlus.png) | Uncommon | Attack | 1 | Deal 7(11) damage to ALL enemies. Each Weak enemy that takes damage also gains 7(11) Burning. |
 | Sunflowers | ![](small-card-images/Sunflowers.png) | ![](small-card-images/SunflowersPlus.png) | Uncommon | Power | 1 | Plant 1(2) Sunflower(s). |
 | Sunseed | ![](small-card-images/Sunseed.png) | ![](small-card-images/SunseedPlus.png) | Uncommon | Attack | 0 | (Innate.) When drawn, copy this card if your discard is empty. Deal 3 damage and gain [E]. Exhaust. |
 | Thresh | ![](small-card-images/Thresh.png) | ![](small-card-images/ThreshPlus.png) | Uncommon | Attack | 3 | Deal 22(28) damage. Costs [E] less for each time you Harvest this turn. |

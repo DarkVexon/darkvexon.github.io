@@ -649,7 +649,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage to ALL enemies.\nEach Weak enemy that takes damage also gains 9 Burning."
+      "description": "Deal 11 damage to ALL enemies.\nEach Weak enemy that takes damage also gains 11 Burning."
     },
     {
       "name": "Sunflowers",
@@ -1364,7 +1364,7 @@
     },
     {
       "name": "Turnip",
-      "description": "Crop. Yields an attack card when harvested that scales with number of stacks and adds a Turnips card to your hand."
+      "description": "Crop. Yields an attack card when harvested which deals scaling damage to all enemies and adds a Turnips card to your discard pile."
     }
   ]
 }

@@ -25,4 +25,4 @@
 | Squash | Crop. Grants Block When harvested. |
 | Strawberry | Crop. Yields Gnawberry attack cards when harvested that also heal a small amount of HP. |
 | Sunflower | Crop. Gain energy when harvested. |
-| Turnip | Crop. Yields an attack card when harvested that scales with number of stacks and adds a Turnips card to your hand. |
+| Turnip | Crop. Yields an attack card when harvested which deals scaling damage to all enemies and adds a Turnips card to your discard pile. |
