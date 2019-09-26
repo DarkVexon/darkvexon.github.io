@@ -19,7 +19,6 @@
 | Plant | Gain that many Crop stacks. |
 | Plot | Slot for planting Crops. Your Plots determine how many different Crops you can have at one time. |
 | Potato | Crop. Yields 0-cost Spud attack cards when harvested. |
-| Slow | Whenever you play a card, you receive 10% more damage from Attacks until your next turn. |
 | Spinach | Crop. Grants Strength when harvested. |
 | Spud | Spuds are 0-cost attack cards that exhaust to deal modest damage. |
 | Squash | Crop. Grants Block When harvested. |

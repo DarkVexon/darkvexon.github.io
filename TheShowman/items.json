@@ -1,7 +1,7 @@
 {
   "mod": {
     "name": "The Showman",
-    "version": "0.1.17",
+    "version": "0.2.0",
     "authors": ["Left Click","ComingVirus","DontTakeMyKidneys"],
     "credits": "",
     "description": "A tribute to the Original Slay the Spire Characters",
@@ -681,7 +681,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "X",
-      "description": "Replay X+1 theshowman:Class cards from your Exhaust pile."
+      "description": "Replay X+1 random theshowman:Class cards from your Exhaust pile."
     },
     {
       "name": "Juxtaposed Juggling",
@@ -705,7 +705,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 3 damage. Apply that much Vulnerable"
+      "description": "Deal 3 damage.\nApply that much Vulnerable."
     },
     {
       "name": "Kibler Flick+",
@@ -713,7 +713,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 3 damage. Apply that much Vulnerable"
+      "description": "Deal 3 damage.\nApply that much Vulnerable."
     },
     {
       "name": "Knock The Pile",
@@ -809,7 +809,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage to ALL enemies.\nDraw 2 cards.\ntheshowman:Improvise."
+      "description": "Deal 6 damage to ALL enemies.\nDraw 2 cards.\ntheshowman:Improvise."
     },
     {
       "name": "Reappearing Trick",
@@ -865,7 +865,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "At the end of your turn, put up to 1 card from your hand on top of your deck."
+      "description": "At the end of your turn, put up to 1 card from your hand on top of your draw pile."
     },
     {
       "name": "Stack The Deck+",
@@ -873,7 +873,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "At the end of your turn, put up to 2 cards from your hand on top of your deck."
+      "description": "At the end of your turn, put up to 2 cards from your hand on top of your draw pile."
     },
     {
       "name": "Strong Arm",
@@ -993,7 +993,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Innate.\nAutoplay.\nDeal 1 damage to ALL enemies.\nIncrease this card's damage by 1 this combat.\nShuffle this card into your draw pile."
+      "description": "Innate.\nDeal 1 damage to ALL enemies.\nIncrease this card's damage by 1 this combat.\nShuffle this card into your draw pile."
     },
     {
       "name": "Troubling Trope+",
@@ -1001,7 +1001,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Innate.\nAutoplay.\nDeal 1 damage to ALL enemies.\nIncrease this card's damage by 2 this combat.\nShuffle this card into your draw pile."
+      "description": "Innate.\nDeal 1 damage to ALL enemies.\nIncrease this card's damage by 2 this combat.\nShuffle this card into your draw pile."
     },
     {
       "name": "Up My Sleeve",
@@ -1132,28 +1132,12 @@
       "description": "For every 2 stacks of Vulnerable an enemy has, they take an additional 25% damage."
     },
     {
-      "name": "Object Permanence",
-      "color": "Showman_purple_color",
-      "rarity": "Rare",
-      "type": "Skill",
-      "cost": "2",
-      "description": "ALL theshowman:temporary effects become permanent for this combat.\nPurge."
-    },
-    {
-      "name": "Object Permanence+",
-      "color": "Showman_purple_color",
-      "rarity": "Rare",
-      "type": "Skill",
-      "cost": "1",
-      "description": "ALL theshowman:temporary effects become permanent for this combat.\nPurge."
-    },
-    {
       "name": "Paradigm Sift",
       "color": "Showman_purple_color",
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\nGain [E].\nExhaust your draw pile and shuffle your Exhaust pile into your draw pile simultaneously.\nExhaust."
+      "description": "Deal 8 damage.\nExhaust your draw pile and shuffle your Exhaust pile into your draw pile simultaneously.\nExhaust."
     },
     {
       "name": "Paradigm Sift+",
@@ -1161,7 +1145,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 12 damage.\nGain [E] [E].\nExhaust your draw pile and shuffle your Exhaust pile into your draw pile simultaneously.\nExhaust."
+      "description": "Deal 12 damage.\nExhaust your draw pile and shuffle your Exhaust pile into your draw pile simultaneously.\nExhaust."
     },
     {
       "name": "Perfected Performance",
@@ -1233,7 +1217,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Replay in a random order, ALL theshowman:Class cards in your Exhaust pile.\nExhaust."
+      "description": "Replay in a random order, ALL theshowman:Class cards in your Exhaust pile.\nPurge."
     },
     {
       "name": "Showstopper+",
@@ -1241,7 +1225,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Replay in a random order, ALL theshowman:Class cards in your Exhaust pile."
+      "description": "Replay in a random order, ALL theshowman:Class cards in your Exhaust pile.\nPurge."
     },
     {
       "name": "Thespian Form",
@@ -1334,17 +1318,24 @@
     },
     {
       "name": "Improv for Dummies Vol. 2",
-      "tier": "Uncommon",
+      "tier": "Common",
       "pool": "Showman_purple_color",
       "description": "The first 2 cards you draw each combat theshowman:Improvise [REMOVE_SPACE].",
       "flavorText": "The entire book is improvised by its author."
     },
     {
       "name": "Magnetized Gloves",
-      "tier": "Uncommon",
+      "tier": "Common",
       "pool": "Showman_purple_color",
       "description": "Increase your maximum hand size by 3 [REMOVE_SPACE].",
       "flavorText": "Lets you hold on to more cards."
+    },
+    {
+      "name": "Heart Of The Cards",
+      "tier": "Uncommon",
+      "pool": "Showman_purple_color",
+      "description": "The first card you would theshowman:Overdraw each turn is instead played.",
+      "flavorText": "Believe in the heart of the cards!"
     },
     {
       "name": "Millstone",
@@ -1352,6 +1343,20 @@
       "pool": "Showman_purple_color",
       "description": "theshowman:Stacked reduces a card's effect by 2 less.",
       "flavorText": "For milling your cards"
+    },
+    {
+      "name": "Detachable Thumb",
+      "tier": "Rare",
+      "pool": "Showman_purple_color",
+      "description": "Whenever you exhaust a card, it costs 0 until played.",
+      "flavorText": "A must have for every performer."
+    },
+    {
+      "name": "Chaos Confetti",
+      "tier": "Boss",
+      "pool": "Showman_purple_color",
+      "description": "Gain [E] at the start of your turn. The first card you play each combat removes itself from your deck.",
+      "flavorText": "No performance is complete without some CHAOS CONFETTI!"
     },
     {
       "name": "Trigon Of Trickery",

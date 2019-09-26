@@ -52,22 +52,6 @@
       "description": "Deal damage equal to 3 times the number of Relics you have."
     },
     {
-      "name": "Full Service",
-      "color": "Colorless",
-      "rarity": "Rare",
-      "type": "Attack",
-      "cost": "3",
-      "description": "Gain 5 Block.\nDeal 5 damage.\nGain 5 Block next turn.\nGain 5 Gold.\nApply !vexMod:SecondMagic! Weak.\nApply !vexMod:SecondMagic! Vulnerable.\nApply !vexMod:SecondMagic! Poison.\nDraw !vexMod:SecondMagic! cards.\nDraw !vexMod:SecondMagic! more cards next turn.\nHeal !vexMod:SecondMagic! HP.\nNext turn, gain 1 Energy.\nUpgrade a card in your hand.\nExhaust."
-    },
-    {
-      "name": "Full Service+",
-      "color": "Colorless",
-      "rarity": "Rare",
-      "type": "Attack",
-      "cost": "3",
-      "description": "Gain 6 Block.\nDeal 6 damage.\nGain 6 Block next turn.\nGain 6 Gold.\nApply !vexMod:SecondMagic! Weak.\nApply !vexMod:SecondMagic! Vulnerable.\nApply !vexMod:SecondMagic! Poison.\nDraw !vexMod:SecondMagic! cards.\nDraw !vexMod:SecondMagic! more cards next turn.\nHeal !vexMod:SecondMagic! HP.\nNext turn, gain 1 Energy.\nUpgrade a card in your hand.\nExhaust."
-    },
-    {
       "name": "Spire Strike",
       "color": "Colorless",
       "rarity": "Rare",
@@ -107,13 +91,6 @@
       "pool": "Blue",
       "description": "If you end your turn with any empty Orb slots, gain 3 Block.",
       "flavorText": "Conserve energy! Shut off Orb slots when you're not using them."
-    },
-    {
-      "name": "Bandanna of Resilience",
-      "tier": "Common",
-      "pool": "",
-      "description": "If you have 25% or less HP at the start of your turn, gain 4 Block.",
-      "flavorText": "In your strangest dreams, it appears and yells orders at you."
     },
     {
       "name": "Happy Drink",
@@ -168,8 +145,8 @@
       "name": "Right Greave",
       "tier": "Common",
       "pool": "",
-      "description": "At the start of turns 3 and 7, gain 7 Block.",
-      "flavorText": "Forever waiting to be reunited with Left Greave."
+      "description": "If you have 25% or less HP at the start of your turn, gain 4 Block.",
+      "flavorText": "STILL waiting for Left Greave."
     },
     {
       "name": "Singing Flower",
@@ -184,13 +161,6 @@
       "pool": "Astrologer",
       "description": "At the start of each combat, apply 3 Starlit to ALL enemies.",
       "flavorText": "Light 'em up!"
-    },
-    {
-      "name": "Anger Radio",
-      "tier": "Uncommon",
-      "pool": "Bard_color",
-      "description": "Every time you bard:Queue 3 of the same bard:Note in a single turn, deal 5 damage to ALL enemies.",
-      "flavorText": "Plays frustrating music."
     },
     {
       "name": "Berry Bomb",
@@ -249,11 +219,11 @@
       "flavorText": "Wholly innacurate."
     },
     {
-      "name": "Gilded Shrine",
+      "name": "Polyform Stone",
       "tier": "Uncommon",
       "pool": "",
-      "description": "Whenever you add a card into your deck, gain 7 Gold.",
-      "flavorText": "Molten gold pours endlessly down the shrine."
+      "description": "Right click to stop.",
+      "flavorText": "What the fuck!?"
     },
     {
       "name": "Randomized Relic",
@@ -268,20 +238,6 @@
       "pool": "",
       "description": "Elites drop an additional Rare card reward.",
       "flavorText": "You're bringing this conflict to a head."
-    },
-    {
-      "name": "Special Power Activator",
-      "tier": "Uncommon",
-      "pool": "",
-      "description": "Has a special effect based on what character you're playing as.",
-      "flavorText": "Does many things!"
-    },
-    {
-      "name": "Thirteen-Hour Stone",
-      "tier": "Uncommon",
-      "pool": "",
-      "description": "Every time you you draw 13 cards, draw 1 card.",
-      "flavorText": "Number nine is the most important."
     },
     {
       "name": "Throwing Star",
@@ -352,13 +308,6 @@
       "pool": "",
       "description": "Upon pickup, raise your Max HP by 6.\nAt the start of each combat, deal 11 damage to ALL enemies.",
       "flavorText": "It's literally on fire."
-    },
-    {
-      "name": "Polyform Stone",
-      "tier": "Rare",
-      "pool": "",
-      "description": "Right click to stop.",
-      "flavorText": "What the fuck!?"
     },
     {
       "name": "Retaliation Kit",
@@ -585,13 +534,6 @@
       "flavorText": "Ahh, so THAT's how you make a card Innate!"
     },
     {
-      "name": "Indestructible Card Box",
-      "tier": "Boss",
-      "pool": "Poker_player_gray",
-      "description": "Replaces Deck Case.\nCurse and Status cards cannot enter your deck or draw pile.",
-      "flavorText": "The only way to truly keep your cards tricks safe."
-    },
-    {
       "name": "Lich's Phylactery",
       "tier": "Boss",
       "pool": "",
@@ -618,13 +560,6 @@
       "pool": "",
       "description": "Upon pickup, choose Energy or Non-Energy and obtain a random boss relic of that type.",
       "flavorText": "It's fucking raw!"
-    },
-    {
-      "name": "Namtar's Ward",
-      "tier": "Boss",
-      "pool": "",
-      "description": "When you would die, lose 50% of your Max HP, lose 1 Strength permanently, and heal to full HP instead.",
-      "flavorText": "It's said even Death could not find its holder."
     },
     {
       "name": "New, Clear Reactor",
@@ -740,11 +675,6 @@
     }
   ],
   "potions": [
-    {
-      "name": "Bottle o' Gold",
-      "rarity": "Rare",
-      "description": "Deal 10 damage. Gain some Gold."
-    },
     {
       "name": "Tweet Potion",
       "rarity": "Rare",

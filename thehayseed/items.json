@@ -1,16 +1,48 @@
 {
   "mod": {
     "name": "The Hayseed",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "authors": ["jwoolley"],
     "credits": "Thanks to: \n\nSpleen \u2014 for amazing relic art. \n\nsolderist.park \u2014 whose Cursed mod source code I used to get started (use Default Mod!)\n\nHarryWardp, Basilisk, Greuben, CannonballFun, and Toddells \u2014 for invaluable playtesting and feedback.",
-    "description": "An simple farmer with a head like a pinewood block.",
+    "description": "A simple farmer with a head like a pinewood block.",
     "mts_version": "3.8.3",
     "sts_version": "07-17-2019",
     "dependencies": ["basemod","stslib"],
     "optional_dependencies": []
   },
   "cards": [
+    {
+      "name": "Frostbite",
+      "color": "Curse",
+      "rarity": "Curse",
+      "type": "Curse",
+      "cost": "",
+      "description": "Unplayable.\nWhenever you play a card, increase the cost of a random card in your hand by 1 this turn."
+    },
+    {
+      "name": "Gnats",
+      "color": "Curse",
+      "rarity": "Curse",
+      "type": "Curse",
+      "cost": "",
+      "description": "Unplayable.\nYou cannot play 0-cost cards this turn."
+    },
+    {
+      "name": "Nettles",
+      "color": "Curse",
+      "rarity": "Curse",
+      "type": "Curse",
+      "cost": "",
+      "description": "Unplayable.\nAt the end of your turn, apply 1 Thorns to a random enemy."
+    },
+    {
+      "name": "Spoilage",
+      "color": "Curse",
+      "rarity": "Curse",
+      "type": "Curse",
+      "cost": "",
+      "description": "Unplayable.\nAt end of turn, put this card on top of your draw pile if you played 3 or more cards this turn."
+    },
     {
       "name": "Defend",
       "color": "The_simpleton_blue",
@@ -58,6 +90,38 @@
       "type": "Attack",
       "cost": "1",
       "description": "Deal 6 damage to ALL enemies.\nPlant 2 Potatoes, then add a Cultivate to your discard pile if you have any Mature Crops."
+    },
+    {
+      "name": "Reap and Squash",
+      "color": "The_simpleton_blue",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage to ALL enemies. Gain 4 Block.\nPlant 1 Squash, then add a Cultivate to your discard pile if you have any Mature Crops."
+    },
+    {
+      "name": "Reap and Squash+",
+      "color": "The_simpleton_blue",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage to ALL enemies. Gain 6 Block.\nPlant 2 Squash, then add a Cultivate to your discard pile if you have any Mature Crops."
+    },
+    {
+      "name": "Reek and Sow",
+      "color": "The_simpleton_blue",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage and apply 4 Burning to ALL enemies.\nPlant 2 Onions, then add a Cultivate to your discard pile if you have any Mature Crops."
+    },
+    {
+      "name": "Reek and Sow+",
+      "color": "The_simpleton_blue",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage and apply 6 Burning to ALL enemies.\nPlant 3 Onions, then add a Cultivate to your discard pile if you have any Mature Crops."
     },
     {
       "name": "Strike",
@@ -593,7 +657,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 6 damage.\nIf Turnips are Mature, Harvest all Turnips. Otherwise, Plant 1 Turnips."
+      "description": "Deal 6 damage.\nPlant 1 Turnips."
     },
     {
       "name": "Root Down+",
@@ -601,7 +665,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Innate.\nDeal 6 damage.\nIf Turnips are Mature, Harvest all Turnips. Otherwise, Plant 1 Turnips."
+      "description": "Innate.\nDeal 6 damage.\nPlant 1 Turnips."
     },
     {
       "name": "Soil Sample",
@@ -752,8 +816,8 @@
       "color": "The_simpleton_blue",
       "rarity": "Rare",
       "type": "Attack",
-      "cost": "3",
-      "description": "Deal 5 damage to a random enemy for each Crop stack you have.\nMature Crops deal double damage.\nExhaust."
+      "cost": "4",
+      "description": "Deal 6 damage to a random enemy for each Crop stack you have.\nStun each enemy damaged 6 or more times this way."
     },
     {
       "name": "Barnstorm+",
@@ -761,7 +825,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "3",
-      "description": "Deal 5 damage to ALL enemies for each Crop stack you have.\nMature Crops deal double damage. \nExhaust."
+      "description": "Deal 6 damage to a random enemy for each Crop stack you have.\nStun each enemy damaged 6 or more times this way."
     },
     {
       "name": "Biorefinement",
@@ -801,7 +865,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 12 damage to a random enemy 2 times.\nPlant 1 Sunflower for each enemy killed this way."
+      "description": "Deal 12 damage to a random enemy 2 times.\nPlant 2 Sunflowers for each enemy killed this way."
     },
     {
       "name": "Buzz Bomb+",
@@ -809,7 +873,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 12 damage to a random enemy 3 times.\nPlant 1 Sunflower for each enemy killed this way."
+      "description": "Deal 12 damage to a random enemy 3 times.\nPlant 2 Sunflowers for each enemy killed this way."
     },
     {
       "name": "Chilis",
@@ -976,7 +1040,7 @@
       "color": "The_simpleton_blue",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "1",
+      "cost": "0",
       "description": "Gain 1 Plot."
     },
     {
@@ -984,7 +1048,7 @@
       "color": "The_simpleton_blue",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "1",
+      "cost": "0",
       "description": "Gain 2 Plots."
     },
     {
@@ -1160,7 +1224,7 @@
       "name": "Spud of the Innocent",
       "tier": "Starter",
       "pool": "The_simpleton_blue",
-      "description": "At the start of each combat, Plant 2 Potatoes.",
+      "description": "At the start of your turn, if you have no crops, Plant 2 Potatoes.",
       "flavorText": "Salvation for the thin-skinned."
     },
     {
@@ -1185,6 +1249,13 @@
       "flavorText": "Cold, but not hard."
     },
     {
+      "name": "Gardening Glove",
+      "tier": "Uncommon",
+      "pool": "The_simpleton_blue",
+      "description": "At the end of your turn, if you have exactly one Power card in hand, retain it.",
+      "flavorText": "Sometimes you need to get into the dirt."
+    },
+    {
       "name": "Gas Can",
       "tier": "Uncommon",
       "pool": "The_simpleton_blue",
@@ -1192,11 +1263,25 @@
       "flavorText": "What can expand to fill any container?"
     },
     {
+      "name": "Honeycomb",
+      "tier": "Uncommon",
+      "pool": "The_simpleton_blue",
+      "description": "Whenever you Plant a Crop, deal 1 damage to a random enemy.",
+      "flavorText": "It may sting a little."
+    },
+    {
       "name": "Hot Potato",
       "tier": "Uncommon",
       "pool": "The_simpleton_blue",
       "description": "Harvesting Potatoes now yields Flaming Spuds, which also apply Burning damage.",
       "flavorText": "There's no topping this one."
+    },
+    {
+      "name": "Jug of Moonshine",
+      "tier": "Uncommon",
+      "pool": "The_simpleton_blue",
+      "description": "On turn 3, gain 5 temporary Strength, then gain [E] and draw an extra card.\nRandomize the cost of cards drawn that turn.",
+      "flavorText": "A carefully-guarded family recipe, the distillation process has claimed its share of casualties."
     },
     {
       "name": "Pickling Jar",
@@ -1216,21 +1301,21 @@
       "name": "Horn Of Plenty",
       "tier": "Rare",
       "pool": "The_simpleton_blue",
-      "description": "At the start of each combat, gain 1 Abundance.",
+      "description": "At the start of each combat, add a random in-season Crop Power card to your hand. Then gain 1 Abundance which lasts until end of turn.",
       "flavorText": "More than adequate."
     },
     {
       "name": "Gourd Charm",
       "tier": "Boss",
       "pool": "The_simpleton_blue",
-      "description": "Replaces Spud of the Innocent. At the start of each combat, Plant 2 Squash.",
-      "flavorText": "Crafted specifically for adventurers who prefer Hard Mode."
+      "description": "At the start of your turn, if you have no crops, Plant 2 Squash.",
+      "flavorText": "Crafted specially for adventurers who prefer Hard Mode."
     },
     {
       "name": "Onion Belt",
       "tier": "Boss",
       "pool": "The_simpleton_blue",
-      "description": "Replaces Spud of the Innocent. At the start of each combat, Plant 2 Onions.",
+      "description": "At the start of your turn, if you have no crops, Plant 2 Onions.",
       "flavorText": "Once wielded by the Elders, now largely out of style."
     },
     {
@@ -1243,14 +1328,19 @@
   ],
   "potions": [
     {
-      "name": "Abundance Potion",
+      "name": "Bloom Potion",
       "rarity": "Uncommon",
-      "description": "Gain 1 Abundance."
+      "description": "Gain 2 Abundance.\nAt the end of your turn, lose 2 Abundance."
     },
     {
       "name": "Kindling Potion",
       "rarity": "Uncommon",
       "description": "Apply 15 Burning to ALL enemies."
+    },
+    {
+      "name": "Swig of Moonshine",
+      "rarity": "Uncommon",
+      "description": "Discard your hand and draw 5 cards. Gain 5 Strength and become Intoxicated until the end of your turn."
     }
   ],
   "creatures": [
@@ -1337,10 +1427,6 @@
     {
       "name": "Potato",
       "description": "Crop. Yields 0-cost Spud attack cards when harvested."
-    },
-    {
-      "name": "Slow",
-      "description": "Whenever you play a card, you receive 10% more damage from Attacks until your next turn."
     },
     {
       "name": "Spinach",

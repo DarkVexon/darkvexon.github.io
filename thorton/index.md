@@ -11,7 +11,7 @@
 | Book Bash | ![](small-card-images/BookBash.png) | ![](small-card-images/BookBashPlus.png) | Common | Attack | X | Deal 6(8) damage X times. |
 | Business Card | ![](small-card-images/BusinessCard.png) | ![](small-card-images/BusinessCardPlus.png) | Common | Skill | 0 | Whenever you play 10 thethorton:Business_Cards, obtain a Relic. (Draw 1 card.)  Exhaust. |
 | Cash Bash | ![](small-card-images/CashBash.png) | ![](small-card-images/CashBashPlus.png) | Common | Attack | 1 | Gain 5(6) Gold. Deal 10(12) damage. Exhaust. |
-| Cash Buffer | ![](small-card-images/CashBuffer.png) | ![](small-card-images/CashBufferPlus.png) | Common | Skill | 1 | Gain 4(6) Gold. Gain 8(10) Block. Exhaust. |
+| Cash Buffer | ![](small-card-images/CashBuffer.png) | ![](small-card-images/CashBufferPlus.png) | Common | Skill | 1 | Gain 4(6) Gold. Gain 7(9) Block. Exhaust. |
 | Distance | ![](small-card-images/Distance.png) | ![](small-card-images/DistancePlus.png) | Common | Skill | 1 | Gain 2(4) Block. Apply 1 Weak to ALL enemies. |
 | Down Payment | ![](small-card-images/DownPayment.png) | ![](small-card-images/DownPaymentPlus.png) | Common | Skill | 1(0) | The top card of your draw pile costs 0 until played. |
 | Elbow Nudge | ![](small-card-images/ElbowNudge.png) | ![](small-card-images/ElbowNudgePlus.png) | Common | Attack | 1 | Deal 7(10) damage. Draw 1 additional card next turn. |
@@ -28,31 +28,33 @@
 | Whirling Briefcase | ![](small-card-images/WhirlingBriefcase.png) | ![](small-card-images/WhirlingBriefcasePlus.png) | Common | Attack | 1 | Gain 2(3) Gold for each enemy. Deal 6(9) damage to ALL enemies. Exhaust. |
 | Battle Trash | ![](small-card-images/BattleTrash.png) | ![](small-card-images/BattleTrashPlus.png) | Uncommon | Skill | 0 | Draw 2(3) cards. You cannot draw additional cards this turn. |
 | Boardroom Blast | ![](small-card-images/BoardroomBlast.png) | ![](small-card-images/BoardroomBlastPlus.png) | Uncommon | Attack | 2 | Deal 14(18) damage to ALL enemies. |
-| Business Bash | ![](small-card-images/BusinessBash.png) | ![](small-card-images/BusinessBashPlus.png) | Uncommon | Attack | 1 | Deal 8(10) damage. Add 1 (upgraded) thethorton:Business_Card into your hand. Exhaust. |
+| Business Bash | ![](small-card-images/BusinessBash.png) | ![](small-card-images/BusinessBashPlus.png) | Uncommon | Attack | 1 | Deal 7(9) damage. Add 1 (upgraded) thethorton:Business_Card into your hand. Exhaust. |
 | Business Boom | ![](small-card-images/BusinessBoom.png) | ![](small-card-images/BusinessBoomPlus.png) | Uncommon | Attack | 3 | Deal 25(32) damage. Shuffle a (an upgraded) thethorton:Business_Card into your draw pile. Exhaust. |
 | Business Burst | ![](small-card-images/BusinessBurst.png) | ![](small-card-images/BusinessBurstPlus.png) | Uncommon | Skill | 1(0) | Gain 5 Gold. Shuffle 2 thethorton:Business_Cards into your draw pile. Exhaust. |
 | Call In | ![](small-card-images/CallIn.png) | ![](small-card-images/CallInPlus.png) | Uncommon | Skill | 1 | Gain 11 Block. Gain 2(1) Frail. |
 | Chart Project | ![](small-card-images/ChartProject.png) | ![](small-card-images/ChartProjectPlus.png) | Uncommon | Skill | 1 | (Draw 1 card.)  If the enemy intends to attack, gain 6 Block. Otherwise, gain [E] and draw 1 card next turn. |
+| Coffee Blast | ![](small-card-images/CoffeeBlast.png) | ![](small-card-images/CoffeeBlastPlus.png) | Uncommon | Skill | 1 | (Innate.)  Add 2 random cards from any color into your hand. They have Retain. Exhaust. |
 | Coin Clash | ![](small-card-images/CoinClash.png) | ![](small-card-images/CoinClashPlus.png) | Uncommon | Attack | 2 | Gain 10(12) Gold. Deal 20(24) damage. Exhaust. |
 | Coin Shield | ![](small-card-images/CoinShield.png) | ![](small-card-images/CoinShieldPlus.png) | Uncommon | Skill | 2 | Gain 7(9) Gold. Gain 14(18) Block. Exhaust. |
 | Crash | ![](small-card-images/Crash.png) | ![](small-card-images/CrashPlus.png) | Uncommon | Attack | 2 | Deal 8(10) damage. Gain 8(10) Block. thethorton:Run. |
+| Deep Fear | ![](small-card-images/DeepFear.png) | ![](small-card-images/DeepFearPlus.png) | Uncommon | Power | 2(1) | Whenever you receive unblocked attack damage, thethorton:Run. |
 | Desperate Run | ![](small-card-images/DesperateRun.png) | ![](small-card-images/DesperateRunPlus.png) | Uncommon | Skill | 1 | Draw 2(3) cards. thethorton:Run. |
 | Dock Pay | ![](small-card-images/DockPay.png) | ![](small-card-images/DockPayPlus.png) | Uncommon | Attack | 1 | Deal 7(9) damage. Enemy loses 1(2) Strength this turn. |
 | Feel No Brain | ![](small-card-images/FeelNoBrain.png) | ![](small-card-images/FeelNoBrainPlus.png) | Uncommon | Power | 1 | (Innate.)  Whenever a card is Exhausted, gain 2 Block. |
-| Focus Strength | ![](small-card-images/FocusStrength.png) | ![](small-card-images/FocusStrengthPlus.png) | Uncommon | Skill | 1(0) | Gain 1 Strength. End the turn. |
+| Focus Strength | ![](small-card-images/FocusStrength.png) | ![](small-card-images/FocusStrengthPlus.png) | Uncommon | Skill | 1(0) | Gain 1 Strength. End your turn. |
 | Hedge Fund | ![](small-card-images/HedgeFund.png) | ![](small-card-images/HedgeFundPlus.png) | Uncommon | Attack | 1 | Deal 12(15) damage. Next turn, draw 1 less card. |
 | Hindsight | ![](small-card-images/Hindsight.png) | ![](small-card-images/HindsightPlus.png) | Uncommon | Skill | 1 | Next turn, gain 3(5) Block. Put a card from your discard pile into your hand. |
 | Investment | ![](small-card-images/Investment.png) | ![](small-card-images/InvestmentPlus.png) | Uncommon | Skill | 2(1) | Ethereal. Whenever you play 4 thethorton:Investments, obtain a Relic. Exhaust. |
-| Last Ditch Effort | ![](small-card-images/LastDitchEffort.png) | ![](small-card-images/LastDitchEffortPlus.png) | Uncommon | Attack | 2 | Deal 12(15) damage. If you have less than 50% HP, deal 12(15) damage. If you have less than 25% HP, deal 12(15) damage. |
+| Last Ditch Effort | ![](small-card-images/LastDitchEffort.png) | ![](small-card-images/LastDitchEffortPlus.png) | Uncommon | Attack | 2 | Deal 12(15) damage. If your HP is below 50%, deal 12(15) damage. If your HP is below 25%, deal 12(15) damage. |
 | Long Day's Work | ![](small-card-images/LongDaysWork.png) | ![](small-card-images/LongDaysWorkPlus.png) | Uncommon | Attack | 1 | Deal 7(10) damage. Draw 1 card. Exhaust a card in your hand. |
 | Lunch Break | ![](small-card-images/LunchBreak.png) | ![](small-card-images/LunchBreakPlus.png) | Uncommon | Skill | 1 | Heal 3(4) HP. Shuffle (Add) 1 thethorton:Business_Card into your draw pile (hand). Exhaust. |
 | Perplexing Power | ![](small-card-images/PerplexingPower.png) | ![](small-card-images/PerplexingPowerPlus.png) | Uncommon | Power | 1 | (Innate.)  Gain 3 of either Malleable, Artifact, Thorns or Plated Armor randomly. |
 | Plan Ahead | ![](small-card-images/PlanAhead.png) | ![](small-card-images/PlanAheadPlus.png) | Uncommon | Skill | 2(1) | Choose a bonus to start the next combat with. Exhaust. |
 | Promotion | ![](small-card-images/Promotion.png) | ![](small-card-images/PromotionPlus.png) | Uncommon | Power | 1(0) | Gain 1 Strength. Gain 1 Dexterity. |
-| ROI | ![](small-card-images/ROI.png) | ![](small-card-images/ROIPlus.png) | Uncommon | Skill | 2(1) | Ethereal. Gain 15 Gold. Exhaust. |
+| ROI | ![](small-card-images/ROI.png) | ![](small-card-images/ROIPlus.png) | Uncommon | Skill | 2(1) | Ethereal. Gain 25 Gold. Exhaust. |
 | Rebalance | ![](small-card-images/Rebalance.png) | ![](small-card-images/RebalancePlus.png) | Uncommon | Skill | 2(1) | Gain 1 Strength. ALL enemies lose 1 Strength. Exhaustive !stslib:ex!. |
 | Run Run | ![](small-card-images/RunRun.png) | ![](small-card-images/RunRunPlus.png) | Uncommon | Skill | 1(0) | thethorton:Run. thethorton:Run. |
-| Running Business | ![](small-card-images/RunningBusiness.png) | ![](small-card-images/RunningBusinessPlus.png) | Uncommon | Skill | 1(0) | Gain 10 Gold. thethorton:Run. Exhaust. |
+| Running Business | ![](small-card-images/RunningBusiness.png) | ![](small-card-images/RunningBusinessPlus.png) | Uncommon | Skill | 1(0) | Gain 15 Gold. thethorton:Run. Exhaust. |
 | Running Feint | ![](small-card-images/RunningFeint.png) | ![](small-card-images/RunningFeintPlus.png) | Uncommon | Skill | 1 | Apply 2(3) Vulnerable. thethorton:Run. |
 | Seeing Double | ![](small-card-images/SeeingDouble.png) | ![](small-card-images/SeeingDoublePlus.png) | Uncommon | Skill | 2(1) | Ethereal. Choose a card in your hand. Put 2 copies of that card on top of your draw pile. Exhaust. |
 | Snow Day | ![](small-card-images/SnowDay.png) | ![](small-card-images/SnowDayPlus.png) | Uncommon | Skill | 1 | Channel 1 Frost. thethorton:Run. Exhaust (Exhaustive !stslib:ex!). |
@@ -66,24 +68,31 @@
 | Call Of Commerce | ![](small-card-images/CallOfCommerce.png) | ![](small-card-images/CallOfCommercePlus.png) | Rare | Skill | 3(2) | Ethereal. Gain 15 Gold. The next ? room you enter contains a shop. Exhaust. |
 | Cardboard Box | ![](small-card-images/CardboardBox.png) | ![](small-card-images/CardboardBoxPlus.png) | Rare | Power | 1(0) | Gain 1 Intangible. |
 | Compound Interest | ![](small-card-images/CompoundInterest.png) | ![](small-card-images/CompoundInterestPlus.png) | Rare | Skill | 2(1) | Exhaust. Choose 1: Double this card's Gold permanently. Gain 2 Gold and remove this card from your deck permanently. |
-| Coward Form | ![](small-card-images/CowardForm.png) | ![](small-card-images/CowardFormPlus.png) | Rare | Power | 3 | Grave. (not Grave.) thethorton:Run. At the start of your turn, thethorton:Run. |
+| Coward Form | ![](small-card-images/CowardForm.png) | ![](small-card-images/CowardFormPlus.png) | Rare | Power | 3(2) | thethorton:Run. At the start of your turn, thethorton:Run. |
 | Crashing Stocks | ![](small-card-images/CrashingStocks.png) | ![](small-card-images/CrashingStocksPlus.png) | Rare | Attack | 3(2) | If you have at least 100 Gold, lose 100 Gold and deal 50 damage to ALL enemies. |
 | Demotion | ![](small-card-images/Demotion.png) | ![](small-card-images/DemotionPlus.png) | Rare | Skill | 3(2) | ALL enemies cannot buff themselves or debuff you. Exhaust. |
 | Dodge & Roll & Run | ![](small-card-images/Dodge&Roll&Run.png) | ![](small-card-images/Dodge&Roll&RunPlus.png) | Rare | Skill | 2 | Gain 9(11) Block. Next turn, gain 9(11) Block. thethorton:Run. |
-| Escape! | ![](small-card-images/Escape!.png) | ![](small-card-images/Escape!Plus.png) | Rare | Skill | 3 | 33% chance to escape a non-boss combat. Receive no rewards. (not Receive no rewards.) Exhaustive !stslib:ex!. |
+| Escape! | ![](small-card-images/Escape!.png) | ![](small-card-images/Escape!Plus.png) | Rare | Skill | 3 | 33% chance to escape a non-boss combat. Receive no rewards. (not Receive no rewards.) thethorton:Run. Exhaustive !stslib:ex!. |
 | Fair Trade | ![](small-card-images/FairTrade.png) | ![](small-card-images/FairTradePlus.png) | Rare | Skill | 1(0) | Exhaust a card in your hand. Put a card from your exhaust pile into your hand. Exhaust. |
 | Fatigue | ![](small-card-images/Fatigue.png) | ![](small-card-images/FatiguePlus.png) | Rare | Skill | 2(1) | Apply Weak equal to your held Gold. Exhaust. |
-| Fortune | ![](small-card-images/Fortune.png) | ![](small-card-images/FortunePlus.png) | Rare | Skill | X | Gain X0 Gold. (Gain [E].)  thethorton:Run. Exhaust. |
+| Fortune | ![](small-card-images/Fortune.png) | ![](small-card-images/FortunePlus.png) | Rare | Skill | X | Gain X5 Gold. (Gain [E].)  thethorton:Run. Exhaust. |
+| Golden Petal | ![](small-card-images/GoldenPetal.png) | ![](small-card-images/GoldenPetalPlus.png) | Rare | Skill | 3 | Ethereal. Card rewards from this combat are Rare cards from any class. Fleeting (Exhaust). |
 | Hexaghostify | ![](small-card-images/Hexaghostify.png) | ![](small-card-images/HexaghostifyPlus.png) | Rare | Skill | 3 | Grave. Enemy becomes a (ALL enemies become) Hexaghost(s). Exhaust. |
-| Message From Our Sponsors | ![](small-card-images/MessageFromOurSponsors.png) | ![](small-card-images/MessageFromOurSponsorsPlus.png) | Rare | Skill | (4) | Unplayable (Ethereal). Fun fact: You can commission Vex to make your custom mod idea! Contact Vex'd#2468 on Discord for more info (Cost cannot be modified).  (Obtain a Relic. Exhaust.) |
+| Impossible? | ![](small-card-images/Impossible.png) | ![](small-card-images/ImpossiblePlus.png) | Rare | Attack | 3 | thethorton:Locked. Deal 200000(1180000) damage. |
+| Jackpot | ![](small-card-images/Jackpot.png) | ![](small-card-images/JackpotPlus.png) | Rare | Skill | 1(0) | Upon pickup, gain 300 Gold. Exhaust. |
+| Just Business | ![](small-card-images/JustBusiness.png) | ![](small-card-images/JustBusinessPlus.png) | Rare | Power | 3(2) | Gain 1 Intangible. Exhaust ALL your cards. Choose an Intent at the start of your turn. |
+| Message From Our Sponsors | ![](small-card-images/MessageFromOurSponsors.png) | ![](small-card-images/MessageFromOurSponsorsPlus.png) | Rare | Skill | (4) | Unplayable (Ethereal). Fun fact: You can commission me to make your custom mod idea! Contact Vex'd#2468 on Discord for more info (Cost cannot be modified).  (Obtain a Relic. Exhaust.) |
+| Midnight Strike | ![](small-card-images/MidnightStrike.png) | ![](small-card-images/MidnightStrikePlus.png) | Rare | Attack | 2(1) | Can only be played if you have played exactly 11 cards this combat. Deal 100 damage. Exhaust. |
 | Penny Toss | ![](small-card-images/PennyToss.png) | ![](small-card-images/PennyTossPlus.png) | Rare | Attack | 1(0) | Gain 11 Gold. Gain 11 Block. Deal 11 damage. Exhaust. |
 | Planned Obsolescence | ![](small-card-images/PlannedObsolescence.png) | ![](small-card-images/PlannedObsolescencePlus.png) | Rare | Attack | 1 | Deal 10(12) damage. Deal 5(6) damage to this Act's boss. Exhaust. |
 | Portfolio | ![](small-card-images/Portfolio.png) | ![](small-card-images/PortfolioPlus.png) | Rare | Skill | 2 | Gain 5(10) Gold. Shuffle 2 (upgraded) thethorton:Business_Cards and 1 (upgraded) thethorton:Investment into your draw pile. Exhaust. |
 | Scaling Is Win | ![](small-card-images/ScalingIsWin.png) | ![](small-card-images/ScalingIsWinPlus.png) | Rare | Power | 2 | At the start of your turn, gain 1 Strength (and draw 1 additional card). |
 | Sell Short | ![](small-card-images/SellShort.png) | ![](small-card-images/SellShortPlus.png) | Rare | Skill | 3(2) | Ethereal. Add 1 copy of a card in your hand to your deck permanently. Exhaust. |
-| Shifting Octopus | ![](small-card-images/ShiftingOctopus.png) | ![](small-card-images/ShiftingOctopusPlus.png) | Rare | Attack | 1 | Do 2(3) things. Exhaust. |
+| Shifting Octopus | ![](small-card-images/ShiftingOctopus.png) | ![](small-card-images/ShiftingOctopusPlus.png) | Rare | Attack | 1(0) | Do 2 things. Exhaust. |
+| Slot Machine | ![](small-card-images/SlotMachine.png) | ![](small-card-images/SlotMachinePlus.png) | Rare | Skill | 3(2) | Ethereal. Lose 15 Gold. Play a slot machine. Exhaust. |
 | Summon Profits | ![](small-card-images/SummonProfits.png) | ![](small-card-images/SummonProfitsPlus.png) | Rare | Skill | 0 | Add 1 random card from any color into your hand. Draw 1 card. (They cost 0 until played.)  Exhaust. |
 | Temporal Blast | ![](small-card-images/TemporalBlast.png) | ![](small-card-images/TemporalBlastPlus.png) | Rare | Skill | 1(0) | Ethereal. Play a copy of the next card you play this turn at the start of the next combat. Exhaust. |
+| The Key | ![](small-card-images/TheKey.png) | ![](small-card-images/TheKeyPlus.png) | Rare | Skill | 3(0) | Unlock a thethorton:Locked card in your hand. Exhaust. |
 | You're Fired | ![](small-card-images/YoureFired.png) | ![](small-card-images/YoureFiredPlus.png) | Rare | Attack | 2 | Deal 20(26) damage. Remove all of your debuffs. |
 
 

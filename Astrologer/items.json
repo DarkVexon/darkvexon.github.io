@@ -1,12 +1,12 @@
 {
   "mod": {
     "name": "Astrologer",
-    "version": "0.4.1",
+    "version": "1.0.1",
     "authors": ["Alchyr"],
     "credits": "",
     "description": "Astrologer.\nCredits: https://freesound.org/people/acclivity/sounds/32304/ \n https://freesound.org/people/Timbre/sounds/221683/ \n http://www.stephanie-davidson.com/",
-    "mts_version": "3.11.0",
-    "sts_version": "07-01-2019",
+    "mts_version": "3.8.3",
+    "sts_version": "07-17-2019",
     "dependencies": ["basemod","stslib"],
     "optional_dependencies": []
   },
@@ -74,6 +74,22 @@
       "type": "Attack",
       "cost": "0",
       "description": "Innate.\nGain 9 Block.\nDeal 9 damage.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: Exhaust."
+    },
+    {
+      "name": "Ominous Star",
+      "color": "Astrologer",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "1",
+      "description": "astrologer:Star."
+    },
+    {
+      "name": "Ominous Star+",
+      "color": "Astrologer",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "0",
+      "description": "astrologer:Star."
     },
     {
       "name": "Comet Strike",
@@ -281,7 +297,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 12 Block.\nThe astrologer:Stellar_Phase cannot change for 2 turns."
+      "description": "Gain 14 Block.\nThe astrologer:Stellar_Phase cannot change for 2 turns."
     },
     {
       "name": "Cataclysm",
@@ -305,7 +321,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Whenever you draw the same card multiple times in a single turn, deal 10 damage to ALL enemies."
+      "description": "Shuffle an astrologer:Ominous_Star into your draw pile.\nWhenever you draw an astrologer:Ominous_Star, deal 8 damage to ALL enemies."
     },
     {
       "name": "Confirmation+",
@@ -313,7 +329,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Whenever you draw the same card multiple times in a single turn, deal 15 damage to ALL enemies."
+      "description": "Shuffle an astrologer:Ominous_Star into your draw pile.\nWhenever you draw an astrologer:Ominous_Star, deal 13 damage to ALL enemies."
     },
     {
       "name": "Cosmic Expanse",
@@ -769,7 +785,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 6 damage.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: Lose 6 HP.\nGain 6 Strength.\nExhaust."
+      "description": "Deal 10 damage.\nIf this does not kill the enemy, lose 6 HP.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: Deals additional damage equal to your missing health."
     },
     {
       "name": "The Devil+",
@@ -777,7 +793,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 6 damage.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: Lose 6 HP.\nGain 6 Strength.\nRaise your Max HP by 6.\nExhaust."
+      "description": "Deal 14 damage.\nIf this does not kill the enemy, lose 6 HP.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: Deals additional damage equal to your missing health."
     },
     {
       "name": "The Emperor",
@@ -833,7 +849,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 2 Block for each card played this turn.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: Draw a card from the bottom card of your draw pile. It costs 1 less this turn."
+      "description": "Gain 2 Block for each card played this turn.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: Draw a card from the bottom of your draw pile. It costs 1 less this turn."
     },
     {
       "name": "The Hermit+",
@@ -841,7 +857,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 3 Block for each card played this turn.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: Draw a card from the bottom card of your draw pile. It costs 1 less this turn."
+      "description": "Gain 3 Block for each card played this turn.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: Draw a card from the bottom of your draw pile. It costs 1 less this turn."
     },
     {
       "name": "The Hierophant",
@@ -890,6 +906,22 @@
       "type": "Skill",
       "cost": "0",
       "description": "Exchange the costs of two cards in your hand for the rest of combat.\nExhaust.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: The chosen cards will be played twice the next time you play them."
+    },
+    {
+      "name": "The Magician",
+      "color": "Astrologer",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Ethereal.\nDeal damage equal to the number of cards played this combat.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: Play a random card from your draw pile."
+    },
+    {
+      "name": "The Magician+",
+      "color": "Astrologer",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal damage equal to the number of cards played this combat.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: Play a random card from your draw pile."
     },
     {
       "name": "The Moon",
@@ -945,14 +977,14 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": "ALL your cards are astrologer:Stars."
+      "description": "Ethereal.\nALL your cards are astrologer:Stars."
     },
     {
       "name": "Astral Form+",
       "color": "Astrologer",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "2",
+      "cost": "3",
       "description": "ALL your cards are astrologer:Stars."
     },
     {
@@ -1081,7 +1113,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "3",
-      "description": "Gain 28 Block.\nDeal 20 damage.\nShuffle 2 Dazed into your draw pile."
+      "description": "Gain 30 Block.\nDeal 22 damage.\nShuffle 3 Dazed into your draw pile."
     },
     {
       "name": "The Chariot",
@@ -1098,22 +1130,6 @@
       "type": "Power",
       "cost": "2",
       "description": "Gain 14 Temporary_HP.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: Gain 1 Intangible."
-    },
-    {
-      "name": "The Magician",
-      "color": "Astrologer",
-      "rarity": "Rare",
-      "type": "Attack",
-      "cost": "3",
-      "description": "Ethereal.\nDeal damage equal to the number of cards played this combat.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: Play a random card from your draw pile."
-    },
-    {
-      "name": "The Magician+",
-      "color": "Astrologer",
-      "rarity": "Rare",
-      "type": "Attack",
-      "cost": "2",
-      "description": "Deal damage equal to the number of cards played this combat.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: Play a random card from your draw pile."
     },
     {
       "name": "The Star",
@@ -1153,7 +1169,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw 3 cards.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: Before drawing, reset your deck to the beginning of combat, except for this card.\nPurge."
+      "description": "Draw 4 cards.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: Before drawing, reset your deck to the beginning of combat, except for this card.\nPurge."
     },
     {
       "name": "The World+",
@@ -1161,7 +1177,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw 4 cards.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: Before drawing, reset your deck to the beginning of combat, except for this card.\nPurge."
+      "description": "Draw 5 cards.\n[#ccf3ff]Stellar[] !STELLAR_VARIABLE!: Before drawing, reset your deck to the beginning of combat, except for this card.\nPurge."
     },
     {
       "name": "Trine",
@@ -1201,7 +1217,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "4",
-      "description": "Costs 1 less [E] for each astrologer:Star card Exhausted this combat.\nGain 10 Block.\nDraw 1 card."
+      "description": "Costs 1 less [E] for each astrologer:Star card Exhausted this combat.\nGain 12 Block.\nDraw 2 card."
     },
     {
       "name": "Wish+",
@@ -1209,7 +1225,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "4",
-      "description": "Costs 1 less [E] for each astrologer:Star card Exhausted this combat.\nGain 15 Block.\nDraw 1 card."
+      "description": "Costs 1 less [E] for each astrologer:Star card Exhausted this combat.\nGain 18 Block.\nDraw 2 card."
     }
   ],
   "relics": [

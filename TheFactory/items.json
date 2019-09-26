@@ -1,0 +1,151 @@
+{
+  "mod": {
+    "name": "The Factory",
+    "version": "1.2",
+    "authors": ["Vex'd","Visager"],
+    "credits": "",
+    "description": "I made an act.",
+    "mts_version": "3.7.0",
+    "sts_version": "01-23-2019",
+    "dependencies": ["basemod"],
+    "optional_dependencies": []
+  },
+  "cards": [
+  ],
+  "relics": [
+    {
+      "name": "Charge-Up Core",
+      "tier": "Special",
+      "pool": "",
+      "description": "ALL enemies in the next combat start with 3 Strength.",
+      "flavorText": "The mechanical monsters are enraged by your boisterous actions."
+    },
+    {
+      "name": "Remembrance",
+      "tier": "Special",
+      "pool": "",
+      "description": "The Merchant is dead.",
+      "flavorText": "The Merchant has met their end many times to Spire denizens and irate shoppers alike. Fortunately, anything is possible with enough Gold."
+    }
+  ],
+  "potions": [
+  ],
+  "creatures": [
+    {
+      "name": "5P1D3R",
+      "type": "Boss",
+      "minHP": "444",
+      "maxHP": "444"
+    },
+    {
+      "name": "Alarm Sentry",
+      "type": "Normal",
+      "minHP": "72",
+      "maxHP": "72"
+    },
+    {
+      "name": "Broken Sentry",
+      "type": "Normal",
+      "minHP": "152",
+      "maxHP": "152"
+    },
+    {
+      "name": "Decaying Sentinel",
+      "type": "Normal",
+      "minHP": "258",
+      "maxHP": "258"
+    },
+    {
+      "name": "Drink Brewer",
+      "type": "Elite",
+      "minHP": "222",
+      "maxHP": "222"
+    },
+    {
+      "name": "Experiment 01",
+      "type": "Boss",
+      "minHP": "520",
+      "maxHP": "520"
+    },
+    {
+      "name": "Experiment Personnel",
+      "type": "Normal",
+      "minHP": "80",
+      "maxHP": "80"
+    },
+    {
+      "name": "Guardian 2.0",
+      "type": "Boss",
+      "minHP": "480",
+      "maxHP": "480"
+    },
+    {
+      "name": "Heap of Shrapnel",
+      "type": "Normal",
+      "minHP": "250",
+      "maxHP": "250"
+    },
+    {
+      "name": "Manservantes",
+      "type": "Elite",
+      "minHP": "195",
+      "maxHP": "195"
+    },
+    {
+      "name": "Metal Thrower",
+      "type": "Normal",
+      "minHP": "140",
+      "maxHP": "140"
+    },
+    {
+      "name": "Mini-Bot Beamer",
+      "type": "Normal",
+      "minHP": "34",
+      "maxHP": "34"
+    },
+    {
+      "name": "Mini-Bot Debuffer",
+      "type": "Normal",
+      "minHP": "32",
+      "maxHP": "32"
+    },
+    {
+      "name": "Mini-Bot Repairer",
+      "type": "Normal",
+      "minHP": "28",
+      "maxHP": "28"
+    },
+    {
+      "name": "Mini-Bot Summoner",
+      "type": "Normal",
+      "minHP": "31",
+      "maxHP": "31"
+    },
+    {
+      "name": "Mini-Bot Voider",
+      "type": "Normal",
+      "minHP": "30",
+      "maxHP": "30"
+    },
+    {
+      "name": "Orb",
+      "type": "Normal",
+      "minHP": "56",
+      "maxHP": "56"
+    },
+    {
+      "name": "Sentinel's Spawn",
+      "type": "Normal",
+      "minHP": "30",
+      "maxHP": "30"
+    },
+    {
+      "name": "Smog Elemental",
+      "type": "Elite",
+      "minHP": "198",
+      "maxHP": "198"
+    }
+  ],
+  "keywords": [
+  ]
+}

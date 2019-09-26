@@ -1104,7 +1104,7 @@
       "color": "Octo_gray_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "1",
+      "cost": "2",
       "description": "Exhaust.\nIncrease this card's Choose amount by 1 permanently.\noctomod:Choose 1:\nApply 2 Constricted.\nGain 2 Block."
     },
     {
@@ -1112,7 +1112,7 @@
       "color": "Octo_gray_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "0",
+      "cost": "1",
       "description": "Exhaust.\nIncrease this card's Choose amount by 1 permanently.\noctomod:Choose 1:\nApply 2 Constricted.\nGain 2 Block."
     },
     {

@@ -1,7 +1,7 @@
 {
   "mod": {
     "name": "The Runesmith",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "authors": ["Blizzarre","PureStream"],
     "credits": "\nBDWSSBB - Card descriptions wording improvements.\nDalamzi - Korean translation.\nRita-Bernstein - Chinese translation.\nSlathos - Polish translation.",
     "description": "Add a new class called The Runesmith",
@@ -401,7 +401,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 7 Block.\nDraw 1 card.\nrunesmith:Break your oldest Rune to draw 1 more cards."
+      "description": "Gain 7 Block.\nDraw 1 card.\nrunesmith:Break your oldest Rune to draw 1 more card."
     },
     {
       "name": "Accelerate+",
@@ -409,7 +409,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 9 Block.\nDraw 1 card.\nrunesmith:Break your oldest Rune to draw 2 more cards."
+      "description": "Gain 9 Block.\nDraw 1 card.\nrunesmith:Break your oldest Rune to draw 2 more card."
     },
     {
       "name": "Attraction",
@@ -545,7 +545,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "2 runesmith:Terra 1 runesmith:Aqua: runesmith:Craft a runesmith:Vitae Rune with !RS:Pot! runesmith:Potency."
+      "description": "1 runesmith:Ignis 2 runesmith:Terra: runesmith:Craft a runesmith:Vitae Rune with !RS:Pot! runesmith:Potency."
     },
     {
       "name": "Craft Vitae+",
@@ -553,7 +553,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "2 runesmith:Terra 1 runesmith:Aqua: runesmith:Craft a runesmith:Vitae Rune with !RS:Pot! runesmith:Potency."
+      "description": "1 runesmith:Ignis 2 runesmith:Terra: runesmith:Craft a runesmith:Vitae Rune with !RS:Pot! runesmith:Potency."
     },
     {
       "name": "Discharge",

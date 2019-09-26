@@ -113,7 +113,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\nExhaust a random card in your hand."
+      "description": "Deal 9 damage.\nExhaust a random card in your hand."
     },
     {
       "name": "Canvas Catapult+",
@@ -121,7 +121,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\nExhaust a card in your hand."
+      "description": "Deal 11 damage.\nExhaust a card in your hand."
     },
     {
       "name": "Chroma Crash",
@@ -145,7 +145,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Clear: Paint 1 random Color.\nChromatic: Paint 1 of each Color on the Canvas."
+      "description": "Clear: Paint 1 random Color.\nChromatic: Paint 1 more of both Colors."
     },
     {
       "name": "Clear Chroma+",
@@ -153,7 +153,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Retain.\nClear: Paint 1 random Color.\nChromatic: Paint 1 of each Color on the Canvas."
+      "description": "Retain.\nClear: Paint 1 random Color.\nChromatic: Paint 1 more of both Colors."
     },
     {
       "name": "Color Copy",
@@ -257,7 +257,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Temporary_HP.\nPaint 1 [#f0749e]Pink."
+      "description": "Gain 3 Temporary_HP.\nPaint 1 [#f0749e]Pink."
     },
     {
       "name": "Pink Paint+",
@@ -265,7 +265,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Temporary_HP.\nPaint 1 [#f0749e]Pink."
+      "description": "Gain 5 Temporary_HP.\nPaint 1 [#f0749e]Pink."
     },
     {
       "name": "Prismatic Puncture",
@@ -401,7 +401,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "3",
-      "description": "Deal 18 damage.\nClear: Paint 2 [#ffeb3b]Yellow."
+      "description": "Deal 16 damage.\nClear: Paint 2 [#ffeb3b]Yellow."
     },
     {
       "name": "Amber Attack+",
@@ -409,7 +409,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "3",
-      "description": "Deal 24 damage.\nClear: Paint 2 [#ffeb3b]Yellow."
+      "description": "Deal 22 damage.\nClear: Paint 2 [#ffeb3b]Yellow."
     },
     {
       "name": "Ardent Aqua",
@@ -417,7 +417,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Paint 2 [#26a69a]Aqua.\nExhaust."
+      "description": "Paint 1 [#26a69a]Aqua.\nGain 1 Dexterity.\nExhaust."
     },
     {
       "name": "Ardent Aqua+",
@@ -425,7 +425,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Paint 3 [#26a69a]Aqua.\nExhaust."
+      "description": "Paint 2 [#26a69a]Aqua.\nGain 1 Dexterity.\nExhaust."
     },
     {
       "name": "Blue Brews",
@@ -529,7 +529,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 6 damage to ALL enemies twice.\nChromatic: Paint 1 of each Color on the Canvas."
+      "description": "Deal 6 damage to ALL enemies twice.\nChromatic: Paint 1 more of both Colors."
     },
     {
       "name": "Double Demolition+",
@@ -537,7 +537,23 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage to ALL enemies twice.\nChromatic: Paint 1 of each Color on the Canvas."
+      "description": "Deal 8 damage to ALL enemies twice.\nChromatic: Paint 1 more of both Colors."
+    },
+    {
+      "name": "Dual Dash",
+      "color": "Artist_rainbow_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 7 Block.\nChromatic: Apply 1 Weak."
+    },
+    {
+      "name": "Dual Dash+",
+      "color": "Artist_rainbow_color",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 10 Block.\nChromatic: Apply 1 Weak."
     },
     {
       "name": "Dual Debuffs",
@@ -609,7 +625,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage.\nIf this deals unblocked damage to a Cursed enemy, Paint 1 [#f0749e]Pink."
+      "description": "Deal 10 damage.\nIf this deals unblocked damage to a Cursed enemy, Paint 1 [#f0749e]Pink."
     },
     {
       "name": "Horrid Harvest+",
@@ -617,7 +633,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 14 damage.\nIf this deals unblocked damage to a Cursed enemy, Paint 1 [#f0749e]Pink."
+      "description": "Deal 13 damage.\nIf this deals unblocked damage to a Cursed enemy, Paint 1 [#f0749e]Pink."
     },
     {
       "name": "Hue Huffer",
@@ -657,7 +673,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Play the top card of your draw pile.\nIf it's a Painting, repeat this."
+      "description": "Play the top card of your draw pile.\nIf it's a Painting, play this again."
     },
     {
       "name": "Insane Inspiration+",
@@ -665,7 +681,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Play the top card of your draw pile.\nIf it's a Painting, repeat this."
+      "description": "Play the top card of your draw pile.\nIf it's a Painting, play this again."
     },
     {
       "name": "Mean Magenta",
@@ -673,7 +689,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Paint 2 [#880e4f]Magenta.\nExhaust."
+      "description": "Paint 1 [#880e4f]Magenta.\nGain 1 Strength.\nExhaust."
     },
     {
       "name": "Mean Magenta+",
@@ -681,7 +697,23 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Paint 3 [#880e4f]Magenta.\nExhaust."
+      "description": "Paint 2 [#880e4f]Magenta.\nGain 1 Strength.\nExhaust."
+    },
+    {
+      "name": "Paintball Pelt",
+      "color": "Artist_rainbow_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you draw a Painting, deal 4 damage to ALL enemies."
+    },
+    {
+      "name": "Paintball Pelt+",
+      "color": "Artist_rainbow_color",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you draw a Painting, deal 6 damage to ALL enemies."
     },
     {
       "name": "Paintbrush Panic",
@@ -745,7 +777,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 20 damage to a random enemy.\nPaint 1 random Color."
+      "description": "Deal 15 damage to a random enemy.\nPaint 2 random Colors."
     },
     {
       "name": "Rainbow Reality",
@@ -753,7 +785,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Paint 1 [oobley]Rainbow.\nClear: Paint 2 [oobley]Rainbow instead.\nExhaust."
+      "description": "Paint 1 [oobley]Rainbow.\nClear: Paint 2 [oobley]Rainbow instead."
     },
     {
       "name": "Rainbow Reality+",
@@ -761,7 +793,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Paint 1 [oobley]Rainbow.\nClear: Paint 2 [oobley]Rainbow instead.\nExhaust."
+      "description": "Paint 1 [oobley]Rainbow.\nClear: Paint 2 [oobley]Rainbow instead."
     },
     {
       "name": "Raring Repaint",
@@ -794,6 +826,22 @@
       "type": "Power",
       "cost": "1",
       "description": "At the end of your turn, Paint 1 [#b0120a]Red."
+    },
+    {
+      "name": "Shiny Shiv",
+      "color": "Artist_rainbow_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 4 damage.\nClear: Paint 1 [oobley]Rainbow."
+    },
+    {
+      "name": "Shiny Shiv+",
+      "color": "Artist_rainbow_color",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 6 damage.\nClear: Paint 1 [oobley]Rainbow."
     },
     {
       "name": "Simple Studies",
@@ -864,7 +912,7 @@
       "color": "Artist_rainbow_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "2",
+      "cost": "1",
       "description": "Paint 1 [#42bd41]Green.\nPaint 1 [#ffeb3b]Yellow."
     },
     {
@@ -872,7 +920,7 @@
       "color": "Artist_rainbow_color",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "2",
+      "cost": "1",
       "description": "Retain.\nPaint 1 [#42bd41]Green.\nPaint 1 [#ffeb3b]Yellow."
     },
     {
@@ -905,14 +953,14 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Add a copy of the Canvas into your hand."
+      "description": "Add a copy of the Canvas into your hand.\nExhaustive !stslib:ex!."
     },
     {
       "name": "Aquamarine Aposematism",
       "color": "Artist_rainbow_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "0",
+      "cost": "1",
       "description": "Apply 2 Weak to ALL enemies.\nPaint 2 [#26a69a]Aqua.\nExhaust."
     },
     {
@@ -920,7 +968,7 @@
       "color": "Artist_rainbow_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "0",
+      "cost": "1",
       "description": "Apply 3 Weak to ALL enemies.\nPaint 2 [#26a69a]Aqua.\nExhaust."
     },
     {
@@ -945,7 +993,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 9 Block. \nPaint 3 [#303f9f]Blue.\nExhaust."
+      "description": "Gain 6 Block. \nPaint 3 [#303f9f]Blue.\nExhaust."
     },
     {
       "name": "Cerulean Coverage+",
@@ -953,7 +1001,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 11 Block. \nPaint 4 [#303f9f]Blue.\nExhaust."
+      "description": "Gain 9 Block. \nPaint 4 [#303f9f]Blue.\nExhaust."
     },
     {
       "name": "Combustive Chiaroscuro",
@@ -976,7 +1024,7 @@
       "color": "Artist_rainbow_color",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "2",
+      "cost": "3",
       "description": "At the end of your turn, Paint 1 [#ffeb3b]Yellow."
     },
     {
@@ -985,7 +1033,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Innate.\nAt the end of your turn, Paint 1 [#ffeb3b]Yellow."
+      "description": "At the end of your turn, Paint 1 [#ffeb3b]Yellow."
     },
     {
       "name": "Cosummate Conflagration",
@@ -993,7 +1041,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "3",
-      "description": "Exhaust ALL your Paintings.\nDeal 8 damage to a random enemy for each Painting Exhausted.\nExhaust."
+      "description": "Exhaust ALL your Paintings.\nDeal 6 damage to a random enemy for each Painting Exhausted.\nExhaust."
     },
     {
       "name": "Cosummate Conflagration+",
@@ -1001,7 +1049,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "3",
-      "description": "Exhaust ALL your Paintings.\nDeal 8 damage to a random enemy for each Painting Exhausted.\nExhaust."
+      "description": "Retain.\nExhaust ALL your Paintings.\nDeal 6 damage to a random enemy for each Painting Exhausted.\nExhaust."
     },
     {
       "name": "Fantasy Form",
@@ -1024,7 +1072,7 @@
       "color": "Artist_rainbow_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "0",
+      "cost": "1",
       "description": "Apply 2 Vulnerable to ALL enemies.\nPaint 2 [#880e4f]Magenta.\nExhaust."
     },
     {
@@ -1032,7 +1080,7 @@
       "color": "Artist_rainbow_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "0",
+      "cost": "1",
       "description": "Apply 3 Vulnerable to ALL enemies.\nPaint 2 [#880e4f]Magenta.\nExhaust."
     },
     {
@@ -1088,16 +1136,16 @@
       "color": "Artist_rainbow_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "0",
-      "description": "Permanently add a Painting based on the Canvas to your deck.\nFleeting."
+      "cost": "4",
+      "description": "Ethereal.\nPermanently add a Painting based on the Canvas to your deck.\nFleeting."
     },
     {
       "name": "Mysterious Masterpiece+",
       "color": "Artist_rainbow_color",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "0",
-      "description": "Permanently add a Painting based on the Canvas to your deck.\nFleeting."
+      "cost": "3",
+      "description": "Ethereal.\nPermanently add a Painting based on the Canvas to your deck.\nFleeting."
     },
     {
       "name": "Paint Profusion",
@@ -1137,7 +1185,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 6 Temporary_HP.\nPaint 3 [#f0749e]Pink.\nExhaust."
+      "description": "Gain 3 Temporary_HP.\nPaint 3 [#f0749e]Pink.\nExhaust."
     },
     {
       "name": "Roseate Rejuvenation+",
@@ -1145,7 +1193,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 9 Temporary_HP.\nPaint 3 [#f0749e]Pink.\nExhaust."
+      "description": "Gain 4 Temporary_HP.\nPaint 4 [#f0749e]Pink.\nExhaust."
     },
     {
       "name": "Ruby Reaper",
@@ -1185,8 +1233,22 @@
       "name": "Bent Brush",
       "tier": "Starter",
       "pool": "Artist_rainbow_color",
-      "description": "At the start of each combat, Paint 1 Blue.",
+      "description": "The first time you Paint each combat, Paint 1 more of that Color.",
       "flavorText": "Damaged in a fit of anger."
+    },
+    {
+      "name": "Broken Brush",
+      "tier": "Boss",
+      "pool": "Artist_rainbow_color",
+      "description": "Gain [E] at the start of your turn. At the end of your turn, remove all Colors on the Canvas.",
+      "flavorText": "You got angrier and totally broke it."
+    },
+    {
+      "name": "Repaired Brush",
+      "tier": "Boss",
+      "pool": "Artist_rainbow_color",
+      "description": "Replaces Bent Brush.\nAt the start of each combat, Paint 2 Rainbow.",
+      "flavorText": "Anger management DOES work!"
     }
   ],
   "potions": [
@@ -1258,7 +1320,7 @@
     },
     {
       "name": "Yellow",
-      "description": "Color. Grants [E] ."
+      "description": "Color. Grants [E] . Removed after the first use."
     }
   ]
 }

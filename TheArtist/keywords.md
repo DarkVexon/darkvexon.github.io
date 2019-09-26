@@ -14,4 +14,4 @@
 | Purple | Color. Applies Cursed. |
 | Rainbow | Color. Paints. |
 | Red | Color. Deals damage. |
-| Yellow | Color. Grants [E] . |
+| Yellow | Color. Grants [E] . Removed after the first use. |

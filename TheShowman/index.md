@@ -44,19 +44,19 @@
 | Hare-Brained Scheme | ![](small-card-images/Hare-BrainedScheme.png) | ![](small-card-images/Hare-BrainedSchemePlus.png) | Uncommon | Skill | 3 | Draw 6(8) cards. theshowman:Improvise. |
 | Hat Trick | ![](small-card-images/HatTrick.png) | ![](small-card-images/HatTrickPlus.png) | Uncommon | Skill | 1 | Gain 1(2) theshowman:Buffer this turn. Exhaust. |
 | Hype The Crowd | ![](small-card-images/HypeTheCrowd.png) | ![](small-card-images/HypeTheCrowdPlus.png) | Uncommon | Skill | 1 | Gain 4(5) [E]. theshowman:Stacked. |
-| It's Showtime | ![](small-card-images/ItsShowtime.png) | ![](small-card-images/ItsShowtimePlus.png) | Uncommon | Skill | X | Replay X random (X+1) theshowman:Class cards from your Exhaust pile. |
+| It's Showtime | ![](small-card-images/ItsShowtime.png) | ![](small-card-images/ItsShowtimePlus.png) | Uncommon | Skill | X | Replay X (X+1) random theshowman:Class cards from your Exhaust pile. |
 | Juxtaposed Juggling | ![](small-card-images/JuxtaposedJuggling.png) | ![](small-card-images/JuxtaposedJugglingPlus.png) | Uncommon | Attack | 2 | Deal 6(10) damage. Vulnerability stacks additively for this attack. |
-| Kibler Flick | ![](small-card-images/KiblerFlick.png) | ![](small-card-images/KiblerFlickPlus.png) | Uncommon | Attack | 1(0) | Deal 3 damage. Apply that much Vulnerable |
+| Kibler Flick | ![](small-card-images/KiblerFlick.png) | ![](small-card-images/KiblerFlickPlus.png) | Uncommon | Attack | 1(0) | Deal 3 damage. Apply that much Vulnerable. |
 | Knock The Pile | ![](small-card-images/KnockThePile.png) | ![](small-card-images/KnockThePilePlus.png) | Uncommon | Attack | 2 | Deal 15(17) damage. Look at the top 2(4) cards of your draw pile. Exhaust any number of them. |
 | Mischief Managed | ![](small-card-images/MischiefManaged.png) | ![](small-card-images/MischiefManagedPlus.png) | Uncommon | Attack | 2(1) | Deal 10 damage. If this deals unblocked damage to a Vulnerable enemy, gain temporary Strength next turn equal to that enemy's Vulnerable. |
 | Parlor Trick | ![](small-card-images/ParlorTrick.png) | ![](small-card-images/ParlorTrickPlus.png) | Uncommon | Skill | 1(0) | Draw 10 Cards. theshowman:Stacked. |
 | Presto! | ![](small-card-images/Presto!.png) | ![](small-card-images/Presto!Plus.png) | Uncommon | Skill | 1(0) | Put a random non-Status, non-Curse card from your Exhaust pile into your hand. It costs 0 this turn. |
 | Prop Manacles | ![](small-card-images/PropManacles.png) | ![](small-card-images/PropManaclesPlus.png) | Uncommon | Skill | 1 | Target Enemy loses (ALL Enemies lose) 1 Strength this turn for each card in your Exhaust Pile. |
-| Prop Show | ![](small-card-images/PropShow.png) | ![](small-card-images/PropShowPlus.png) | Uncommon | Attack | 1 | Deal 6(8) damage to ALL enemies. Draw 1(2) cards. theshowman:Improvise. |
+| Prop Show | ![](small-card-images/PropShow.png) | ![](small-card-images/PropShowPlus.png) | Uncommon | Attack | 1 | Deal 6 damage to ALL enemies. Draw 1(2) cards. theshowman:Improvise. |
 | Reappearing Trick | ![](small-card-images/ReappearingTrick.png) | ![](small-card-images/ReappearingTrickPlus.png) | Uncommon | Attack | 1 | Deal 11(15) damage to ALL enemies. Shuffle ALL non-Curse, non-Status cards from your Exhaust pile into your draw pile. |
 | Second Act | ![](small-card-images/SecondAct.png) | ![](small-card-images/SecondActPlus.png) | Uncommon | Skill | 0 | Exhaust 2 cards in your hand. Gain [E] ([E]). |
 | Sleeve Aces | ![](small-card-images/SleeveAces.png) | ![](small-card-images/SleeveAcesPlus.png) | Uncommon | Skill | 1 | Add a copy (1(2) copies) of a non-Status, non-Curse card from your Exhaust pile to your discard pile and draw pile. Exhaust. |
-| Stack The Deck | ![](small-card-images/StackTheDeck.png) | ![](small-card-images/StackTheDeckPlus.png) | Uncommon | Power | 1 | At the end of your turn, put up to 1(2) card(s) from your hand on top of your deck. |
+| Stack The Deck | ![](small-card-images/StackTheDeck.png) | ![](small-card-images/StackTheDeckPlus.png) | Uncommon | Power | 1 | At the end of your turn, put up to 1(2) card(s) from your hand on top of your draw pile. |
 | Strong Arm | ![](small-card-images/StrongArm.png) | ![](small-card-images/StrongArmPlus.png) | Uncommon | Skill | 1 | Gain 9(11) Strength until the end of turn. theshowman:Stacked. |
 | Stupefy | ![](small-card-images/Stupefy.png) | ![](small-card-images/StupefyPlus.png) | Uncommon | Attack | 2 | Deal 16(20) damage. Add 8 Dazed to your hand. |
 | Subtle Misdirections | ![](small-card-images/SubtleMisdirections.png) | ![](small-card-images/SubtleMisdirectionsPlus.png) | Uncommon | Power | 1 | Whenever you draw a Status for the first (two) time(s) in a turn, Exhaust it and draw a card. |
@@ -64,7 +64,7 @@
 | Three Card Monty | ![](small-card-images/ThreeCardMonty.png) | ![](small-card-images/ThreeCardMontyPlus.png) | Uncommon | Skill | 1(0) | Draw a card. Add 2 copies of it to your hand. |
 | Throwing Cards | ![](small-card-images/ThrowingCards.png) | ![](small-card-images/ThrowingCardsPlus.png) | Uncommon | Power | 1 | Whenever you Exhaust a card, deal 2(3) damage to a random enemy. |
 | Toro! | ![](small-card-images/Toro!.png) | ![](small-card-images/Toro!Plus.png) | Uncommon | Power | 0 | Whenever you are attacked, apply 2(3) Vulnerable to the attacker. |
-| Troubling Trope | ![](small-card-images/TroublingTrope.png) | ![](small-card-images/TroublingTropePlus.png) | Uncommon | Attack | 0 | Innate. Autoplay. Deal 1 damage to ALL enemies. Increase this card's damage by 1(2) this combat. Shuffle this card into your draw pile. |
+| Troubling Trope | ![](small-card-images/TroublingTrope.png) | ![](small-card-images/TroublingTropePlus.png) | Uncommon | Attack | 0 | Innate. Deal 1 damage to ALL enemies. Increase this card's damage by 1(2) this combat. Shuffle this card into your draw pile. |
 | Up My Sleeve | ![](small-card-images/UpMySleeve.png) | ![](small-card-images/UpMySleevePlus.png) | Uncommon | Attack | 1 | Deal 8(11) damage. Return a card from your Exhaust pile to your hand. |
 | Wardrobe Warding | ![](small-card-images/WardrobeWarding.png) | ![](small-card-images/WardrobeWardingPlus.png) | Uncommon | Skill | 2 | Gain 12(16) Block. Retain up to 2(4) cards this turn. |
 | Whirling Dervish | ![](small-card-images/WhirlingDervish.png) | ![](small-card-images/WhirlingDervishPlus.png) | Uncommon | Attack | X | Deal 12(15) damage to ALL enemies X times. theshowman:Stacked. |
@@ -73,13 +73,12 @@
 | Impromptu Flourish | ![](small-card-images/ImpromptuFlourish.png) | ![](small-card-images/ImpromptuFlourishPlus.png) | Rare | Attack | 1 | Deal 8(11) damage. Draw a card. theshowman:Improvise. When you Exhaust this card, gain 8(11) Block and draw a card. theshowman:Improvise. |
 | Is THIS Your Card? | ![](small-card-images/IsTHISYourCard.png) | ![](small-card-images/IsTHISYourCardPlus.png) | Rare | Attack | 2 | For each card you have in your exhaust pile, deal 4(5) damage. |
 | Maximum Distraction | ![](small-card-images/MaximumDistraction.png) | ![](small-card-images/MaximumDistractionPlus.png) | Rare | Power | 1 | For every 3(2) stacks of Vulnerable an enemy has, they take an additional 25% damage. |
-| Object Permanence | ![](small-card-images/ObjectPermanence.png) | ![](small-card-images/ObjectPermanencePlus.png) | Rare | Skill | 2(1) | ALL theshowman:temporary effects become permanent for this combat. Purge. |
-| Paradigm Sift | ![](small-card-images/ParadigmSift.png) | ![](small-card-images/ParadigmSiftPlus.png) | Rare | Attack | 1 | Deal 8(12) damage. Gain [E] ([E]). Exhaust your draw pile and shuffle your Exhaust pile into your draw pile simultaneously. Exhaust. |
+| Paradigm Sift | ![](small-card-images/ParadigmSift.png) | ![](small-card-images/ParadigmSiftPlus.png) | Rare | Attack | 1 | Deal 8(12) damage. Exhaust your draw pile and shuffle your Exhaust pile into your draw pile simultaneously. Exhaust. |
 | Perfected Performance | ![](small-card-images/PerfectedPerformance.png) | ![](small-card-images/PerfectedPerformancePlus.png) | Rare | Power | 2 | The first 2(3) cards you draw each turn theshowman:Improvise. |
 | Potential Unleashed | ![](small-card-images/PotentialUnleashed.png) | ![](small-card-images/PotentialUnleashedPlus.png) | Rare | Power | 2 | Whenever you draw a card, deal 1 damage to ALL enemies. Ethereal. (not Ethereal.) |
 | Set The Stage | ![](small-card-images/SetTheStage.png) | ![](small-card-images/SetTheStagePlus.png) | Rare | Skill | 1 | Draw until your hand is full.  (Retain any number of cards this turn.) |
 | Show Of Strength | ![](small-card-images/ShowOfStrength.png) | ![](small-card-images/ShowOfStrengthPlus.png) | Rare | Power | 2 | Whenever you Exhaust a card, (gain !theShowman:SecondMagic! Strength until end of turn and) at the start of next turn, gain 1 Strength until end of turn. |
-| Showstopper | ![](small-card-images/Showstopper.png) | ![](small-card-images/ShowstopperPlus.png) | Rare | Skill | 3(2) | Replay in a random order, ALL theshowman:Class cards in your Exhaust pile. Exhaust. (not Exhaust.) |
+| Showstopper | ![](small-card-images/Showstopper.png) | ![](small-card-images/ShowstopperPlus.png) | Rare | Skill | 3(2) | Replay in a random order, ALL theshowman:Class cards in your Exhaust pile. Purge. |
 | Thespian Form | ![](small-card-images/ThespianForm.png) | ![](small-card-images/ThespianFormPlus.png) | Rare | Power | 3 | Whenever you Exhaust a card, ALL on-Exhaust effects trigger 1(2) additional time(s). |
 | Van De Graaff's Revenge | ![](small-card-images/VanDeGraaffsRevenge.png) | ![](small-card-images/VanDeGraaffsRevengePlus.png) | Rare | Attack | 3 | Deal 50 damage. Add 5(3) Dazed to your hand, draw pile, and discard pile. |
 | Vanishing Act | ![](small-card-images/VanishingAct.png) | ![](small-card-images/VanishingActPlus.png) | Rare | Skill | 0 | Remove a (2) card(s) from your hand and your deck. Fleeting. |
@@ -103,9 +102,12 @@
 | Image | Name | Rarity | Color | Description | Flavor |
 | ----- | ---- | ------ | ----- | ----------- | ------ |
 | ![](relics/theShowman-ThirdTimeCharm.png) | 3rd Time Charm | Starter | Showman_purple_color | Every #b3rd card you play draws an additional card and #yExhausts itself. | 33% of the time, it works, every time. |
-| ![](relics/theShowman-ImprovRelic.png) | Improv for Dummies Vol. 2 | Uncommon | Showman_purple_color | The first #b2 cards you draw each combat #ytheshowman:Improvise [REMOVE_SPACE]. | The entire book is improvised by its author. |
-| ![](relics/theShowman-MagnetizedGloves.png) | Magnetized Gloves | Uncommon | Showman_purple_color | Increase your maximum hand size by #b3 [REMOVE_SPACE]. | Lets you hold on to more cards. |
+| ![](relics/theShowman-ImprovRelic.png) | Improv for Dummies Vol. 2 | Common | Showman_purple_color | The first #b2 cards you draw each combat #ytheshowman:Improvise [REMOVE_SPACE]. | The entire book is improvised by its author. |
+| ![](relics/theShowman-MagnetizedGloves.png) | Magnetized Gloves | Common | Showman_purple_color | Increase your maximum hand size by #b3 [REMOVE_SPACE]. | Lets you hold on to more cards. |
+| ![](relics/theShowman-HeartOfTheCards.png) | Heart Of The Cards | Uncommon | Showman_purple_color | The first card you would #ytheshowman:Overdraw each turn is instead played. | Believe in the heart of the cards! |
 | ![](relics/theShowman-Millstone.png) | Millstone | Uncommon | Showman_purple_color | #ytheshowman:Stacked reduces a card's effect by #b2 less. | For milling your cards |
+| ![](relics/theShowman-DetachableThumb.png) | Detachable Thumb | Rare | Showman_purple_color | Whenever you #yexhaust a card, it costs #b0 until played. | A must have for every performer. |
+| ![](relics/theShowman-ChaosConfetti.png) | Chaos Confetti | Boss | Showman_purple_color | Gain [E] at the start of your turn. The first card you play each combat #rremoves #ritself from your deck. | No performance is complete without some CHAOS CONFETTI! |
 | ![](relics/theShowman-TrigonOfTrickery.png) | Trigon Of Trickery | Boss | Showman_purple_color | Replaces #y3rd #yTime #yCharm [REMOVE_SPACE]. Every #b3rd card you play #yExhausts itself. Whenever you #yExhaust a card, draw a card. | Tricks to trick even the trickiest of tricksters. |
 
 
