@@ -1,7 +1,7 @@
 | Image | Name |
 | ----- | ---- |
 | ![](creatures/Defect.png) | the Defect |
-| ![](creatures/Ironclad.png) | the Ironchad |
+| ![](creatures/Ironclad.png) | the Ironclad |
 | ![](creatures/TheSilent.png) | the Silent |
 | ![](creatures/Watcher.png) | the Watcher |
 | ![](creatures/AcidSlime_L.png) | Acid Slime (L) |

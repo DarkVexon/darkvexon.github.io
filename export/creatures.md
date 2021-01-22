@@ -6,7 +6,7 @@
 | ![](downfall/creatures/ChampChar.png) | the Champ |
 | ![](slay-the-spire/creatures/Defect.png) | the Defect |
 | ![](downfall/creatures/TheHexaghost.png) | the Hexaghost |
-| ![](slay-the-spire/creatures/Ironclad.png) | the Ironchad |
+| ![](slay-the-spire/creatures/Ironclad.png) | the Ironclad |
 | ![](slay-the-spire/creatures/TheSilent.png) | the Silent |
 | ![](downfall/creatures/TheSnecko.png) | the Snecko |
 | ![](slay-the-spire/creatures/Watcher.png) | the Watcher |

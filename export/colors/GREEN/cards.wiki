@@ -76,7 +76,7 @@ If the enemy has [[Poison]], deal 7(10) damage again.
 |[[Skill]]
 |1
 |Gain 6 [[Block]].
-Add 1(2) ([diffAddS]) *Shiv(s) ([diffAddE]) into your hand.
+Add 1(2) *Shiv(s) into your hand.
 |-
 |[[Dagger Spray]]
 |[[File:|thumb|289x289px]]
@@ -130,7 +130,7 @@ Next turn, gain 1 [[Energy]].
 |[[Skill]]
 |1
 |Next turn,
-gain 2 (1) [[Energy]] ([diffAddS] 1 [[Energy]] [diffAddE] 1 [[Energy]]).
+gain 2 (3) [[Energy]].
 |-
 |[[Piercing Wail]]
 |[[File:|thumb|289x289px]]
@@ -153,8 +153,8 @@ Apply 3(4) [[Poison]].
 |Common
 |[[Skill]]
 |0
-|Draw 1(2) ([diffAddS]) card(s). ([diffAddE])
-Discard 1(2) ([diffAddS]) card(s). ([diffAddE])
+|Draw 1(2) card(s).
+Discard 1(2) card(s).
 |-
 |[[Quick Slash]]
 |[[File:|thumb|289x289px]]
@@ -233,8 +233,9 @@ Deal 11(15) damage.
 |[[Skill]]
 |0
 |Discard your hand,
-then draw that many cards. ([diffRmvS])
-[[Exhaust]]. ([diffRmvE])
+then draw that many cards.
+[[Exhaust]]. (not
+Exhaust.)
 |-
 |[[Caltrops]]
 |[[File:|thumb|289x289px]]
@@ -248,7 +249,7 @@ then draw that many cards. ([diffRmvS])
 |Uncommon
 |[[Skill]]
 |1
-|Double ([diffAddS] Triple [diffAddE]) the enemy's [[Poison]].
+|Double (Triple) the enemy's [[Poison]].
 [[Exhaust]].
 |-
 |[[Choke]]
@@ -361,8 +362,8 @@ draw 1 card.
 |Uncommon
 |[[Power]]
 |1
-|([diffAddS] [[Innate]].
-[diffAddE]) At the start of your turn, add a *Shiv into your hand.
+|([[Innate]].)
+ At the start of your turn, add a *Shiv into your hand.
 |-
 |[[Leg Sweep]]
 |[[File:|thumb|289x289px]]
@@ -432,7 +433,7 @@ It costs 0 until played.
 |[[Skill]]
 |
 |[[Unplayable]].
-If this card is discarded from your hand, gain ([diffAddS]) 1 [[Energy]] ([diffAddE] 1 [[Energy]]).
+If this card is discarded from your hand, gain 1 (2) [[Energy]].
 |-
 |[[Terror]]
 |[[File:|thumb|289x289px]]
@@ -447,7 +448,7 @@ If this card is discarded from your hand, gain ([diffAddS]) 1 [[Energy]] ([diffA
 |Uncommon
 |[[Power]]
 |1
-|At the end of your turn, [[Retain]] up to 1(2) ([diffAddS]) card(s). ([diffAddE])
+|At the end of your turn, [[Retain]] up to 1(2) card(s).
 |-
 |[[A Thousand Cuts]]
 |[[File:|thumb|289x289px]]
@@ -461,7 +462,7 @@ If this card is discarded from your hand, gain ([diffAddS]) 1 [[Energy]] ([diffA
 |Rare
 |[[Skill]]
 |0
-|Gain ([diffAddS]) 1 [[Energy]] ([diffAddE] 1 [[Energy]]).
+|Gain 1 (2) [[Energy]].
 Draw 2 cards.
 [[Exhaust]].
 |-
@@ -470,8 +471,8 @@ Draw 2 cards.
 |Rare
 |[[Power]]
 |1
-|([diffAddS] [[Innate]].
-[diffAddE]) Whenever you play a card, gain 1 [[Block]].
+|([[Innate]].)
+ Whenever you play a card, gain 1 [[Block]].
 |-
 |[[Alchemize]]
 |[[File:|thumb|289x289px]]
@@ -493,7 +494,7 @@ Draw 2 cards.
 |Rare
 |[[Skill]]
 |1
-|This turn, your next ([diffAddS] 1(2)) Skill(s) is (are [diffAddE]) played twice.
+|This turn, your next (1(2)) Skill(s) is (are) played twice.
 |-
 |[[Corpse Explosion]]
 |[[File:|thumb|289x289px]]
@@ -516,7 +517,7 @@ When the enemy dies, deal damage equal to its Max HP to ALL enemies.
 |Rare
 |[[Skill]]
 |X
-|Next turn, draw X ([diffAddS] X+1 [diffAddE]) cards and gain X ([diffAddS] X+1 [diffAddE]) 1 [[Energy]].
+|Next turn, draw X (X+1) cards and gain X (X+1) 1 [[Energy]].
 [[Exhaust]].
 |-
 |[[Envenom]]
@@ -546,7 +547,7 @@ Deal 50(60) damage to ALL enemies.
 |Rare
 |[[Skill]]
 |X
-|Enemy loses X ([diffAddS] X+1 [diffAddE]) [[Strength]]. Apply X ([diffAddS] X+1 [diffAddE]) [[Weak]].
+|Enemy loses X (X+1) [[Strength]]. Apply X (X+1) [[Weak]].
 [[Exhaust]].
 |-
 |[[Nightmare]]
@@ -570,7 +571,7 @@ Next turn, add 3 copies of that card into your hand. [[Exhaust]].
 |[[Skill]]
 |1
 |Discard your hand.
-Add 1 *Shiv ([diffAddS] *Shiv+ [diffAddE]) into your hand for each card discarded.
+Add 1 *Shiv (*Shiv+) into your hand for each card discarded.
 |-
 |[[Tools of the Trade]]
 |[[File:|thumb|289x289px]]

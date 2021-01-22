@@ -43,6 +43,7 @@
 | ![](slay-the-spire/relics/Orichalcum.png) | Orichalcum | Common |  | If you end your turn without #yBlock, gain #b6 #yBlock. | A green tinted metal of an unknown origin. Seemingly indestructible. |
 | ![](slay-the-spire/relics/PenNib.png) | Pen Nib | Common |  | Every #b10th #yAttack you play deals double damage. | Holding the nib, you can see everyone ever slain by a previous owner of the pen. A violent history. |
 | ![](downfall/relics/Guardian-PickAxe.png) | Pick of Rhapsody | Common | Guardian | You can now #gMine for #b2 #yguardianmod:Gems at Rest Sites (up to #b3 times). | With as many gemstones that litter the Spire, it is hard to imagine anyone so unlucky to have needed this Pick to aid them. |
+| ![](slay-the-spire/relics/PotionBelt.png) | Potion Belt | Common |  | Upon pickup, gain #b2 Potion slots. | I can hold more Potions using this belt! |
 | ![](slay-the-spire/relics/PreservedInsect.png) | Preserved Insect | Common |  | Enemies in Elite combats have #b25% less HP. | The insect seems to create a shrinking aura that targets particularly large enemies. |
 | ![](downfall/relics/bronze-ProtectiveGoggles.png) | Protective Goggles | Common | The_bronze_automaton | If you end your turn with no cards in the #ySequence, gain #b4 #yBlock. | Look closely. |
 | ![](slay-the-spire/relics/RedSkull.png) | Red Skull | Common | Red | While your HP is at or below #b50%, you have #b3 additional #yStrength. | A small skull covered in ornamental paint. |
@@ -56,11 +57,10 @@
 | ![](slay-the-spire/relics/Strawberry.png) | Strawberry | Common |  | Upon pickup, raise your Max HP by #b7. | "Delicious! Haven't seen any of these since the blight." - Ranwid |
 | ![](slay-the-spire/relics/Boot.png) | The Boot | Common |  | Whenever you would deal #b4 or less unblocked attack damage, increase it to #b5. | When wound up, the boot grows larger in size. |
 | ![](slay-the-spire/relics/TinyChest.png) | Tiny Chest | Common |  | Every #b4th #y? room is a #yTreasure room. | "A fine prototype." - The Architect |
+| ![](slay-the-spire/relics/ToyOrnithopter.png) | Toy Ornithopter | Common |  | Whenever you use a potion, heal #b5 HP. | "This little toy is the perfect companion for the lone adventurer!" |
 | ![](slay-the-spire/relics/Vajra.png) | Vajra | Common |  | Start each combat with #b1 #yStrength. | An ornamental relic given to warriors displaying glory in battle. |
 | ![](slay-the-spire/relics/WarPaint.png) | War Paint | Common |  | Upon pickup, #yUpgrade #b2 random #ySkills. | In the past, Ironclads would create wards using enchanted war paint before charging into battle. |
 | ![](slay-the-spire/relics/Whetstone.png) | Whetstone | Common |  | Upon pickup, #yUpgrade #b2 random #yAttacks. | "Flesh never beats steel." - Kublai the Great |
-| ![](widepotions/relics/PotionBelt.png) | Wide Potion Belt | Common |  | Upon pickup, gain #b4 Potion slots. | I can hold even more Potions using this belt! |
-| ![](widepotions/relics/ToyOrnithopter.png) | Wide Toy Ornithopter | Common |  | Whenever you use a potion, heal #b5 HP. NL If the potion is #yWide [REMOVE_SPACE], heal an additional #b5 HP. | "This little toy is the perfect companion for the lone adventurer!" |
 | ![](slay-the-spire/relics/BlueCandle.png) | Blue Candle | Uncommon |  | #yUnplayable #rCurse cards can now be played. NL Whenever you play a #rCurse, lose #b1 HP and #yExhaust it. | The flame ignites when shrouded in darkness. |
 | ![](slay-the-spire/relics/BottledFlame.png) | Bottled Flame | Uncommon |  | Upon pickup, choose an #yAttack. Start each combat with this card in your hand. | Inside the bottle resides a flame that eternally burns. |
 | ![](slay-the-spire/relics/BottledLightning.png) | Bottled Lightning | Uncommon |  | Upon pickup, choose a #ySkill. Start each combat with this card in your hand. | Peering into the swirling maelstrom, you see a part of yourself staring back. |
@@ -106,7 +106,7 @@
 | ![](slay-the-spire/relics/TeardropLocket.png) | Teardrop Locket | Uncommon | Purple | Start each combat in #yCalm. | Its owner blind, its contents unseen. |
 | ![](slay-the-spire/relics/TheCourier.png) | The Courier | Uncommon |  | The Merchant restocks cards, relics, and potions. All prices are reduced by #b20%. | The Merchant's personal pet! |
 | ![](slay-the-spire/relics/ToxicEgg2.png) | Toxic Egg | Uncommon |  | Whenever you add a #ySkill into your deck, #yUpgrade it. | "What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?" - Ranwid |
-| ![](widepotions/relics/WhiteBeastStatue.png) | Wide Beast Statue | Uncommon |  | Potions always appear in combat rewards. | A white statue of a wide creature you have never seen before. |
+| ![](slay-the-spire/relics/WhiteBeastStatue.png) | White Beast Statue | Uncommon |  | Potions always appear in combat rewards. | A small white statue of a creature you have never seen before. |
 | ![](slay-the-spire/relics/BirdFacedUrn.png) | Bird-Faced Urn | Rare |  | Whenever you play a #yPower card, heal #b2 HP. | This urn shows the crow god Mazaleth looking mischievous. |
 | ![](slay-the-spire/relics/Calipers.png) | Calipers | Rare |  | At the start of your turn, lose #b15 #yBlock rather than all of your #yBlock. | "Mechanical precision leads to greatness" - The Architect |
 | ![](slay-the-spire/relics/CaptainsWheel.png) | Captain's Wheel | Rare |  | At the start of your 3rd turn, gain #b18 #yBlock. | Wooden trinket carved with delicate precision. A name is carved into it but the language is foreign. |

@@ -78,7 +78,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 5 Block.\nUpgrade [diffAddS] all cards [diffAddE] in your hand for the rest of combat. "
+      "description": "Gain 5 Block.\nUpgrade all cards in your hand for the rest of combat."
     },
     {
       "name": "Body Slam",
@@ -254,7 +254,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\nDraw 2 [diffAddS] cards. [diffAddE] "
+      "description": "Deal 10 damage.\nDraw 2 cards."
     },
     {
       "name": "Shrug It Off",
@@ -318,7 +318,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 9 Block.\nExhaust 1 [diffAddS] card. [diffAddE] "
+      "description": "Gain 9 Block.\nExhaust 1 card."
     },
     {
       "name": "Twin Strike",
@@ -350,7 +350,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Draw 2 [diffAddS] cards. [diffAddE]\nPut a card from your hand onto the top of your draw pile.\nExhaust. "
+      "description": "Draw 2 cards.\nPut a card from your hand onto the top of your draw pile.\nExhaust."
     },
     {
       "name": "Wild Strike",
@@ -414,7 +414,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Lose 3 HP.\nGain [R] [diffAddS] [R] [diffAddE] [R]. "
+      "description": "Lose 3 HP.\nGain [R] [R] [R]."
     },
     {
       "name": "Burning Pact",
@@ -526,7 +526,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose an Attack or Power card. Add [diffAddS] 2 copies [diffAddE] of that card into your hand. "
+      "description": "Choose an Attack or Power card. Add 2 copies of that card into your hand."
     },
     {
       "name": "Entrench",
@@ -558,7 +558,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Whenever you draw a Status card, draw 2 [diffAddS] cards. [diffAddE] "
+      "description": "Whenever you draw a Status card, draw 2 cards."
     },
     {
       "name": "Feel No Pain",
@@ -862,7 +862,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 8 Block.\nIf this card is Exhausted,\ngain [R] [diffAddS] [R] [diffAddE] [R]. "
+      "description": "Gain 8 Block.\nIf this card is Exhausted,\ngain [R] [R] [R]."
     },
     {
       "name": "Sever Soul",
@@ -1006,7 +1006,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "0",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the start of your turn, lose 1 HP and draw 1 card. "
+      "description": "Innate.\nAt the start of your turn, lose 1 HP and draw 1 card."
     },
     {
       "name": "Corruption",
@@ -1054,7 +1054,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "This turn, your next [diffAddS] 2 Attacks are [diffAddE] played twice. "
+      "description": "This turn, your next 2 Attacks are played twice."
     },
     {
       "name": "Exhume",
@@ -1166,7 +1166,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Double your Strength. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "Double your Strength."
     },
     {
       "name": "Offering",
@@ -1342,7 +1342,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Block.\nAdd 2 [diffAddS] *Shivs [diffAddE] into your hand. "
+      "description": "Gain 6 Block.\nAdd 2 *Shivs into your hand."
     },
     {
       "name": "Dagger Spray",
@@ -1454,7 +1454,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Next turn,\ngain [G] [diffAddS] [G] [diffAddE] [G]. "
+      "description": "Next turn,\ngain [G] [G] [G]."
     },
     {
       "name": "Piercing Wail",
@@ -1502,7 +1502,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Draw 2 [diffAddS] cards. [diffAddE]\nDiscard 2 [diffAddS] cards. [diffAddE] "
+      "description": "Draw 2 cards.\nDiscard 2 cards."
     },
     {
       "name": "Quick Slash",
@@ -1662,7 +1662,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Discard your hand,\nthen draw that many cards. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "Discard your hand,\nthen draw that many cards."
     },
     {
       "name": "Caltrops",
@@ -1694,7 +1694,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": " [diffAddS] Triple [diffAddE] the enemy's Poison.\nExhaust. "
+      "description": "Triple the enemy's Poison.\nExhaust."
     },
     {
       "name": "Choke",
@@ -1918,7 +1918,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the start of your turn, add a *Shiv into your hand. "
+      "description": "Innate.\nAt the start of your turn, add a *Shiv into your hand."
     },
     {
       "name": "Leg Sweep",
@@ -2062,7 +2062,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "Unplayable.\nIf this card is discarded from your hand, gain [diffAddS] [G] [diffAddE] [G]. "
+      "description": "Unplayable.\nIf this card is discarded from your hand, gain [G] [G]."
     },
     {
       "name": "Terror",
@@ -2094,7 +2094,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "At the end of your turn, Retain up to 2 [diffAddS] cards. [diffAddE] "
+      "description": "At the end of your turn, Retain up to 2 cards."
     },
     {
       "name": "A Thousand Cuts",
@@ -2126,7 +2126,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain [diffAddS] [G] [diffAddE] [G].\nDraw 2 cards.\nExhaust. "
+      "description": "Gain [G] [G].\nDraw 2 cards.\nExhaust."
     },
     {
       "name": "After Image",
@@ -2142,7 +2142,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] Whenever you play a card, gain 1 Block. "
+      "description": "Innate.\nWhenever you play a card, gain 1 Block."
     },
     {
       "name": "Alchemize",
@@ -2190,7 +2190,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "This turn, your next [diffAddS] 2 Skills are [diffAddE] played twice. "
+      "description": "This turn, your next 2 Skills are played twice."
     },
     {
       "name": "Corpse Explosion",
@@ -2238,7 +2238,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Next turn, draw [diffAddS] X+1 [diffAddE] cards and gain [diffAddS] X+1 [diffAddE] [G].\nExhaust. "
+      "description": "Next turn, draw X+1 cards and gain X+1 [G].\nExhaust."
     },
     {
       "name": "Envenom",
@@ -2302,7 +2302,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Enemy loses [diffAddS] X+1 [diffAddE] Strength. Apply [diffAddS] X+1 [diffAddE] Weak.\nExhaust. "
+      "description": "Enemy loses X+1 Strength. Apply X+1 Weak.\nExhaust."
     },
     {
       "name": "Nightmare",
@@ -2350,7 +2350,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Discard your hand.\nAdd 1 [diffAddS] *Shiv+ [diffAddE] into your hand for each card discarded. "
+      "description": "Discard your hand.\nAdd 1 *Shiv+ into your hand for each card discarded."
     },
     {
       "name": "Tools of the Trade",
@@ -2590,7 +2590,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Channel 1 Frost.\nDraw 2 [diffAddS] cards. [diffAddE] "
+      "description": "Channel 1 Frost.\nDraw 2 cards."
     },
     {
       "name": "Go for the Eyes",
@@ -2622,7 +2622,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 5 Block.\nPut a card from your discard pile into your hand. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "Gain 5 Block.\nPut a card from your discard pile into your hand."
     },
     {
       "name": "Leap",
@@ -2686,7 +2686,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain Block equal to the number of cards in your discard [diffAddS] pile +3. [diffAddE] "
+      "description": "Gain Block equal to the number of cards in your discard pile +3."
     },
     {
       "name": "Steam Barrier",
@@ -2750,7 +2750,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain [B] [diffAddS] [B] [diffAddE] [B].\nAdd a *Void into your discard pile. "
+      "description": "Gain [B] [B] [B].\nAdd a *Void into your discard pile."
     },
     {
       "name": "Aggregate",
@@ -2862,7 +2862,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Channel 2 random [diffAddS] Orbs. [diffAddE] "
+      "description": "Channel 2 random Orbs."
     },
     {
       "name": "Chill",
@@ -2878,7 +2878,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": " [diffAddS] Innate.\n[diffAddE] Channel 1 Frost for each enemy in combat.\nExhaust. "
+      "description": "Innate.\nChannel 1 Frost for each enemy in combat.\nExhaust."
     },
     {
       "name": "Consume",
@@ -2910,7 +2910,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Channel 1 Dark. [diffAddS]\nTrigger the passive ability of all Dark orbs. [diffAddE] "
+      "description": "Channel 1 Dark.\nTrigger the passive ability of all Dark orbs."
     },
     {
       "name": "Defragment",
@@ -3070,7 +3070,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Whenever you play a Power card, draw 2 [diffAddS] cards. [diffAddE] "
+      "description": "Whenever you play a Power card, draw 2 cards."
     },
     {
       "name": "Hello World",
@@ -3086,7 +3086,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the start of your turn, add a random Common card into your hand. "
+      "description": "Innate.\nAt the start of your turn, add a random Common card into your hand."
     },
     {
       "name": "Loop",
@@ -3102,7 +3102,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of your turn, trigger the passive ability of your next [diffAddS] Orb 2 times. [diffAddE] "
+      "description": "At the start of your turn, trigger the passive ability of your next Orb 2 times."
     },
     {
       "name": "Melter",
@@ -3278,7 +3278,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] Whenever you play a Power card, Channel 1 Lightning. "
+      "description": "Innate.\nWhenever you play a Power card, Channel 1 Lightning."
     },
     {
       "name": "Sunder",
@@ -3310,7 +3310,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "X",
-      "description": "Channel [diffAddS] X+1 [diffAddE] Lightning.\nExhaust. "
+      "description": "Channel X+1 Lightning.\nExhaust."
     },
     {
       "name": "White Noise",
@@ -3358,7 +3358,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "This turn, your next [diffAddS] 2 [diffAddE] Power [diffAddS] cards are [diffAddE] played twice. "
+      "description": "This turn, your next 2 Power cards are played twice."
     },
     {
       "name": "Biased Cognition",
@@ -3390,7 +3390,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Prevent the next [diffAddS] 2 times [diffAddE] you would lose HP. "
+      "description": "Prevent the next 2 times you would lose HP."
     },
     {
       "name": "Core Surge",
@@ -3438,7 +3438,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": " [diffRmvS] Ethereal.\n[diffRmvE] The first card you play each turn is played twice. "
+      "description": "The first card you play each turn is played twice."
     },
     {
       "name": "Electrodynamics",
@@ -3470,7 +3470,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": " [diffAddS] Evoke [diffAddE] all your Orbs. Gain [B] and draw 1 card for each Orb [diffAddS] Evoked. [diffAddE]\nExhaust. "
+      "description": "Evoke all your Orbs. Gain [B] and draw 1 card for each Orb Evoked.\nExhaust."
     },
     {
       "name": "Hyperbeam",
@@ -3502,7 +3502,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the start of your turn, draw 1 additional card. "
+      "description": "Innate.\nAt the start of your turn, draw 1 additional card."
     },
     {
       "name": "Meteor Strike",
@@ -3534,7 +3534,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Evoke your next Orb [diffAddS] X+1 [diffAddE] times. "
+      "description": "Evoke your next Orb X+1 times."
     },
     {
       "name": "Rainbow",
@@ -3550,7 +3550,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Channel 1 Lightning.\nChannel 1 Frost.\nChannel 1 Dark. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "Channel 1 Lightning.\nChannel 1 Frost.\nChannel 1 Dark."
     },
     {
       "name": "Reboot",
@@ -3582,7 +3582,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Put 2 [diffAddS] cards [diffAddE] from your draw pile into your hand.\nExhaust. "
+      "description": "Put 2 cards from your draw pile into your hand.\nExhaust."
     },
     {
       "name": "Thunder Strike",
@@ -3982,7 +3982,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the start of each turn, add a *Smite into your hand. "
+      "description": "Innate.\nAt the start of each turn, add a *Smite into your hand."
     },
     {
       "name": "Carve Reality",
@@ -4014,7 +4014,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "X",
-      "description": "Put a *Miracle+ into your hand at the start of your next [diffAddS] X+1 [diffAddE] turns.\nExhaust. "
+      "description": "Put a *Miracle+ into your hand at the start of your next X+1 turns.\nExhaust."
     },
     {
       "name": "Conclude",
@@ -4110,7 +4110,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Choose 1 of 3 Attacks of any color to add into your hand.\n[diffAddS] It costs 0 this turn.\n[diffAddE] Exhaust. "
+      "description": "Choose 1 of 3 Attacks of any color to add into your hand.\nIt costs 0 this turn.\nExhaust."
     },
     {
       "name": "Foresight",
@@ -4190,7 +4190,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Put [diffAddS] 2 cards [diffAddE] from your discard pile into your hand and Retain [diffAddS] them. [diffAddE]\nEnter Calm.\nEnd your turn. "
+      "description": "Put 2 cards from your discard pile into your hand and Retain them.\nEnter Calm.\nEnd your turn."
     },
     {
       "name": "Mental Fortress",
@@ -4510,7 +4510,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": " [diffAddS] Retain.\n[diffAddE] Gain 5 Mantra. "
+      "description": "Retain.\nGain 5 Mantra."
     },
     {
       "name": "Wreath of Flame",
@@ -4542,7 +4542,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] Shuffle a *Beta into your draw pile.\nExhaust. "
+      "description": "Innate.\nShuffle a *Beta into your draw pile.\nExhaust."
     },
     {
       "name": "Blasphemy",
@@ -4558,7 +4558,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": " [diffAddS] Retain.\n[diffAddE] Enter Divinity.\nDie next turn.\nExhaust. "
+      "description": "Retain.\nEnter Divinity.\nDie next turn.\nExhaust."
     },
     {
       "name": "Brilliance",
@@ -4590,7 +4590,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Shuffle an *Expunger [diffAddS] with X+1 [diffAddE] into your draw pile.\nExhaust. "
+      "description": "Shuffle an *Expunger with X+1 into your draw pile.\nExhaust."
     },
     {
       "name": "Deus Ex Machina",
@@ -4622,7 +4622,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": " [diffRmvS] Ethereal.\n[diffRmvE] At the start of your turn, gain [W]\nand increase this gain by 1. "
+      "description": "At the start of your turn, gain [W]\nand increase this gain by 1."
     },
     {
       "name": "Devotion",
@@ -4654,7 +4654,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] Whenever a card is Retained, reduce its cost by 1 this combat. "
+      "description": "Innate.\nWhenever a card is Retained, reduce its cost by 1 this combat."
     },
     {
       "name": "Judgment",
@@ -4814,7 +4814,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "1",
-      "description": " [diffRmvS] Ethereal.\n[diffRmvE] Gain 1 Intangible.\nExhaust. "
+      "description": "Gain 1 Intangible.\nExhaust."
     },
     {
       "name": "Become Almighty",
@@ -4958,7 +4958,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nGain [diffAddS] [W] [diffAddE] [W].\nExhaust. "
+      "description": "Retain.\nGain [W] [W].\nExhaust."
     },
     {
       "name": "Omega",
@@ -5126,7 +5126,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 2 [diffAddS] Weak to ALL enemies. [diffAddE] "
+      "description": "Apply 2 Weak to ALL enemies."
     },
     {
       "name": "Dark Shackles",
@@ -5158,7 +5158,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Shuffle your discard pile into your draw pile.\nDraw 2 [diffAddS] cards. [diffAddE] "
+      "description": "Shuffle your discard pile into your draw pile.\nDraw 2 cards."
     },
     {
       "name": "Discovery",
@@ -5174,7 +5174,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose 1 of 3 random cards to add into your hand. It costs 0 this turn. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "Choose 1 of 3 random cards to add into your hand. It costs 0 this turn."
     },
     {
       "name": "Dramatic Entrance",
@@ -5206,7 +5206,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Reduce the cost of all cards in your hand to 1 this [diffAddS] combat. [diffAddE] "
+      "description": "Reduce the cost of all cards in your hand to 1 this combat."
     },
     {
       "name": "Finesse",
@@ -5254,7 +5254,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Put [diffAddS] any number of cards [diffAddE] from your hand to the bottom of your draw pile. [diffAddS] They cost [diffAddE] 0 until played. "
+      "description": "Put any number of cards from your hand to the bottom of your draw pile. They cost 0 until played."
     },
     {
       "name": "Good Instincts",
@@ -5302,7 +5302,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Add 2 random Colorless [diffAddS] cards [diffAddE] into your hand.\nExhaust. "
+      "description": "Add 2 random Colorless cards into your hand.\nExhaust."
     },
     {
       "name": "Madness",
@@ -5414,7 +5414,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 2 [diffAddS] Vulnerable to ALL enemies. [diffAddE] "
+      "description": "Apply 2 Vulnerable to ALL enemies."
     },
     {
       "name": "Apotheosis",
@@ -5574,7 +5574,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Put a Skill from your draw pile into your hand. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "Put a Skill from your draw pile into your hand."
     },
     {
       "name": "Secret Weapon",
@@ -5590,7 +5590,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Put an Attack from your draw pile into your hand. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "Put an Attack from your draw pile into your hand."
     },
     {
       "name": "The Bomb",
@@ -5622,7 +5622,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Draw 2 cards.\nPut a card from your hand on top of your draw pile. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "Draw 2 cards.\nPut a card from your hand on top of your draw pile."
     },
     {
       "name": "Transmutation",
@@ -5638,7 +5638,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Add X random [diffAddS] Upgraded [diffAddE] Colorless cards into your hand. They cost 0 this turn.\nExhaust. "
+      "description": "Add X random Upgraded Colorless cards into your hand. They cost 0 this turn.\nExhaust."
     },
     {
       "name": "Violence",
@@ -5960,6 +5960,13 @@
       "flavorText": "Holding the nib, you can see everyone ever slain by a previous owner of the pen. A violent history."
     },
     {
+      "name": "Potion Belt",
+      "tier": "Common",
+      "pool": "",
+      "description": "Upon pickup, gain 2 Potion slots.",
+      "flavorText": "I can hold more Potions using this belt!"
+    },
+    {
       "name": "Preserved Insect",
       "tier": "Common",
       "pool": "",
@@ -6014,6 +6021,13 @@
       "pool": "",
       "description": "Every 4th ? room is a Treasure room.",
       "flavorText": "\"A fine prototype.\" - The Architect"
+    },
+    {
+      "name": "Toy Ornithopter",
+      "tier": "Common",
+      "pool": "",
+      "description": "Whenever you use a potion, heal 5 HP.",
+      "flavorText": "\"This little toy is the perfect companion for the lone adventurer!\""
     },
     {
       "name": "Vajra",
@@ -6280,6 +6294,13 @@
       "pool": "",
       "description": "Whenever you add a Skill into your deck, Upgrade it.",
       "flavorText": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid"
+    },
+    {
+      "name": "White Beast Statue",
+      "tier": "Uncommon",
+      "pool": "",
+      "description": "Potions always appear in combat rewards.",
+      "flavorText": "A small white statue of a creature you have never seen before."
     },
     {
       "name": "Bird-Faced Urn",
@@ -7216,7 +7237,7 @@
       "maxHP": "75"
     },
     {
-      "name": "the Ironchad",
+      "name": "the Ironclad",
       "type": "Player",
       "minHP": "80",
       "maxHP": "80"

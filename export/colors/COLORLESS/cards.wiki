@@ -14,8 +14,9 @@
 |Special
 |[[Skill]]
 |1
-|([diffRmvS]) [[Ethereal]].
-([diffRmvE]) Gain 1 [[Intangible]].
+|[[Ethereal]].
+(not Ethereal.)
+Gain 1 [[Intangible]].
 [[Exhaust]].
 |-
 |[[Batch]]
@@ -23,8 +24,9 @@
 |Special
 |[[Skill]]
 |0
-|Create a Function immediately out of the cards in the Sequence. ([diffRmvS])
-[[Exhaust]]. ([diffRmvE])
+|Create a Function immediately out of the cards in the Sequence.
+[[Exhaust]]. (not
+Exhaust.)
 |-
 |[[Become Almighty]]
 |[[File:|thumb|289x289px]]
@@ -77,8 +79,8 @@ Heal 2(3) HP.
 |Special
 |[[Skill]]
 |0
-|([diffAddS] [[Retain]].
-[diffAddE]) Return all cards in the Sequence to your hand.
+|([[Retain]].)
+ Return all cards in the Sequence to your hand.
 They gain [[Retain]].
 [[Exhaust]].
 |-
@@ -114,8 +116,8 @@ Gain 5(7) [[Block]]
 |Special
 |[[Skill]]
 |0
-|([diffAddS] [[Retain]].
-[diffAddE]) [[Exhaust]] all cards in the Sequence. Gain [E] and draw a card for each card [[Exhausted]].
+|([[Retain]].)
+ [[Exhaust]] all cards in the Sequence. Gain [E] and draw a card for each card [[Exhausted]].
 [[Exhaust]].
 |-
 |[[Explode]]
@@ -218,7 +220,7 @@ Spend HP to Wish for Souls, Success, or a Pick Me Up.
 |[[Skill]]
 |0
 |[[Retain]].
-Gain ([diffAddS]) [W] ([diffAddE] [W]).
+Gain [W] ([W]).
 [[Exhaust]].
 |-
 |[[Omega]]
@@ -241,7 +243,7 @@ Gain ([diffAddS]) [W] ([diffAddE] [W]).
 |Special
 |[[Skill]]
 |0
-|Add an *Ancient *Attack, *Ancient *Power, and *Ancient *Construct to your ([diffAddS]) hand (and [[Upgrade]] them). ([diffAddE])
+|Add an *Ancient *Attack, *Ancient *Power, and *Ancient *Construct to your hand (and [[Upgrade]] them).
 [[Exhaust]].
 |-
 |[[Package: Bronze]]
@@ -249,7 +251,7 @@ Gain ([diffAddS]) [W] ([diffAddE] [W]).
 |Special
 |[[Skill]]
 |0
-|Add a *Hyper *Beam, *Orb *Beam, and *Bronze *Armor to your ([diffAddS]) hand (and [[Upgrade]] them). ([diffAddE])
+|Add a *Hyper *Beam, *Orb *Beam, and *Bronze *Armor to your hand (and [[Upgrade]] them).
 [[Exhaust]].
 |-
 |[[Package: Defect]]
@@ -257,7 +259,7 @@ Gain ([diffAddS]) [W] ([diffAddE] [W]).
 |Special
 |[[Skill]]
 |0
-|Add a *Reroute, *Preprogram, and *Time *Capacitor to your ([diffAddS]) hand (and [[Upgrade]] them). ([diffAddE])
+|Add a *Reroute, *Preprogram, and *Time *Capacitor to your hand (and [[Upgrade]] them).
 [[Exhaust]].
 |-
 |[[Package: Orbwalker]]
@@ -265,7 +267,7 @@ Gain ([diffAddS]) [W] ([diffAddE] [W]).
 |Special
 |[[Skill]]
 |0
-|Add an *Orbwalk, *Walker *Claw, and *Incinerate to your ([diffAddS]) hand (and [[Upgrade]] them). ([diffAddE])
+|Add an *Orbwalk, *Walker *Claw, and *Incinerate to your hand (and [[Upgrade]] them).
 [[Exhaust]].
 |-
 |[[Package: Sentry]]
@@ -273,7 +275,7 @@ Gain ([diffAddS]) [W] ([diffAddE] [W]).
 |Special
 |[[Skill]]
 |0
-|Add a *Sentry *Blast ([diffAddS] *Blast+ [diffAddE]) and two *Sentry *Waves ([diffAddS] *Waves+ [diffAddE]) to your hand and reduce their costs by 1 this combat.
+|Add a *Sentry *Blast (*Blast+) and two *Sentry *Waves (*Waves+) to your hand and reduce their costs by 1 this combat.
 [[Exhaust]].
 |-
 |[[Package: Shapes]]
@@ -281,7 +283,7 @@ Gain ([diffAddS]) [W] ([diffAddE] [W]).
 |Special
 |[[Skill]]
 |0
-|Add a *Time *Bomb, *Spiker *Protocol, and *Repulsor to your ([diffAddS]) hand (and [[Upgrade]] them). ([diffAddE])
+|Add a *Time *Bomb, *Spiker *Protocol, and *Repulsor to your hand (and [[Upgrade]] them).
 [[Exhaust]].
 |-
 |[[Package: Spheric]]
@@ -341,8 +343,8 @@ Gain 12(16) [[Block]].
 |[[Skill]]
 |0
 |Apply 1 [[Weak]].
-([diffAddS] [[guardianmod:Brace]] 2.
-[diffAddE]) Place a *Sentry *Blast ([diffAddS] *Blast+ [diffAddE]) into [[guardianmod:Stasis]].
+([[guardianmod:Brace]] 2.)
+ Place a *Sentry *Blast (*Blast+) into [[guardianmod:Stasis]].
 [[Exhaust]].
 |-
 |[[Shadow Guise]]
@@ -443,7 +445,7 @@ Deal 20(30) damage.
 |Uncommon
 |[[Skill]]
 |0
-|Apply 2 ([diffAddS]) [[Weak]] (to ALL enemies). ([diffAddE])
+|Apply 2 [[Weak]] (to ALL enemies).
 |-
 |[[Dark Shackles]]
 |[[File:|thumb|289x289px]]
@@ -459,15 +461,16 @@ Deal 20(30) damage.
 |[[Skill]]
 |0
 |Shuffle your discard pile into your draw pile.
-Draw 1(2) ([diffAddS]) card(s). ([diffAddE])
+Draw 1(2) card(s).
 |-
 |[[Discovery]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |1
-|Choose 1 of 3 random cards to add into your hand. It costs 0 this turn. ([diffRmvS])
-[[Exhaust]]. ([diffRmvE])
+|Choose 1 of 3 random cards to add into your hand. It costs 0 this turn.
+[[Exhaust]]. (not
+Exhaust.)
 |-
 |[[Dramatic Entrance]]
 |[[File:|thumb|289x289px]]
@@ -483,7 +486,7 @@ Deal 8(12) damage to ALL enemies.
 |Uncommon
 |[[Skill]]
 |0
-|Reduce the cost of all cards in your hand to 1 this turn ([diffAddS] combat). ([diffAddE])
+|Reduce the cost of all cards in your hand to 1 this turn (combat).
 |-
 |[[Finesse]]
 |[[File:|thumb|289x289px]]
@@ -506,7 +509,7 @@ Draw 1 card.
 |Uncommon
 |[[Skill]]
 |0
-|Put a ([diffAddS] any number of) card(s) ([diffAddE]) from your hand to the bottom of your draw pile. It costs ([diffAddS] They cost [diffAddE]) 0 until played.
+|Put a (any number of) card(s) from your hand to the bottom of your draw pile. It costs (They cost) 0 until played.
 |-
 |[[Good Instincts]]
 |[[File:|thumb|289x289px]]
@@ -527,7 +530,7 @@ Draw 1 card.
 |Uncommon
 |[[Skill]]
 |0
-|Add 1(2) random Colorless ([diffAddS]) card(s) ([diffAddE]) into your hand.
+|Add 1(2) random Colorless card(s) into your hand.
 [[Exhaust]].
 |-
 |[[Madness]]
@@ -582,7 +585,7 @@ Deal damage equal to the number of cards in your draw pile.
 |Uncommon
 |[[Skill]]
 |0
-|Apply 2 ([diffAddS]) [[Vulnerable]] (to ALL enemies). ([diffAddE])
+|Apply 2 [[Vulnerable]] (to ALL enemies).
 |-
 |[[Apotheosis]]
 |[[File:|thumb|289x289px]]
@@ -657,16 +660,18 @@ If [[Fatal]], gain 20(25) Gold.
 |Rare
 |[[Skill]]
 |0
-|Put a Skill from your draw pile into your hand. ([diffRmvS])
-[[Exhaust]]. ([diffRmvE])
+|Put a Skill from your draw pile into your hand.
+[[Exhaust]]. (not
+Exhaust.)
 |-
 |[[Secret Weapon]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
 |0
-|Put an Attack from your draw pile into your hand. ([diffRmvS])
-[[Exhaust]]. ([diffRmvE])
+|Put an Attack from your draw pile into your hand.
+[[Exhaust]]. (not
+Exhaust.)
 |-
 |[[The Bomb]]
 |[[File:|thumb|289x289px]]
@@ -681,15 +686,16 @@ If [[Fatal]], gain 20(25) Gold.
 |[[Skill]]
 |0
 |Draw 2 cards.
-Put a card from your hand on top of your draw pile. ([diffRmvS])
-[[Exhaust]]. ([diffRmvE])
+Put a card from your hand on top of your draw pile.
+[[Exhaust]]. (not
+Exhaust.)
 |-
 |[[Transmutation]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
 |X
-|Add X random ([diffAddS] [[Upgraded]] [diffAddE]) Colorless cards into your hand. They cost 0 this turn.
+|Add X random ([[Upgraded]]) Colorless cards into your hand. They cost 0 this turn.
 [[Exhaust]].
 |-
 |[[Violence]]

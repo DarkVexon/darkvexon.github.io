@@ -27,6 +27,7 @@
 | ![](relics/Omamori.png) | Omamori | Common |  | Negate the next #b2 #rCurses you obtain. | A common charm for staving off vile spirits. This one seems to possess a spark of divine energy. |
 | ![](relics/Orichalcum.png) | Orichalcum | Common |  | If you end your turn without #yBlock, gain #b6 #yBlock. | A green tinted metal of an unknown origin. Seemingly indestructible. |
 | ![](relics/PenNib.png) | Pen Nib | Common |  | Every #b10th #yAttack you play deals double damage. | Holding the nib, you can see everyone ever slain by a previous owner of the pen. A violent history. |
+| ![](relics/PotionBelt.png) | Potion Belt | Common |  | Upon pickup, gain #b2 Potion slots. | I can hold more Potions using this belt! |
 | ![](relics/PreservedInsect.png) | Preserved Insect | Common |  | Enemies in Elite combats have #b25% less HP. | The insect seems to create a shrinking aura that targets particularly large enemies. |
 | ![](relics/RedSkull.png) | Red Skull | Common | Red | While your HP is at or below #b50%, you have #b3 additional #yStrength. | A small skull covered in ornamental paint. |
 | ![](relics/RegalPillow.png) | Regal Pillow | Common |  | Whenever you #yRest, heal an additional #b15 HP. | Now you can get a proper night's rest. |
@@ -35,6 +36,7 @@
 | ![](relics/Strawberry.png) | Strawberry | Common |  | Upon pickup, raise your Max HP by #b7. | "Delicious! Haven't seen any of these since the blight." - Ranwid |
 | ![](relics/Boot.png) | The Boot | Common |  | Whenever you would deal #b4 or less unblocked attack damage, increase it to #b5. | When wound up, the boot grows larger in size. |
 | ![](relics/TinyChest.png) | Tiny Chest | Common |  | Every #b4th #y? room is a #yTreasure room. | "A fine prototype." - The Architect |
+| ![](relics/ToyOrnithopter.png) | Toy Ornithopter | Common |  | Whenever you use a potion, heal #b5 HP. | "This little toy is the perfect companion for the lone adventurer!" |
 | ![](relics/Vajra.png) | Vajra | Common |  | Start each combat with #b1 #yStrength. | An ornamental relic given to warriors displaying glory in battle. |
 | ![](relics/WarPaint.png) | War Paint | Common |  | Upon pickup, #yUpgrade #b2 random #ySkills. | In the past, Ironclads would create wards using enchanted war paint before charging into battle. |
 | ![](relics/Whetstone.png) | Whetstone | Common |  | Upon pickup, #yUpgrade #b2 random #yAttacks. | "Flesh never beats steel." - Kublai the Great |
@@ -73,6 +75,7 @@
 | ![](relics/TeardropLocket.png) | Teardrop Locket | Uncommon | Purple | Start each combat in #yCalm. | Its owner blind, its contents unseen. |
 | ![](relics/TheCourier.png) | The Courier | Uncommon |  | The Merchant restocks cards, relics, and potions. All prices are reduced by #b20%. | The Merchant's personal pet! |
 | ![](relics/ToxicEgg2.png) | Toxic Egg | Uncommon |  | Whenever you add a #ySkill into your deck, #yUpgrade it. | "What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?" - Ranwid |
+| ![](relics/WhiteBeastStatue.png) | White Beast Statue | Uncommon |  | Potions always appear in combat rewards. | A small white statue of a creature you have never seen before. |
 | ![](relics/BirdFacedUrn.png) | Bird-Faced Urn | Rare |  | Whenever you play a #yPower card, heal #b2 HP. | This urn shows the crow god Mazaleth looking mischievous. |
 | ![](relics/Calipers.png) | Calipers | Rare |  | At the start of your turn, lose #b15 #yBlock rather than all of your #yBlock. | "Mechanical precision leads to greatness" - The Architect |
 | ![](relics/CaptainsWheel.png) | Captain's Wheel | Rare |  | At the start of your 3rd turn, gain #b18 #yBlock. | Wooden trinket carved with delicate precision. A name is carved into it but the language is foreign. |

@@ -92,8 +92,8 @@ Repeat this effect 2(3) times.
 |Common
 |[[Skill]]
 |1
-|Gain ([diffAddS] 4 [[champ:Counter]].
-Gain [diffAddE]) 6 [[Block]].
+|Gain (4 [[champ:Counter]].
+Gain) 6 [[Block]].
 *Defensive champ:Combo: Gain [[Block]] equal to your [[champ:Counter]].
 |-
 |[[Crownarang]]
@@ -130,7 +130,7 @@ If your [[Block]] is broken this turn, gain 8(11) [[Block]] next turn.
 |[[Attack]]
 |1
 |Deal 5 damage to ALL enemies.
-*Berserker champ:Combo: Deals damage twice ([diffAddS] three times). ([diffAddE])
+*Berserker champ:Combo: Deals damage twice (three times).
 Enter [[champ:Berserker]].
 |-
 |[[Flash Strike]]
@@ -193,7 +193,7 @@ Deals 2(3) additional damage for ALL your cards containing "Strike".
 |[[Attack]]
 |1
 |Deal 8(10) damage.
-*Berserker champ:Combo: Remove the enemy's [[Block]] ([diffAddS] and [[Artifact]] [diffAddE]) before dealing damage.
+*Berserker champ:Combo: Remove the enemy's [[Block]] (and [[Artifact]]) before dealing damage.
 |-
 |[[Stance Dance]]
 |[[File:|thumb|289x289px]]
@@ -201,7 +201,7 @@ Deals 2(3) additional damage for ALL your cards containing "Strike".
 |[[Skill]]
 |0
 |Choose a [[Stance]] to Enter.
-If you were already in that [[Stance]], add ([diffAddS] Add [diffAddE]) a [[champ:Combo]] of that [[Stance]] into your hand.
+If you were already in that [[Stance]], add (Add) a [[champ:Combo]] of that [[Stance]] into your hand.
 |-
 |[[Tornado Punch]]
 |[[File:|thumb|289x289px]]
@@ -235,8 +235,8 @@ Draw a card.
 |Uncommon
 |[[Power]]
 |1
-|([diffAddS] [[Innate]].
-[diffAddE]) Enter [[champ:Berserker]].
+|([[Innate]].)
+ Enter [[champ:Berserker]].
 [[champ:Berserker]] [[champ:Techniques]] grant 2 more [[champ:Fatigue]].
 |-
 |[[Crooked Strike]]
@@ -262,8 +262,8 @@ Hits three times if *Fatigue is 20 or higher.
 |Uncommon
 |[[Power]]
 |1
-|([diffAddS] [[Innate]].
-[diffAddE]) Enter [[champ:Defensive]].
+|([[Innate]].)
+ Enter [[champ:Defensive]].
 [[champ:Defensive]] *Techniques grant 2 more [[champ:Counter]].
 |-
 |[[Duel]]
@@ -305,7 +305,7 @@ This card's [[Block]] is increased by [[Strength]] instead of [[Dexterity]] (not
 |Uncommon
 |[[Attack]]
 |1
-|Deal 5 ([diffAddS]) damage (1(2) times). ([diffAddE])
+|Deal 5 damage (1(2) times).
 [[champ:Fatigue]] 5.
 *Berserker champ:Combo: This card hits an additional time this combat.
 |-
@@ -335,7 +335,7 @@ Deal 9(11) damage, twice if enemy is [[Vulnerable]].
 |0
 |Requires *Defensive or *Berserker.
 Enter the [[Stance]] you aren't in.
-Draw 1(2) ([diffAddS]) card(s). ([diffAddE])
+Draw 1(2) card(s).
 |-
 |[[Finish Him]]
 |[[File:|thumb|289x289px]]
@@ -436,7 +436,7 @@ Deal 18(20) damage.
 |Uncommon
 |[[Skill]]
 |1
-|*Berserker champ:Combo: Gain [E] [E] ([diffAddS] [E] [diffAddE]), then [[Exhaust]] this.
+|*Berserker champ:Combo: Gain [E] [E] ([E]), then [[Exhaust]] this.
 *Defensive champ:Combo: Draw 3(4) cards.
 |-
 |[[Rising Strike]]
@@ -453,8 +453,8 @@ Play this twice if the last played card was a [[champ:Technique]].
 |Uncommon
 |[[Skill]]
 |1
-|([diffAddS] Gain 6 [[champ:Counter]].
-[diffAddE]) *Defensive champ:Combo: Gain 6 [[champ:Counter]] for each Attack in your hand.
+|(Gain 6 [[champ:Counter]].)
+ *Defensive champ:Combo: Gain 6 [[champ:Counter]] for each Attack in your hand.
 Enter [[champ:Defensive]].
 |-
 |[[Shield Wall]]
@@ -514,7 +514,7 @@ Gain [E].
 |Rare
 |[[Power]]
 |1
-|The third time you enter a [[Stance]] each turn, gain [E] ([diffAddS] [E] [diffAddE]) and draw 2 cards.
+|The third time you enter a [[Stance]] each turn, gain [E] ([E]) and draw 2 cards.
 |-
 |[[Devastate]]
 |[[File:|thumb|289x289px]]
@@ -631,7 +631,7 @@ Unless *Defensive champ:Combo: You can't gain [[Block]] next turn.
 |Rare
 |[[Power]]
 |2
-|At the start of your turn, add a random ([diffAddS] [[Upgraded]] [diffAddE]) card containing "Strike" into ([diffAddS] to [diffAddE]) your hand.
+|At the start of your turn, add a random ([[Upgraded]]) card containing "Strike" into (to) your hand.
 It costs 0 until played and gains [[Exhaust]].
 |-
 |[[Sword Throw]]

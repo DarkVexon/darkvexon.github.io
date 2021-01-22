@@ -25,7 +25,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Create a Function immediately out of the cards in the Sequence. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "Create a Function immediately out of the cards in the Sequence."
     },
     {
       "name": "Beta Build",
@@ -89,7 +89,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": " [diffAddS] Retain.\n[diffAddE] Return all cards in the Sequence to your hand.\nThey gain Retain.\nExhaust. "
+      "description": "Retain.\nReturn all cards in the Sequence to your hand.\nThey gain Retain.\nExhaust."
     },
     {
       "name": "Council's Justice",
@@ -153,7 +153,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": " [diffAddS] Retain.\n[diffAddE] Exhaust all cards in the Sequence. Gain [E] and draw a card for each card Exhausted.\nExhaust. "
+      "description": "Retain.\nExhaust all cards in the Sequence. Gain [E] and draw a card for each card Exhausted.\nExhaust."
     },
     {
       "name": "Explode",
@@ -297,7 +297,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add an *Ancient *Attack, *Ancient *Power, and *Ancient *Construct to your [diffAddS] hand and Upgrade them. [diffAddE]\nExhaust. "
+      "description": "Add an *Ancient *Attack, *Ancient *Power, and *Ancient *Construct to your hand and Upgrade them.\nExhaust."
     },
     {
       "name": "Package: Bronze",
@@ -313,7 +313,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Hyper *Beam, *Orb *Beam, and *Bronze *Armor to your [diffAddS] hand and Upgrade them. [diffAddE]\nExhaust. "
+      "description": "Add a *Hyper *Beam, *Orb *Beam, and *Bronze *Armor to your hand and Upgrade them.\nExhaust."
     },
     {
       "name": "Package: Defect",
@@ -329,7 +329,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Reroute, *Preprogram, and *Time *Capacitor to your [diffAddS] hand and Upgrade them. [diffAddE]\nExhaust. "
+      "description": "Add a *Reroute, *Preprogram, and *Time *Capacitor to your hand and Upgrade them.\nExhaust."
     },
     {
       "name": "Package: Orbwalker",
@@ -345,7 +345,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add an *Orbwalk, *Walker *Claw, and *Incinerate to your [diffAddS] hand and Upgrade them. [diffAddE]\nExhaust. "
+      "description": "Add an *Orbwalk, *Walker *Claw, and *Incinerate to your hand and Upgrade them.\nExhaust."
     },
     {
       "name": "Package: Sentry",
@@ -361,7 +361,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Sentry [diffAddS] *Blast+ [diffAddE] and two *Sentry [diffAddS] *Waves+ [diffAddE] to your hand and reduce their costs by 1 this combat.\nExhaust. "
+      "description": "Add a *Sentry *Blast+ and two *Sentry *Waves+ to your hand and reduce their costs by 1 this combat.\nExhaust."
     },
     {
       "name": "Package: Shapes",
@@ -377,7 +377,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Time *Bomb, *Spiker *Protocol, and *Repulsor to your [diffAddS] hand and Upgrade them. [diffAddE]\nExhaust. "
+      "description": "Add a *Time *Bomb, *Spiker *Protocol, and *Repulsor to your hand and Upgrade them.\nExhaust."
     },
     {
       "name": "Package: Spheric",
@@ -457,7 +457,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Weak.\n[diffAddS] guardianmod:Brace 2.\n[diffAddE] Place a *Sentry [diffAddS] *Blast+ [diffAddE] into guardianmod:Stasis.\nExhaust. "
+      "description": "Apply 1 Weak.\nguardianmod:Brace 2.\nPlace a *Sentry *Blast+ into guardianmod:Stasis.\nExhaust."
     },
     {
       "name": "Shadow Guise",
@@ -561,7 +561,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nexpansioncontent:Boss - Ancients.\nGain 18 Block.\nNext turn, add a *Donu [diffAddS] *Blast+ [diffAddE] with Ethereal into your hand.\nExhaust. "
+      "description": "Ethereal.\nexpansioncontent:Boss - Ancients.\nGain 18 Block.\nNext turn, add a *Donu *Blast+ with Ethereal into your hand.\nExhaust."
     },
     {
       "name": "Automa-Beam",
@@ -609,7 +609,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "2",
-      "description": "expansioncontent:Boss - Time Eater.\nGain 1 [diffAddS] Strength.\nGain 1 [diffAddE] Strength for every 12th card you play. "
+      "description": "expansioncontent:Boss - Time Eater.\nGain 1 Strength.\nGain 1 Strength for every 12th card you play."
     },
     {
       "name": "Donu Blast",
@@ -625,7 +625,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "expansioncontent:Boss - Ancients.\nDeal 12 damage twice.\nNext turn, add a *Deca [diffAddS] *Shield+ [diffAddE] into your hand.\nExhaust. "
+      "description": "expansioncontent:Boss - Ancients.\nDeal 12 damage twice.\nNext turn, add a *Deca *Shield+ into your hand.\nExhaust."
     },
     {
       "name": "Guardian Whirl",
@@ -689,7 +689,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "2",
-      "description": "expansioncontent:Boss - Champ.\nRemove all Debuffs.\nGain 1 Strength.\nIf you are below half HP, [diffAddS] Heal 10 and gain [diffAddE] 2 Strength. "
+      "description": "expansioncontent:Boss - Champ.\nRemove all Debuffs.\nGain 1 Strength.\nIf you are below half HP, Heal 10 and gain 2 Strength."
     },
     {
       "name": "Prepare Crush",
@@ -737,7 +737,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose 1 of 3 [diffAddS] Upgraded [diffAddE] expansioncontent:Boss cards.\nAdd it into your hand.\nIt costs 0 until played.\nExhaust. "
+      "description": "Choose 1 of 3 Upgraded expansioncontent:Boss cards.\nAdd it into your hand.\nIt costs 0 until played.\nExhaust."
     },
     {
       "name": "Study the Spire",
@@ -753,7 +753,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": "Add a random [diffAddS] Upgraded [diffAddE] expansioncontent:Boss card to your hand at the start of your next 3 turns. They cost 0 until played. "
+      "description": "Add a random Upgraded expansioncontent:Boss card to your hand at the start of your next 3 turns. They cost 0 until played."
     },
     {
       "name": "The Evil Within",
@@ -769,7 +769,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 12 damage.\nGain 12 Block.\nAdd a random [diffAddS] Upgraded [diffAddE] expansioncontent:Boss card to your hand. It costs 0 until played.\nExhaust. "
+      "description": "Deal 12 damage.\nGain 12 Block.\nAdd a random Upgraded expansioncontent:Boss card to your hand. It costs 0 until played.\nExhaust."
     },
     {
       "name": "Defend",
@@ -801,7 +801,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "0",
-      "description": "Ethereal.\nDraw a card.\n[diffAddS] You may choose to\nhexamod:Retract or [diffAddE] hexamod:Advance. "
+      "description": "Ethereal.\nDraw a card.\nYou may choose to\nhexamod:Retract or hexamod:Advance."
     },
     {
       "name": "Sear",
@@ -897,7 +897,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": " [diffRmvS] Ethereal.\n[diffRmvE] hexamod:Force-Ignite the hexamod:Active Ghostflame.\nhexamod:Advance. "
+      "description": "hexamod:Force-Ignite the hexamod:Active Ghostflame.\nhexamod:Advance."
     },
     {
       "name": "Firestarter",
@@ -1025,7 +1025,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nGain 18 Block.\nIf this card is Exhausted, add a *Shadow [diffAddS] *Guise+ to [diffAddE] your hand. "
+      "description": "Ethereal.\nGain 18 Block.\nIf this card is Exhausted, add a *Shadow *Guise+ to your hand."
     },
     {
       "name": "Nightmare Strike",
@@ -1041,7 +1041,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Ethereal.\nDeal 20 damage.\nIf this card is Exhausted, add a *Shadow [diffAddS] *Strike+ to [diffAddE] your hand. "
+      "description": "Ethereal.\nDeal 20 damage.\nIf this card is Exhausted, add a *Shadow *Strike+ to your hand."
     },
     {
       "name": "Searing Strike",
@@ -1217,7 +1217,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] The first time you hexamod:Retract each turn, gain [E] and draw 1 card.\nhexamod:Retract. "
+      "description": "Innate.\nThe first time you hexamod:Retract each turn, gain [E] and draw 1 card.\nhexamod:Retract."
     },
     {
       "name": "Dynamic Blow",
@@ -1281,7 +1281,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] Cards and Ghostflames apply 2 more hexamod:Soulburn. "
+      "description": "Innate.\nCards and Ghostflames apply 2 more hexamod:Soulburn."
     },
     {
       "name": "First Seal",
@@ -1361,7 +1361,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": " [diffRmvS] Ethereal.\n[diffRmvE] Gain 5 Block, increased by hexamod:Soulburn on ALL enemies. "
+      "description": "Gain 5 Block, increased by hexamod:Soulburn on ALL enemies."
     },
     {
       "name": "Incineration",
@@ -1409,7 +1409,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !burny! hexamod:Soulburn.\nThe next time the target's hexamod:Soulburn detonates, it affects ALL enemies. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "Apply !burny! hexamod:Soulburn.\nThe next time the target's hexamod:Soulburn detonates, it affects ALL enemies."
     },
     {
       "name": "Nightmare Vision",
@@ -1425,7 +1425,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Put [diffAddS] 2 [diffAddE] Ethereal [diffAddS] cards [diffAddE] from your exhaust pile into your hand.\nExhaust. "
+      "description": "Put 2 Ethereal cards from your exhaust pile into your hand.\nExhaust."
     },
     {
       "name": "Phantom Cloak",
@@ -1473,7 +1473,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "Unplayable.\nEthereal. hexamod:Afterlife.\nGain [E] and draw 2 [diffAddS] cards [diffAddE] next turn. "
+      "description": "Unplayable.\nEthereal. hexamod:Afterlife.\nGain [E] and draw 2 cards next turn."
     },
     {
       "name": "Radiant Flame",
@@ -1505,7 +1505,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "X",
-      "description": "Deal 8 damage and apply !burny! hexamod:Soulburn to a random enemy X times.\nIf X is 3 or more, apply [diffAddS] 2 [diffAddE] Weak and Vulnerable to ALL enemies. "
+      "description": "Deal 8 damage and apply !burny! hexamod:Soulburn to a random enemy X times.\nIf X is 3 or more, apply 2 Weak and Vulnerable to ALL enemies."
     },
     {
       "name": "Rewind",
@@ -1521,7 +1521,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "hexamod:Retract.\nGain [E] [diffAddS] and draw 1 card. [diffAddE] "
+      "description": "hexamod:Retract.\nGain [E] and draw 1 card."
     },
     {
       "name": "Second Seal",
@@ -1617,7 +1617,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Choose an Attack or Skill to Exhaust.\nAdd a random card of the opposite type into your hand. [diffAddS]\nIt costs 1 less. [diffAddE] "
+      "description": "Choose an Attack or Skill to Exhaust.\nAdd a random card of the opposite type into your hand.\nIt costs 1 less."
     },
     {
       "name": "Apocalypse Now",
@@ -1633,7 +1633,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Ethereal.\nGain [E] [E] [diffAddS] [E] [diffAddE] .\nThe Inferno Ghostflame becomes hexamod:Active.\nExhaust. "
+      "description": "Ethereal.\nGain [E] [E] [E] .\nThe Inferno Ghostflame becomes hexamod:Active.\nExhaust."
     },
     {
       "name": "Bad Omen",
@@ -1649,7 +1649,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": " [diffAddS] Retain. [diffAddE]\nReplace the hexamod:Active Ghostflame with a hexamod:Crushing or hexamod:Bolstering one.\nExhaust. "
+      "description": "Retain.\nReplace the hexamod:Active Ghostflame with a hexamod:Crushing or hexamod:Bolstering one.\nExhaust."
     },
     {
       "name": "Doomsday",
@@ -1665,7 +1665,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "0",
-      "description": "The next time you hexamod:Ignite the Inferno Ghostflame and [diffAddS] at least [diffAddE] 5 Ghostflames are hexamod:Ignited, take an extra turn. "
+      "description": "The next time you hexamod:Ignite the Inferno Ghostflame and at least 5 Ghostflames are hexamod:Ignited, take an extra turn."
     },
     {
       "name": "Fifth Seal",
@@ -1689,7 +1689,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage.\nhexamod:Force-Ignite the previous, then the [diffAddS] *Active, then the [diffAddE] next Ghostflames. "
+      "description": "Deal 7 damage.\nhexamod:Force-Ignite the previous, then the *Active, then the next Ghostflames."
     },
     {
       "name": "Gifts From Beyond",
@@ -1705,7 +1705,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "",
-      "description": "Unplayable.\nEthereal. hexamod:Afterlife.\nWhenever an Ethereal card is Exhausted, gain [E] [diffAddS] and draw 1 card [diffAddE] next turn. "
+      "description": "Unplayable.\nEthereal. hexamod:Afterlife.\nWhenever an Ethereal card is Exhausted, gain [E] and draw 1 card next turn."
     },
     {
       "name": "Here and Now",
@@ -1753,7 +1753,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Retain.\nhexamod:Ignite the [diffAddS] hexamod:Active Ghostflame.\nhexamod:Ignite the [diffAddE] Inferno Ghostflame.\nExhaust. "
+      "description": "Retain.\nhexamod:Ignite the hexamod:Active Ghostflame.\nhexamod:Ignite the Inferno Ghostflame.\nExhaust."
     },
     {
       "name": "Poltergeist",
@@ -1785,7 +1785,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "ALL enemies lose HP equal to their hexamod:Soulburn. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "ALL enemies lose HP equal to their hexamod:Soulburn."
     },
     {
       "name": "Sixth Seal",
@@ -1857,7 +1857,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Gain 5 hexamod:Intensity.\nLose it in [diffAddS] X+2 [diffAddE] turns.\nExhaust. "
+      "description": "Gain 5 hexamod:Intensity.\nLose it in X+2 turns.\nExhaust."
     },
     {
       "name": "Unleash Spirits",
@@ -1953,7 +1953,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw 2 [diffAddS] cards. [diffAddE]\nbronze:Compile - Next turn, draw 2 [diffAddS] cards. [diffAddE] "
+      "description": "Draw 2 cards.\nbronze:Compile - Next turn, draw 2 cards."
     },
     {
       "name": "Replicate",
@@ -2009,7 +2009,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": " [diffAddS] Retain.\n[diffAddE] Choose a card in the Sequence to return to your hand.\nIt gains Retain.\nExhaust. "
+      "description": "Retain.\nChoose a card in the Sequence to return to your hand.\nIt gains Retain.\nExhaust."
     },
     {
       "name": "Branch",
@@ -2041,7 +2041,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Add [diffAddS] 2 *Wounds [diffAddE] to your hand.\nbronze:Cycle each Status in your hand, dealing 7 damage for each. "
+      "description": "Add 2 *Wounds to your hand.\nbronze:Cycle each Status in your hand, dealing 7 damage for each."
     },
     {
       "name": "Buggy Mess",
@@ -2153,7 +2153,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": " [diffAddS] Retain.\n[diffAddE] Increase all numbers on cards in the Sequence by 1.\nExhaust. "
+      "description": "Retain.\nIncrease all numbers on cards in the Sequence by 1.\nExhaust."
     },
     {
       "name": "Frontload",
@@ -2297,7 +2297,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": " [diffAddS] Retain.\n[diffAddE] Gain [E] [E] .\nbronze:Insert a *Void. "
+      "description": "Retain.\nGain [E] [E] .\nbronze:Insert a *Void."
     },
     {
       "name": "Wild Beam",
@@ -2361,7 +2361,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain 1 bronze:Blur. [diffAddS]\nbronze:Compile - Gain 1 bronze:Blur. [diffAddE] "
+      "description": "Gain 1 bronze:Blur.\nbronze:Compile - Gain 1 bronze:Blur."
     },
     {
       "name": "Boost",
@@ -2425,7 +2425,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Retain.\n[diffAddE] Add a copy of the first card in the current Sequence to the next 2 Sequences automatically. "
+      "description": "Retain.\nAdd a copy of the first card in the current Sequence to the next 2 Sequences automatically."
     },
     {
       "name": "Cultist Strike",
@@ -2521,7 +2521,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "X",
-      "description": " [diffAddS] Retain.\n[diffAddE] The next card you bronze:Encode causes X additional copies to also be bronze:Encoded.\nExhaust. "
+      "description": "Retain.\nThe next card you bronze:Encode causes X additional copies to also be bronze:Encoded.\nExhaust."
     },
     {
       "name": "Force Shield",
@@ -2585,7 +2585,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of each turn, add a *Minor [diffAddS] *Beam+ [diffAddE] to your hand. "
+      "description": "At the start of each turn, add a *Minor *Beam+ to your hand."
     },
     {
       "name": "Invoke",
@@ -2617,7 +2617,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] Whenever you draw a Curse or Status card, gain 1 Temporary Strength and Dexterity. "
+      "description": "Innate.\nWhenever you draw a Curse or Status card, gain 1 Temporary Strength and Dexterity."
     },
     {
       "name": "Max Output",
@@ -2649,7 +2649,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 10 damage.\nThe next time you bronze:Encode a card, bronze:Encode a copy of it. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "Deal 10 damage.\nThe next time you bronze:Encode a card, bronze:Encode a copy of it."
     },
     {
       "name": "Null Pointer",
@@ -2697,7 +2697,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Play a copy of each card in the Sequence. They do not Encode. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "Play a copy of each card in the Sequence. They do not Encode."
     },
     {
       "name": "Philosophize",
@@ -2761,7 +2761,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "2",
-      "description": " [diffAddS] Innate.\n[diffAddE] When you draw the first Status or Curse card each turn, Exhaust it and draw a card. "
+      "description": "Innate.\nWhen you draw the first Status or Curse card each turn, Exhaust it and draw a card."
     },
     {
       "name": "Return",
@@ -2777,7 +2777,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "X",
-      "description": "Gain [E] and draw 1 additional card at the start of your next X turns.\nGain [E] . [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "Gain [E] and draw 1 additional card at the start of your next X turns.\nGain [E] ."
     },
     {
       "name": "Safeguard",
@@ -2889,7 +2889,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nChoose between *Debug, *Batch, *Decompile, and *Byte *Shift. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "Retain.\nChoose between *Debug, *Batch, *Decompile, and *Byte *Shift."
     },
     {
       "name": "Early Access",
@@ -2905,7 +2905,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": " [diffAddS] Innate.\n\u00A0 [diffAddE] Deal 15 damage.\nbronze:Insert random Status.\nbronze:Compile - bronze:Insert *Beta *Build. "
+      "description": "Innate.\n\u00A0 Deal 15 damage.\nbronze:Insert random Status.\nbronze:Compile - bronze:Insert *Beta *Build."
     },
     {
       "name": "Find and Replace",
@@ -2921,7 +2921,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": " [diffAddS] Retain. [diffAddE]\nPut a card from your draw or discard pile into your hand.\nAdd a Dazed where it was.\nExhaust. "
+      "description": "Retain.\nPut a card from your draw or discard pile into your hand.\nAdd a Dazed where it was.\nExhaust."
     },
     {
       "name": "Format",
@@ -2937,7 +2937,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "bronze:Encode [diffAddS] X+1 [diffAddE] copies of *Fragment.\nGain [E] .\nExhaust. "
+      "description": "bronze:Encode X+1 copies of *Fragment.\nGain [E] .\nExhaust."
     },
     {
       "name": "HYPER BEAM",
@@ -3017,7 +3017,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Retain.\n[diffAddE] Gain 1 Strength.\nTransform a Status in your hand into a copy of this. "
+      "description": "Retain.\nGain 1 Strength.\nTransform a Status in your hand into a copy of this."
     },
     {
       "name": "Recursive Strike",
@@ -3033,7 +3033,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 9 damage 2 times.\nbronze:Compile - bronze:Encode 2 copies of [diffAddS] *Strike+. [diffAddE] "
+      "description": "Deal 9 damage 2 times.\nbronze:Compile - bronze:Encode 2 copies of *Strike+."
     },
     {
       "name": "Sentient Form",
@@ -3049,7 +3049,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": " [diffRmvS] Ethereal.\n[diffRmvE] The first time you create or draw a Function each turn, increase all numbers on it by 1. "
+      "description": "The first time you create or draw a Function each turn, increase all numbers on it by 1."
     },
     {
       "name": "Ship It",
@@ -3129,7 +3129,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Retain.\nDeal 4 damage.\nTransform all cards in hand into *Minor [diffAddS] *Beam+. [diffAddE]\nExhaust. "
+      "description": "Retain.\nDeal 4 damage.\nTransform all cards in hand into *Minor *Beam+.\nExhaust."
     },
     {
       "name": "Corrosive Spit",
@@ -3177,7 +3177,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose [diffAddS] 2 [diffAddE] of 4 Slimes to slimeboundmod:Split into.\nExhaust. "
+      "description": "Choose 2 of 4 Slimes to slimeboundmod:Split into.\nExhaust."
     },
     {
       "name": "Strike",
@@ -3225,7 +3225,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 15 damage and !SlimeboundSelfharm! damage to yourself.\nAdd a random [diffAddS] Upgraded [diffAddE] slimeboundmod:Tackle card to your hand. It costs 0 this turn. "
+      "description": "Deal 15 damage and !SlimeboundSelfharm! damage to yourself.\nAdd a random Upgraded slimeboundmod:Tackle card to your hand. It costs 0 this turn."
     },
     {
       "name": "Goop Spray",
@@ -3257,7 +3257,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Vulnerable and !SlimeboundSlimed! slimeboundmod:Goop.\n[diffAddS] Draw a card.\n[diffAddE] Exhaust. "
+      "description": "Apply 1 Vulnerable and !SlimeboundSlimed! slimeboundmod:Goop.\nDraw a card.\nExhaust."
     },
     {
       "name": "It Looks Tasty",
@@ -3273,7 +3273,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage. slimeboundmod:Consume - Add a [diffAddS] *Lick+ [diffAddE] to your hand. "
+      "description": "Deal 10 damage. slimeboundmod:Consume - Add a *Lick+ to your hand."
     },
     {
       "name": "Leech Energy",
@@ -3289,7 +3289,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage. slimeboundmod:Consume - Gain [E] and draw 2 [diffAddS] cards. [diffAddE] "
+      "description": "Deal 5 damage. slimeboundmod:Consume - Gain [E] and draw 2 cards."
     },
     {
       "name": "Leeching Strike",
@@ -3369,7 +3369,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage. slimeboundmod:Consume - [diffAddS] slimeboundmod:Command twice. [diffAddE] "
+      "description": "Deal 9 damage. slimeboundmod:Consume - slimeboundmod:Command twice."
     },
     {
       "name": "Roll Through",
@@ -3401,7 +3401,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nGain 4 Block.\n[diffAddS] Draw a card.\n[diffAddE] Exhaust. "
+      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nGain 4 Block.\nDraw a card.\nExhaust."
     },
     {
       "name": "Schlurp",
@@ -3529,7 +3529,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\nReduce the cost of a random slimeboundmod:Tackle card in your hand to 0 this [diffAddS] combat. [diffAddE] "
+      "description": "Deal 10 damage.\nReduce the cost of a random slimeboundmod:Tackle card in your hand to 0 this combat."
     },
     {
       "name": "Disrupting Slam",
@@ -3561,7 +3561,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Draw a card, then Exhaust a card in your hand. Add a number of *Licks to your hand equal to it's [diffAddS] cost plus 1. [diffAddE]\nExhaust. "
+      "description": "Draw a card, then Exhaust a card in your hand. Add a number of *Licks to your hand equal to it's cost plus 1.\nExhaust."
     },
     {
       "name": "Divide & Conquer",
@@ -3593,7 +3593,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nAdd a *Lick to your hand.\n[diffAddS] Draw a card.\n[diffAddE] Exhaust. "
+      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nAdd a *Lick to your hand.\nDraw a card.\nExhaust."
     },
     {
       "name": "Equalize",
@@ -3641,7 +3641,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 17 damage and !SlimeboundSelfharm! damage to yourself.\nslimeboundmod:Command [diffAddS] three times. [diffAddE] "
+      "description": "Deal 17 damage and !SlimeboundSelfharm! damage to yourself.\nslimeboundmod:Command three times."
     },
     {
       "name": "Gluttony",
@@ -3657,7 +3657,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] The first time you slimeboundmod:Consume each turn, add a *Lick to your hand. "
+      "description": "Innate.\nThe first time you slimeboundmod:Consume each turn, add a *Lick to your hand."
     },
     {
       "name": "Goop Armor",
@@ -3737,7 +3737,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "The first [diffAddS] 2 cards [diffAddE] you play each turn that targets enemies also slimeboundmod:Commands. "
+      "description": "The first 2 cards you play each turn that targets enemies also slimeboundmod:Commands."
     },
     {
       "name": "Level Up",
@@ -3769,7 +3769,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Weak and !SlimeboundSlimed! slimeboundmod:Goop to ALL enemies.\n[diffAddS] Draw a card.\n[diffAddE] Exhaust. "
+      "description": "Apply 1 Weak and !SlimeboundSlimed! slimeboundmod:Goop to ALL enemies.\nDraw a card.\nExhaust."
     },
     {
       "name": "Nibble",
@@ -3785,7 +3785,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 6 damage.\nAdd a random [diffAddS] Upgraded [diffAddE] 0-cost card to your hand.\nExhaust. "
+      "description": "Deal 6 damage.\nAdd a random Upgraded 0-cost card to your hand.\nExhaust."
     },
     {
       "name": "Pile On!",
@@ -3801,7 +3801,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage. slimeboundmod:Command ALL [diffAddS] slimes twice. [diffAddE] "
+      "description": "Deal 8 damage. slimeboundmod:Command ALL slimes twice."
     },
     {
       "name": "Protect the Boss",
@@ -3881,7 +3881,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose a card in your hand.\n[diffAddS] Add [diffAddE] a copy of [diffAddS] it into [diffAddE] your [diffAddS] hand. [diffAddE]\nExhaust. "
+      "description": "Choose a card in your hand.\nAdd a copy of it into your hand.\nExhaust."
     },
     {
       "name": "Repurpose",
@@ -3897,7 +3897,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "slimeboundmod:Absorb - Split into a random slimeboundmod:Specialist Slime.\n[diffAddS] slimeboundmod:Command.\n[diffAddE] Exhaust. "
+      "description": "slimeboundmod:Absorb - Split into a random slimeboundmod:Specialist Slime.\nslimeboundmod:Command.\nExhaust."
     },
     {
       "name": "Serve & Protect",
@@ -3977,7 +3977,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose 1 of 3 slimeboundmod:Specialist Slimes to slimeboundmod:Split into.\n[diffAddS] slimeboundmod:Command.\n[diffAddE] Exhaust. "
+      "description": "Choose 1 of 3 slimeboundmod:Specialist Slimes to slimeboundmod:Split into.\nslimeboundmod:Command.\nExhaust."
     },
     {
       "name": "Spreading Slime",
@@ -4089,7 +4089,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": "Lose 15 HP and 15 Max HP this combat.\n[diffAddS] Gain [E] each turn.\n[diffAddE] The first card you play each turn that targets enemies is played twice. "
+      "description": "Lose 15 HP and 15 Max HP this combat.\nGain [E] each turn.\nThe first card you play each turn that targets enemies is played twice."
     },
     {
       "name": "Leech Life",
@@ -4153,7 +4153,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "slimeboundmod:Absorb ALL Slimes.\nSplit into a random slimeboundmod:Specialist Slime for each [diffAddS] slimeboundmod:Absorbed, then slimeboundmod:Command them all. [diffAddE]\nExhaust. "
+      "description": "slimeboundmod:Absorb ALL Slimes.\nSplit into a random slimeboundmod:Specialist Slime for each slimeboundmod:Absorbed, then slimeboundmod:Command them all.\nExhaust."
     },
     {
       "name": "Minion Master",
@@ -4169,7 +4169,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": " [diffAddS] Innate.\n[diffAddE] Whenever you play a card that triggers slimeboundmod:Command, slimeboundmod:Command again. "
+      "description": "Innate.\nWhenever you play a card that triggers slimeboundmod:Command, slimeboundmod:Command again."
     },
     {
       "name": "One-Two Combo",
@@ -4185,7 +4185,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 3 damage.\n[diffAddS] slimeboundmod:Command.\n[diffAddE] When you slimeboundmod:Split, return this from the discard pile to your hand. "
+      "description": "Deal 3 damage.\nslimeboundmod:Command.\nWhen you slimeboundmod:Split, return this from the discard pile to your hand."
     },
     {
       "name": "Ooze Bath",
@@ -4217,7 +4217,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Gain 4 slimeboundmod:Potency.\n[diffAddS] slimeboundmod:Command twice.\n[diffAddE] 2 turns from now, slimeboundmod:Absorb all Slimes. "
+      "description": "Gain 4 slimeboundmod:Potency.\nslimeboundmod:Command twice.\n2 turns from now, slimeboundmod:Absorb all Slimes."
     },
     {
       "name": "Prepare: Crush",
@@ -4265,7 +4265,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the start of your turn, return a random Exhausted 0-cost card to your hand. "
+      "description": "Innate.\nAt the start of your turn, return a random Exhausted 0-cost card to your hand."
     },
     {
       "name": "Reformation",
@@ -4281,7 +4281,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "When you slimeboundmod:Absorb a Slime, gain 1 [diffAddS] Strength and 1 Dexterity. [diffAddE] "
+      "description": "When you slimeboundmod:Absorb a Slime, gain 1 Strength and 1 Dexterity."
     },
     {
       "name": "Slime Slap",
@@ -4313,7 +4313,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 12 damage.\nslimeboundmod:Split into a random [diffAddS] slimeboundmod:Specialist [diffAddE] Slime.\nslimeboundmod:Command 3 times. "
+      "description": "Deal 12 damage.\nslimeboundmod:Split into a random slimeboundmod:Specialist Slime.\nslimeboundmod:Command 3 times."
     },
     {
       "name": "Teamwork",
@@ -4329,7 +4329,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "slimeboundmod:Command [diffAddS] X+1 [diffAddE] times.\nGain 5 Block [diffAddS] X+1 [diffAddE] times. "
+      "description": "slimeboundmod:Command X+1 times.\nGain 5 Block X+1 times."
     },
     {
       "name": "Waste Not",
@@ -4361,7 +4361,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Card. "
+      "description": "*Unknown Upgraded  Card."
     },
     {
       "name": "Defend",
@@ -4393,7 +4393,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage.\nsneckomod:Muddle the [diffAddS] 2 [diffAddE] highest-cost [diffAddS] cards [diffAddE] in your hand. "
+      "description": "Deal 11 damage.\nsneckomod:Muddle the 2 highest-cost cards in your hand."
     },
     {
       "name": "Strike",
@@ -4553,7 +4553,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. "
+      "description": "*Unknown Upgraded  Character Card."
     },
     {
       "name": "???+",
@@ -4561,7 +4561,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. "
+      "description": "*Unknown Upgraded  Character Card."
     },
     {
       "name": "???+",
@@ -4569,7 +4569,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. "
+      "description": "*Unknown Upgraded  Character Card."
     },
     {
       "name": "???+",
@@ -4577,7 +4577,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Common Attack Card. "
+      "description": "*Unknown Upgraded  Common Attack Card."
     },
     {
       "name": "???+",
@@ -4585,7 +4585,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. "
+      "description": "*Unknown Upgraded  Character Card."
     },
     {
       "name": "???+",
@@ -4593,7 +4593,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. "
+      "description": "*Unknown Upgraded  Character Card."
     },
     {
       "name": "???+",
@@ -4601,7 +4601,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Block Card. "
+      "description": "*Unknown Upgraded  Block Card."
     },
     {
       "name": "???+",
@@ -4609,7 +4609,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. "
+      "description": "*Unknown Upgraded  Character Card."
     },
     {
       "name": "???+",
@@ -4617,7 +4617,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. "
+      "description": "*Unknown Upgraded  Character Card."
     },
     {
       "name": "???+",
@@ -4625,7 +4625,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. "
+      "description": "*Unknown Upgraded  Character Card."
     },
     {
       "name": "???+",
@@ -4633,7 +4633,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Common Skill Card. "
+      "description": "*Unknown Upgraded  Common Skill Card."
     },
     {
       "name": "???+",
@@ -4641,7 +4641,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] 1 Cost Card. "
+      "description": "*Unknown Upgraded  1 Cost Card."
     },
     {
       "name": "???+",
@@ -4649,7 +4649,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Draw Card. "
+      "description": "*Unknown Upgraded  Draw Card."
     },
     {
       "name": "???+",
@@ -4657,7 +4657,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. "
+      "description": "*Unknown Upgraded  Character Card."
     },
     {
       "name": "???+",
@@ -4665,7 +4665,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. "
+      "description": "*Unknown Upgraded  Character Card."
     },
     {
       "name": "Dice Block",
@@ -4729,7 +4729,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof.\nExhaust a card in your hand.\nReplace it with a random card of the same type that costs 1 less. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "sneckomod:Snekproof.\nExhaust a card in your hand.\nReplace it with a random card of the same type that costs 1 less."
     },
     {
       "name": "Quick Move",
@@ -4745,7 +4745,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 10 Block.\nsneckomod:Muddle the [diffAddS] 2 [diffAddE] highest-cost [diffAddS] cards [diffAddE] in your hand. "
+      "description": "Gain 10 Block.\nsneckomod:Muddle the 2 highest-cost cards in your hand."
     },
     {
       "name": "Rain of Dice",
@@ -4793,7 +4793,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "sneckomod:Snekproof.\nDraw [diffAddS] 1 [diffAddE] - 5 cards. "
+      "description": "sneckomod:Snekproof.\nDraw 1 - 5 cards."
     },
     {
       "name": "Soul Roll",
@@ -4809,7 +4809,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof.\nsneckomod:Muddle your hand. [diffAddS]\nDraw 1 card. [diffAddE] "
+      "description": "sneckomod:Snekproof.\nsneckomod:Muddle your hand.\nDraw 1 card."
     },
     {
       "name": "Wide Sting",
@@ -4937,7 +4937,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Weak Card. "
+      "description": "*Unknown Upgraded  Weak Card."
     },
     {
       "name": "???+",
@@ -4945,7 +4945,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Uncommon Attack Card. "
+      "description": "*Unknown Upgraded  Uncommon Attack Card."
     },
     {
       "name": "???+",
@@ -4953,7 +4953,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Uncommon Skill Card. "
+      "description": "*Unknown Upgraded  Uncommon Skill Card."
     },
     {
       "name": "???+",
@@ -4961,7 +4961,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Colorless Card. "
+      "description": "*Unknown Upgraded  Colorless Card."
     },
     {
       "name": "???+",
@@ -4969,7 +4969,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Uncommon Power Card. "
+      "description": "*Unknown Upgraded  Uncommon Power Card."
     },
     {
       "name": "???+",
@@ -4977,7 +4977,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] X Cost Card. "
+      "description": "*Unknown Upgraded  X Cost Card."
     },
     {
       "name": "???+",
@@ -4985,7 +4985,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] 2 Cost Card. "
+      "description": "*Unknown Upgraded  2 Cost Card."
     },
     {
       "name": "???+",
@@ -4993,7 +4993,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Strength Card. "
+      "description": "*Unknown Upgraded  Strength Card."
     },
     {
       "name": "???+",
@@ -5001,7 +5001,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] 0 Cost Card. "
+      "description": "*Unknown Upgraded  0 Cost Card."
     },
     {
       "name": "???+",
@@ -5009,7 +5009,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Strike Card. "
+      "description": "*Unknown Upgraded  Strike Card."
     },
     {
       "name": "???+",
@@ -5017,7 +5017,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Dexterity Card. "
+      "description": "*Unknown Upgraded  Dexterity Card."
     },
     {
       "name": "???+",
@@ -5025,7 +5025,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Vulnerable Card. "
+      "description": "*Unknown Upgraded  Vulnerable Card."
     },
     {
       "name": "???+",
@@ -5033,7 +5033,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Exhaust Card. "
+      "description": "*Unknown Upgraded  Exhaust Card."
     },
     {
       "name": "Cheap Stock",
@@ -5049,7 +5049,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "2",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the start of your turn, reduce the cost of the highest cost sneckomod:Offclass card in your hand by 1. "
+      "description": "Innate.\nAt the start of your turn, reduce the cost of the highest cost sneckomod:Offclass card in your hand by 1."
     },
     {
       "name": "Defensive Flair",
@@ -5129,7 +5129,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Become Confused.\nDraw 2 additional [diffAddS] cards [diffAddE] each turn. "
+      "description": "Become Confused.\nDraw 2 additional cards each turn."
     },
     {
       "name": "Memorize",
@@ -5145,7 +5145,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof. Fleeting. [diffAddS] Retain. [diffAddE]\nChoose a card in hand which started *Unknown.\nPermanently add it to your deck, removing its *Unknown. "
+      "description": "sneckomod:Snekproof. Fleeting. Retain.\nChoose a card in hand which started *Unknown.\nPermanently add it to your deck, removing its *Unknown."
     },
     {
       "name": "Mix It Up!",
@@ -5209,7 +5209,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof.\nExhaust all sneckomod:Offclass cards in your hand, replacing them with new [diffAddS] ones that cost 1 less. [diffAddE] "
+      "description": "sneckomod:Snekproof.\nExhaust all sneckomod:Offclass cards in your hand, replacing them with new ones that cost 1 less."
     },
     {
       "name": "Slither Strike",
@@ -5257,7 +5257,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal damage to ALL enemies equal to the number of Unknown cards in your deck. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "Deal damage to ALL enemies equal to the number of Unknown cards in your deck."
     },
     {
       "name": "Soul Cleanse",
@@ -5273,7 +5273,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof.\nsneckomod:Muddle your hand. Cards sneckomod:Muddled this way cannot cost 3. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "sneckomod:Snekproof.\nsneckomod:Muddle your hand. Cards sneckomod:Muddled this way cannot cost 3."
     },
     {
       "name": "Trash to Treasure",
@@ -5289,7 +5289,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof.\nExhaust a card.\nGain [E] equal to its cost. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "sneckomod:Snekproof.\nExhaust a card.\nGain [E] equal to its cost."
     },
     {
       "name": "Unending Supply",
@@ -5353,7 +5353,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Rare Attack Card. "
+      "description": "*Unknown Upgraded  Rare Attack Card."
     },
     {
       "name": "???+",
@@ -5361,7 +5361,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] 3 Cost Card. "
+      "description": "*Unknown Upgraded  3 Cost Card."
     },
     {
       "name": "???+",
@@ -5369,7 +5369,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Boss card. "
+      "description": "*Unknown Upgraded  Boss card."
     },
     {
       "name": "???+",
@@ -5377,7 +5377,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Rare Skill Card. "
+      "description": "*Unknown Upgraded  Rare Skill Card."
     },
     {
       "name": "???+",
@@ -5385,7 +5385,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Rare Power Card. "
+      "description": "*Unknown Upgraded  Rare Power Card."
     },
     {
       "name": "Cheat",
@@ -5401,7 +5401,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof.\nThis turn, cards that choose a random number for their effect choose the maximum possible number. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "sneckomod:Snekproof.\nThis turn, cards that choose a random number for their effect choose the maximum possible number."
     },
     {
       "name": "Danger Noodle",
@@ -5481,7 +5481,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": " [diffAddS] Innate.\n[diffAddE] Whenever you sneckomod:Muddle a card, gain 1 Block next turn. "
+      "description": "Innate.\nWhenever you sneckomod:Muddle a card, gain 1 Block next turn."
     },
     {
       "name": "Restock",
@@ -5513,7 +5513,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof.\nDraw [diffAddS] 2 cards, [diffAddE] then Exhaust 1 card.\nExhaust your hand, replacing them with random cards of the Exhausted card's class. "
+      "description": "sneckomod:Snekproof.\nDraw 2 cards, then Exhaust 1 card.\nExhaust your hand, replacing them with random cards of the Exhausted card's class."
     },
     {
       "name": "Transmogrify",
@@ -5545,7 +5545,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the start of your turn, add a *Soul *Roll to your hand. It gains Ethereal and Exhaust. "
+      "description": "Innate.\nAt the start of your turn, add a *Soul *Roll to your hand. It gains Ethereal and Exhaust."
     },
     {
       "name": "Defend",
@@ -5705,7 +5705,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain [diffAddS] 4 champ:Counter.\nGain [diffAddE] 6 Block.\n*Defensive champ:Combo: Gain Block equal to your champ:Counter. "
+      "description": "Gain 4 champ:Counter.\nGain 6 Block.\n*Defensive champ:Combo: Gain Block equal to your champ:Counter."
     },
     {
       "name": "Crownarang",
@@ -5769,7 +5769,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage to ALL enemies.\n*Berserker champ:Combo: Deals damage [diffAddS] three times. [diffAddE]\nEnter champ:Berserker. "
+      "description": "Deal 5 damage to ALL enemies.\n*Berserker champ:Combo: Deals damage three times.\nEnter champ:Berserker."
     },
     {
       "name": "Flash Strike",
@@ -5881,7 +5881,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\n*Berserker champ:Combo: Remove the enemy's Block [diffAddS] and Artifact [diffAddE] before dealing damage. "
+      "description": "Deal 10 damage.\n*Berserker champ:Combo: Remove the enemy's Block and Artifact before dealing damage."
     },
     {
       "name": "Stance Dance",
@@ -5897,7 +5897,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Choose a Stance to Enter.\n[diffAddS] Add [diffAddE] a champ:Combo of that Stance into your hand. "
+      "description": "Choose a Stance to Enter.\nAdd a champ:Combo of that Stance into your hand."
     },
     {
       "name": "Tornado Punch",
@@ -5961,7 +5961,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] Enter champ:Berserker.\nchamp:Berserker champ:Techniques grant 2 more champ:Fatigue. "
+      "description": "Innate.\nEnter champ:Berserker.\nchamp:Berserker champ:Techniques grant 2 more champ:Fatigue."
     },
     {
       "name": "Crooked Strike",
@@ -6009,7 +6009,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] Enter champ:Defensive.\nchamp:Defensive *Techniques grant 2 more champ:Counter. "
+      "description": "Innate.\nEnter champ:Defensive.\nchamp:Defensive *Techniques grant 2 more champ:Counter."
     },
     {
       "name": "Duel",
@@ -6089,7 +6089,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 [diffAddS] damage 2 times. [diffAddE]\nchamp:Fatigue 5.\n*Berserker champ:Combo: This card hits an additional time this combat. "
+      "description": "Deal 5 damage 2 times.\nchamp:Fatigue 5.\n*Berserker champ:Combo: This card hits an additional time this combat."
     },
     {
       "name": "Face Slap",
@@ -6137,7 +6137,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Requires *Defensive or *Berserker.\nEnter the Stance you aren't in.\nDraw 2 [diffAddS] cards. [diffAddE] "
+      "description": "Requires *Defensive or *Berserker.\nEnter the Stance you aren't in.\nDraw 2 cards."
     },
     {
       "name": "Finish Him",
@@ -6329,7 +6329,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "*Berserker champ:Combo: Gain [E] [E] [diffAddS] [E] [diffAddE] , then Exhaust this.\n*Defensive champ:Combo: Draw 4 cards. "
+      "description": "*Berserker champ:Combo: Gain [E] [E] [E] , then Exhaust this.\n*Defensive champ:Combo: Draw 4 cards."
     },
     {
       "name": "Rising Strike",
@@ -6361,7 +6361,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": " [diffAddS] Gain 6 champ:Counter.\n[diffAddE] *Defensive champ:Combo: Gain 6 champ:Counter for each Attack in your hand.\nEnter champ:Defensive. "
+      "description": "Gain 6 champ:Counter.\n*Defensive champ:Combo: Gain 6 champ:Counter for each Attack in your hand.\nEnter champ:Defensive."
     },
     {
       "name": "Shield Wall",
@@ -6473,7 +6473,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "The third time you enter a Stance each turn, gain [E] [diffAddS] [E] [diffAddE] and draw 2 cards. "
+      "description": "The third time you enter a Stance each turn, gain [E] [E] and draw 2 cards."
     },
     {
       "name": "Devastate",
@@ -6697,7 +6697,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "At the start of your turn, add a random [diffAddS] Upgraded [diffAddE] card containing \"Strike\" [diffAddS] to [diffAddE] your hand.\nIt costs 0 until played and gains Exhaust. "
+      "description": "At the start of your turn, add a random Upgraded card containing \"Strike\" to your hand.\nIt costs 0 until played and gains Exhaust."
     },
     {
       "name": "Sword Throw",
@@ -6905,7 +6905,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Place the top 2 cards of your draw pile into guardianmod:Stasis.\n[ guardianmod:Socket ] [diffAddS]\n[ guardianmod:Socket ] [diffAddE] "
+      "description": "Place the top 2 cards of your draw pile into guardianmod:Stasis.\n[ guardianmod:Socket ]\n[ guardianmod:Socket ]"
     },
     {
       "name": "Priming Shot",
@@ -7009,7 +7009,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": " [diffAddS] Draw a card.\n[diffAddE] Place a card in your hand into guardianmod:Stasis.\n[ guardianmod:Socket ] "
+      "description": "Draw a card.\nPlace a card in your hand into guardianmod:Stasis.\n[ guardianmod:Socket ]"
     },
     {
       "name": "Temporal Shield",
@@ -7113,7 +7113,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 1 Strength and 1 Artifact.\nAdd a random Attack card to your hand. [diffAddS] It costs 1 less this combat. [diffAddE]\nExhaust. "
+      "description": "Gain 1 Strength and 1 Artifact.\nAdd a random Attack card to your hand. It costs 1 less this combat.\nExhaust."
     },
     {
       "name": "Ancient Power",
@@ -7129,7 +7129,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 1 Dexterity and 1 Artifact.\nAdd a random Power card to your hand. [diffAddS] It costs 1 less this combat. [diffAddE]\nExhaust. "
+      "description": "Gain 1 Dexterity and 1 Artifact.\nAdd a random Power card to your hand. It costs 1 less this combat.\nExhaust."
     },
     {
       "name": "Armored Protocol",
@@ -7209,7 +7209,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose a card. Place a copy of that card into guardianmod:Stasis.\n[diffAddS] guardianmod:Accelerate.\n[diffAddE] Exhaust. "
+      "description": "Choose a card. Place a copy of that card into guardianmod:Stasis.\nguardianmod:Accelerate.\nExhaust."
     },
     {
       "name": "Emergency",
@@ -7225,7 +7225,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "guardianmod:Accelerate until a card in guardianmod:Stasis returns to your hand. [diffRmvS]\nExhaust. [diffRmvE] "
+      "description": "guardianmod:Accelerate until a card in guardianmod:Stasis returns to your hand."
     },
     {
       "name": "Evasive Protocol",
@@ -7281,7 +7281,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the end of your turn, place up to 1 card in your hand in guardianmod:Stasis. "
+      "description": "Innate.\nAt the end of your turn, place up to 1 card in your hand in guardianmod:Stasis."
     },
     {
       "name": "Garnet",
@@ -7369,7 +7369,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "2",
-      "description": "Gain 2 Strength.\nguardianmod:Tick - Gain 1 Strength. [diffRmvS]\nguardianmod:Volatile. [diffRmvE] "
+      "description": "Gain 2 Strength.\nguardianmod:Tick - Gain 1 Strength."
     },
     {
       "name": "Poly Beam",
@@ -7497,7 +7497,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 7 damage.\nPlace a *Sentry [diffAddS] *Wave+ [diffAddE] into guardianmod:Stasis.\nExhaust. "
+      "description": "Deal 7 damage.\nPlace a *Sentry *Wave+ into guardianmod:Stasis.\nExhaust."
     },
     {
       "name": "Shield Spikes",
@@ -7577,7 +7577,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": " [diffAddS] Gain 1 Artifact.\n[diffAddE] At the start of your turn, if you have no Artifact, gain 1 Artifact. "
+      "description": "Gain 1 Artifact.\nAt the start of your turn, if you have no Artifact, gain 1 Artifact."
     },
     {
       "name": "Bauble Burst",
@@ -7617,7 +7617,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Choose one of three guardianmod:Packages to add to your hand. [diffAddS] The cards the guardianmod:Package adds will all be Upgraded. [diffAddE]\nExhaust. "
+      "description": "Choose one of three guardianmod:Packages to add to your hand. The cards the guardianmod:Package adds will all be Upgraded.\nExhaust."
     },
     {
       "name": "Construction Form",
@@ -7633,7 +7633,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": " [diffRmvS] Ethereal.\n[diffRmvE] Gain 2 guardianmod:Buffer.\nAt the start of each turn, if you have guardianmod:Buffer, gain 1 Strength. "
+      "description": "Gain 2 guardianmod:Buffer.\nAt the start of each turn, if you have guardianmod:Buffer, gain 1 Strength."
     },
     {
       "name": "Exploit Gems",
@@ -7649,7 +7649,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Draw a card.\n[ guardianmod:Socket ]\n[ guardianmod:Socket ] [diffAddS]\n[ guardianmod:Socket ] [diffAddE] "
+      "description": "Draw a card.\n[ guardianmod:Socket ]\n[ guardianmod:Socket ]\n[ guardianmod:Socket ]"
     },
     {
       "name": "Fierce Bash",
@@ -7681,7 +7681,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "0",
-      "description": " [diffAddS] Retain.\n[diffAddE] Exhaust all guardianmod:Gems and all Socketed cards. Deal 10 damage to a random enemy for each guardianmod:Gem in those cards.\nExhaust. "
+      "description": "Retain.\nExhaust all guardianmod:Gems and all Socketed cards. Deal 10 damage to a random enemy for each guardianmod:Gem in those cards.\nExhaust."
     },
     {
       "name": "Gem Finder",
@@ -7769,7 +7769,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": " [diffAddS] Retain.\n[diffAddE] guardianmod:Accelerate 3 times. "
+      "description": "Retain.\nguardianmod:Accelerate 3 times."
     },
     {
       "name": "Spheric Shield",
@@ -7801,7 +7801,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": " [diffAddS] Innate.\n[diffAddE] When you play the 3rd 0-cost card in a single turn, gain [E] and draw a card. "
+      "description": "Innate.\nWhen you play the 3rd 0-cost card in a single turn, gain [E] and draw a card."
     },
     {
       "name": "Stasis Field",
@@ -7849,7 +7849,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the start of your turn, guardianmod:Accelerate. "
+      "description": "Innate.\nAt the start of your turn, guardianmod:Accelerate."
     }
   ],
   "relics": [

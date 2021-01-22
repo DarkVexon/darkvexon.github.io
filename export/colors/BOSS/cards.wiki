@@ -17,7 +17,7 @@
 |[[Ethereal]].
 [[expansioncontent:Boss]] - Ancients.
 Gain 14(18) [[Block]].
-Next turn, add a *Donu *Blast ([diffAddS] *Blast+ [diffAddE]) with [[Ethereal]] into your hand.
+Next turn, add a *Donu *Blast (*Blast+) with [[Ethereal]] into your hand.
 [[Exhaust]].
 |-
 |[[Automa-Beam]]
@@ -45,8 +45,8 @@ When you would die, heal 20(30) HP instead.
 |[[Power]]
 |2
 |[[expansioncontent:Boss]] - Time Eater.
-Gain 1 ([diffAddS]) [[Strength]] (.
-Gain 1 [diffAddE] [[Strength]]) for every 12th card you play.
+Gain 1 [[Strength]] (.
+Gain 1 [[Strength]]) for every 12th card you play.
 |-
 |[[Donu Blast]]
 |[[File:|thumb|289x289px]]
@@ -55,7 +55,7 @@ Gain 1 [diffAddE] [[Strength]]) for every 12th card you play.
 |2
 |[[expansioncontent:Boss]] - Ancients.
 Deal 9(12) damage twice.
-Next turn, add a *Deca *Shield ([diffAddS] *Shield+ [diffAddE]) into your hand.
+Next turn, add a *Deca *Shield (*Shield+) into your hand.
 [[Exhaust]].
 |-
 |[[Guardian Whirl]]
@@ -93,7 +93,7 @@ If you already had [[expansioncontent:Invincible]], it lasts another turn instea
 |[[expansioncontent:Boss]] - Champ.
 Remove all Debuffs.
 Gain 1 [[Strength]].
-If you are below half HP, Gain ([diffAddS] Heal 10 and gain [diffAddE]) 2 [[Strength]].
+If you are below half HP, Gain (Heal 10 and gain) 2 [[Strength]].
 |-
 |[[Prepare Crush]]
 |[[File:|thumb|289x289px]]
@@ -120,7 +120,7 @@ Apply 3(5) [[Weak]] and [[Vulnerable]] to ALL enemies.
 |Rare
 |[[Skill]]
 |1
-|Choose 1 of 3 ([diffAddS] [[Upgraded]] [diffAddE]) [[expansioncontent:Boss]] cards.
+|Choose 1 of 3 ([[Upgraded]]) [[expansioncontent:Boss]] cards.
 Add it into your hand.
 It costs 0 until played.
 [[Exhaust]].
@@ -130,7 +130,7 @@ It costs 0 until played.
 |Rare
 |[[Power]]
 |3
-|Add a random ([diffAddS] [[Upgraded]] [diffAddE]) [[expansioncontent:Boss]] card to your hand at the start of your next 3 turns. They cost 0 until played.
+|Add a random ([[Upgraded]]) [[expansioncontent:Boss]] card to your hand at the start of your next 3 turns. They cost 0 until played.
 |-
 |[[The Evil Within]]
 |[[File:|thumb|289x289px]]
@@ -139,6 +139,6 @@ It costs 0 until played.
 |2
 |Deal 10(12) damage.
 Gain 10(12) [[Block]].
-Add a random ([diffAddS] [[Upgraded]] [diffAddE]) [[expansioncontent:Boss]] card to your hand. It costs 0 until played.
+Add a random ([[Upgraded]]) [[expansioncontent:Boss]] card to your hand. It costs 0 until played.
 [[Exhaust]].
 |-

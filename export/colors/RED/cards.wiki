@@ -45,7 +45,7 @@ Add a copy of this card into your discard pile.
 |[[Skill]]
 |1
 |Gain 5 [[Block]].
-[[Upgrade]] a ([diffAddS] all) card(s) ([diffAddE]) in your hand for the rest of combat.
+[[Upgrade]] a (all) card(s) in your hand for the rest of combat.
 |-
 |[[Body Slam]]
 |[[File:|thumb|289x289px]]
@@ -130,7 +130,7 @@ Deals 2(3) additional damage for ALL your cards containing "Strike".
 |[[Attack]]
 |1
 |Deal 9(10) damage.
-Draw 1(2) ([diffAddS]) card(s). ([diffAddE])
+Draw 1(2) card(s).
 |-
 |[[Shrug It Off]]
 |[[File:|thumb|289x289px]]
@@ -160,7 +160,7 @@ Draw 1 card.
 |[[Skill]]
 |1
 |Gain 7(9) [[Block]].
-[[Exhaust]] 1 ([diffAddS]) card at random (not at random). ([diffAddE])
+[[Exhaust]] 1 card at random (not at random).
 |-
 |[[Twin Strike]]
 |[[File:|thumb|289x289px]]
@@ -174,7 +174,7 @@ Draw 1 card.
 |Common
 |[[Skill]]
 |0
-|Draw 1(2) ([diffAddS]) card(s). ([diffAddE])
+|Draw 1(2) card(s).
 Put a card from your hand onto the top of your draw pile.
 [[Exhaust]].
 |-
@@ -209,7 +209,7 @@ Deal 18(22) damage.
 |[[Skill]]
 |0
 |Lose 3 HP.
-Gain 2 (1) [[Energy]] ([diffAddS] 1 [[Energy]] [diffAddE] 1 [[Energy]]).
+Gain 2 (3) [[Energy]].
 |-
 |[[Burning Pact]]
 |[[File:|thumb|289x289px]]
@@ -265,7 +265,7 @@ draw 1 card.
 |Uncommon
 |[[Skill]]
 |1
-|Choose an Attack or Power card. Add a copy ([diffAddS] 2 copies [diffAddE]) of that card into your hand.
+|Choose an Attack or Power card. Add a copy (2 copies) of that card into your hand.
 |-
 |[[Entrench]]
 |[[File:|thumb|289x289px]]
@@ -279,7 +279,7 @@ draw 1 card.
 |Uncommon
 |[[Power]]
 |1
-|Whenever you draw a [[Status]] card, draw 1(2) ([diffAddS]) card(s). ([diffAddE])
+|Whenever you draw a [[Status]] card, draw 1(2) card(s).
 |-
 |[[Feel No Pain]]
 |[[File:|thumb|289x289px]]
@@ -428,7 +428,7 @@ Can be [[Upgraded]] any number of times.
 |1
 |Gain 5(8) [[Block]].
 If this card is [[Exhausted]],
-gain 2 (1) [[Energy]] ([diffAddS] 1 [[Energy]] [diffAddE] 1 [[Energy]]).
+gain 2 (3) [[Energy]].
 |-
 |[[Sever Soul]]
 |[[File:|thumb|289x289px]]
@@ -496,8 +496,8 @@ At the start of your turn, gain 1 [[Energy]].
 |Rare
 |[[Power]]
 |0
-|([diffAddS] [[Innate]].
-[diffAddE]) At the start of your turn, lose 1 HP and draw 1 card.
+|([[Innate]].)
+ At the start of your turn, lose 1 HP and draw 1 card.
 |-
 |[[Corruption]]
 |[[File:|thumb|289x289px]]
@@ -519,7 +519,7 @@ Whenever you play a Skill, [[Exhaust]] it.
 |Rare
 |[[Skill]]
 |1
-|This turn, your next ([diffAddS] 1(2)) Attack(s) is (are [diffAddE]) played twice.
+|This turn, your next (1(2)) Attack(s) is (are) played twice.
 |-
 |[[Exhume]]
 |[[File:|thumb|289x289px]]
@@ -574,8 +574,9 @@ Add a *Burn into your discard pile.
 |Rare
 |[[Skill]]
 |1
-|Double your [[Strength]]. ([diffRmvS])
-[[Exhaust]]. ([diffRmvE])
+|Double your [[Strength]].
+[[Exhaust]]. (not
+Exhaust.)
 |-
 |[[Offering]]
 |[[File:|thumb|289x289px]]

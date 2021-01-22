@@ -28,7 +28,7 @@
 |Basic
 |[[Skill]]
 |1
-|Choose 1 ([diffAddS] 2 [diffAddE]) of 4 Slimes to [[slimeboundmod:Split]] into.
+|Choose 1 (2) of 4 Slimes to [[slimeboundmod:Split]] into.
 [[Exhaust]].
 |-
 |[[Strike]]
@@ -51,7 +51,7 @@
 |[[Attack]]
 |2
 |Deal 12(15) damage and !SlimeboundSelfharm! damage to yourself.
-Add a random ([diffAddS] [[Upgraded]] [diffAddE]) [[slimeboundmod:Tackle]] card to your hand. It costs 0 this turn.
+Add a random ([[Upgraded]]) [[slimeboundmod:Tackle]] card to your hand. It costs 0 this turn.
 |-
 |[[Goop Spray]]
 |[[File:|thumb|289x289px]]
@@ -67,22 +67,22 @@ Apply !SlimeboundSlimed! [[slimeboundmod:Goop]] and 1(2) [[Weak]] to ALL enemies
 |[[Skill]]
 |0
 |Apply 1 [[Vulnerable]] and !SlimeboundSlimed! [[slimeboundmod:Goop]].
-([diffAddS] Draw a card.
-[diffAddE]) [[Exhaust]].
+(Draw a card.)
+ [[Exhaust]].
 |-
 |[[It Looks Tasty]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 8(10) damage. [[slimeboundmod:Consume]] - Add a *Lick ([diffAddS] *Lick+ [diffAddE]) to your hand.
+|Deal 8(10) damage. [[slimeboundmod:Consume]] - Add a *Lick (*Lick+) to your hand.
 |-
 |[[Leech Energy]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 5 damage. [[slimeboundmod:Consume]] - Gain [E] and draw 1(2) ([diffAddS]) card(s). ([diffAddE])
+|Deal 5 damage. [[slimeboundmod:Consume]] - Gain [E] and draw 1(2) card(s).
 |-
 |[[Leeching Strike]]
 |[[File:|thumb|289x289px]]
@@ -121,7 +121,7 @@ Next turn, gain [E] [E] and draw 2 cards.
 |Common
 |[[Attack]]
 |1
-|Deal 9 damage. [[slimeboundmod:Consume]] - ([diffAddS]) [[slimeboundmod:Command]] (twice). ([diffAddE])
+|Deal 9 damage. [[slimeboundmod:Consume]] - [[slimeboundmod:Command]] (twice).
 |-
 |[[Roll Through]]
 |[[File:|thumb|289x289px]]
@@ -138,8 +138,8 @@ You do not take damage from the next 2(3) [[slimeboundmod:Tackle]] cards.
 |0
 |Apply !SlimeboundSlimed! [[slimeboundmod:Goop]].
 Gain 4 [[Block]].
-([diffAddS] Draw a card.
-[diffAddE]) [[Exhaust]].
+(Draw a card.)
+ [[Exhaust]].
 |-
 |[[Schlurp]]
 |[[File:|thumb|289x289px]]
@@ -206,7 +206,7 @@ Draw 2(3) cards.
 |[[Attack]]
 |1
 |Deal 8(10) damage.
-Reduce the cost of a random [[slimeboundmod:Tackle]] card in your hand to 0 this turn ([diffAddS] combat). ([diffAddE])
+Reduce the cost of a random [[slimeboundmod:Tackle]] card in your hand to 0 this turn (combat).
 |-
 |[[Disrupting Slam]]
 |[[File:|thumb|289x289px]]
@@ -220,7 +220,7 @@ Reduce the cost of a random [[slimeboundmod:Tackle]] card in your hand to 0 this
 |Uncommon
 |[[Skill]]
 |0
-|Draw a card, then [[Exhaust]] a card in your hand. Add a number of *Licks to your hand equal to it's ([diffAddS]) cost (plus 1). ([diffAddE])
+|Draw a card, then [[Exhaust]] a card in your hand. Add a number of *Licks to your hand equal to it's cost (plus 1).
 [[Exhaust]].
 |-
 |[[Divide & Conquer]]
@@ -239,8 +239,8 @@ Reduce the cost of a random [[slimeboundmod:Tackle]] card in your hand to 0 this
 |0
 |Apply !SlimeboundSlimed! [[slimeboundmod:Goop]].
 Add a *Lick to your hand.
-([diffAddS] Draw a card.
-[diffAddE]) [[Exhaust]].
+(Draw a card.)
+ [[Exhaust]].
 |-
 |[[Equalize]]
 |[[File:|thumb|289x289px]]
@@ -266,15 +266,15 @@ Heal 4(6) HP.
 |[[Attack]]
 |2
 |Deal 15(17) damage and !SlimeboundSelfharm! damage to yourself.
-[[slimeboundmod:Command]] twice ([diffAddS] three times). ([diffAddE])
+[[slimeboundmod:Command]] twice (three times).
 |-
 |[[Gluttony]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
 |1
-|([diffAddS] [[Innate]].
-[diffAddE]) The first time you [[slimeboundmod:Consume]] each turn, add a *Lick to your hand.
+|([[Innate]].)
+ The first time you [[slimeboundmod:Consume]] each turn, add a *Lick to your hand.
 |-
 |[[Goop Armor]]
 |[[File:|thumb|289x289px]]
@@ -312,7 +312,7 @@ Return a random 0-cost [[Exhausted]] card to your hand.
 |Uncommon
 |[[Power]]
 |1
-|The first ([diffAddS] 1(2)) card(s) ([diffAddE]) you play each turn that targets enemies also [[slimeboundmod:Commands]].
+|The first (1(2)) card(s) you play each turn that targets enemies also [[slimeboundmod:Commands]].
 |-
 |[[Level Up]]
 |[[File:|thumb|289x289px]]
@@ -327,8 +327,8 @@ Return a random 0-cost [[Exhausted]] card to your hand.
 |[[Skill]]
 |0
 |Apply 1 [[Weak]] and !SlimeboundSlimed! [[slimeboundmod:Goop]] to ALL enemies.
-([diffAddS] Draw a card.
-[diffAddE]) [[Exhaust]].
+(Draw a card.)
+ [[Exhaust]].
 |-
 |[[Nibble]]
 |[[File:|thumb|289x289px]]
@@ -336,7 +336,7 @@ Return a random 0-cost [[Exhausted]] card to your hand.
 |[[Attack]]
 |0
 |Deal 4(6) damage.
-Add a random ([diffAddS] [[Upgraded]] [diffAddE]) 0-cost card to your hand.
+Add a random ([[Upgraded]]) 0-cost card to your hand.
 [[Exhaust]].
 |-
 |[[Pile On!]]
@@ -344,7 +344,7 @@ Add a random ([diffAddS] [[Upgraded]] [diffAddE]) 0-cost card to your hand.
 |Uncommon
 |[[Attack]]
 |2
-|Deal 8 damage. [[slimeboundmod:Command]] ALL ([diffAddS]) slimes (twice). ([diffAddE])
+|Deal 8 damage. [[slimeboundmod:Command]] ALL slimes (twice).
 |-
 |[[Protect the Boss]]
 |[[File:|thumb|289x289px]]
@@ -381,7 +381,7 @@ Return a random 0-cost [[Exhausted]] card to your hand.
 |[[Skill]]
 |1
 |Choose a card in your hand.
-Put ([diffAddS] Add [diffAddE]) a copy of that card on top of ([diffAddS] it into [diffAddE]) your draw pile ([diffAddS] hand). ([diffAddE])
+Put (Add) a copy of that card on top of (it into) your draw pile (hand).
 [[Exhaust]].
 |-
 |[[Repurpose]]
@@ -390,8 +390,8 @@ Put ([diffAddS] Add [diffAddE]) a copy of that card on top of ([diffAddS] it int
 |[[Skill]]
 |0
 |[[slimeboundmod:Absorb]] - Split into a random [[slimeboundmod:Specialist]] Slime.
-([diffAddS] [[slimeboundmod:Command]].
-[diffAddE]) [[Exhaust]].
+([[slimeboundmod:Command]].)
+ [[Exhaust]].
 |-
 |[[Serve & Protect]]
 |[[File:|thumb|289x289px]]
@@ -432,8 +432,8 @@ Put ([diffAddS] Add [diffAddE]) a copy of that card on top of ([diffAddS] it int
 |[[Skill]]
 |1
 |Choose 1 of 3 [[slimeboundmod:Specialist]] Slimes to [[slimeboundmod:Split]] into.
-([diffAddS] [[slimeboundmod:Command]].
-[diffAddE]) [[Exhaust]].
+([[slimeboundmod:Command]].)
+ [[Exhaust]].
 |-
 |[[Spreading Slime]]
 |[[File:|thumb|289x289px]]
@@ -486,8 +486,8 @@ The next Attack used on this enemy does not remove [[slimeboundmod:Goop]].
 |[[Power]]
 |3
 |Lose 15 HP and 15 Max HP this combat.
-([diffAddS] Gain [E] each turn.
-[diffAddE]) The first card you play each turn that targets enemies is played twice.
+(Gain [E] each turn.)
+ The first card you play each turn that targets enemies is played twice.
 |-
 |[[Leech Life]]
 |[[File:|thumb|289x289px]]
@@ -522,7 +522,7 @@ If [[Fatal]], raise your Max HP by 3(4).
 |[[Skill]]
 |1
 |[[slimeboundmod:Absorb]] ALL Slimes.
-Split into a random [[slimeboundmod:Specialist]] Slime for each ([diffAddS]) [[slimeboundmod:Absorbed]] (, then [[slimeboundmod:Command]] them all). ([diffAddE])
+Split into a random [[slimeboundmod:Specialist]] Slime for each [[slimeboundmod:Absorbed]] (, then [[slimeboundmod:Command]] them all).
 [[Exhaust]].
 |-
 |[[Minion Master]]
@@ -530,8 +530,8 @@ Split into a random [[slimeboundmod:Specialist]] Slime for each ([diffAddS]) [[s
 |Rare
 |[[Power]]
 |2
-|([diffAddS] [[Innate]].
-[diffAddE]) Whenever you play a card that triggers [[slimeboundmod:Command]], [[slimeboundmod:Command]] again.
+|([[Innate]].)
+ Whenever you play a card that triggers [[slimeboundmod:Command]], [[slimeboundmod:Command]] again.
 |-
 |[[One-Two Combo]]
 |[[File:|thumb|289x289px]]
@@ -539,8 +539,8 @@ Split into a random [[slimeboundmod:Specialist]] Slime for each ([diffAddS]) [[s
 |[[Attack]]
 |0
 |Deal 3 damage.
-([diffAddS] [[slimeboundmod:Command]].
-[diffAddE]) When you [[slimeboundmod:Split]], return this from the discard pile to your hand.
+([[slimeboundmod:Command]].)
+ When you [[slimeboundmod:Split]], return this from the discard pile to your hand.
 |-
 |[[Ooze Bath]]
 |[[File:|thumb|289x289px]]
@@ -556,8 +556,8 @@ Split into a random [[slimeboundmod:Specialist]] Slime for each ([diffAddS]) [[s
 |[[Power]]
 |1
 |Gain 4 [[slimeboundmod:Potency]].
-([diffAddS] [[slimeboundmod:Command]] twice.
-[diffAddE]) 2 turns from now, [[slimeboundmod:Absorb]] all Slimes.
+([[slimeboundmod:Command]] twice.)
+ 2 turns from now, [[slimeboundmod:Absorb]] all Slimes.
 |-
 |[[Prepare: Crush]]
 |[[File:|thumb|289x289px]]
@@ -579,15 +579,15 @@ The next 2(3) cards played this turn trigger a [[slimeboundmod:Command]].
 |Rare
 |[[Power]]
 |1
-|([diffAddS] [[Innate]].
-[diffAddE]) At the start of your turn, return a random [[Exhausted]] 0-cost card to your hand.
+|([[Innate]].)
+ At the start of your turn, return a random [[Exhausted]] 0-cost card to your hand.
 |-
 |[[Reformation]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
 |1
-|When you [[slimeboundmod:Absorb]] a Slime, gain 1 ([diffAddS]) [[Strength]] (and 1 [[Dexterity]]). ([diffAddE])
+|When you [[slimeboundmod:Absorb]] a Slime, gain 1 [[Strength]] (and 1 [[Dexterity]]).
 |-
 |[[Slime Slap]]
 |[[File:|thumb|289x289px]]
@@ -603,7 +603,7 @@ The next 2(3) cards played this turn trigger a [[slimeboundmod:Command]].
 |[[Attack]]
 |2
 |Deal 12 damage.
-[[slimeboundmod:Split]] into a random ([diffAddS] [[slimeboundmod:Specialist]] [diffAddE]) Slime.
+[[slimeboundmod:Split]] into a random ([[slimeboundmod:Specialist]]) Slime.
 [[slimeboundmod:Command]] 2(3) times.
 |-
 |[[Teamwork]]
@@ -611,8 +611,8 @@ The next 2(3) cards played this turn trigger a [[slimeboundmod:Command]].
 |Rare
 |[[Skill]]
 |X
-|[[slimeboundmod:Command]] X ([diffAddS] X+1 [diffAddE]) times.
-Gain 5 [[Block]] X ([diffAddS] X+1 [diffAddE]) times.
+|[[slimeboundmod:Command]] X (X+1) times.
+Gain 5 [[Block]] X (X+1) times.
 |-
 |[[Waste Not]]
 |[[File:|thumb|289x289px]]

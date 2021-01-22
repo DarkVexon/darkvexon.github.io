@@ -87,7 +87,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 5 Block.\nUpgrade [diffAddS] all cards [diffAddE] in your hand for the rest of combat. ",
+      "description": "Gain 5 Block.\nUpgrade all cards in your hand for the rest of combat.",
       "mod": ""
     },
     {
@@ -285,7 +285,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\nDraw 2 [diffAddS] cards. [diffAddE] ",
+      "description": "Deal 10 damage.\nDraw 2 cards.",
       "mod": ""
     },
     {
@@ -357,7 +357,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 9 Block.\nExhaust 1 [diffAddS] card. [diffAddE] ",
+      "description": "Gain 9 Block.\nExhaust 1 card.",
       "mod": ""
     },
     {
@@ -393,7 +393,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Draw 2 [diffAddS] cards. [diffAddE]\nPut a card from your hand onto the top of your draw pile.\nExhaust. ",
+      "description": "Draw 2 cards.\nPut a card from your hand onto the top of your draw pile.\nExhaust.",
       "mod": ""
     },
     {
@@ -465,7 +465,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Lose 3 HP.\nGain [R] [diffAddS] [R] [diffAddE] [R]. ",
+      "description": "Lose 3 HP.\nGain [R] [R] [R].",
       "mod": ""
     },
     {
@@ -591,7 +591,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose an Attack or Power card. Add [diffAddS] 2 copies [diffAddE] of that card into your hand. ",
+      "description": "Choose an Attack or Power card. Add 2 copies of that card into your hand.",
       "mod": ""
     },
     {
@@ -627,7 +627,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Whenever you draw a Status card, draw 2 [diffAddS] cards. [diffAddE] ",
+      "description": "Whenever you draw a Status card, draw 2 cards.",
       "mod": ""
     },
     {
@@ -969,7 +969,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 8 Block.\nIf this card is Exhausted,\ngain [R] [diffAddS] [R] [diffAddE] [R]. ",
+      "description": "Gain 8 Block.\nIf this card is Exhausted,\ngain [R] [R] [R].",
       "mod": ""
     },
     {
@@ -1131,7 +1131,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "0",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the start of your turn, lose 1 HP and draw 1 card. ",
+      "description": "Innate.\nAt the start of your turn, lose 1 HP and draw 1 card.",
       "mod": ""
     },
     {
@@ -1185,7 +1185,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "This turn, your next [diffAddS] 2 Attacks are [diffAddE] played twice. ",
+      "description": "This turn, your next 2 Attacks are played twice.",
       "mod": ""
     },
     {
@@ -1311,7 +1311,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Double your Strength. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "Double your Strength.",
       "mod": ""
     },
     {
@@ -1509,7 +1509,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Block.\nAdd 2 [diffAddS] *Shivs [diffAddE] into your hand. ",
+      "description": "Gain 6 Block.\nAdd 2 *Shivs into your hand.",
       "mod": ""
     },
     {
@@ -1635,7 +1635,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Next turn,\ngain [G] [diffAddS] [G] [diffAddE] [G]. ",
+      "description": "Next turn,\ngain [G] [G] [G].",
       "mod": ""
     },
     {
@@ -1689,7 +1689,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Draw 2 [diffAddS] cards. [diffAddE]\nDiscard 2 [diffAddS] cards. [diffAddE] ",
+      "description": "Draw 2 cards.\nDiscard 2 cards.",
       "mod": ""
     },
     {
@@ -1869,7 +1869,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Discard your hand,\nthen draw that many cards. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "Discard your hand,\nthen draw that many cards.",
       "mod": ""
     },
     {
@@ -1905,7 +1905,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": " [diffAddS] Triple [diffAddE] the enemy's Poison.\nExhaust. ",
+      "description": "Triple the enemy's Poison.\nExhaust.",
       "mod": ""
     },
     {
@@ -2157,7 +2157,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the start of your turn, add a *Shiv into your hand. ",
+      "description": "Innate.\nAt the start of your turn, add a *Shiv into your hand.",
       "mod": ""
     },
     {
@@ -2319,7 +2319,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "Unplayable.\nIf this card is discarded from your hand, gain [diffAddS] [G] [diffAddE] [G]. ",
+      "description": "Unplayable.\nIf this card is discarded from your hand, gain [G] [G].",
       "mod": ""
     },
     {
@@ -2355,7 +2355,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "At the end of your turn, Retain up to 2 [diffAddS] cards. [diffAddE] ",
+      "description": "At the end of your turn, Retain up to 2 cards.",
       "mod": ""
     },
     {
@@ -2391,7 +2391,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain [diffAddS] [G] [diffAddE] [G].\nDraw 2 cards.\nExhaust. ",
+      "description": "Gain [G] [G].\nDraw 2 cards.\nExhaust.",
       "mod": ""
     },
     {
@@ -2409,7 +2409,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] Whenever you play a card, gain 1 Block. ",
+      "description": "Innate.\nWhenever you play a card, gain 1 Block.",
       "mod": ""
     },
     {
@@ -2463,7 +2463,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "This turn, your next [diffAddS] 2 Skills are [diffAddE] played twice. ",
+      "description": "This turn, your next 2 Skills are played twice.",
       "mod": ""
     },
     {
@@ -2517,7 +2517,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Next turn, draw [diffAddS] X+1 [diffAddE] cards and gain [diffAddS] X+1 [diffAddE] [G].\nExhaust. ",
+      "description": "Next turn, draw X+1 cards and gain X+1 [G].\nExhaust.",
       "mod": ""
     },
     {
@@ -2589,7 +2589,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Enemy loses [diffAddS] X+1 [diffAddE] Strength. Apply [diffAddS] X+1 [diffAddE] Weak.\nExhaust. ",
+      "description": "Enemy loses X+1 Strength. Apply X+1 Weak.\nExhaust.",
       "mod": ""
     },
     {
@@ -2643,7 +2643,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Discard your hand.\nAdd 1 [diffAddS] *Shiv+ [diffAddE] into your hand for each card discarded. ",
+      "description": "Discard your hand.\nAdd 1 *Shiv+ into your hand for each card discarded.",
       "mod": ""
     },
     {
@@ -2913,7 +2913,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Channel 1 Frost.\nDraw 2 [diffAddS] cards. [diffAddE] ",
+      "description": "Channel 1 Frost.\nDraw 2 cards.",
       "mod": ""
     },
     {
@@ -2949,7 +2949,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 5 Block.\nPut a card from your discard pile into your hand. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "Gain 5 Block.\nPut a card from your discard pile into your hand.",
       "mod": ""
     },
     {
@@ -3021,7 +3021,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain Block equal to the number of cards in your discard [diffAddS] pile +3. [diffAddE] ",
+      "description": "Gain Block equal to the number of cards in your discard pile +3.",
       "mod": ""
     },
     {
@@ -3093,7 +3093,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain [B] [diffAddS] [B] [diffAddE] [B].\nAdd a *Void into your discard pile. ",
+      "description": "Gain [B] [B] [B].\nAdd a *Void into your discard pile.",
       "mod": ""
     },
     {
@@ -3219,7 +3219,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Channel 2 random [diffAddS] Orbs. [diffAddE] ",
+      "description": "Channel 2 random Orbs.",
       "mod": ""
     },
     {
@@ -3237,7 +3237,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": " [diffAddS] Innate.\n[diffAddE] Channel 1 Frost for each enemy in combat.\nExhaust. ",
+      "description": "Innate.\nChannel 1 Frost for each enemy in combat.\nExhaust.",
       "mod": ""
     },
     {
@@ -3273,7 +3273,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Channel 1 Dark. [diffAddS]\nTrigger the passive ability of all Dark orbs. [diffAddE] ",
+      "description": "Channel 1 Dark.\nTrigger the passive ability of all Dark orbs.",
       "mod": ""
     },
     {
@@ -3453,7 +3453,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Whenever you play a Power card, draw 2 [diffAddS] cards. [diffAddE] ",
+      "description": "Whenever you play a Power card, draw 2 cards.",
       "mod": ""
     },
     {
@@ -3471,7 +3471,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the start of your turn, add a random Common card into your hand. ",
+      "description": "Innate.\nAt the start of your turn, add a random Common card into your hand.",
       "mod": ""
     },
     {
@@ -3489,7 +3489,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of your turn, trigger the passive ability of your next [diffAddS] Orb 2 times. [diffAddE] ",
+      "description": "At the start of your turn, trigger the passive ability of your next Orb 2 times.",
       "mod": ""
     },
     {
@@ -3687,7 +3687,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] Whenever you play a Power card, Channel 1 Lightning. ",
+      "description": "Innate.\nWhenever you play a Power card, Channel 1 Lightning.",
       "mod": ""
     },
     {
@@ -3723,7 +3723,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "X",
-      "description": "Channel [diffAddS] X+1 [diffAddE] Lightning.\nExhaust. ",
+      "description": "Channel X+1 Lightning.\nExhaust.",
       "mod": ""
     },
     {
@@ -3777,7 +3777,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "This turn, your next [diffAddS] 2 [diffAddE] Power [diffAddS] cards are [diffAddE] played twice. ",
+      "description": "This turn, your next 2 Power cards are played twice.",
       "mod": ""
     },
     {
@@ -3813,7 +3813,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Prevent the next [diffAddS] 2 times [diffAddE] you would lose HP. ",
+      "description": "Prevent the next 2 times you would lose HP.",
       "mod": ""
     },
     {
@@ -3867,7 +3867,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": " [diffRmvS] Ethereal.\n[diffRmvE] The first card you play each turn is played twice. ",
+      "description": "The first card you play each turn is played twice.",
       "mod": ""
     },
     {
@@ -3903,7 +3903,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": " [diffAddS] Evoke [diffAddE] all your Orbs. Gain [B] and draw 1 card for each Orb [diffAddS] Evoked. [diffAddE]\nExhaust. ",
+      "description": "Evoke all your Orbs. Gain [B] and draw 1 card for each Orb Evoked.\nExhaust.",
       "mod": ""
     },
     {
@@ -3939,7 +3939,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the start of your turn, draw 1 additional card. ",
+      "description": "Innate.\nAt the start of your turn, draw 1 additional card.",
       "mod": ""
     },
     {
@@ -3975,7 +3975,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Evoke your next Orb [diffAddS] X+1 [diffAddE] times. ",
+      "description": "Evoke your next Orb X+1 times.",
       "mod": ""
     },
     {
@@ -3993,7 +3993,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Channel 1 Lightning.\nChannel 1 Frost.\nChannel 1 Dark. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "Channel 1 Lightning.\nChannel 1 Frost.\nChannel 1 Dark.",
       "mod": ""
     },
     {
@@ -4029,7 +4029,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Put 2 [diffAddS] cards [diffAddE] from your draw pile into your hand.\nExhaust. ",
+      "description": "Put 2 cards from your draw pile into your hand.\nExhaust.",
       "mod": ""
     },
     {
@@ -4479,7 +4479,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the start of each turn, add a *Smite into your hand. ",
+      "description": "Innate.\nAt the start of each turn, add a *Smite into your hand.",
       "mod": ""
     },
     {
@@ -4515,7 +4515,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "X",
-      "description": "Put a *Miracle+ into your hand at the start of your next [diffAddS] X+1 [diffAddE] turns.\nExhaust. ",
+      "description": "Put a *Miracle+ into your hand at the start of your next X+1 turns.\nExhaust.",
       "mod": ""
     },
     {
@@ -4623,7 +4623,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Choose 1 of 3 Attacks of any color to add into your hand.\n[diffAddS] It costs 0 this turn.\n[diffAddE] Exhaust. ",
+      "description": "Choose 1 of 3 Attacks of any color to add into your hand.\nIt costs 0 this turn.\nExhaust.",
       "mod": ""
     },
     {
@@ -4713,7 +4713,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Put [diffAddS] 2 cards [diffAddE] from your discard pile into your hand and Retain [diffAddS] them. [diffAddE]\nEnter Calm.\nEnd your turn. ",
+      "description": "Put 2 cards from your discard pile into your hand and Retain them.\nEnter Calm.\nEnd your turn.",
       "mod": ""
     },
     {
@@ -5073,7 +5073,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": " [diffAddS] Retain.\n[diffAddE] Gain 5 Mantra. ",
+      "description": "Retain.\nGain 5 Mantra.",
       "mod": ""
     },
     {
@@ -5109,7 +5109,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] Shuffle a *Beta into your draw pile.\nExhaust. ",
+      "description": "Innate.\nShuffle a *Beta into your draw pile.\nExhaust.",
       "mod": ""
     },
     {
@@ -5127,7 +5127,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": " [diffAddS] Retain.\n[diffAddE] Enter Divinity.\nDie next turn.\nExhaust. ",
+      "description": "Retain.\nEnter Divinity.\nDie next turn.\nExhaust.",
       "mod": ""
     },
     {
@@ -5163,7 +5163,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Shuffle an *Expunger [diffAddS] with X+1 [diffAddE] into your draw pile.\nExhaust. ",
+      "description": "Shuffle an *Expunger with X+1 into your draw pile.\nExhaust.",
       "mod": ""
     },
     {
@@ -5199,7 +5199,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": " [diffRmvS] Ethereal.\n[diffRmvE] At the start of your turn, gain [W]\nand increase this gain by 1. ",
+      "description": "At the start of your turn, gain [W]\nand increase this gain by 1.",
       "mod": ""
     },
     {
@@ -5235,7 +5235,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] Whenever a card is Retained, reduce its cost by 1 this combat. ",
+      "description": "Innate.\nWhenever a card is Retained, reduce its cost by 1 this combat.",
       "mod": ""
     },
     {
@@ -5415,7 +5415,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "1",
-      "description": " [diffRmvS] Ethereal.\n[diffRmvE] Gain 1 Intangible.\nExhaust. ",
+      "description": "Gain 1 Intangible.\nExhaust.",
       "mod": ""
     },
     {
@@ -5433,7 +5433,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Create a Function immediately out of the cards in the Sequence. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "Create a Function immediately out of the cards in the Sequence.",
       "mod": "Downfall"
     },
     {
@@ -5559,7 +5559,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": " [diffAddS] Retain.\n[diffAddE] Return all cards in the Sequence to your hand.\nThey gain Retain.\nExhaust. ",
+      "description": "Retain.\nReturn all cards in the Sequence to your hand.\nThey gain Retain.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5631,7 +5631,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": " [diffAddS] Retain.\n[diffAddE] Exhaust all cards in the Sequence. Gain [E] and draw a card for each card Exhausted.\nExhaust. ",
+      "description": "Retain.\nExhaust all cards in the Sequence. Gain [E] and draw a card for each card Exhausted.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5865,7 +5865,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nGain [diffAddS] [W] [diffAddE] [W].\nExhaust. ",
+      "description": "Retain.\nGain [W] [W].\nExhaust.",
       "mod": ""
     },
     {
@@ -5919,7 +5919,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add an *Ancient *Attack, *Ancient *Power, and *Ancient *Construct to your [diffAddS] hand and Upgrade them. [diffAddE]\nExhaust. ",
+      "description": "Add an *Ancient *Attack, *Ancient *Power, and *Ancient *Construct to your hand and Upgrade them.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5937,7 +5937,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Hyper *Beam, *Orb *Beam, and *Bronze *Armor to your [diffAddS] hand and Upgrade them. [diffAddE]\nExhaust. ",
+      "description": "Add a *Hyper *Beam, *Orb *Beam, and *Bronze *Armor to your hand and Upgrade them.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5955,7 +5955,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Reroute, *Preprogram, and *Time *Capacitor to your [diffAddS] hand and Upgrade them. [diffAddE]\nExhaust. ",
+      "description": "Add a *Reroute, *Preprogram, and *Time *Capacitor to your hand and Upgrade them.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5973,7 +5973,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add an *Orbwalk, *Walker *Claw, and *Incinerate to your [diffAddS] hand and Upgrade them. [diffAddE]\nExhaust. ",
+      "description": "Add an *Orbwalk, *Walker *Claw, and *Incinerate to your hand and Upgrade them.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5991,7 +5991,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Sentry [diffAddS] *Blast+ [diffAddE] and two *Sentry [diffAddS] *Waves+ [diffAddE] to your hand and reduce their costs by 1 this combat.\nExhaust. ",
+      "description": "Add a *Sentry *Blast+ and two *Sentry *Waves+ to your hand and reduce their costs by 1 this combat.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -6009,7 +6009,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Time *Bomb, *Spiker *Protocol, and *Repulsor to your [diffAddS] hand and Upgrade them. [diffAddE]\nExhaust. ",
+      "description": "Add a *Time *Bomb, *Spiker *Protocol, and *Repulsor to your hand and Upgrade them.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -6135,7 +6135,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Weak.\n[diffAddS] guardianmod:Brace 2.\n[diffAddE] Place a *Sentry [diffAddS] *Blast+ [diffAddE] into guardianmod:Stasis.\nExhaust. ",
+      "description": "Apply 1 Weak.\nguardianmod:Brace 2.\nPlace a *Sentry *Blast+ into guardianmod:Stasis.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -6324,7 +6324,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 2 [diffAddS] Weak to ALL enemies. [diffAddE] ",
+      "description": "Apply 2 Weak to ALL enemies.",
       "mod": ""
     },
     {
@@ -6360,7 +6360,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Shuffle your discard pile into your draw pile.\nDraw 2 [diffAddS] cards. [diffAddE] ",
+      "description": "Shuffle your discard pile into your draw pile.\nDraw 2 cards.",
       "mod": ""
     },
     {
@@ -6378,7 +6378,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose 1 of 3 random cards to add into your hand. It costs 0 this turn. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "Choose 1 of 3 random cards to add into your hand. It costs 0 this turn.",
       "mod": ""
     },
     {
@@ -6414,7 +6414,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Reduce the cost of all cards in your hand to 1 this [diffAddS] combat. [diffAddE] ",
+      "description": "Reduce the cost of all cards in your hand to 1 this combat.",
       "mod": ""
     },
     {
@@ -6468,7 +6468,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Put [diffAddS] any number of cards [diffAddE] from your hand to the bottom of your draw pile. [diffAddS] They cost [diffAddE] 0 until played. ",
+      "description": "Put any number of cards from your hand to the bottom of your draw pile. They cost 0 until played.",
       "mod": ""
     },
     {
@@ -6522,7 +6522,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Add 2 random Colorless [diffAddS] cards [diffAddE] into your hand.\nExhaust. ",
+      "description": "Add 2 random Colorless cards into your hand.\nExhaust.",
       "mod": ""
     },
     {
@@ -6648,7 +6648,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 2 [diffAddS] Vulnerable to ALL enemies. [diffAddE] ",
+      "description": "Apply 2 Vulnerable to ALL enemies.",
       "mod": ""
     },
     {
@@ -6828,7 +6828,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Put a Skill from your draw pile into your hand. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "Put a Skill from your draw pile into your hand.",
       "mod": ""
     },
     {
@@ -6846,7 +6846,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Put an Attack from your draw pile into your hand. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "Put an Attack from your draw pile into your hand.",
       "mod": ""
     },
     {
@@ -6882,7 +6882,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Draw 2 cards.\nPut a card from your hand on top of your draw pile. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "Draw 2 cards.\nPut a card from your hand on top of your draw pile.",
       "mod": ""
     },
     {
@@ -6900,7 +6900,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Add X random [diffAddS] Upgraded [diffAddE] Colorless cards into your hand. They cost 0 this turn.\nExhaust. ",
+      "description": "Add X random Upgraded Colorless cards into your hand. They cost 0 this turn.\nExhaust.",
       "mod": ""
     },
     {
@@ -7107,7 +7107,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nexpansioncontent:Boss - Ancients.\nGain 18 Block.\nNext turn, add a *Donu [diffAddS] *Blast+ [diffAddE] with Ethereal into your hand.\nExhaust. ",
+      "description": "Ethereal.\nexpansioncontent:Boss - Ancients.\nGain 18 Block.\nNext turn, add a *Donu *Blast+ with Ethereal into your hand.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -7161,7 +7161,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "2",
-      "description": "expansioncontent:Boss - Time Eater.\nGain 1 [diffAddS] Strength.\nGain 1 [diffAddE] Strength for every 12th card you play. ",
+      "description": "expansioncontent:Boss - Time Eater.\nGain 1 Strength.\nGain 1 Strength for every 12th card you play.",
       "mod": "Downfall"
     },
     {
@@ -7179,7 +7179,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "expansioncontent:Boss - Ancients.\nDeal 12 damage twice.\nNext turn, add a *Deca [diffAddS] *Shield+ [diffAddE] into your hand.\nExhaust. ",
+      "description": "expansioncontent:Boss - Ancients.\nDeal 12 damage twice.\nNext turn, add a *Deca *Shield+ into your hand.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -7251,7 +7251,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "2",
-      "description": "expansioncontent:Boss - Champ.\nRemove all Debuffs.\nGain 1 Strength.\nIf you are below half HP, [diffAddS] Heal 10 and gain [diffAddE] 2 Strength. ",
+      "description": "expansioncontent:Boss - Champ.\nRemove all Debuffs.\nGain 1 Strength.\nIf you are below half HP, Heal 10 and gain 2 Strength.",
       "mod": "Downfall"
     },
     {
@@ -7305,7 +7305,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose 1 of 3 [diffAddS] Upgraded [diffAddE] expansioncontent:Boss cards.\nAdd it into your hand.\nIt costs 0 until played.\nExhaust. ",
+      "description": "Choose 1 of 3 Upgraded expansioncontent:Boss cards.\nAdd it into your hand.\nIt costs 0 until played.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -7323,7 +7323,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": "Add a random [diffAddS] Upgraded [diffAddE] expansioncontent:Boss card to your hand at the start of your next 3 turns. They cost 0 until played. ",
+      "description": "Add a random Upgraded expansioncontent:Boss card to your hand at the start of your next 3 turns. They cost 0 until played.",
       "mod": "Downfall"
     },
     {
@@ -7341,7 +7341,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 12 damage.\nGain 12 Block.\nAdd a random [diffAddS] Upgraded [diffAddE] expansioncontent:Boss card to your hand. It costs 0 until played.\nExhaust. ",
+      "description": "Deal 12 damage.\nGain 12 Block.\nAdd a random Upgraded expansioncontent:Boss card to your hand. It costs 0 until played.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -7377,7 +7377,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "0",
-      "description": "Ethereal.\nDraw a card.\n[diffAddS] You may choose to\nhexamod:Retract or [diffAddE] hexamod:Advance. ",
+      "description": "Ethereal.\nDraw a card.\nYou may choose to\nhexamod:Retract or hexamod:Advance.",
       "mod": "Downfall"
     },
     {
@@ -7485,7 +7485,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": " [diffRmvS] Ethereal.\n[diffRmvE] hexamod:Force-Ignite the hexamod:Active Ghostflame.\nhexamod:Advance. ",
+      "description": "hexamod:Force-Ignite the hexamod:Active Ghostflame.\nhexamod:Advance.",
       "mod": "Downfall"
     },
     {
@@ -7629,7 +7629,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nGain 18 Block.\nIf this card is Exhausted, add a *Shadow [diffAddS] *Guise+ to [diffAddE] your hand. ",
+      "description": "Ethereal.\nGain 18 Block.\nIf this card is Exhausted, add a *Shadow *Guise+ to your hand.",
       "mod": "Downfall"
     },
     {
@@ -7647,7 +7647,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Ethereal.\nDeal 20 damage.\nIf this card is Exhausted, add a *Shadow [diffAddS] *Strike+ to [diffAddE] your hand. ",
+      "description": "Ethereal.\nDeal 20 damage.\nIf this card is Exhausted, add a *Shadow *Strike+ to your hand.",
       "mod": "Downfall"
     },
     {
@@ -7845,7 +7845,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] The first time you hexamod:Retract each turn, gain [E] and draw 1 card.\nhexamod:Retract. ",
+      "description": "Innate.\nThe first time you hexamod:Retract each turn, gain [E] and draw 1 card.\nhexamod:Retract.",
       "mod": "Downfall"
     },
     {
@@ -7917,7 +7917,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] Cards and Ghostflames apply 2 more hexamod:Soulburn. ",
+      "description": "Innate.\nCards and Ghostflames apply 2 more hexamod:Soulburn.",
       "mod": "Downfall"
     },
     {
@@ -8007,7 +8007,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": " [diffRmvS] Ethereal.\n[diffRmvE] Gain 5 Block, increased by hexamod:Soulburn on ALL enemies. ",
+      "description": "Gain 5 Block, increased by hexamod:Soulburn on ALL enemies.",
       "mod": "Downfall"
     },
     {
@@ -8061,7 +8061,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !burny! hexamod:Soulburn.\nThe next time the target's hexamod:Soulburn detonates, it affects ALL enemies. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "Apply !burny! hexamod:Soulburn.\nThe next time the target's hexamod:Soulburn detonates, it affects ALL enemies.",
       "mod": "Downfall"
     },
     {
@@ -8079,7 +8079,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Put [diffAddS] 2 [diffAddE] Ethereal [diffAddS] cards [diffAddE] from your exhaust pile into your hand.\nExhaust. ",
+      "description": "Put 2 Ethereal cards from your exhaust pile into your hand.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -8133,7 +8133,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "Unplayable.\nEthereal. hexamod:Afterlife.\nGain [E] and draw 2 [diffAddS] cards [diffAddE] next turn. ",
+      "description": "Unplayable.\nEthereal. hexamod:Afterlife.\nGain [E] and draw 2 cards next turn.",
       "mod": "Downfall"
     },
     {
@@ -8169,7 +8169,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "X",
-      "description": "Deal 8 damage and apply !burny! hexamod:Soulburn to a random enemy X times.\nIf X is 3 or more, apply [diffAddS] 2 [diffAddE] Weak and Vulnerable to ALL enemies. ",
+      "description": "Deal 8 damage and apply !burny! hexamod:Soulburn to a random enemy X times.\nIf X is 3 or more, apply 2 Weak and Vulnerable to ALL enemies.",
       "mod": "Downfall"
     },
     {
@@ -8187,7 +8187,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "hexamod:Retract.\nGain [E] [diffAddS] and draw 1 card. [diffAddE] ",
+      "description": "hexamod:Retract.\nGain [E] and draw 1 card.",
       "mod": "Downfall"
     },
     {
@@ -8295,7 +8295,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Choose an Attack or Skill to Exhaust.\nAdd a random card of the opposite type into your hand. [diffAddS]\nIt costs 1 less. [diffAddE] ",
+      "description": "Choose an Attack or Skill to Exhaust.\nAdd a random card of the opposite type into your hand.\nIt costs 1 less.",
       "mod": "Downfall"
     },
     {
@@ -8313,7 +8313,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Ethereal.\nGain [E] [E] [diffAddS] [E] [diffAddE] .\nThe Inferno Ghostflame becomes hexamod:Active.\nExhaust. ",
+      "description": "Ethereal.\nGain [E] [E] [E] .\nThe Inferno Ghostflame becomes hexamod:Active.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -8331,7 +8331,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": " [diffAddS] Retain. [diffAddE]\nReplace the hexamod:Active Ghostflame with a hexamod:Crushing or hexamod:Bolstering one.\nExhaust. ",
+      "description": "Retain.\nReplace the hexamod:Active Ghostflame with a hexamod:Crushing or hexamod:Bolstering one.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -8349,7 +8349,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "0",
-      "description": "The next time you hexamod:Ignite the Inferno Ghostflame and [diffAddS] at least [diffAddE] 5 Ghostflames are hexamod:Ignited, take an extra turn. ",
+      "description": "The next time you hexamod:Ignite the Inferno Ghostflame and at least 5 Ghostflames are hexamod:Ignited, take an extra turn.",
       "mod": "Downfall"
     },
     {
@@ -8376,7 +8376,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage.\nhexamod:Force-Ignite the previous, then the [diffAddS] *Active, then the [diffAddE] next Ghostflames. ",
+      "description": "Deal 7 damage.\nhexamod:Force-Ignite the previous, then the *Active, then the next Ghostflames.",
       "mod": "Downfall"
     },
     {
@@ -8394,7 +8394,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "",
-      "description": "Unplayable.\nEthereal. hexamod:Afterlife.\nWhenever an Ethereal card is Exhausted, gain [E] [diffAddS] and draw 1 card [diffAddE] next turn. ",
+      "description": "Unplayable.\nEthereal. hexamod:Afterlife.\nWhenever an Ethereal card is Exhausted, gain [E] and draw 1 card next turn.",
       "mod": "Downfall"
     },
     {
@@ -8448,7 +8448,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Retain.\nhexamod:Ignite the [diffAddS] hexamod:Active Ghostflame.\nhexamod:Ignite the [diffAddE] Inferno Ghostflame.\nExhaust. ",
+      "description": "Retain.\nhexamod:Ignite the hexamod:Active Ghostflame.\nhexamod:Ignite the Inferno Ghostflame.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -8484,7 +8484,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "ALL enemies lose HP equal to their hexamod:Soulburn. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "ALL enemies lose HP equal to their hexamod:Soulburn.",
       "mod": "Downfall"
     },
     {
@@ -8565,7 +8565,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Gain 5 hexamod:Intensity.\nLose it in [diffAddS] X+2 [diffAddE] turns.\nExhaust. ",
+      "description": "Gain 5 hexamod:Intensity.\nLose it in X+2 turns.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -8673,7 +8673,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw 2 [diffAddS] cards. [diffAddE]\nbronze:Compile - Next turn, draw 2 [diffAddS] cards. [diffAddE] ",
+      "description": "Draw 2 cards.\nbronze:Compile - Next turn, draw 2 cards.",
       "mod": "Downfall"
     },
     {
@@ -8736,7 +8736,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": " [diffAddS] Retain.\n[diffAddE] Choose a card in the Sequence to return to your hand.\nIt gains Retain.\nExhaust. ",
+      "description": "Retain.\nChoose a card in the Sequence to return to your hand.\nIt gains Retain.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -8772,7 +8772,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Add [diffAddS] 2 *Wounds [diffAddE] to your hand.\nbronze:Cycle each Status in your hand, dealing 7 damage for each. ",
+      "description": "Add 2 *Wounds to your hand.\nbronze:Cycle each Status in your hand, dealing 7 damage for each.",
       "mod": "Downfall"
     },
     {
@@ -8898,7 +8898,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": " [diffAddS] Retain.\n[diffAddE] Increase all numbers on cards in the Sequence by 1.\nExhaust. ",
+      "description": "Retain.\nIncrease all numbers on cards in the Sequence by 1.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -9060,7 +9060,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": " [diffAddS] Retain.\n[diffAddE] Gain [E] [E] .\nbronze:Insert a *Void. ",
+      "description": "Retain.\nGain [E] [E] .\nbronze:Insert a *Void.",
       "mod": "Downfall"
     },
     {
@@ -9132,7 +9132,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain 1 bronze:Blur. [diffAddS]\nbronze:Compile - Gain 1 bronze:Blur. [diffAddE] ",
+      "description": "Gain 1 bronze:Blur.\nbronze:Compile - Gain 1 bronze:Blur.",
       "mod": "Downfall"
     },
     {
@@ -9204,7 +9204,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Retain.\n[diffAddE] Add a copy of the first card in the current Sequence to the next 2 Sequences automatically. ",
+      "description": "Retain.\nAdd a copy of the first card in the current Sequence to the next 2 Sequences automatically.",
       "mod": "Downfall"
     },
     {
@@ -9312,7 +9312,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "X",
-      "description": " [diffAddS] Retain.\n[diffAddE] The next card you bronze:Encode causes X additional copies to also be bronze:Encoded.\nExhaust. ",
+      "description": "Retain.\nThe next card you bronze:Encode causes X additional copies to also be bronze:Encoded.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -9384,7 +9384,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of each turn, add a *Minor [diffAddS] *Beam+ [diffAddE] to your hand. ",
+      "description": "At the start of each turn, add a *Minor *Beam+ to your hand.",
       "mod": "Downfall"
     },
     {
@@ -9420,7 +9420,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] Whenever you draw a Curse or Status card, gain 1 Temporary Strength and Dexterity. ",
+      "description": "Innate.\nWhenever you draw a Curse or Status card, gain 1 Temporary Strength and Dexterity.",
       "mod": "Downfall"
     },
     {
@@ -9456,7 +9456,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 10 damage.\nThe next time you bronze:Encode a card, bronze:Encode a copy of it. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "Deal 10 damage.\nThe next time you bronze:Encode a card, bronze:Encode a copy of it.",
       "mod": "Downfall"
     },
     {
@@ -9510,7 +9510,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Play a copy of each card in the Sequence. They do not Encode. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "Play a copy of each card in the Sequence. They do not Encode.",
       "mod": "Downfall"
     },
     {
@@ -9582,7 +9582,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "2",
-      "description": " [diffAddS] Innate.\n[diffAddE] When you draw the first Status or Curse card each turn, Exhaust it and draw a card. ",
+      "description": "Innate.\nWhen you draw the first Status or Curse card each turn, Exhaust it and draw a card.",
       "mod": "Downfall"
     },
     {
@@ -9600,7 +9600,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "X",
-      "description": "Gain [E] and draw 1 additional card at the start of your next X turns.\nGain [E] . [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "Gain [E] and draw 1 additional card at the start of your next X turns.\nGain [E] .",
       "mod": "Downfall"
     },
     {
@@ -9726,7 +9726,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nChoose between *Debug, *Batch, *Decompile, and *Byte *Shift. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "Retain.\nChoose between *Debug, *Batch, *Decompile, and *Byte *Shift.",
       "mod": "Downfall"
     },
     {
@@ -9744,7 +9744,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": " [diffAddS] Innate.\n\u00A0 [diffAddE] Deal 15 damage.\nbronze:Insert random Status.\nbronze:Compile - bronze:Insert *Beta *Build. ",
+      "description": "Innate.\n\u00A0 Deal 15 damage.\nbronze:Insert random Status.\nbronze:Compile - bronze:Insert *Beta *Build.",
       "mod": "Downfall"
     },
     {
@@ -9762,7 +9762,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": " [diffAddS] Retain. [diffAddE]\nPut a card from your draw or discard pile into your hand.\nAdd a Dazed where it was.\nExhaust. ",
+      "description": "Retain.\nPut a card from your draw or discard pile into your hand.\nAdd a Dazed where it was.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -9780,7 +9780,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "bronze:Encode [diffAddS] X+1 [diffAddE] copies of *Fragment.\nGain [E] .\nExhaust. ",
+      "description": "bronze:Encode X+1 copies of *Fragment.\nGain [E] .\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -9870,7 +9870,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Retain.\n[diffAddE] Gain 1 Strength.\nTransform a Status in your hand into a copy of this. ",
+      "description": "Retain.\nGain 1 Strength.\nTransform a Status in your hand into a copy of this.",
       "mod": "Downfall"
     },
     {
@@ -9888,7 +9888,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 9 damage 2 times.\nbronze:Compile - bronze:Encode 2 copies of [diffAddS] *Strike+. [diffAddE] ",
+      "description": "Deal 9 damage 2 times.\nbronze:Compile - bronze:Encode 2 copies of *Strike+.",
       "mod": "Downfall"
     },
     {
@@ -9906,7 +9906,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": " [diffRmvS] Ethereal.\n[diffRmvE] The first time you create or draw a Function each turn, increase all numbers on it by 1. ",
+      "description": "The first time you create or draw a Function each turn, increase all numbers on it by 1.",
       "mod": "Downfall"
     },
     {
@@ -9996,7 +9996,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Retain.\nDeal 4 damage.\nTransform all cards in hand into *Minor [diffAddS] *Beam+. [diffAddE]\nExhaust. ",
+      "description": "Retain.\nDeal 4 damage.\nTransform all cards in hand into *Minor *Beam+.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10050,7 +10050,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose [diffAddS] 2 [diffAddE] of 4 Slimes to slimeboundmod:Split into.\nExhaust. ",
+      "description": "Choose 2 of 4 Slimes to slimeboundmod:Split into.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10104,7 +10104,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 15 damage and !SlimeboundSelfharm! damage to yourself.\nAdd a random [diffAddS] Upgraded [diffAddE] slimeboundmod:Tackle card to your hand. It costs 0 this turn. ",
+      "description": "Deal 15 damage and !SlimeboundSelfharm! damage to yourself.\nAdd a random Upgraded slimeboundmod:Tackle card to your hand. It costs 0 this turn.",
       "mod": "Downfall"
     },
     {
@@ -10140,7 +10140,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Vulnerable and !SlimeboundSlimed! slimeboundmod:Goop.\n[diffAddS] Draw a card.\n[diffAddE] Exhaust. ",
+      "description": "Apply 1 Vulnerable and !SlimeboundSlimed! slimeboundmod:Goop.\nDraw a card.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10158,7 +10158,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage. slimeboundmod:Consume - Add a [diffAddS] *Lick+ [diffAddE] to your hand. ",
+      "description": "Deal 10 damage. slimeboundmod:Consume - Add a *Lick+ to your hand.",
       "mod": "Downfall"
     },
     {
@@ -10176,7 +10176,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage. slimeboundmod:Consume - Gain [E] and draw 2 [diffAddS] cards. [diffAddE] ",
+      "description": "Deal 5 damage. slimeboundmod:Consume - Gain [E] and draw 2 cards.",
       "mod": "Downfall"
     },
     {
@@ -10266,7 +10266,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage. slimeboundmod:Consume - [diffAddS] slimeboundmod:Command twice. [diffAddE] ",
+      "description": "Deal 9 damage. slimeboundmod:Consume - slimeboundmod:Command twice.",
       "mod": "Downfall"
     },
     {
@@ -10302,7 +10302,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nGain 4 Block.\n[diffAddS] Draw a card.\n[diffAddE] Exhaust. ",
+      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nGain 4 Block.\nDraw a card.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10446,7 +10446,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\nReduce the cost of a random slimeboundmod:Tackle card in your hand to 0 this [diffAddS] combat. [diffAddE] ",
+      "description": "Deal 10 damage.\nReduce the cost of a random slimeboundmod:Tackle card in your hand to 0 this combat.",
       "mod": "Downfall"
     },
     {
@@ -10482,7 +10482,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Draw a card, then Exhaust a card in your hand. Add a number of *Licks to your hand equal to it's [diffAddS] cost plus 1. [diffAddE]\nExhaust. ",
+      "description": "Draw a card, then Exhaust a card in your hand. Add a number of *Licks to your hand equal to it's cost plus 1.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10518,7 +10518,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nAdd a *Lick to your hand.\n[diffAddS] Draw a card.\n[diffAddE] Exhaust. ",
+      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nAdd a *Lick to your hand.\nDraw a card.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10572,7 +10572,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 17 damage and !SlimeboundSelfharm! damage to yourself.\nslimeboundmod:Command [diffAddS] three times. [diffAddE] ",
+      "description": "Deal 17 damage and !SlimeboundSelfharm! damage to yourself.\nslimeboundmod:Command three times.",
       "mod": "Downfall"
     },
     {
@@ -10590,7 +10590,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] The first time you slimeboundmod:Consume each turn, add a *Lick to your hand. ",
+      "description": "Innate.\nThe first time you slimeboundmod:Consume each turn, add a *Lick to your hand.",
       "mod": "Downfall"
     },
     {
@@ -10680,7 +10680,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "The first [diffAddS] 2 cards [diffAddE] you play each turn that targets enemies also slimeboundmod:Commands. ",
+      "description": "The first 2 cards you play each turn that targets enemies also slimeboundmod:Commands.",
       "mod": "Downfall"
     },
     {
@@ -10716,7 +10716,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Weak and !SlimeboundSlimed! slimeboundmod:Goop to ALL enemies.\n[diffAddS] Draw a card.\n[diffAddE] Exhaust. ",
+      "description": "Apply 1 Weak and !SlimeboundSlimed! slimeboundmod:Goop to ALL enemies.\nDraw a card.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10734,7 +10734,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 6 damage.\nAdd a random [diffAddS] Upgraded [diffAddE] 0-cost card to your hand.\nExhaust. ",
+      "description": "Deal 6 damage.\nAdd a random Upgraded 0-cost card to your hand.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10752,7 +10752,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage. slimeboundmod:Command ALL [diffAddS] slimes twice. [diffAddE] ",
+      "description": "Deal 8 damage. slimeboundmod:Command ALL slimes twice.",
       "mod": "Downfall"
     },
     {
@@ -10842,7 +10842,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose a card in your hand.\n[diffAddS] Add [diffAddE] a copy of [diffAddS] it into [diffAddE] your [diffAddS] hand. [diffAddE]\nExhaust. ",
+      "description": "Choose a card in your hand.\nAdd a copy of it into your hand.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10860,7 +10860,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "slimeboundmod:Absorb - Split into a random slimeboundmod:Specialist Slime.\n[diffAddS] slimeboundmod:Command.\n[diffAddE] Exhaust. ",
+      "description": "slimeboundmod:Absorb - Split into a random slimeboundmod:Specialist Slime.\nslimeboundmod:Command.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10950,7 +10950,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose 1 of 3 slimeboundmod:Specialist Slimes to slimeboundmod:Split into.\n[diffAddS] slimeboundmod:Command.\n[diffAddE] Exhaust. ",
+      "description": "Choose 1 of 3 slimeboundmod:Specialist Slimes to slimeboundmod:Split into.\nslimeboundmod:Command.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -11076,7 +11076,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": "Lose 15 HP and 15 Max HP this combat.\n[diffAddS] Gain [E] each turn.\n[diffAddE] The first card you play each turn that targets enemies is played twice. ",
+      "description": "Lose 15 HP and 15 Max HP this combat.\nGain [E] each turn.\nThe first card you play each turn that targets enemies is played twice.",
       "mod": "Downfall"
     },
     {
@@ -11148,7 +11148,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "slimeboundmod:Absorb ALL Slimes.\nSplit into a random slimeboundmod:Specialist Slime for each [diffAddS] slimeboundmod:Absorbed, then slimeboundmod:Command them all. [diffAddE]\nExhaust. ",
+      "description": "slimeboundmod:Absorb ALL Slimes.\nSplit into a random slimeboundmod:Specialist Slime for each slimeboundmod:Absorbed, then slimeboundmod:Command them all.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -11166,7 +11166,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": " [diffAddS] Innate.\n[diffAddE] Whenever you play a card that triggers slimeboundmod:Command, slimeboundmod:Command again. ",
+      "description": "Innate.\nWhenever you play a card that triggers slimeboundmod:Command, slimeboundmod:Command again.",
       "mod": "Downfall"
     },
     {
@@ -11184,7 +11184,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 3 damage.\n[diffAddS] slimeboundmod:Command.\n[diffAddE] When you slimeboundmod:Split, return this from the discard pile to your hand. ",
+      "description": "Deal 3 damage.\nslimeboundmod:Command.\nWhen you slimeboundmod:Split, return this from the discard pile to your hand.",
       "mod": "Downfall"
     },
     {
@@ -11220,7 +11220,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Gain 4 slimeboundmod:Potency.\n[diffAddS] slimeboundmod:Command twice.\n[diffAddE] 2 turns from now, slimeboundmod:Absorb all Slimes. ",
+      "description": "Gain 4 slimeboundmod:Potency.\nslimeboundmod:Command twice.\n2 turns from now, slimeboundmod:Absorb all Slimes.",
       "mod": "Downfall"
     },
     {
@@ -11274,7 +11274,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the start of your turn, return a random Exhausted 0-cost card to your hand. ",
+      "description": "Innate.\nAt the start of your turn, return a random Exhausted 0-cost card to your hand.",
       "mod": "Downfall"
     },
     {
@@ -11292,7 +11292,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "When you slimeboundmod:Absorb a Slime, gain 1 [diffAddS] Strength and 1 Dexterity. [diffAddE] ",
+      "description": "When you slimeboundmod:Absorb a Slime, gain 1 Strength and 1 Dexterity.",
       "mod": "Downfall"
     },
     {
@@ -11328,7 +11328,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 12 damage.\nslimeboundmod:Split into a random [diffAddS] slimeboundmod:Specialist [diffAddE] Slime.\nslimeboundmod:Command 3 times. ",
+      "description": "Deal 12 damage.\nslimeboundmod:Split into a random slimeboundmod:Specialist Slime.\nslimeboundmod:Command 3 times.",
       "mod": "Downfall"
     },
     {
@@ -11346,7 +11346,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "slimeboundmod:Command [diffAddS] X+1 [diffAddE] times.\nGain 5 Block [diffAddS] X+1 [diffAddE] times. ",
+      "description": "slimeboundmod:Command X+1 times.\nGain 5 Block X+1 times.",
       "mod": "Downfall"
     },
     {
@@ -11382,7 +11382,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Card. ",
+      "description": "*Unknown Upgraded  Card.",
       "mod": "Downfall"
     },
     {
@@ -11418,7 +11418,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage.\nsneckomod:Muddle the [diffAddS] 2 [diffAddE] highest-cost [diffAddS] cards [diffAddE] in your hand. ",
+      "description": "Deal 11 damage.\nsneckomod:Muddle the 2 highest-cost cards in your hand.",
       "mod": "Downfall"
     },
     {
@@ -11598,7 +11598,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. ",
+      "description": "*Unknown Upgraded  Character Card.",
       "mod": "Downfall"
     },
     {
@@ -11607,7 +11607,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. ",
+      "description": "*Unknown Upgraded  Character Card.",
       "mod": "Downfall"
     },
     {
@@ -11616,7 +11616,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. ",
+      "description": "*Unknown Upgraded  Character Card.",
       "mod": "Downfall"
     },
     {
@@ -11625,7 +11625,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Common Attack Card. ",
+      "description": "*Unknown Upgraded  Common Attack Card.",
       "mod": "Downfall"
     },
     {
@@ -11634,7 +11634,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. ",
+      "description": "*Unknown Upgraded  Character Card.",
       "mod": "Downfall"
     },
     {
@@ -11643,7 +11643,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. ",
+      "description": "*Unknown Upgraded  Character Card.",
       "mod": "Downfall"
     },
     {
@@ -11652,7 +11652,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Block Card. ",
+      "description": "*Unknown Upgraded  Block Card.",
       "mod": "Downfall"
     },
     {
@@ -11661,7 +11661,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. ",
+      "description": "*Unknown Upgraded  Character Card.",
       "mod": "Downfall"
     },
     {
@@ -11670,7 +11670,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. ",
+      "description": "*Unknown Upgraded  Character Card.",
       "mod": "Downfall"
     },
     {
@@ -11679,7 +11679,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. ",
+      "description": "*Unknown Upgraded  Character Card.",
       "mod": "Downfall"
     },
     {
@@ -11688,7 +11688,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Common Skill Card. ",
+      "description": "*Unknown Upgraded  Common Skill Card.",
       "mod": "Downfall"
     },
     {
@@ -11697,7 +11697,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] 1 Cost Card. ",
+      "description": "*Unknown Upgraded  1 Cost Card.",
       "mod": "Downfall"
     },
     {
@@ -11706,7 +11706,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Draw Card. ",
+      "description": "*Unknown Upgraded  Draw Card.",
       "mod": "Downfall"
     },
     {
@@ -11715,7 +11715,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. ",
+      "description": "*Unknown Upgraded  Character Card.",
       "mod": "Downfall"
     },
     {
@@ -11724,7 +11724,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Character Card. ",
+      "description": "*Unknown Upgraded  Character Card.",
       "mod": "Downfall"
     },
     {
@@ -11796,7 +11796,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof.\nExhaust a card in your hand.\nReplace it with a random card of the same type that costs 1 less. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "sneckomod:Snekproof.\nExhaust a card in your hand.\nReplace it with a random card of the same type that costs 1 less.",
       "mod": "Downfall"
     },
     {
@@ -11814,7 +11814,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 10 Block.\nsneckomod:Muddle the [diffAddS] 2 [diffAddE] highest-cost [diffAddS] cards [diffAddE] in your hand. ",
+      "description": "Gain 10 Block.\nsneckomod:Muddle the 2 highest-cost cards in your hand.",
       "mod": "Downfall"
     },
     {
@@ -11868,7 +11868,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "sneckomod:Snekproof.\nDraw [diffAddS] 1 [diffAddE] - 5 cards. ",
+      "description": "sneckomod:Snekproof.\nDraw 1 - 5 cards.",
       "mod": "Downfall"
     },
     {
@@ -11886,7 +11886,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof.\nsneckomod:Muddle your hand. [diffAddS]\nDraw 1 card. [diffAddE] ",
+      "description": "sneckomod:Snekproof.\nsneckomod:Muddle your hand.\nDraw 1 card.",
       "mod": "Downfall"
     },
     {
@@ -12030,7 +12030,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Weak Card. ",
+      "description": "*Unknown Upgraded  Weak Card.",
       "mod": "Downfall"
     },
     {
@@ -12039,7 +12039,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Uncommon Attack Card. ",
+      "description": "*Unknown Upgraded  Uncommon Attack Card.",
       "mod": "Downfall"
     },
     {
@@ -12048,7 +12048,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Uncommon Skill Card. ",
+      "description": "*Unknown Upgraded  Uncommon Skill Card.",
       "mod": "Downfall"
     },
     {
@@ -12057,7 +12057,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Colorless Card. ",
+      "description": "*Unknown Upgraded  Colorless Card.",
       "mod": "Downfall"
     },
     {
@@ -12066,7 +12066,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Uncommon Power Card. ",
+      "description": "*Unknown Upgraded  Uncommon Power Card.",
       "mod": "Downfall"
     },
     {
@@ -12075,7 +12075,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] X Cost Card. ",
+      "description": "*Unknown Upgraded  X Cost Card.",
       "mod": "Downfall"
     },
     {
@@ -12084,7 +12084,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] 2 Cost Card. ",
+      "description": "*Unknown Upgraded  2 Cost Card.",
       "mod": "Downfall"
     },
     {
@@ -12093,7 +12093,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Strength Card. ",
+      "description": "*Unknown Upgraded  Strength Card.",
       "mod": "Downfall"
     },
     {
@@ -12102,7 +12102,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] 0 Cost Card. ",
+      "description": "*Unknown Upgraded  0 Cost Card.",
       "mod": "Downfall"
     },
     {
@@ -12111,7 +12111,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Strike Card. ",
+      "description": "*Unknown Upgraded  Strike Card.",
       "mod": "Downfall"
     },
     {
@@ -12120,7 +12120,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Dexterity Card. ",
+      "description": "*Unknown Upgraded  Dexterity Card.",
       "mod": "Downfall"
     },
     {
@@ -12129,7 +12129,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Vulnerable Card. ",
+      "description": "*Unknown Upgraded  Vulnerable Card.",
       "mod": "Downfall"
     },
     {
@@ -12138,7 +12138,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Exhaust Card. ",
+      "description": "*Unknown Upgraded  Exhaust Card.",
       "mod": "Downfall"
     },
     {
@@ -12156,7 +12156,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "2",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the start of your turn, reduce the cost of the highest cost sneckomod:Offclass card in your hand by 1. ",
+      "description": "Innate.\nAt the start of your turn, reduce the cost of the highest cost sneckomod:Offclass card in your hand by 1.",
       "mod": "Downfall"
     },
     {
@@ -12246,7 +12246,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Become Confused.\nDraw 2 additional [diffAddS] cards [diffAddE] each turn. ",
+      "description": "Become Confused.\nDraw 2 additional cards each turn.",
       "mod": "Downfall"
     },
     {
@@ -12264,7 +12264,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof. Fleeting. [diffAddS] Retain. [diffAddE]\nChoose a card in hand which started *Unknown.\nPermanently add it to your deck, removing its *Unknown. ",
+      "description": "sneckomod:Snekproof. Fleeting. Retain.\nChoose a card in hand which started *Unknown.\nPermanently add it to your deck, removing its *Unknown.",
       "mod": "Downfall"
     },
     {
@@ -12336,7 +12336,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof.\nExhaust all sneckomod:Offclass cards in your hand, replacing them with new [diffAddS] ones that cost 1 less. [diffAddE] ",
+      "description": "sneckomod:Snekproof.\nExhaust all sneckomod:Offclass cards in your hand, replacing them with new ones that cost 1 less.",
       "mod": "Downfall"
     },
     {
@@ -12390,7 +12390,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal damage to ALL enemies equal to the number of Unknown cards in your deck. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "Deal damage to ALL enemies equal to the number of Unknown cards in your deck.",
       "mod": "Downfall"
     },
     {
@@ -12408,7 +12408,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof.\nsneckomod:Muddle your hand. Cards sneckomod:Muddled this way cannot cost 3. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "sneckomod:Snekproof.\nsneckomod:Muddle your hand. Cards sneckomod:Muddled this way cannot cost 3.",
       "mod": "Downfall"
     },
     {
@@ -12426,7 +12426,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof.\nExhaust a card.\nGain [E] equal to its cost. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "sneckomod:Snekproof.\nExhaust a card.\nGain [E] equal to its cost.",
       "mod": "Downfall"
     },
     {
@@ -12498,7 +12498,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Rare Attack Card. ",
+      "description": "*Unknown Upgraded  Rare Attack Card.",
       "mod": "Downfall"
     },
     {
@@ -12507,7 +12507,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] 3 Cost Card. ",
+      "description": "*Unknown Upgraded  3 Cost Card.",
       "mod": "Downfall"
     },
     {
@@ -12516,7 +12516,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Boss card. ",
+      "description": "*Unknown Upgraded  Boss card.",
       "mod": "Downfall"
     },
     {
@@ -12525,7 +12525,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Rare Skill Card. ",
+      "description": "*Unknown Upgraded  Rare Skill Card.",
       "mod": "Downfall"
     },
     {
@@ -12534,7 +12534,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "",
-      "description": "*Unknown [diffAddS] Upgraded [diffAddE] Rare Power Card. ",
+      "description": "*Unknown Upgraded  Rare Power Card.",
       "mod": "Downfall"
     },
     {
@@ -12552,7 +12552,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof.\nThis turn, cards that choose a random number for their effect choose the maximum possible number. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "sneckomod:Snekproof.\nThis turn, cards that choose a random number for their effect choose the maximum possible number.",
       "mod": "Downfall"
     },
     {
@@ -12642,7 +12642,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": " [diffAddS] Innate.\n[diffAddE] Whenever you sneckomod:Muddle a card, gain 1 Block next turn. ",
+      "description": "Innate.\nWhenever you sneckomod:Muddle a card, gain 1 Block next turn.",
       "mod": "Downfall"
     },
     {
@@ -12678,7 +12678,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof.\nDraw [diffAddS] 2 cards, [diffAddE] then Exhaust 1 card.\nExhaust your hand, replacing them with random cards of the Exhausted card's class. ",
+      "description": "sneckomod:Snekproof.\nDraw 2 cards, then Exhaust 1 card.\nExhaust your hand, replacing them with random cards of the Exhausted card's class.",
       "mod": "Downfall"
     },
     {
@@ -12714,7 +12714,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the start of your turn, add a *Soul *Roll to your hand. It gains Ethereal and Exhaust. ",
+      "description": "Innate.\nAt the start of your turn, add a *Soul *Roll to your hand. It gains Ethereal and Exhaust.",
       "mod": "Downfall"
     },
     {
@@ -12894,7 +12894,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain [diffAddS] 4 champ:Counter.\nGain [diffAddE] 6 Block.\n*Defensive champ:Combo: Gain Block equal to your champ:Counter. ",
+      "description": "Gain 4 champ:Counter.\nGain 6 Block.\n*Defensive champ:Combo: Gain Block equal to your champ:Counter.",
       "mod": "Downfall"
     },
     {
@@ -12966,7 +12966,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage to ALL enemies.\n*Berserker champ:Combo: Deals damage [diffAddS] three times. [diffAddE]\nEnter champ:Berserker. ",
+      "description": "Deal 5 damage to ALL enemies.\n*Berserker champ:Combo: Deals damage three times.\nEnter champ:Berserker.",
       "mod": "Downfall"
     },
     {
@@ -13092,7 +13092,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\n*Berserker champ:Combo: Remove the enemy's Block [diffAddS] and Artifact [diffAddE] before dealing damage. ",
+      "description": "Deal 10 damage.\n*Berserker champ:Combo: Remove the enemy's Block and Artifact before dealing damage.",
       "mod": "Downfall"
     },
     {
@@ -13110,7 +13110,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Choose a Stance to Enter.\n[diffAddS] Add [diffAddE] a champ:Combo of that Stance into your hand. ",
+      "description": "Choose a Stance to Enter.\nAdd a champ:Combo of that Stance into your hand.",
       "mod": "Downfall"
     },
     {
@@ -13182,7 +13182,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] Enter champ:Berserker.\nchamp:Berserker champ:Techniques grant 2 more champ:Fatigue. ",
+      "description": "Innate.\nEnter champ:Berserker.\nchamp:Berserker champ:Techniques grant 2 more champ:Fatigue.",
       "mod": "Downfall"
     },
     {
@@ -13236,7 +13236,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] Enter champ:Defensive.\nchamp:Defensive *Techniques grant 2 more champ:Counter. ",
+      "description": "Innate.\nEnter champ:Defensive.\nchamp:Defensive *Techniques grant 2 more champ:Counter.",
       "mod": "Downfall"
     },
     {
@@ -13326,7 +13326,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 [diffAddS] damage 2 times. [diffAddE]\nchamp:Fatigue 5.\n*Berserker champ:Combo: This card hits an additional time this combat. ",
+      "description": "Deal 5 damage 2 times.\nchamp:Fatigue 5.\n*Berserker champ:Combo: This card hits an additional time this combat.",
       "mod": "Downfall"
     },
     {
@@ -13380,7 +13380,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Requires *Defensive or *Berserker.\nEnter the Stance you aren't in.\nDraw 2 [diffAddS] cards. [diffAddE] ",
+      "description": "Requires *Defensive or *Berserker.\nEnter the Stance you aren't in.\nDraw 2 cards.",
       "mod": "Downfall"
     },
     {
@@ -13596,7 +13596,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "*Berserker champ:Combo: Gain [E] [E] [diffAddS] [E] [diffAddE] , then Exhaust this.\n*Defensive champ:Combo: Draw 4 cards. ",
+      "description": "*Berserker champ:Combo: Gain [E] [E] [E] , then Exhaust this.\n*Defensive champ:Combo: Draw 4 cards.",
       "mod": "Downfall"
     },
     {
@@ -13632,7 +13632,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": " [diffAddS] Gain 6 champ:Counter.\n[diffAddE] *Defensive champ:Combo: Gain 6 champ:Counter for each Attack in your hand.\nEnter champ:Defensive. ",
+      "description": "Gain 6 champ:Counter.\n*Defensive champ:Combo: Gain 6 champ:Counter for each Attack in your hand.\nEnter champ:Defensive.",
       "mod": "Downfall"
     },
     {
@@ -13758,7 +13758,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "The third time you enter a Stance each turn, gain [E] [diffAddS] [E] [diffAddE] and draw 2 cards. ",
+      "description": "The third time you enter a Stance each turn, gain [E] [E] and draw 2 cards.",
       "mod": "Downfall"
     },
     {
@@ -14010,7 +14010,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "At the start of your turn, add a random [diffAddS] Upgraded [diffAddE] card containing \"Strike\" [diffAddS] to [diffAddE] your hand.\nIt costs 0 until played and gains Exhaust. ",
+      "description": "At the start of your turn, add a random Upgraded card containing \"Strike\" to your hand.\nIt costs 0 until played and gains Exhaust.",
       "mod": "Downfall"
     },
     {
@@ -14244,7 +14244,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Place the top 2 cards of your draw pile into guardianmod:Stasis.\n[ guardianmod:Socket ] [diffAddS]\n[ guardianmod:Socket ] [diffAddE] ",
+      "description": "Place the top 2 cards of your draw pile into guardianmod:Stasis.\n[ guardianmod:Socket ]\n[ guardianmod:Socket ]",
       "mod": "Downfall"
     },
     {
@@ -14361,7 +14361,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": " [diffAddS] Draw a card.\n[diffAddE] Place a card in your hand into guardianmod:Stasis.\n[ guardianmod:Socket ] ",
+      "description": "Draw a card.\nPlace a card in your hand into guardianmod:Stasis.\n[ guardianmod:Socket ]",
       "mod": "Downfall"
     },
     {
@@ -14478,7 +14478,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 1 Strength and 1 Artifact.\nAdd a random Attack card to your hand. [diffAddS] It costs 1 less this combat. [diffAddE]\nExhaust. ",
+      "description": "Gain 1 Strength and 1 Artifact.\nAdd a random Attack card to your hand. It costs 1 less this combat.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -14496,7 +14496,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 1 Dexterity and 1 Artifact.\nAdd a random Power card to your hand. [diffAddS] It costs 1 less this combat. [diffAddE]\nExhaust. ",
+      "description": "Gain 1 Dexterity and 1 Artifact.\nAdd a random Power card to your hand. It costs 1 less this combat.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -14586,7 +14586,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose a card. Place a copy of that card into guardianmod:Stasis.\n[diffAddS] guardianmod:Accelerate.\n[diffAddE] Exhaust. ",
+      "description": "Choose a card. Place a copy of that card into guardianmod:Stasis.\nguardianmod:Accelerate.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -14604,7 +14604,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "guardianmod:Accelerate until a card in guardianmod:Stasis returns to your hand. [diffRmvS]\nExhaust. [diffRmvE] ",
+      "description": "guardianmod:Accelerate until a card in guardianmod:Stasis returns to your hand.",
       "mod": "Downfall"
     },
     {
@@ -14667,7 +14667,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the end of your turn, place up to 1 card in your hand in guardianmod:Stasis. ",
+      "description": "Innate.\nAt the end of your turn, place up to 1 card in your hand in guardianmod:Stasis.",
       "mod": "Downfall"
     },
     {
@@ -14766,7 +14766,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "2",
-      "description": "Gain 2 Strength.\nguardianmod:Tick - Gain 1 Strength. [diffRmvS]\nguardianmod:Volatile. [diffRmvE] ",
+      "description": "Gain 2 Strength.\nguardianmod:Tick - Gain 1 Strength.",
       "mod": "Downfall"
     },
     {
@@ -14910,7 +14910,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 7 damage.\nPlace a *Sentry [diffAddS] *Wave+ [diffAddE] into guardianmod:Stasis.\nExhaust. ",
+      "description": "Deal 7 damage.\nPlace a *Sentry *Wave+ into guardianmod:Stasis.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -15000,7 +15000,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": " [diffAddS] Gain 1 Artifact.\n[diffAddE] At the start of your turn, if you have no Artifact, gain 1 Artifact. ",
+      "description": "Gain 1 Artifact.\nAt the start of your turn, if you have no Artifact, gain 1 Artifact.",
       "mod": "Downfall"
     },
     {
@@ -15045,7 +15045,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Choose one of three guardianmod:Packages to add to your hand. [diffAddS] The cards the guardianmod:Package adds will all be Upgraded. [diffAddE]\nExhaust. ",
+      "description": "Choose one of three guardianmod:Packages to add to your hand. The cards the guardianmod:Package adds will all be Upgraded.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -15063,7 +15063,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": " [diffRmvS] Ethereal.\n[diffRmvE] Gain 2 guardianmod:Buffer.\nAt the start of each turn, if you have guardianmod:Buffer, gain 1 Strength. ",
+      "description": "Gain 2 guardianmod:Buffer.\nAt the start of each turn, if you have guardianmod:Buffer, gain 1 Strength.",
       "mod": "Downfall"
     },
     {
@@ -15081,7 +15081,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Draw a card.\n[ guardianmod:Socket ]\n[ guardianmod:Socket ] [diffAddS]\n[ guardianmod:Socket ] [diffAddE] ",
+      "description": "Draw a card.\n[ guardianmod:Socket ]\n[ guardianmod:Socket ]\n[ guardianmod:Socket ]",
       "mod": "Downfall"
     },
     {
@@ -15117,7 +15117,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "0",
-      "description": " [diffAddS] Retain.\n[diffAddE] Exhaust all guardianmod:Gems and all Socketed cards. Deal 10 damage to a random enemy for each guardianmod:Gem in those cards.\nExhaust. ",
+      "description": "Retain.\nExhaust all guardianmod:Gems and all Socketed cards. Deal 10 damage to a random enemy for each guardianmod:Gem in those cards.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -15216,7 +15216,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": " [diffAddS] Retain.\n[diffAddE] guardianmod:Accelerate 3 times. ",
+      "description": "Retain.\nguardianmod:Accelerate 3 times.",
       "mod": "Downfall"
     },
     {
@@ -15252,7 +15252,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": " [diffAddS] Innate.\n[diffAddE] When you play the 3rd 0-cost card in a single turn, gain [E] and draw a card. ",
+      "description": "Innate.\nWhen you play the 3rd 0-cost card in a single turn, gain [E] and draw a card.",
       "mod": "Downfall"
     },
     {
@@ -15306,7 +15306,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": " [diffAddS] Innate.\n[diffAddE] At the start of your turn, guardianmod:Accelerate. ",
+      "description": "Innate.\nAt the start of your turn, guardianmod:Accelerate.",
       "mod": "Downfall"
     }
   ],
@@ -15656,6 +15656,14 @@
       "mod": "Downfall"
     },
     {
+      "name": "Potion Belt",
+      "tier": "Common",
+      "pool": "",
+      "description": "Upon pickup, gain 2 Potion slots.",
+      "flavorText": "I can hold more Potions using this belt!",
+      "mod": ""
+    },
+    {
       "name": "Preserved Insect",
       "tier": "Common",
       "pool": "",
@@ -15760,6 +15768,14 @@
       "mod": ""
     },
     {
+      "name": "Toy Ornithopter",
+      "tier": "Common",
+      "pool": "",
+      "description": "Whenever you use a potion, heal 5 HP.",
+      "flavorText": "\"This little toy is the perfect companion for the lone adventurer!\"",
+      "mod": ""
+    },
+    {
       "name": "Vajra",
       "tier": "Common",
       "pool": "",
@@ -15782,22 +15798,6 @@
       "description": "Upon pickup, Upgrade 2 random Attacks.",
       "flavorText": "\"Flesh never beats steel.\" - Kublai the Great",
       "mod": ""
-    },
-    {
-      "name": "Wide Potion Belt",
-      "tier": "Common",
-      "pool": "",
-      "description": "Upon pickup, gain 4 Potion slots.",
-      "flavorText": "I can hold even more Potions using this belt!",
-      "mod": "Wide Potions"
-    },
-    {
-      "name": "Wide Toy Ornithopter",
-      "tier": "Common",
-      "pool": "",
-      "description": "Whenever you use a potion, heal 5 HP.\nIf the potion is Wide [REMOVE_SPACE], heal an additional 5 HP.",
-      "flavorText": "\"This little toy is the perfect companion for the lone adventurer!\"",
-      "mod": "Wide Potions"
     },
     {
       "name": "Blue Candle",
@@ -16160,12 +16160,12 @@
       "mod": ""
     },
     {
-      "name": "Wide Beast Statue",
+      "name": "White Beast Statue",
       "tier": "Uncommon",
       "pool": "",
       "description": "Potions always appear in combat rewards.",
-      "flavorText": "A white statue of a wide creature you have never seen before.",
-      "mod": "Wide Potions"
+      "flavorText": "A small white statue of a creature you have never seen before.",
+      "mod": ""
     },
     {
       "name": "Bird-Faced Urn",
@@ -17970,7 +17970,7 @@
       "mod": "Downfall"
     },
     {
-      "name": "the Ironchad",
+      "name": "the Ironclad",
       "type": "Player",
       "minHP": "80",
       "maxHP": "80",
@@ -18573,36 +18573,6 @@
     }
   ],
   "keywords": [
-    {
-      "name": "[B]",
-      "description": "Energy is used to play cards from your hand.",
-      "names": [],
-      "mod": ""
-    },
-    {
-      "name": "[E]",
-      "description": "Energy is used to play cards from your hand.",
-      "names": ["[E]"],
-      "mod": "BaseMod"
-    },
-    {
-      "name": "[G]",
-      "description": "Energy is used to play cards from your hand.",
-      "names": [],
-      "mod": ""
-    },
-    {
-      "name": "[R]",
-      "description": "Energy is used to play cards from your hand.",
-      "names": [],
-      "mod": ""
-    },
-    {
-      "name": "[W]",
-      "description": "Energy is used to play cards from your hand.",
-      "names": [],
-      "mod": ""
-    },
     {
       "name": "Artifact",
       "description": "Negates the next debuff.",

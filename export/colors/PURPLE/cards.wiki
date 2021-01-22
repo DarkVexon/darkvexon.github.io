@@ -198,8 +198,8 @@ Enter [[Calm]].
 |Uncommon
 |[[Power]]
 |1
-|([diffAddS] [[Innate]].
-[diffAddE]) At the start of each turn, add a *Smite into your hand.
+|([[Innate]].)
+ At the start of each turn, add a *Smite into your hand.
 |-
 |[[Carve Reality]]
 |[[File:|thumb|289x289px]]
@@ -214,7 +214,7 @@ Add a *Smite into your hand.
 |Uncommon
 |[[Skill]]
 |X
-|Put a *Miracle+ into your hand at the start of your next X ([diffAddS] X+1 [diffAddE]) turns.
+|Put a *Miracle+ into your hand at the start of your next X (X+1) turns.
 [[Exhaust]].
 |-
 |[[Conclude]]
@@ -265,8 +265,8 @@ If the enemy intends to Attack, enter [[Calm]].
 |[[Skill]]
 |0
 |Choose 1 of 3 Attacks of any color to add into your hand.
-([diffAddS] It costs 0 this turn.
-[diffAddE]) [[Exhaust]].
+(It costs 0 this turn.)
+ [[Exhaust]].
 |-
 |[[Foresight]]
 |[[File:|thumb|289x289px]]
@@ -301,7 +301,7 @@ If the enemy intends to Attack, enter [[Calm]].
 |Uncommon
 |[[Skill]]
 |1
-|Put a ([diffAddS] 2) card(s) ([diffAddE]) from your discard pile into your hand and [[Retain]] it ([diffAddS] them). ([diffAddE])
+|Put a (2) card(s) from your discard pile into your hand and [[Retain]] it (them).
 Enter [[Calm]].
 End your turn.
 |-
@@ -463,8 +463,8 @@ When [[Retained]], increase its damage by 4(5) this combat.
 |Uncommon
 |[[Skill]]
 |2
-|([diffAddS] [[Retain]].
-[diffAddE]) Gain 5 [[Mantra]].
+|([[Retain]].)
+ Gain 5 [[Mantra]].
 |-
 |[[Wreath of Flame]]
 |[[File:|thumb|289x289px]]
@@ -478,8 +478,8 @@ When [[Retained]], increase its damage by 4(5) this combat.
 |Rare
 |[[Skill]]
 |1
-|([diffAddS] [[Innate]].
-[diffAddE]) Shuffle a *Beta into your draw pile.
+|([[Innate]].)
+ Shuffle a *Beta into your draw pile.
 [[Exhaust]].
 |-
 |[[Blasphemy]]
@@ -487,8 +487,8 @@ When [[Retained]], increase its damage by 4(5) this combat.
 |Rare
 |[[Skill]]
 |1
-|([diffAddS] [[Retain]].
-[diffAddE]) Enter [[Divinity]].
+|([[Retain]].)
+ Enter [[Divinity]].
 Die next turn.
 [[Exhaust]].
 |-
@@ -505,7 +505,7 @@ Deals additional damage equal to [[Mantra]] gained this combat.
 |Rare
 |[[Skill]]
 |X
-|Shuffle an *Expunger ([diffAddS] with X+1 [diffAddE]) into your draw pile.
+|Shuffle an *Expunger (with X+1) into your draw pile.
 [[Exhaust]].
 |-
 |[[Deus Ex Machina]]
@@ -521,8 +521,9 @@ When you draw this card, add 2(3) *Miracles to your hand and [[Exhaust]].
 |Rare
 |[[Power]]
 |3
-|([diffRmvS]) [[Ethereal]].
-([diffRmvE]) At the start of your turn, gain [W]
+|[[Ethereal]].
+(not Ethereal.)
+At the start of your turn, gain [W]
 and increase this gain by 1.
 |-
 |[[Devotion]]
@@ -537,8 +538,8 @@ and increase this gain by 1.
 |Rare
 |[[Power]]
 |1
-|([diffAddS] [[Innate]].
-[diffAddE]) Whenever a card is [[Retained]], reduce its cost by 1 this combat.
+|([[Innate]].)
+ Whenever a card is [[Retained]], reduce its cost by 1 this combat.
 |-
 |[[Judgment]]
 |[[File:|thumb|289x289px]]

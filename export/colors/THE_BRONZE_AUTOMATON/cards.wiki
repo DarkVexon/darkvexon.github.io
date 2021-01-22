@@ -21,8 +21,8 @@
 |Basic
 |[[Skill]]
 |1
-|Draw 1(2) ([diffAddS]) card(s). ([diffAddE])
-[[bronze:Compile]] - Next turn, draw 1(2) ([diffAddS]) card(s). ([diffAddE])
+|Draw 1(2) card(s).
+[[bronze:Compile]] - Next turn, draw 1(2) card(s).
 |-
 |[[Replicate]]
 |[[File:|thumb|289x289px]]
@@ -50,8 +50,8 @@
 |Common
 |[[Skill]]
 |0
-|([diffAddS] [[Retain]].
-[diffAddE]) Choose a card in the Sequence to return to your hand.
+|([[Retain]].)
+ Choose a card in the Sequence to return to your hand.
 It gains [[Retain]].
 [[Exhaust]].
 |-
@@ -69,7 +69,7 @@ It gains [[Retain]].
 |Common
 |[[Attack]]
 |1
-|Add 1 ([diffAddS] 1(2)) *Wound(s) ([diffAddE]) to your hand.
+|Add 1 (1(2)) *Wound(s) to your hand.
 [[bronze:Cycle]] each [[Status]] in your hand, dealing 7 damage for each.
 |-
 |[[Buggy Mess]]
@@ -125,8 +125,8 @@ When [[bronze:Encoded]], if this is the first card, increase its [[Block]] by 5(
 |Common
 |[[Skill]]
 |0
-|([diffAddS] [[Retain]].
-[diffAddE]) Increase all numbers on cards in the Sequence by 1.
+|([[Retain]].)
+ Increase all numbers on cards in the Sequence by 1.
 [[Exhaust]].
 |-
 |[[Frontload]]
@@ -196,8 +196,8 @@ When [[bronze:Encoded]], if this is not in the first or last slot, increase its 
 |Common
 |[[Skill]]
 |0
-|([diffAddS] [[Retain]].
-[diffAddE]) Gain [E] [E].
+|([[Retain]].)
+ Gain [E] [E].
 [[bronze:Insert]] a *Void.
 |-
 |[[Wild Beam]]
@@ -229,8 +229,8 @@ When [[bronze:Encoded]], if this is not in the first or last slot, increase its 
 |Uncommon
 |[[Skill]]
 |0
-|Gain 1 [[bronze:Blur]]. ([diffAddS]
-[[bronze:Compile]] - Gain 1 [[bronze:Blur]]. [diffAddE])
+|Gain 1 [[bronze:Blur]]. 
+([[bronze:Compile]] - Gain 1 [[bronze:Blur]].)
 |-
 |[[Boost]]
 |[[File:|thumb|289x289px]]
@@ -264,8 +264,8 @@ Gain 6(9) [[Block]].
 |Uncommon
 |[[Power]]
 |1
-|([diffAddS] [[Retain]].
-[diffAddE]) Add a copy of the first card in the current Sequence to the next 2 Sequences automatically.
+|([[Retain]].)
+ Add a copy of the first card in the current Sequence to the next 2 Sequences automatically.
 |-
 |[[Cultist Strike]]
 |[[File:|thumb|289x289px]]
@@ -314,8 +314,8 @@ If the last played card was a Function, play this again.
 |Uncommon
 |[[Skill]]
 |X
-|([diffAddS] [[Retain]].
-[diffAddE]) The next card you [[bronze:Encode]] causes X additional copies to also be [[bronze:Encoded]].
+|([[Retain]].)
+ The next card you [[bronze:Encode]] causes X additional copies to also be [[bronze:Encoded]].
 [[Exhaust]].
 |-
 |[[Force Shield]]
@@ -348,7 +348,7 @@ It costs 0.
 |Uncommon
 |[[Power]]
 |1
-|At the start of each turn, add a *Minor *Beam ([diffAddS] *Beam+ [diffAddE]) to your hand.
+|At the start of each turn, add a *Minor *Beam (*Beam+) to your hand.
 |-
 |[[Invoke]]
 |[[File:|thumb|289x289px]]
@@ -363,8 +363,8 @@ It costs 0.
 |Uncommon
 |[[Power]]
 |1
-|([diffAddS] [[Innate]].
-[diffAddE]) Whenever you draw a [[Curse]] or [[Status]] card, gain 1 Temporary [[Strength]] and [[Dexterity]].
+|([[Innate]].)
+ Whenever you draw a [[Curse]] or [[Status]] card, gain 1 Temporary [[Strength]] and [[Dexterity]].
 |-
 |[[Max Output]]
 |[[File:|thumb|289x289px]]
@@ -380,8 +380,9 @@ At the start of each turn, draw 1 additional card and [[bronze:Insert]] 1 *Dazed
 |[[Attack]]
 |2
 |Deal 10 damage.
-The next time you [[bronze:Encode]] a card, [[bronze:Encode]] a copy of it. ([diffRmvS])
-[[Exhaust]]. ([diffRmvE])
+The next time you [[bronze:Encode]] a card, [[bronze:Encode]] a copy of it.
+[[Exhaust]]. (not
+Exhaust.)
 |-
 |[[Null Pointer]]
 |[[File:|thumb|289x289px]]
@@ -404,8 +405,9 @@ Gain 12(15) [[Block]].
 |Uncommon
 |[[Skill]]
 |1
-|Play a copy of each card in the Sequence. They do not Encode. ([diffRmvS])
-[[Exhaust]]. ([diffRmvE])
+|Play a copy of each card in the Sequence. They do not Encode.
+[[Exhaust]]. (not
+Exhaust.)
 |-
 |[[Philosophize]]
 |[[File:|thumb|289x289px]]
@@ -437,8 +439,8 @@ Gain 4(6) [[Block]] for each [[Status]] card [[exhausted]].
 |Uncommon
 |[[Power]]
 |2
-|([diffAddS] [[Innate]].
-[diffAddE]) When you draw the first [[Status]] or [[Curse]] card each turn, [[Exhaust]] it and draw a card.
+|([[Innate]].)
+ When you draw the first [[Status]] or [[Curse]] card each turn, [[Exhaust]] it and draw a card.
 |-
 |[[Return]]
 |[[File:|thumb|289x289px]]
@@ -446,8 +448,9 @@ Gain 4(6) [[Block]] for each [[Status]] card [[exhausted]].
 |[[Skill]]
 |X
 |Gain [E] and draw 1 additional card at the start of your next X turns.
-Gain [E]. ([diffRmvS])
-[[Exhaust]]. ([diffRmvE])
+Gain [E].
+[[Exhaust]]. (not
+Exhaust.)
 |-
 |[[Safeguard]]
 |[[File:|thumb|289x289px]]
@@ -503,16 +506,17 @@ Lasts for the next 3(4) Functions created.
 |[[Skill]]
 |0
 |[[Retain]].
-Choose between *Debug, *Batch, *Decompile, and *Byte *Shift. ([diffRmvS])
-[[Exhaust]]. ([diffRmvE])
+Choose between *Debug, *Batch, *Decompile, and *Byte *Shift.
+[[Exhaust]]. (not
+Exhaust.)
 |-
 |[[Early Access]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
 |2
-|([diffAddS] [[Innate]].
-  [diffAddE]) Deal 15 damage.
+|([[Innate]].
+ ) Deal 15 damage.
 [[bronze:Insert]] random [[Status]].
 [[bronze:Compile]] - [[bronze:Insert]] *Beta *Build.
 |-
@@ -521,7 +525,7 @@ Choose between *Debug, *Batch, *Decompile, and *Byte *Shift. ([diffRmvS])
 |Rare
 |[[Skill]]
 |0
-|[[Ethereal]] ([diffAddS] [[Retain]]). ([diffAddE])
+|[[Ethereal]] ([[Retain]]).
 Put a card from your draw or discard pile into your hand.
 Add a [[Dazed]] where it was.
 [[Exhaust]].
@@ -531,7 +535,7 @@ Add a [[Dazed]] where it was.
 |Rare
 |[[Skill]]
 |X
-|[[bronze:Encode]] X ([diffAddS] X+1 [diffAddE]) copies of *Fragment.
+|[[bronze:Encode]] X (X+1) copies of *Fragment.
 Gain [E].
 [[Exhaust]].
 |-
@@ -574,8 +578,8 @@ It costs 0.
 |Rare
 |[[Power]]
 |1
-|([diffAddS] [[Retain]].
-[diffAddE]) Gain 1 [[Strength]].
+|([[Retain]].)
+ Gain 1 [[Strength]].
 [[Transform]] a [[Status]] in your hand into a copy of this.
 |-
 |[[Recursive Strike]]
@@ -584,15 +588,16 @@ It costs 0.
 |[[Attack]]
 |2
 |Deal 6(9) damage 2 times.
-[[bronze:Compile]] - [[bronze:Encode]] 2 copies of *Strike ([diffAddS] *Strike+). ([diffAddE])
+[[bronze:Compile]] - [[bronze:Encode]] 2 copies of *Strike (*Strike+).
 |-
 |[[Sentient Form]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
 |3
-|([diffRmvS]) [[Ethereal]].
-([diffRmvE]) The first time you create or draw a Function each turn, increase all numbers on it by 1.
+|[[Ethereal]].
+(not Ethereal.)
+The first time you create or draw a Function each turn, increase all numbers on it by 1.
 |-
 |[[Ship It]]
 |[[File:|thumb|289x289px]]
@@ -631,6 +636,6 @@ Deals 2(3) additional damage for ALL of your [[Status]] cards.
 |1
 |[[Retain]].
 Deal 3(4) damage.
-[[Transform]] all cards in hand into *Minor *Beam ([diffAddS] *Beam+). ([diffAddE])
+[[Transform]] all cards in hand into *Minor *Beam (*Beam+).
 [[Exhaust]].
 |-
