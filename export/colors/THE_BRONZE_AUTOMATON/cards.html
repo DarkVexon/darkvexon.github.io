@@ -1,0 +1,953 @@
+<!DOCTYPE html!>
+<html>
+  <head>
+    <title>The_bronze_automaton cards</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+  </head>
+  <body>
+    <h1>The_bronze_automaton cards</h1>
+    <table class="sortable">
+  <tr>
+    <th>Name</th>
+    <th>Image</th>
+    <th>Upgraded image</th>
+    <th>Rarity</th>
+    <th>Type</th>
+    <th>Cost</th>
+    <th>Description</th>
+    <th>Mod</th>
+  </tr>
+  
+  <tr>
+    <td>Defend</td>
+    <td><a href="../../downfall/card-images/Defend.png"><img src="../../downfall/small-card-images/Defend.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/DefendPlus.png"><img src="../../downfall/small-card-images/DefendPlus.png" height="298"></a></td>
+    <td>Basic</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Gain 5(8) Block.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Goto</td>
+    <td><a href="../../downfall/card-images/Goto.png"><img src="../../downfall/small-card-images/Goto.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/GotoPlus.png"><img src="../../downfall/small-card-images/GotoPlus.png" height="298"></a></td>
+    <td>Basic</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Draw 1(2) ([diffAddS]) card(s). ([diffAddE])
+bronze:Compile - Next turn, draw 1(2) ([diffAddS]) card(s). ([diffAddE])</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Replicate</td>
+    <td><a href="../../downfall/card-images/Replicate.png"><img src="../../downfall/small-card-images/Replicate.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/ReplicatePlus.png"><img src="../../downfall/small-card-images/ReplicatePlus.png" height="298"></a></td>
+    <td>Basic</td>
+    <td>Attack</td>
+    <td>0</td>
+    <td>Deal 4(6) damage.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Strike</td>
+    <td><a href="../../downfall/card-images/Strike.png"><img src="../../downfall/small-card-images/Strike.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/StrikePlus.png"><img src="../../downfall/small-card-images/StrikePlus.png" height="298"></a></td>
+    <td>Basic</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 6(9) damage.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>function()</td>
+    <td><a href="../../downfall/card-images/function().png"><img src="../../downfall/small-card-images/function().png" height="298"></a></td>
+    <td></td>
+    <td>Special</td>
+    <td>Skill</td>
+    <td>0</td>
+    <td></td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Bit Shift</td>
+    <td><a href="../../downfall/card-images/BitShift.png"><img src="../../downfall/small-card-images/BitShift.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/BitShiftPlus.png"><img src="../../downfall/small-card-images/BitShiftPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>0</td>
+    <td>([diffAddS] Retain.
+[diffAddE]) Choose a card in the Sequence to return to your hand.
+It gains Retain.
+Exhaust.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Branch</td>
+    <td><a href="../../downfall/card-images/Branch.png"><img src="../../downfall/small-card-images/Branch.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/BranchPlus.png"><img src="../../downfall/small-card-images/BranchPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Choose - Deal 9(11) damage or gain 8(10) Block.
+bronze:Encode the option not chosen.
+Exhaust.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Bug Barrage</td>
+    <td><a href="../../downfall/card-images/BugBarrage.png"><img src="../../downfall/small-card-images/BugBarrage.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/BugBarragePlus.png"><img src="../../downfall/small-card-images/BugBarragePlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Add 1 ([diffAddS] 1(2)) *Wound(s) ([diffAddE]) to your hand.
+bronze:Cycle each Status in your hand, dealing 7 damage for each.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Buggy Mess</td>
+    <td><a href="../../downfall/card-images/BuggyMess.png"><img src="../../downfall/small-card-images/BuggyMess.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/BuggyMessPlus.png"><img src="../../downfall/small-card-images/BuggyMessPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>1(0)</td>
+    <td>bronze:Insert random Status.
+Gain 1 [E] .</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Constructor</td>
+    <td><a href="../../downfall/card-images/Constructor.png"><img src="../../downfall/small-card-images/Constructor.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/ConstructorPlus.png"><img src="../../downfall/small-card-images/ConstructorPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Gain 5(7) Block. π
+When bronze:Encoded, if this is the first card, increase its Block by 5(7).</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Cut Through</td>
+    <td><a href="../../downfall/card-images/CutThrough.png"><img src="../../downfall/small-card-images/CutThrough.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/CutThroughPlus.png"><img src="../../downfall/small-card-images/CutThroughPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 5(7) damage.
+Scry 2(3).
+bronze:Compile - Draw !bauto! card.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Delayed Guard</td>
+    <td><a href="../../downfall/card-images/DelayedGuard.png"><img src="../../downfall/small-card-images/DelayedGuard.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/DelayedGuardPlus.png"><img src="../../downfall/small-card-images/DelayedGuardPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>0</td>
+    <td>Next turn, gain 7(10) Block.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Delayed Slice</td>
+    <td><a href="../../downfall/card-images/DelayedSlice.png"><img src="../../downfall/small-card-images/DelayedSlice.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/DelayedSlicePlus.png"><img src="../../downfall/small-card-images/DelayedSlicePlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Attack</td>
+    <td>0</td>
+    <td>Deal 3(4) damage.
+bronze:Compile - ALL enemies lose 6(10) HP.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Deprecate</td>
+    <td><a href="../../downfall/card-images/Deprecate.png"><img src="../../downfall/small-card-images/Deprecate.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/DeprecatePlus.png"><img src="../../downfall/small-card-images/DeprecatePlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>0</td>
+    <td>Apply 1(2) Weak to ALL enemies.
+bronze:Compile *Error - Gain Weak.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Fine Tuning</td>
+    <td><a href="../../downfall/card-images/FineTuning.png"><img src="../../downfall/small-card-images/FineTuning.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/FineTuningPlus.png"><img src="../../downfall/small-card-images/FineTuningPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>0</td>
+    <td>([diffAddS] Retain.
+[diffAddE]) Increase all numbers on cards in the Sequence by 1.
+Exhaust.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Frontload</td>
+    <td><a href="../../downfall/card-images/Frontload.png"><img src="../../downfall/small-card-images/Frontload.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/FrontloadPlus.png"><img src="../../downfall/small-card-images/FrontloadPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>2</td>
+    <td>Gain 12(16) Block.
+bronze:Compile - Function gains Retain.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Invalidate</td>
+    <td><a href="../../downfall/card-images/Invalidate.png"><img src="../../downfall/small-card-images/Invalidate.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/InvalidatePlus.png"><img src="../../downfall/small-card-images/InvalidatePlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>0</td>
+    <td>Apply 1(2) Vulnerable to ALL enemies.
+bronze:Compile *Error - Gain Vulnerable.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Iterate</td>
+    <td><a href="../../downfall/card-images/Iterate.png"><img src="../../downfall/small-card-images/Iterate.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/IteratePlus.png"><img src="../../downfall/small-card-images/IteratePlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 2 damage 3(4) times.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Oil Spill</td>
+    <td><a href="../../downfall/card-images/OilSpill.png"><img src="../../downfall/small-card-images/OilSpill.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/OilSpillPlus.png"><img src="../../downfall/small-card-images/OilSpillPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 4(5) damage and apply 4(5) Poison.
+bronze:Compile *Error - bronze:Insert a *Slimed.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Overheat</td>
+    <td><a href="../../downfall/card-images/Overheat.png"><img src="../../downfall/small-card-images/Overheat.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/OverheatPlus.png"><img src="../../downfall/small-card-images/OverheatPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Attack</td>
+    <td>2</td>
+    <td>Deal 18(24) damage.
+Remove the next bronze:Compile *Error you would bronze:Encode.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Piercing Shot</td>
+    <td><a href="../../downfall/card-images/PiercingShot.png"><img src="../../downfall/small-card-images/PiercingShot.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/PiercingShotPlus.png"><img src="../../downfall/small-card-images/PiercingShotPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 6(8) damage to ALL enemies.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Separator</td>
+    <td><a href="../../downfall/card-images/Separator.png"><img src="../../downfall/small-card-images/Separator.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/SeparatorPlus.png"><img src="../../downfall/small-card-images/SeparatorPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 6(8) damage. π
+When bronze:Encoded, if this is not in the first or last slot, increase its damage by 6(8).</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Sticky Shield</td>
+    <td><a href="../../downfall/card-images/StickyShield.png"><img src="../../downfall/small-card-images/StickyShield.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/StickyShieldPlus.png"><img src="../../downfall/small-card-images/StickyShieldPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Gain 11(14) Block.
+bronze:Insert a *Slimed.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Turbo</td>
+    <td><a href="../../downfall/card-images/Turbo.png"><img src="../../downfall/small-card-images/Turbo.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/TurboPlus.png"><img src="../../downfall/small-card-images/TurboPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Skill</td>
+    <td>0</td>
+    <td>([diffAddS] Retain.
+[diffAddE]) Gain [E] [E].
+bronze:Insert a *Void.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Wild Beam</td>
+    <td><a href="../../downfall/card-images/WildBeam.png"><img src="../../downfall/small-card-images/WildBeam.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/WildBeamPlus.png"><img src="../../downfall/small-card-images/WildBeamPlus.png" height="298"></a></td>
+    <td>Common</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 10(13) damage.
+bronze:Compile *Error - bronze:Insert a *Wound.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Allocate</td>
+    <td><a href="../../downfall/card-images/Allocate.png"><img src="../../downfall/small-card-images/Allocate.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/AllocatePlus.png"><img src="../../downfall/small-card-images/AllocatePlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>1(0)</td>
+    <td>Gain [E] for each Status in your draw pile.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Backtrace</td>
+    <td><a href="../../downfall/card-images/Backtrace.png"><img src="../../downfall/small-card-images/Backtrace.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/BacktracePlus.png"><img src="../../downfall/small-card-images/BacktracePlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Attack</td>
+    <td>0</td>
+    <td>Innate.
+  Deal 7(10) damage.
+bronze:Compile *Error - Function gains Exhaust.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Blockchain</td>
+    <td><a href="../../downfall/card-images/Blockchain.png"><img src="../../downfall/small-card-images/Blockchain.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/BlockchainPlus.png"><img src="../../downfall/small-card-images/BlockchainPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>0</td>
+    <td>Gain 1 bronze:Blur. ([diffAddS]
+bronze:Compile - Gain 1 bronze:Blur. [diffAddE])</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Boost</td>
+    <td><a href="../../downfall/card-images/Boost.png"><img src="../../downfall/small-card-images/Boost.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/BoostPlus.png"><img src="../../downfall/small-card-images/BoostPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>2</td>
+    <td>Gain 8 Block.
+bronze:Compile - Gain 2(3) Strength.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Bronze Armor</td>
+    <td><a href="../../downfall/card-images/BronzeArmor.png"><img src="../../downfall/small-card-images/BronzeArmor.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/BronzeArmorPlus.png"><img src="../../downfall/small-card-images/BronzeArmorPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>0</td>
+    <td>Gain !bauto! Artifact.
+bronze:Compile *Error - ALL enemies gain 2(1) Artifact.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Bronze Orb</td>
+    <td><a href="../../downfall/card-images/BronzeOrb.png"><img src="../../downfall/small-card-images/BronzeOrb.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/BronzeOrbPlus.png"><img src="../../downfall/small-card-images/BronzeOrbPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Innate.
+Deal 6(9) damage.
+Gain 6(9) Block.
+bronze:Encode a random card with bronze:Encode in your draw pile.
+Exhaust.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Class Default</td>
+    <td><a href="../../downfall/card-images/ClassDefault.png"><img src="../../downfall/small-card-images/ClassDefault.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/ClassDefaultPlus.png"><img src="../../downfall/small-card-images/ClassDefaultPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Power</td>
+    <td>1</td>
+    <td>([diffAddS] Retain.
+[diffAddE]) Add a copy of the first card in the current Sequence to the next 2 Sequences automatically.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Cultist Strike</td>
+    <td><a href="../../downfall/card-images/CultistStrike.png"><img src="../../downfall/small-card-images/CultistStrike.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/CultistStrikePlus.png"><img src="../../downfall/small-card-images/CultistStrikePlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 6(9) damage.
+bronze:Compile - Increase this card's damage by 1 permanently.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Dark Dash</td>
+    <td><a href="../../downfall/card-images/DarkDash.png"><img src="../../downfall/small-card-images/DarkDash.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/DarkDashPlus.png"><img src="../../downfall/small-card-images/DarkDashPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Attack</td>
+    <td>2</td>
+    <td>Gain 8(10) Block.
+Deal 8(10) damage.
+bronze:Compile *Error - bronze:Insert a *Void.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Digital Carnage</td>
+    <td><a href="../../downfall/card-images/DigitalCarnage.png"><img src="../../downfall/small-card-images/DigitalCarnage.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/DigitalCarnagePlus.png"><img src="../../downfall/small-card-images/DigitalCarnagePlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Attack</td>
+    <td>2</td>
+    <td>Deal 20(28) damage.
+bronze:Compile *Error - Function is Ethereal.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Flail</td>
+    <td><a href="../../downfall/card-images/Flail.png"><img src="../../downfall/small-card-images/Flail.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/FlailPlus.png"><img src="../../downfall/small-card-images/FlailPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Attack</td>
+    <td>2</td>
+    <td>Deal 6(7) damage to ALL enemies !bauto! times.
+bronze:Compile - Gain 1(2) Artifact.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Follow Through</td>
+    <td><a href="../../downfall/card-images/FollowThrough.png"><img src="../../downfall/small-card-images/FollowThrough.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/FollowThroughPlus.png"><img src="../../downfall/small-card-images/FollowThroughPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 7(9) damage.
+Gain 4(6) Block.
+If the last played card was a Function, play this again.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>For Loop</td>
+    <td><a href="../../downfall/card-images/ForLoop.png"><img src="../../downfall/small-card-images/ForLoop.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/ForLoopPlus.png"><img src="../../downfall/small-card-images/ForLoopPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>X</td>
+    <td>([diffAddS] Retain.
+[diffAddE]) The next card you bronze:Encode causes X additional copies to also be bronze:Encoded.
+Exhaust.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Force Shield</td>
+    <td><a href="../../downfall/card-images/ForceShield.png"><img src="../../downfall/small-card-images/ForceShield.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/ForceShieldPlus.png"><img src="../../downfall/small-card-images/ForceShieldPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>4</td>
+    <td>Costs 1 less [E] for each Function created this combat.
+Gain 12(16) Block.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Fortify</td>
+    <td><a href="../../downfall/card-images/Fortify.png"><img src="../../downfall/small-card-images/Fortify.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/FortifyPlus.png"><img src="../../downfall/small-card-images/FortifyPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Attack</td>
+    <td>2</td>
+    <td>Deal 8 damage.
+bronze:Compile - Gain 2(3) Dexterity.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Get Latest</td>
+    <td><a href="../../downfall/card-images/GetLatest.png"><img src="../../downfall/small-card-images/GetLatest.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/GetLatestPlus.png"><img src="../../downfall/small-card-images/GetLatestPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>1(0)</td>
+    <td>Add a random card with bronze:Encode to your hand.
+It costs 0.
+Exhaust.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Infinite Beams</td>
+    <td><a href="../../downfall/card-images/InfiniteBeams.png"><img src="../../downfall/small-card-images/InfiniteBeams.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/InfiniteBeamsPlus.png"><img src="../../downfall/small-card-images/InfiniteBeamsPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Power</td>
+    <td>1</td>
+    <td>At the start of each turn, add a *Minor *Beam ([diffAddS] *Beam+ [diffAddE]) to your hand.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Invoke</td>
+    <td><a href="../../downfall/card-images/Invoke.png"><img src="../../downfall/small-card-images/Invoke.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/InvokePlus.png"><img src="../../downfall/small-card-images/InvokePlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>0</td>
+    <td>Gain 3(5) Block.
+bronze:Compile - Gain [E] equal to the total cost of cards in the Sequence.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>It's a Feature</td>
+    <td><a href="../../downfall/card-images/ItsaFeature.png"><img src="../../downfall/small-card-images/ItsaFeature.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/ItsaFeaturePlus.png"><img src="../../downfall/small-card-images/ItsaFeaturePlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Power</td>
+    <td>1</td>
+    <td>([diffAddS] Innate.
+[diffAddE]) Whenever you draw a Curse or Status card, gain 1 Temporary Strength and Dexterity.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Max Output</td>
+    <td><a href="../../downfall/card-images/MaxOutput.png"><img src="../../downfall/small-card-images/MaxOutput.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/MaxOutputPlus.png"><img src="../../downfall/small-card-images/MaxOutputPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Power</td>
+    <td>1(0)</td>
+    <td>Draw 3 cards.
+At the start of each turn, draw 1 additional card and bronze:Insert 1 *Dazed.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Merge Conflict</td>
+    <td><a href="../../downfall/card-images/MergeConflict.png"><img src="../../downfall/small-card-images/MergeConflict.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/MergeConflictPlus.png"><img src="../../downfall/small-card-images/MergeConflictPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Attack</td>
+    <td>2</td>
+    <td>Deal 10 damage.
+The next time you bronze:Encode a card, bronze:Encode a copy of it. ([diffRmvS])
+Exhaust. ([diffRmvE])</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Null Pointer</td>
+    <td><a href="../../downfall/card-images/NullPointer.png"><img src="../../downfall/small-card-images/NullPointer.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/NullPointerPlus.png"><img src="../../downfall/small-card-images/NullPointerPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 12(15) damage.
+Gain 12(15) Block.
+bronze:Compile *Error - Function is Unplayable.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Optimize</td>
+    <td><a href="../../downfall/card-images/Optimize.png"><img src="../../downfall/small-card-images/Optimize.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/OptimizePlus.png"><img src="../../downfall/small-card-images/OptimizePlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Power</td>
+    <td>0</td>
+    <td>Upgrade the next 3(5) cards you bronze:Encode that can be upgraded.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Overload</td>
+    <td><a href="../../downfall/card-images/Overload.png"><img src="../../downfall/small-card-images/Overload.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/OverloadPlus.png"><img src="../../downfall/small-card-images/OverloadPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Play a copy of each card in the Sequence. They do not Encode. ([diffRmvS])
+Exhaust. ([diffRmvE])</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Philosophize</td>
+    <td><a href="../../downfall/card-images/Philosophize.png"><img src="../../downfall/small-card-images/Philosophize.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/PhilosophizePlus.png"><img src="../../downfall/small-card-images/PhilosophizePlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Gain !bauto! Strength.
+bronze:Compile *Error - ALL enemies gain 2(1) Strength.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Refactor</td>
+    <td><a href="../../downfall/card-images/Refactor.png"><img src="../../downfall/small-card-images/Refactor.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/RefactorPlus.png"><img src="../../downfall/small-card-images/RefactorPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Scry 4.
+Exhaust all cards discarded.
+Gain 4(6) Block for each Status card exhausted.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Repair</td>
+    <td><a href="../../downfall/card-images/Repair.png"><img src="../../downfall/small-card-images/Repair.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/RepairPlus.png"><img src="../../downfall/small-card-images/RepairPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Gain 4 Block.
+bronze:Compile - Heal 7(10) HP.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Repulsor</td>
+    <td><a href="../../downfall/card-images/Repulsor.png"><img src="../../downfall/small-card-images/Repulsor.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/RepulsorPlus.png"><img src="../../downfall/small-card-images/RepulsorPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Power</td>
+    <td>2</td>
+    <td>([diffAddS] Innate.
+[diffAddE]) When you draw the first Status or Curse card each turn, Exhaust it and draw a card.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Return</td>
+    <td><a href="../../downfall/card-images/Return.png"><img src="../../downfall/small-card-images/Return.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/ReturnPlus.png"><img src="../../downfall/small-card-images/ReturnPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>X</td>
+    <td>Gain [E] and draw 1 additional card at the start of your next X turns.
+Gain [E]. ([diffRmvS])
+Exhaust. ([diffRmvE])</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Safeguard</td>
+    <td><a href="../../downfall/card-images/Safeguard.png"><img src="../../downfall/small-card-images/Safeguard.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/SafeguardPlus.png"><img src="../../downfall/small-card-images/SafeguardPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Gain 10(13) Block.
+bronze:Compile *Error - Gain 2 Frail.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Terminator</td>
+    <td><a href="../../downfall/card-images/Terminator.png"><img src="../../downfall/small-card-images/Terminator.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/TerminatorPlus.png"><img src="../../downfall/small-card-images/TerminatorPlus.png" height="298"></a></td>
+    <td>Uncommon</td>
+    <td>Skill</td>
+    <td>1(0)</td>
+    <td>bronze:Compile - If this is the last card in the Sequence, Function gains 'Play this again'.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Assembly</td>
+    <td><a href="../../downfall/card-images/Assembly.png"><img src="../../downfall/small-card-images/Assembly.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/AssemblyPlus.png"><img src="../../downfall/small-card-images/AssemblyPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Skill</td>
+    <td>1</td>
+    <td>Scry 5(8).
+bronze:Encode all cards with bronze:Encode discarded.
+Exhaust.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Break</td>
+    <td><a href="../../downfall/card-images/Break.png"><img src="../../downfall/small-card-images/Break.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/BreakPlus.png"><img src="../../downfall/small-card-images/BreakPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 15(18) damage.
+bronze:Compile *Error - bronze:Insert 4(3) random Status cards.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Burn Out</td>
+    <td><a href="../../downfall/card-images/BurnOut.png"><img src="../../downfall/small-card-images/BurnOut.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/BurnOutPlus.png"><img src="../../downfall/small-card-images/BurnOutPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Attack</td>
+    <td>2</td>
+    <td>Deal 5(8) damage to a random enemy for ALL of your Status cards, then Exhaust them.
+bronze:Insert 3 *Burns.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Clean Code</td>
+    <td><a href="../../downfall/card-images/CleanCode.png"><img src="../../downfall/small-card-images/CleanCode.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/CleanCodePlus.png"><img src="../../downfall/small-card-images/CleanCodePlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Power</td>
+    <td>2</td>
+    <td>Remove all bronze:Compile *Error effects from cards in the Sequence.
+Lasts for the next 3(4) Functions created.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Dev Tools</td>
+    <td><a href="../../downfall/card-images/DevTools.png"><img src="../../downfall/small-card-images/DevTools.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/DevToolsPlus.png"><img src="../../downfall/small-card-images/DevToolsPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Skill</td>
+    <td>0</td>
+    <td>Retain.
+Choose between *Debug, *Batch, *Decompile, and *Byte *Shift. ([diffRmvS])
+Exhaust. ([diffRmvE])</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Early Access</td>
+    <td><a href="../../downfall/card-images/EarlyAccess.png"><img src="../../downfall/small-card-images/EarlyAccess.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/EarlyAccessPlus.png"><img src="../../downfall/small-card-images/EarlyAccessPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Attack</td>
+    <td>2</td>
+    <td>([diffAddS] Innate.
+  [diffAddE]) Deal 15 damage.
+bronze:Insert random Status.
+bronze:Compile - bronze:Insert *Beta *Build.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Find and Replace</td>
+    <td><a href="../../downfall/card-images/FindandReplace.png"><img src="../../downfall/small-card-images/FindandReplace.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/FindandReplacePlus.png"><img src="../../downfall/small-card-images/FindandReplacePlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Skill</td>
+    <td>0</td>
+    <td>Ethereal ([diffAddS] Retain). ([diffAddE])
+Put a card from your draw or discard pile into your hand.
+Add a Dazed where it was.
+Exhaust.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Format</td>
+    <td><a href="../../downfall/card-images/Format.png"><img src="../../downfall/small-card-images/Format.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/FormatPlus.png"><img src="../../downfall/small-card-images/FormatPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Skill</td>
+    <td>X</td>
+    <td>bronze:Encode X ([diffAddS] X+1 [diffAddE]) copies of *Fragment.
+Gain [E].
+Exhaust.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>HYPER BEAM</td>
+    <td><a href="../../downfall/card-images/HYPERBEAM.png"><img src="../../downfall/small-card-images/HYPERBEAM.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/HYPERBEAMPlus.png"><img src="../../downfall/small-card-images/HYPERBEAMPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Attack</td>
+    <td>6(5)</td>
+    <td>Retain.
+Deal 45 damage to ALL enemies.
+Put 5 *Void on top of your draw pile.
+When Retained, lower its cost by 1 this combat.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Hardcode</td>
+    <td><a href="../../downfall/card-images/Hardcode.png"><img src="../../downfall/small-card-images/Hardcode.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/HardcodePlus.png"><img src="../../downfall/small-card-images/HardcodePlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Power</td>
+    <td>3(0)</td>
+    <td>Fleeting.
+The next Function you create goes into your deck permanently instead of your hand.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Infinite Loop</td>
+    <td><a href="../../downfall/card-images/InfiniteLoop.png"><img src="../../downfall/small-card-images/InfiniteLoop.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/InfiniteLoopPlus.png"><img src="../../downfall/small-card-images/InfiniteLoopPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 6 damage.
+bronze:Compile - Add a copy of this into your hand and increase its damage by 2(3).</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Library</td>
+    <td><a href="../../downfall/card-images/Library.png"><img src="../../downfall/small-card-images/Library.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/LibraryPlus.png"><img src="../../downfall/small-card-images/LibraryPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Power</td>
+    <td>3(2)</td>
+    <td>At the start of your turn, add a random card with bronze:Encode to your hand.
+It costs 0.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Mutator</td>
+    <td><a href="../../downfall/card-images/Mutator.png"><img src="../../downfall/small-card-images/Mutator.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/MutatorPlus.png"><img src="../../downfall/small-card-images/MutatorPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Power</td>
+    <td>1</td>
+    <td>([diffAddS] Retain.
+[diffAddE]) Gain 1 Strength.
+Transform a Status in your hand into a copy of this.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Recursive Strike</td>
+    <td><a href="../../downfall/card-images/RecursiveStrike.png"><img src="../../downfall/small-card-images/RecursiveStrike.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/RecursiveStrikePlus.png"><img src="../../downfall/small-card-images/RecursiveStrikePlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Attack</td>
+    <td>2</td>
+    <td>Deal 6(9) damage 2 times.
+bronze:Compile - bronze:Encode 2 copies of *Strike ([diffAddS] *Strike+). ([diffAddE])</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Sentient Form</td>
+    <td><a href="../../downfall/card-images/SentientForm.png"><img src="../../downfall/small-card-images/SentientForm.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/SentientFormPlus.png"><img src="../../downfall/small-card-images/SentientFormPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Power</td>
+    <td>3</td>
+    <td>([diffRmvS]) Ethereal.
+([diffRmvE]) The first time you create or draw a Function each turn, increase all numbers on it by 1.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Ship It</td>
+    <td><a href="../../downfall/card-images/ShipIt.png"><img src="../../downfall/small-card-images/ShipIt.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/ShipItPlus.png"><img src="../../downfall/small-card-images/ShipItPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Deal 5 damage.
+Deals 2(3) additional damage for ALL of your Status cards.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Spaghetti Code</td>
+    <td><a href="../../downfall/card-images/SpaghettiCode.png"><img src="../../downfall/small-card-images/SpaghettiCode.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/SpaghettiCodePlus.png"><img src="../../downfall/small-card-images/SpaghettiCodePlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Skill</td>
+    <td>2(1)</td>
+    <td>Until the Sequence is full, choose 1 of 3 random cards to bronze:Encode.
+Exhaust.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Summon Orb</td>
+    <td><a href="../../downfall/card-images/SummonOrb.png"><img src="../../downfall/small-card-images/SummonOrb.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/SummonOrbPlus.png"><img src="../../downfall/small-card-images/SummonOrbPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Power</td>
+    <td>2</td>
+    <td>Whenever you create or play a Function, gain 4(6) Block and deal 4(6) damage to a random enemy.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Thunder Wave</td>
+    <td><a href="../../downfall/card-images/ThunderWave.png"><img src="../../downfall/small-card-images/ThunderWave.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/ThunderWavePlus.png"><img src="../../downfall/small-card-images/ThunderWavePlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Attack</td>
+    <td>2</td>
+    <td>Deal 7(9) damage to a random enemy for each Function created this combat.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+  <tr>
+    <td>Virus</td>
+    <td><a href="../../downfall/card-images/Virus.png"><img src="../../downfall/small-card-images/Virus.png" height="298"></a></td>
+    <td><a href="../../downfall/card-images/VirusPlus.png"><img src="../../downfall/small-card-images/VirusPlus.png" height="298"></a></td>
+    <td>Rare</td>
+    <td>Attack</td>
+    <td>1</td>
+    <td>Retain.
+Deal 3(4) damage.
+Transform all cards in hand into *Minor *Beam ([diffAddS] *Beam+). ([diffAddE])
+Exhaust.</td>
+    <td><a href="downfall/index.html">Downfall</a></td>
+  </tr>
+  
+</table>
+  </body>
+</html>

@@ -1,0 +1,70 @@
+| Name | Description |
+| ---- | ----------- |
+| Bronze:blur | Do not lose Block at the end of the turn. |
+| Bronze:compile | An additional effect that triggers when this card, while in the Sequence, is combined into a Function. Can be a negative effect, which is referred to as an 'Error'. |
+| Bronze:cycle | Discard a card, drawing a new card to replace it. |
+| Bronze:encode | Add the card to the Sequence. When 3 cards are in the Sequence, their effects (other than Encode) are merged into a Function with cost equal to the highest cost card in the Sequence. |
+| Bronze:insert | Add a card to your draw pile. |
+| Champ:berserker | Stance. Technique Bonus: Fatigue 5. Finisher Bonus: Lose all Fatigue and gain that much HP, preserving Strength. |
+| Champ:combo | Extra effect when played in the listed Stance, or if you entered that Stance this turn. |
+| Champ:counter | The next time you take Attack damage, deal damage back. |
+| Champ:defensive | Stance. Technique Bonus: Gain 5 Counter. Finisher Bonus: Gain 12 Block. |
+| Champ:fatigue | Lose HP and gain 1 Strength for every 10 HP lost. Regenerate Fatigued health at the end of combat. |
+| Champ:finisher | After playing a Finisher, if you are in a Stance, exit it and trigger its Finisher bonus. |
+| Champ:gladiator | Stance. Technique Bonus: Draw a card. Finisher Bonus: Next turn, draw 1 card and gain [E] . End your turn. |
+| Champ:technique | If you are in a Stance, trigger its Technique bonus. |
+| Champ:ultimate | Stance. Counts as both Defensive and Berserker Stances. Finishers do not exit the Stance. You can't change to any other Stance. |
+| Downfall:fire | Only Ammo can be fired. Firing Ammo activates its effect and discards it. |
+| Expansioncontent:boss | You may only play 1 Boss card in a turn. |
+| Expansioncontent:invincible | You cannot lose more than a given amount of HP in a single turn. At the end of any round in which Invincible prevented HP loss, remove it. |
+| Guardianmod:accelerate | Reduce the turn counter of the right-most card in Stasis by 1. If the card's turn counter is now 0, return it to your hand. It costs 0 until played. |
+| Guardianmod:brace | Reduce the HP loss required to trigger Mode Shift by X, triggering Mode Shift if the HP loss required is now 0. |
+| Guardianmod:buffer | Prevent the next time you would lose HP. |
+| Guardianmod:defensive mode | Stance. Gain 10 Block when entering Defensive Mode. While in Defensive Mode, you have 3 Thorns, gain 10 Block at the start of your turn, and your Block does not expire. |
+| Guardianmod:gem | Gems can be placed into Sockets in cards at a Rest Site. Cannot be Upgraded. |
+| Guardianmod:package | 0-cost Exhausting Skill that generates three cards inspired by a chosen Construct of the Spire, and reduces their cost by 1 for this combat. |
+| Guardianmod:socket | Gems can be placed into this Socket at a Rest Site to combine the Gem's effect with this card's effect. |
+| Guardianmod:stasis | A card in Stasis gains a turn counter equal to its cost plus 1. Turn counter is reduced by 1 at the start of your turn. When the counter reaches 0, it is returned to your hand and costs 0 until played. |
+| Guardianmod:tick | This effect is triggered whenever this card's turn counter is reduced while in Stasis. |
+| Guardianmod:volatile | When this card leaves Stasis, Exhaust it instead of returning it to your hand. |
+| Hexamod:active | The Active Ghostflame can be Ignited by meeting its listed Ignition requirements. |
+| Hexamod:advance | Activate the next Ghostflame. If it's Ignited, Extinguish it. |
+| Hexamod:afterlife | If this card is Exhausted, its effects activate. |
+| Hexamod:bolstering | Ghostflame. Ignites when a Power is played while Active. Ignition: When Ignited, gain 4 Block and 1 Strength. |
+| Hexamod:crushing | Ghostflame. Ignites when 2 Skills are played while Active. Ignition: When Ignited, deal 4 damage to a random enemy twice. |
+| Hexamod:extinguish | Allows Ghostflame to become Ignited again, resetting its Ignition requirements. |
+| Hexamod:force-ignite | Triggers the Ignition effect described on a Ghostflame, even if it was already Ignited. |
+| Hexamod:ignite | Triggers the Ignition effect described on a Ghostflame. |
+| Hexamod:intensity | Intensity increases the amount of damage, Soulburn, and Block applied by Ghostflames when Ignited. |
+| Hexamod:retract | Activate the previous Ghostflame. If it's Ignited, Extinguish it. |
+| Hexamod:seal | Can't be upgraded. If all 6 Seals have been played this combat, obtain The Broken Seal and remove the Seals from your deck. |
+| Hexamod:searing | Ghostflame. Ignites when 2 Attacks are played while Active. Ignition: When Ignited, apply 4 Soulburn to a random enemy. |
+| Hexamod:soulburn | After 3 turns, a Soulburned enemy loses HP, removing the Soulburn effect. |
+| Slimeboundmod:absorb | Manually recombine with your leading Slime, granting you 1 Strength. |
+| Slimeboundmod:ancient slime | Attacks for 3 and causes you to draw 1 card each turn. |
+| Slimeboundmod:bronze slime | Attacks for 4 and grants you 4 Block each turn. |
+| Slimeboundmod:bruiser slime | Attacks for 5 each turn. |
+| Slimeboundmod:command | Your leading Slime attacks. |
+| Slimeboundmod:consume | Bonus effect which activates when an Attack is used on an enemy who has Goop. |
+| Slimeboundmod:cultist slime | Attacks for 6 each turn, then increases its damage by 1. |
+| Slimeboundmod:darkling slime | Attacks for 3 each turn. When Commanded, other Darkling Slimes also attack. |
+| Slimeboundmod:ghostflame slime | Attacks for 3 and applies 3 Soulburn each turn. |
+| Slimeboundmod:goop | The next attack deals 1 more damage per Goop, removing all Goop and triggering any Consume effects. |
+| Slimeboundmod:guerilla slime | Attacks for 3 to ALL enemies each turn. |
+| Slimeboundmod:insulting slime | Attacks for 4 and applies 1 Vulnerable each turn. |
+| Slimeboundmod:leeching slime | Attacks for 1 and grants you 3 Block each turn. |
+| Slimeboundmod:lick | 0-cost cards that apply Goop with a variety of secondary effects. |
+| Slimeboundmod:mire slime | Attacks for 2 and applies 2 Goop each turn. |
+| Slimeboundmod:morph | Replace with a random new card of your class, regardless of type. It costs 1 less. |
+| Slimeboundmod:potency | Increases the damage of ALL of your Spawned Slimes. |
+| Slimeboundmod:protector slime | Attacks for 2 and grants you 6 Block each turn. |
+| Slimeboundmod:slow | Receives 10% more damage per card played in a turn. |
+| Slimeboundmod:specialist | A unique slime with a more powerful effect than normal slimes. |
+| Slimeboundmod:spire boss | Powerful 0-cost cards, inspired by the bosses of the Spire. |
+| Slimeboundmod:split | Spawn a Slime minion, who attacks at the start of each turn.  If you have no empty slots, your oldest Slime is automatically Absorbed to make room, granting you 1 Strength. |
+| Slimeboundmod:tackle | High-damage Attacks that also deal a small amount of damage to you. |
+| Slimeboundmod:time slime | Attacks for 4 and applies 1 Weak each turn. |
+| Slimeboundmod:torchhead slime | Attacks for 6 each turn. Gains damage from your Strength. |
+| Sneckomod:muddle | Muddling a card changes its cost to between 0 and 3. |
+| Sneckomod:offclass | An Offclass card is any obtainable card from a class other than your own (including Colorless cards). |
+| Sneckomod:snekproof | Snekproof cards aren't affected by Confusion and cannot be Muddled. |

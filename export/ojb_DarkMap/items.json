@@ -1,0 +1,23 @@
+{
+  "mod": {
+    "name": "Dark Map",
+    "version": "0.1.1",
+    "authors": ["ojb"],
+    "credits": "",
+    "description": "Gives the map a dark theme",
+    "mts_version": "3.18.2",
+    "sts_version": "12-22-2020",
+    "dependencies": ["basemod"],
+    "optional_dependencies": []
+  },
+  "cards": [
+  ],
+  "relics": [
+  ],
+  "potions": [
+  ],
+  "creatures": [
+  ],
+  "keywords": [
+  ]
+}

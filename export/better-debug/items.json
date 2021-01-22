@@ -1,0 +1,23 @@
+{
+  "mod": {
+    "name": "Better Debug",
+    "version": "0.0.1",
+    "authors": ["Blank The Evil"],
+    "credits": "",
+    "description": "Adds better debug info for modders.",
+    "mts_version": "3.11.0",
+    "sts_version": "07-01-2019",
+    "dependencies": ["basemod"],
+    "optional_dependencies": []
+  },
+  "cards": [
+  ],
+  "relics": [
+  ],
+  "potions": [
+  ],
+  "creatures": [
+  ],
+  "keywords": [
+  ]
+}

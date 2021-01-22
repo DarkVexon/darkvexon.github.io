@@ -1,0 +1,23 @@
+{
+  "mod": {
+    "name": "Colored Powertips",
+    "version": "2.2.0",
+    "authors": ["erasels"],
+    "credits": "",
+    "description": "Colors powertips depending on if they belong to a buff or debuff.",
+    "mts_version": "3.15.0",
+    "sts_version": "14-01-2019",
+    "dependencies": ["basemod"],
+    "optional_dependencies": []
+  },
+  "cards": [
+  ],
+  "relics": [
+  ],
+  "potions": [
+  ],
+  "creatures": [
+  ],
+  "keywords": [
+  ]
+}
