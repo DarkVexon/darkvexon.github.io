@@ -7,7 +7,7 @@
 | ![](relics/sneckomod-SneckoSoul.png) | Snecko Soul | Starter | Snecko_cyan | You may Identify #yUnknown cards at Rest Sites. | 0...3...2...2...1 |
 | ![](relics/hexamod-SpiritBrand.png) | Spirit Brand | Starter | Hexa_ghost_purple | The first time you #yIgnite a Ghostflame each turn, gain #b5 #yBlock. | A bound protector. |
 | ![](relics/Guardian-PocketSentry.png) | Arumba's Pocket Sentry | Common |  | At the start of each turn, alternates between: NL Deal #b7 damage to a random enemy. NL Apply #b1 #yWeak to ALL enemies. | Sentry Mode active. Target acquired. No hard feelings. |
-| ![](relics/Guardian-DefensiveModeMoreBlock.png) | Baalor's Lordly Plate | Common | Guardian | Whenever you #yguardianmod:Brace, reduce Mode Shift's counter by 1. | One can never have enough armor. |
+| ![](relics/Guardian-DefensiveModeMoreBlock.png) | Baalor's Lordly Plate | Common | Guardian | Whenever you #yguardianmod:Brace, #yBrace 1 more. | One can never have enough armor. |
 | ![](relics/sneckomod-BlankCard.png) | Blank Card | Common |  | At the start of each combat, play a copy of a random card from your deck. | Card Mimic. |
 | ![](relics/bronze-BronzeIdol.png) | Bronze Idol | Common |  | #yStatus cards may now be played for useful effects. | An ancient, weaponised antivirus - who knows who made it, and why? |
 | ![](relics/champ-DefensiveTrainingManual.png) | Defensive Thesis | Common | The_champ_gray | Defensive Stance's #yFinisher #yBonus grants #b8 more #yBlock. | Pro tip: Don't get hit. |
@@ -63,6 +63,7 @@
 | ![](relics/sneckomod-D8.png) | Mystical Octahedron | Special | Snecko_cyan | Upon pickup, choose a card that selects a random number for its effects. This card always selects its maximum possible number. | It appears weighted toward one side. |
 | ![](relics/NeowBlessing_Player.png) | Neow's Blessing | Special |  | Upon pickup, increase your Maximum HP by #b100. NL Increase your Maximum HP by #b100 at the start of each Act. NL Lose all your Potion slots. NL Draw #b1 less card and lose [E] at the start of your turn. | Ease your rage. Be as tough and unyielding as the Spire itself. |
 | ![](relics/champ-ChampStancesModRelic.png) | New Challenger | Special |  | Start each combat in a random Champ #yStance. | Can you take the crown? |
+| ![](relics/bronze-AnalyticalCore.png) | Paradox Artifact | Special |  | At the start of each turn, add a random card with Encode to your hand and give it Ethereal. | You've never seen a coding frenzy like this before. |
 | ![](relics/Guardian-StasisEgg.png) | Quantum Chamber | Special | Guardian | Upon pickup, choose a card. Start each combat with this card removed from your deck. At the start of your #b4th turn, return it and #b2 copies of it to your hand. | You get the chicken by hatching the egg, not by smashing it. |
 | ![](relics/HeartBlessingRed.png) | Ruby Heart Blessing | Special |  | Start each combat with #b1 #yStrength. | The heart is strong. The heart is pleased. |
 | ![](relics/HeartBlessingBlue.png) | Sapphire Heart Blessing | Special |  | Upon pickup, raise your Max HP by #b10. | The heart is pleased. |
@@ -75,7 +76,7 @@
 | ![](relics/sneckomod-BabySnecko.png) | Young Snecko | Special |  | Deals #b5 damage to a random enemy at the start of your turn. | Bewilderingly adorable. |
 | ![](relics/Slimebound-AbsorbEndCombatUpgraded.png) | Black Heart of Goo | Boss | Slimebound | Replaces [#40c840ff]Heart[] [#40c840ff]of[] [#40c840ff]Goo[][#40c840ff].[] NL Whenever you #yslimeboundmod:Consume, heal #b3 HP, up to #b15 each combat. | The Secret of the Ooze. |
 | ![](relics/bronze-ElectromagneticCoil.png) | Electromagnetic Coil | Boss | The_bronze_automaton | #yFunctions are now made up of #b4 cards. | An inefficient but entertaining power source. |
-| ![](relics/Guardian-ModeShifterPlus.png) | Guardian Gear | Boss | Guardian | Replaces #rMode #rShifter. NL Begin each combat in #yguardianmod:Defensive_Mode, which persists for #b3 turns. | Replace every 3,000 floors. |
+| ![](relics/Guardian-ModeShifterPlus.png) | Guardian Gear | Boss | Guardian | Replaces #rBronze #rGear. NL Begin each combat in #yguardianmod:Defensive_Mode, which persists for #b3 turns. | Replace every 3,000 floors. |
 | ![](relics/sneckomod-SneckoTalon.png) | Idol of Retromation | Boss |  | At the start of your turn, reduce the cost of the most expensive card in your hand by #b1 for this turn. | Often called the Idol of Reto for short. |
 | ![](relics/sneckomod-SneckoBoss.png) | Lucky Horseshoe | Boss | Snecko_cyan | Upon pickup, choose #b1 of #b3 #yUnknown Character cards. Add #b5 copies of it to your deck. All combats drop an additional card reward of the chosen character's cards. | Make your own luck. |
 | ![](relics/bronze-MakeshiftBattery.png) | Makeshift Battery | Boss |  | Gain [E] and add a random #yStatus card into your discard pile at the start of your turn. | It's an 8.99 volt. |

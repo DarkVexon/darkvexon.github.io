@@ -13,15 +13,15 @@
 |[[File:|thumb|289x289px]]
 |Basic
 |[[Skill]]
-|1(0)
-|Apply !SlimeboundSlimed! [[slimeboundmod:Goop]].
+|1 (0)
+|Apply 6 [[slimeboundmod:Goop]].
 |-
 |[[Defend]]
 |[[File:|thumb|289x289px]]
 |Basic
 |[[Skill]]
 |1
-|Gain 5(8) [[Block]].
+|Gain 5 (8) [[Block]].
 |-
 |[[Split]]
 |[[File:|thumb|289x289px]]
@@ -36,21 +36,21 @@
 |Basic
 |[[Attack]]
 |1
-|Deal 6(9) damage.
+|Deal 6 (9) damage.
 |-
 |[[Tackle]]
 |[[File:|thumb|289x289px]]
 |Basic
 |[[Attack]]
 |1
-|Deal 12(16) damage and !SlimeboundSelfharm! damage to yourself.
+|Deal 12 (16) damage and 3 damage to yourself.
 |-
 |[[Combo Tackle]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |2
-|Deal 12(15) damage and !SlimeboundSelfharm! damage to yourself.
+|Deal 12 (15) damage and 3 damage to yourself.
 Add a random ([[Upgraded]]) [[slimeboundmod:Tackle]] card to your hand. It costs 0 this turn.
 |-
 |[[Goop Spray]]
@@ -58,15 +58,15 @@ Add a random ([[Upgraded]]) [[slimeboundmod:Tackle]] card to your hand. It costs
 |Common
 |[[Skill]]
 |1
-|Gain 5(6) [[Block]].
-Apply !SlimeboundSlimed! [[slimeboundmod:Goop]] and 1(2) [[Weak]] to ALL enemies.
+|Gain 5 (6) [[Block]].
+Apply 5 (6) [[slimeboundmod:Goop]] and 1 (2) [[Weak]] to ALL enemies.
 |-
 |[[Haunting Lick]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |0
-|Apply 1 [[Vulnerable]] and !SlimeboundSlimed! [[slimeboundmod:Goop]].
+|Apply 1 [[Vulnerable]] and 4 [[slimeboundmod:Goop]].
 (Draw a card.)
  [[Exhaust]].
 |-
@@ -75,21 +75,21 @@ Apply !SlimeboundSlimed! [[slimeboundmod:Goop]] and 1(2) [[Weak]] to ALL enemies
 |Common
 |[[Attack]]
 |1
-|Deal 8(10) damage. [[slimeboundmod:Consume]] - Add a *Lick (*Lick+) to your hand.
+|Deal 8 (10) damage. [[slimeboundmod:Consume]] - Add a Lick (*Lick+) to your hand.
 |-
 |[[Leech Energy]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 5 damage. [[slimeboundmod:Consume]] - Gain [E] and draw 1(2) card(s).
+|Deal 5 damage. [[slimeboundmod:Consume]] - Gain [E] and draw 1 (2) card(s).
 |-
 |[[Leeching Strike]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 5(8) damage.
+|Deal 5 (8) damage.
 [[slimeboundmod:Consume]] - Gain [[Block]] equal to the enemy's [[slimeboundmod:Goop]].
 |-
 |[[Living Wall]]
@@ -97,22 +97,22 @@ Apply !SlimeboundSlimed! [[slimeboundmod:Goop]] and 1(2) [[Weak]] to ALL enemies
 |Common
 |[[Skill]]
 |2
-|Gain 12(15) [[Block]].
-Apply !SlimeboundSlimed! [[slimeboundmod:Goop]] to attackers this turn.
+|Gain 12 (15) [[Block]].
+Apply 4 (6) [[slimeboundmod:Goop]] to attackers this turn.
 |-
 |[[Opening Tackle]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 11(14) damage and !SlimeboundSelfharm! damage to yourself. [[slimeboundmod:Consume]] - Apply 2(3) [[Vulnerable]].
+|Deal 11 (14) damage and 3 damage to yourself. [[slimeboundmod:Consume]] - Apply 2 (3) [[Vulnerable]].
 |-
 |[[Prepare]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |2
-|Gain 10(15) [[Block]].
+|Gain 10 (15) [[Block]].
 Next turn, gain [E] [E] and draw 2 cards.
 [[Exhaust]].
 |-
@@ -128,15 +128,15 @@ Next turn, gain [E] [E] and draw 2 cards.
 |Common
 |[[Attack]]
 |1
-|Deal 5(7) damage to ALL enemies.
-You do not take damage from the next 2(3) [[slimeboundmod:Tackle]] cards.
+|Deal 5 (7) damage to ALL enemies.
+You do not take damage from the next 2 (3) [[slimeboundmod:Tackle]] cards.
 |-
 |[[Sampling Lick]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |0
-|Apply !SlimeboundSlimed! [[slimeboundmod:Goop]].
+|Apply 4 [[slimeboundmod:Goop]].
 Gain 4 [[Block]].
 (Draw a card.)
  [[Exhaust]].
@@ -147,22 +147,22 @@ Gain 4 [[Block]].
 |[[Skill]]
 |1
 |Gain 6 [[Block]].
-Add 2(3) *Licks to your hand.
+Add 2 (3) Licks to your hand.
 |-
 |[[Slime Spikes]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |1
-|Gain 7(9) [[Block]] and 3(4) temporary [[Thorns]].
+|Gain 7 (9) [[Block]] and 3 (4) temporary [[Thorns]].
 |-
 |[[Spear Tackle]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 11(13) damage and !SlimeboundSelfharm! damage to yourself.
-Draw 2(3) cards.
+|Deal 11 (13) damage and 3 damage to yourself.
+Draw 2 (3) cards.
 |-
 |[[Split: Bruiser]]
 |[[File:|thumb|289x289px]]
@@ -170,7 +170,7 @@ Draw 2(3) cards.
 |[[Skill]]
 |1
 |[[slimeboundmod:Split]] into a [[slimeboundmod:Bruiser_Slime]].
-[[slimeboundmod:Command]] 2(3) times.
+[[slimeboundmod:Command]] 2 (3) times.
 [[Exhaust]].
 |-
 |[[Split: Guerilla]]
@@ -179,7 +179,7 @@ Draw 2(3) cards.
 |[[Skill]]
 |1
 |[[slimeboundmod:Split]] into a [[slimeboundmod:Guerilla_Slime]].
-[[slimeboundmod:Command]] 2(3) times.
+[[slimeboundmod:Command]] 2 (3) times.
 [[Exhaust]].
 |-
 |[[Split: Leeching]]
@@ -188,7 +188,7 @@ Draw 2(3) cards.
 |[[Skill]]
 |1
 |[[slimeboundmod:Split]] into a [[slimeboundmod:Leeching_Slime]].
-[[slimeboundmod:Command]] 2(3) times.
+[[slimeboundmod:Command]] 2 (3) times.
 [[Exhaust]].
 |-
 |[[Split: Mire]]
@@ -197,7 +197,7 @@ Draw 2(3) cards.
 |[[Skill]]
 |1
 |[[slimeboundmod:Split]] into a [[slimeboundmod:Mire_Slime]].
-[[slimeboundmod:Command]] 2(3) times.
+[[slimeboundmod:Command]] 2 (3) times.
 [[Exhaust]].
 |-
 |[[Chomp]]
@@ -205,7 +205,7 @@ Draw 2(3) cards.
 |Uncommon
 |[[Attack]]
 |1
-|Deal 8(10) damage.
+|Deal 8 (10) damage.
 Reduce the cost of a random [[slimeboundmod:Tackle]] card in your hand to 0 this turn (combat).
 |-
 |[[Disrupting Slam]]
@@ -213,14 +213,14 @@ Reduce the cost of a random [[slimeboundmod:Tackle]] card in your hand to 0 this
 |Uncommon
 |[[Attack]]
 |1
-|Deal 5(8) damage to ALL enemies. Apply 1(2) [[Weak]] to each enemy that intends to attack.
+|Deal 5 (8) damage to ALL enemies. Apply 1 (2) [[Weak]] to each enemy that intends to attack.
 |-
 |[[Dissolve]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |0
-|Draw a card, then [[Exhaust]] a card in your hand. Add a number of *Licks to your hand equal to it's cost (plus 1).
+|Draw a card, then [[Exhaust]] a card in your hand. Add a number of Licks to your hand equal to its cost (plus 1).
 [[Exhaust]].
 |-
 |[[Divide & Conquer]]
@@ -228,7 +228,7 @@ Reduce the cost of a random [[slimeboundmod:Tackle]] card in your hand to 0 this
 |Uncommon
 |[[Attack]]
 |1
-|Deal 10(15) damage to a random enemy for each Slime.
+|Deal 10 (15) damage to a random enemy for each Slime.
 [[slimeboundmod:Absorb]] all Slimes.
 [[Exhaust]].
 |-
@@ -237,8 +237,8 @@ Reduce the cost of a random [[slimeboundmod:Tackle]] card in your hand to 0 this
 |Uncommon
 |[[Skill]]
 |0
-|Apply !SlimeboundSlimed! [[slimeboundmod:Goop]].
-Add a *Lick to your hand.
+|Apply 4 [[slimeboundmod:Goop]].
+Add a Lick to your hand.
 (Draw a card.)
  [[Exhaust]].
 |-
@@ -247,8 +247,8 @@ Add a *Lick to your hand.
 |Uncommon
 |[[Attack]]
 |2
-|Deal 8(12) damage.
-Heal 4(6) HP.
+|Deal 8 (12) damage.
+Heal 4 (6) HP.
 [[slimeboundmod:Consume]] - Play this twice.
 [[Exhaust]].
 |-
@@ -257,15 +257,15 @@ Heal 4(6) HP.
 |Uncommon
 |[[Attack]]
 |2
-|Deal 16(19) damage and !SlimeboundSelfharm! damage to yourself.
-[[slimeboundmod:Tackles]] deal 3(4) more damage this combat.
+|Deal 16 (19) damage and 3 damage to yourself.
+[[slimeboundmod:Tackles]] deal 3 (4) more damage this combat.
 |-
 |[[Forward Tackle]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |2
-|Deal 15(17) damage and !SlimeboundSelfharm! damage to yourself.
+|Deal 15 (17) damage and 3 damage to yourself.
 [[slimeboundmod:Command]] twice (three times).
 |-
 |[[Gluttony]]
@@ -274,20 +274,20 @@ Heal 4(6) HP.
 |[[Power]]
 |1
 |([[Innate]].)
- The first time you [[slimeboundmod:Consume]] each turn, add a *Lick to your hand.
+ The first time you [[slimeboundmod:Consume]] each turn, add a Lick to your hand.
 |-
 |[[Goop Armor]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
 |1
-|Gain 3(4) [[Block]] whenever you [[slimeboundmod:Consume]].
+|Gain 3 (4) [[Block]] whenever you [[slimeboundmod:Consume]].
 |-
 |[[Grow]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
-|2(1)
+|2 (1)
 |Lose 1 Slime slot in exchange for 2 [[Strength]] and 2 [[Dexterity]].
 |-
 |[[Growth Punch]]
@@ -295,16 +295,16 @@ Heal 4(6) HP.
 |Uncommon
 |[[Attack]]
 |1
-|Deal 4(5) damage.
-Gain 4(5) [[Block]].
-[[slimeboundmod:Consume]] - Increase this card's effects by 4(5) this combat.
+|Deal 4 (5) damage.
+Gain 4 (5) [[Block]].
+[[slimeboundmod:Consume]] - Increase this card's effects by 4 (5) this combat.
 |-
 |[[Hungry Tackle]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |1
-|Deal 10(14) damage and !SlimeboundSelfharm! damage to yourself.
+|Deal 10 (14) damage and 3 damage to yourself.
 Return a random 0-cost [[Exhausted]] card to your hand.
 |-
 |[[Lead By Example]]
@@ -312,21 +312,21 @@ Return a random 0-cost [[Exhausted]] card to your hand.
 |Uncommon
 |[[Power]]
 |1
-|The first (1(2)) card(s) you play each turn that targets enemies also [[slimeboundmod:Commands]].
+|The first (!M!) card(s) you play each turn that targets enemies also [[slimeboundmod:Commands]].
 |-
 |[[Level Up]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
 |1
-|Gain 1(2) [[slimeboundmod:Potency]].
+|Gain 1 (2) [[slimeboundmod:Potency]].
 |-
 |[[Mega-Lick]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |0
-|Apply 1 [[Weak]] and !SlimeboundSlimed! [[slimeboundmod:Goop]] to ALL enemies.
+|Apply 1 [[Weak]] and 4 [[slimeboundmod:Goop]] to ALL enemies.
 (Draw a card.)
  [[Exhaust]].
 |-
@@ -335,7 +335,7 @@ Return a random 0-cost [[Exhausted]] card to your hand.
 |Uncommon
 |[[Attack]]
 |0
-|Deal 4(6) damage.
+|Deal 4 (6) damage.
 Add a random ([[Upgraded]]) 0-cost card to your hand.
 [[Exhaust]].
 |-
@@ -350,7 +350,7 @@ Add a random ([[Upgraded]]) 0-cost card to your hand.
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
-|1(0)
+|1 (0)
 |Prevent the next time you would be damaged by an enemy attack, [[slimeboundmod:Absorbing]] your leading Slime instead.
 |-
 |[[Rain of Goop]]
@@ -358,21 +358,21 @@ Add a random ([[Upgraded]]) 0-cost card to your hand.
 |Uncommon
 |[[Skill]]
 |1
-|Apply !SlimeboundSlimed! [[slimeboundmod:Goop]] to a random enemy 4(6) times.
+|Apply 3 [[slimeboundmod:Goop]] to a random enemy 4 (6) times.
 |-
 |[[Recklessness]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
 |1
-|[[slimeboundmod:Tackles]] deal 5(7) more damage to enemies, and 1 more damage to you.
+|[[slimeboundmod:Tackles]] deal 5 (7) more damage to enemies, and 1 more damage to you.
 |-
 |[[Recollect]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |1
-|Gain 8(11) [[Block]].
+|Gain 8 (11) [[Block]].
 Return a random 0-cost [[Exhausted]] card to your hand.
 |-
 |[[Replication]]
@@ -398,7 +398,7 @@ Put (Add) a copy of that card on top of (it into) your draw pile (hand).
 |Uncommon
 |[[Skill]]
 |1
-|Gain 10(15) [[Block]] and 1 [[bronze:Blur]] for each Slime.
+|Gain 10 (15) [[Block]] and 1 [[bronze:Blur]] for each Slime.
 [[slimeboundmod:Absorb]] all Slimes.
 [[Exhaust]].
 |-
@@ -406,7 +406,7 @@ Put (Add) a copy of that card on top of (it into) your draw pile (hand).
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|3(2)
+|3 (2)
 |Gain 1 [[Intangible]].
 [[Exhaust]].
 |-
@@ -414,7 +414,7 @@ Put (Add) a copy of that card on top of (it into) your draw pile (hand).
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|3(2)
+|3 (2)
 |Play the top card of your draw pile. Repeat for each of your spawned Slimes.
 [[Exhaust]].
 |-
@@ -423,7 +423,7 @@ Put (Add) a copy of that card on top of (it into) your draw pile (hand).
 |Uncommon
 |[[Skill]]
 |0
-|[[slimeboundmod:Absorb]] - Gain [E] [E] and draw 2(3) cards.
+|[[slimeboundmod:Absorb]] - Gain [E] [E] and draw 2 (3) cards.
 [[Exhaust]].
 |-
 |[[Split: Specialist]]
@@ -440,27 +440,27 @@ Put (Add) a copy of that card on top of (it into) your draw pile (hand).
 |Uncommon
 |[[Power]]
 |2
-|Effects that apply [[slimeboundmod:Goop]] apply 2(3) more.
+|Effects that apply [[slimeboundmod:Goop]] apply 2 (3) more.
 |-
 |[[Tongue Lash]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |1
-|Deal 6 damage. Deals 2(3) additional damage for each [[Exhausted]] card containing "Lick".
+|Deal 6 damage. Deals 2 (3) additional damage for each [[Exhausted]] card containing "Lick".
 |-
 |[[Vicious Tackle]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |2
-|Deal 16(20) damage and !SlimeboundSelfharm! damage to yourself. This gains twice the damage bonus from [[slimeboundmod:Goop]].
+|Deal 16 (20) damage and 3 damage to yourself. This gains twice the damage bonus from [[slimeboundmod:Goop]].
 |-
 |[[Consult Playbook]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|2(1)
+|2 (1)
 |Add 4 random [[slimeboundmod:Tackle]] cards to your hand. They cost 1 less this combat.
 [[Exhaust]].
 |-
@@ -469,15 +469,15 @@ Put (Add) a copy of that card on top of (it into) your draw pile (hand).
 |Rare
 |[[Skill]]
 |1
-|[[slimeboundmod:Split]] into a [[slimeboundmod:Darkling_Slime]] 2(3) times.
+|[[slimeboundmod:Split]] into a [[slimeboundmod:Darkling_Slime]] 2 (3) times.
 [[Exhaust]].
 |-
 |[[Douse in Slime]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|3(2)
-|Apply !SlimeboundSlimed! [[slimeboundmod:Goop]].
+|3 (2)
+|Apply 14 [[slimeboundmod:Goop]].
 The next Attack used on this enemy does not remove [[slimeboundmod:Goop]].
 |-
 |[[Duplicated Form]]
@@ -494,7 +494,7 @@ The next Attack used on this enemy does not remove [[slimeboundmod:Goop]].
 |Rare
 |[[Attack]]
 |2
-|Deal 12(18) damage.
+|Deal 12 (18) damage.
 [[slimeboundmod:Consume]] - Heal HP equal to the enemy's [[slimeboundmod:Goop]].
 [[Exhaust]].
 |-
@@ -505,15 +505,15 @@ The next Attack used on this enemy does not remove [[slimeboundmod:Goop]].
 |0
 |Cannot be used if you have negative [[Strength]].
 Lose 2 [[Strength]].
-Gain 2(3) [[slimeboundmod:Potency]].
+Gain 2 (3) [[slimeboundmod:Potency]].
 |-
 |[[Mass Feed]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
 |2
-|Deal 10(12) damage to ALL enemies.
-If [[Fatal]], raise your Max HP by 3(4).
+|Deal 10 (12) damage to ALL enemies.
+If [[Fatal]], raise your Max HP by 3 (4).
 [[Exhaust]].
 |-
 |[[Mass Repurpose]]
@@ -547,7 +547,7 @@ Split into a random [[slimeboundmod:Specialist]] Slime for each [[slimeboundmod:
 |Rare
 |[[Skill]]
 |0
-|Apply 3(5) [[slimeboundmod:Goop]] to target enemy at the start of each of its turns.
+|Apply 3 (5) [[slimeboundmod:Goop]] to target enemy at the start of each of its turns.
 [[Exhaust]].
 |-
 |[[Overexert]]
@@ -563,7 +563,7 @@ Split into a random [[slimeboundmod:Specialist]] Slime for each [[slimeboundmod:
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|3(2)
+|3 (2)
 |Next turn, gain [E] [E] [E] and 3 [[Strength]], and add Slime Crush to your hand.
 |-
 |[[Rally the Troops]]
@@ -571,8 +571,8 @@ Split into a random [[slimeboundmod:Specialist]] Slime for each [[slimeboundmod:
 |Rare
 |[[Attack]]
 |1
-|Deal 7(9) damage.
-The next 2(3) cards played this turn trigger a [[slimeboundmod:Command]].
+|Deal 7 (9) damage.
+The next 2 (3) cards played this turn trigger a [[slimeboundmod:Command]].
 |-
 |[[Recycling]]
 |[[File:|thumb|289x289px]]
@@ -593,7 +593,7 @@ The next 2(3) cards played this turn trigger a [[slimeboundmod:Command]].
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
-|2(1)
+|2 (1)
 |Deal 8 damage.
 [[slimeboundmod:Consume]] - Does not remove [[slimeboundmod:Goop]].
 |-
@@ -604,7 +604,7 @@ The next 2(3) cards played this turn trigger a [[slimeboundmod:Command]].
 |2
 |Deal 12 damage.
 [[slimeboundmod:Split]] into a random ([[slimeboundmod:Specialist]]) Slime.
-[[slimeboundmod:Command]] 2(3) times.
+[[slimeboundmod:Command]] 2 (3) times.
 |-
 |[[Teamwork]]
 |[[File:|thumb|289x289px]]
@@ -618,7 +618,7 @@ Gain 5 [[Block]] X (X+1) times.
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|3(2)
+|3 (2)
 |Return all 0-cost [[Exhausted]] cards to your hand.
 [[Exhaust]].
 |-

@@ -16,8 +16,8 @@
 |2
 |[[Ethereal]].
 [[expansioncontent:Boss]] - Ancients.
-Gain 14(18) [[Block]].
-Next turn, add a *Donu *Blast (*Blast+) with [[Ethereal]] into your hand.
+Gain 14 (18) [[Block]].
+Next turn, add a Donu Blast (*Blast+) with [[Ethereal]] into your hand.
 [[Exhaust]].
 |-
 |[[Automa-Beam]]
@@ -26,7 +26,7 @@ Next turn, add a *Donu *Blast (*Blast+) with [[Ethereal]] into your hand.
 |[[Attack]]
 |2
 |[[expansioncontent:Boss]] - Automaton.
-Deal 26(34) damage to ALL enemies.
+Deal 26 (34) damage to ALL enemies.
 At the start of your next turn, lose [E].
 [[Exhaust]].
 |-
@@ -37,7 +37,7 @@ At the start of your next turn, lose [E].
 |2
 |[[expansioncontent:Boss]] - Awakened One.
 Gain 1 [[Strength]].
-When you would die, heal 20(30) HP instead.
+When you would die, heal 20 (30) HP instead.
 |-
 |[[Chrono-Boost]]
 |[[File:|thumb|289x289px]]
@@ -54,8 +54,8 @@ Gain 1 [[Strength]]) for every 12th card you play.
 |[[Attack]]
 |2
 |[[expansioncontent:Boss]] - Ancients.
-Deal 9(12) damage twice.
-Next turn, add a *Deca *Shield (*Shield+) into your hand.
+Deal 9 (12) damage twice.
+Next turn, add a Deca Shield (*Shield+) into your hand.
 [[Exhaust]].
 |-
 |[[Guardian Whirl]]
@@ -65,7 +65,7 @@ Next turn, add a *Deca *Shield (*Shield+) into your hand.
 |2
 |[[expansioncontent:Boss]] - Guardian.
 Requires 10 or more [[Block]].
-Deal 4(6) damage to ALL enemies 4 times.
+Deal 4 (6) damage to ALL enemies 4 times.
 [[Exhaust]].
 |-
 |[[Hexaburn]]
@@ -74,13 +74,14 @@ Deal 4(6) damage to ALL enemies 4 times.
 |[[Power]]
 |2
 |[[expansioncontent:Boss]] - Hexaghost.
-In 6(4) turns, deal 6 damage to a random enemy 6 times.
+In 6 (4) turns, deal 6 damage to a random enemy 6 times.
+Scales with [[Strength]].
 |-
 |[[Invincible]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
-|2(1)
+|2 (1)
 |[[expansioncontent:Boss]] - Corrupt Heart.
 Gain 10 [[expansioncontent:Invincible]].
 If you already had [[expansioncontent:Invincible]], it lasts another turn instead.
@@ -93,7 +94,7 @@ If you already had [[expansioncontent:Invincible]], it lasts another turn instea
 |[[expansioncontent:Boss]] - Champ.
 Remove all Debuffs.
 Gain 1 [[Strength]].
-If you are below half HP, Gain (Heal 10 and gain) 2 [[Strength]].
+If you are below half HP, Gain (Heal !M! and gain) 2 [[Strength]].
 |-
 |[[Prepare Crush]]
 |[[File:|thumb|289x289px]]
@@ -101,7 +102,7 @@ If you are below half HP, Gain (Heal 10 and gain) 2 [[Strength]].
 |[[Skill]]
 |2
 |[[expansioncontent:Boss]] - Slime.
-Gain 10(15) [[Block]].
+Gain 10 (15) [[Block]].
 On your next turn, gain [E] [E] [E] and add SLIME CRUSH to your hand.
 [[Exhaust]].
 |-
@@ -112,7 +113,7 @@ On your next turn, gain [E] [E] [E] and add SLIME CRUSH to your hand.
 |2
 |[[expansioncontent:Boss]] - Collector.
 Remove ALL enemy [[Block]].
-Apply 3(5) [[Weak]] and [[Vulnerable]] to ALL enemies.
+Apply 3 (5) [[Weak]] and [[Vulnerable]] to ALL enemies.
 [[Exhaust]].
 |-
 |[[Quick Study]]
@@ -137,8 +138,8 @@ It costs 0 until played.
 |Rare
 |[[Attack]]
 |2
-|Deal 10(12) damage.
-Gain 10(12) [[Block]].
+|Deal 10 (12) damage.
+Gain 10 (12) [[Block]].
 Add a random ([[Upgraded]]) [[expansioncontent:Boss]] card to your hand. It costs 0 until played.
 [[Exhaust]].
 |-

@@ -14,29 +14,29 @@
 |Basic
 |[[Skill]]
 |1
-|Gain 5(8) [[Block]].
+|Gain 5 (8) [[Block]].
 |-
 |[[Neutralize]]
 |[[File:|thumb|289x289px]]
 |Basic
 |[[Attack]]
 |0
-|Deal 3(4) damage.
-Apply 1(2) [[Weak]].
+|Deal 3 (4) damage.
+Apply 1 (2) [[Weak]].
 |-
 |[[Strike]]
 |[[File:|thumb|289x289px]]
 |Basic
 |[[Attack]]
 |1
-|Deal 6(9) damage.
+|Deal 6 (9) damage.
 |-
 |[[Survivor]]
 |[[File:|thumb|289x289px]]
 |Basic
 |[[Skill]]
 |1
-|Gain 8(11) [[Block]].
+|Gain 8 (11) [[Block]].
 Discard 1 card.
 |-
 |[[Acrobatics]]
@@ -44,7 +44,7 @@ Discard 1 card.
 |Common
 |[[Skill]]
 |1
-|Draw 3(4) cards.
+|Draw 3 (4) cards.
 Discard 1 card.
 |-
 |[[Backflip]]
@@ -52,7 +52,7 @@ Discard 1 card.
 |Common
 |[[Skill]]
 |1
-|Gain 5(8) [[Block]].
+|Gain 5 (8) [[Block]].
 Draw 2 cards.
 |-
 |[[Bane]]
@@ -60,15 +60,15 @@ Draw 2 cards.
 |Common
 |[[Attack]]
 |1
-|Deal 7(10) damage.
-If the enemy has [[Poison]], deal 7(10) damage again.
+|Deal 7 (10) damage.
+If the enemy has [[Poison]], deal 7 (10) damage again.
 |-
 |[[Blade Dance]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |1
-|Add 3(4) *Shivs into your hand.
+|Add 3 (4) Shivs into your hand.
 |-
 |[[Cloak and Dagger]]
 |[[File:|thumb|289x289px]]
@@ -76,21 +76,21 @@ If the enemy has [[Poison]], deal 7(10) damage again.
 |[[Skill]]
 |1
 |Gain 6 [[Block]].
-Add 1(2) *Shiv(s) into your hand.
+Add 1 (2) Shiv(s) into your hand.
 |-
 |[[Dagger Spray]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 4(6) damage to ALL enemies twice.
+|Deal 4 (6) damage to ALL enemies twice.
 |-
 |[[Dagger Throw]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 9(12) damage.
+|Deal 9 (12) damage.
 Draw 1 card.
 Discard 1 card.
 |-
@@ -99,29 +99,29 @@ Discard 1 card.
 |Common
 |[[Skill]]
 |1
-|Apply 5(7) [[Poison]].
+|Apply 5 (7) [[Poison]].
 |-
 |[[Deflect]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |0
-|Gain 4(7) [[Block]].
+|Gain 4 (7) [[Block]].
 |-
 |[[Dodge and Roll]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |1
-|Gain 4(6) [[Block]].
-Next turn, gain 4(6) [[Block]].
+|Gain 4 (6) [[Block]].
+Next turn, gain 4 (6) [[Block]].
 |-
 |[[Flying Knee]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 8(11) damage.
+|Deal 8 (11) damage.
 Next turn, gain 1 [[Energy]].
 |-
 |[[Outmaneuver]]
@@ -137,7 +137,7 @@ gain 2 (3) [[Energy]].
 |Common
 |[[Skill]]
 |1
-|ALL enemies lose 6(8) [[Strength]] this turn.
+|ALL enemies lose 6 (8) [[Strength]] this turn.
 [[Exhaust]].
 |-
 |[[Poisoned Stab]]
@@ -145,23 +145,23 @@ gain 2 (3) [[Energy]].
 |Common
 |[[Attack]]
 |1
-|Deal 6(8) damage.
-Apply 3(4) [[Poison]].
+|Deal 6 (8) damage.
+Apply 3 (4) [[Poison]].
 |-
 |[[Prepared]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |0
-|Draw 1(2) card(s).
-Discard 1(2) card(s).
+|Draw 1 (2) card(s).
+Discard 1 (2) card(s).
 |-
 |[[Quick Slash]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 8(12) damage.
+|Deal 8 (12) damage.
 Draw 1 card.
 |-
 |[[Slice]]
@@ -169,14 +169,14 @@ Draw 1 card.
 |Common
 |[[Attack]]
 |0
-|Deal 6(9) damage.
+|Deal 6 (9) damage.
 |-
 |[[Sneaky Strike]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |2
-|Deal 12(16) damage.
+|Deal 12 (16) damage.
 If you have discarded a card this turn,
 gain 2 [[Energy]].
 |-
@@ -185,22 +185,22 @@ gain 2 [[Energy]].
 |Common
 |[[Attack]]
 |1
-|Deal 7(9) damage.
-Apply 1(2) [[Weak]].
+|Deal 7 (9) damage.
+Apply 1 (2) [[Weak]].
 |-
 |[[Accuracy]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
 |1
-|*Shivs deal 4(6) additional damage.
+|*Shivs deal 4 (6) additional damage.
 |-
 |[[All-Out Attack]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |1
-|Deal 10(14) damage to ALL enemies.
+|Deal 10 (14) damage to ALL enemies.
 Discard 1 card at random.
 |-
 |[[Backstab]]
@@ -209,7 +209,7 @@ Discard 1 card at random.
 |[[Attack]]
 |0
 |[[Innate]].
-Deal 11(15) damage.
+Deal 11 (15) damage.
 [[Exhaust]].
 |-
 |[[Blur]]
@@ -217,7 +217,7 @@ Deal 11(15) damage.
 |Uncommon
 |[[Skill]]
 |1
-|Gain 5(8) [[Block]].
+|Gain 5 (8) [[Block]].
 [[Block]] is not removed at the start of your next turn.
 |-
 |[[Bouncing Flask]]
@@ -225,7 +225,7 @@ Deal 11(15) damage.
 |Uncommon
 |[[Skill]]
 |2
-|Apply 3 [[Poison]] to a random enemy 3(4) times.
+|Apply 3 [[Poison]] to a random enemy 3 (4) times.
 |-
 |[[Calculated Gamble]]
 |[[File:|thumb|289x289px]]
@@ -242,7 +242,7 @@ Exhaust.)
 |Uncommon
 |[[Power]]
 |1
-|Whenever you are attacked, deal 3(5) damage back.
+|Whenever you are attacked, deal 3 (5) damage back.
 |-
 |[[Catalyst]]
 |[[File:|thumb|289x289px]]
@@ -258,14 +258,14 @@ Exhaust.)
 |[[Attack]]
 |2
 |Deal 12 damage.
-Whenever you play a card this turn, the enemy loses 3(5) HP.
+Whenever you play a card this turn, the enemy loses 3 (5) HP.
 |-
 |[[Concentrate]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |0
-|Discard 3(2) cards.
+|Discard 3 (2) cards.
 Gain 2 [[Energy]].
 |-
 |[[Crippling Cloud]]
@@ -273,7 +273,7 @@ Gain 2 [[Energy]].
 |Uncommon
 |[[Skill]]
 |2
-|Apply 4(7) [[Poison]] and 2 [[Weak]] to ALL enemies.
+|Apply 4 (7) [[Poison]] and 2 [[Weak]] to ALL enemies.
 [[Exhaust]].
 |-
 |[[Dash]]
@@ -281,14 +281,14 @@ Gain 2 [[Energy]].
 |Uncommon
 |[[Attack]]
 |2
-|Gain 10(13) [[Block]].
-Deal 10(13) damage.
+|Gain 10 (13) [[Block]].
+Deal 10 (13) damage.
 |-
 |[[Distraction]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|1(0)
+|1 (0)
 |Add a random Skill into your hand.
 It costs 0 this turn.
 [[Exhaust]].
@@ -298,7 +298,7 @@ It costs 0 this turn.
 |Uncommon
 |[[Attack]]
 |0
-|Deal 4(6) damage.
+|Deal 4 (6) damage.
 Whenever you draw this card, add a copy of it into your hand.
 [[Exhaust]].
 |-
@@ -308,7 +308,7 @@ Whenever you draw this card, add a copy of it into your hand.
 |[[Skill]]
 |0
 |Draw 1 card.
-If you draw a Skill, gain 3(5) [[Block]].
+If you draw a Skill, gain 3 (5) [[Block]].
 |-
 |[[Eviscerate]]
 |[[File:|thumb|289x289px]]
@@ -317,42 +317,42 @@ If you draw a Skill, gain 3(5) [[Block]].
 |3
 |Costs 1 less 1 [[Energy]]
 for each card discarded this turn.
-Deal 7(9) damage 3 times.
+Deal 7 (9) damage 3 times.
 |-
 |[[Expertise]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |1
-|Draw cards until you have 6(7) in your hand.
+|Draw cards until you have 6 (7) in your hand.
 |-
 |[[Finisher]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |1
-|Deal 6(8) damage for each Attack played this turn.
+|Deal 6 (8) damage for each Attack played this turn.
 |-
 |[[Flechettes]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |1
-|Deal 4(6) damage for each Skill in your hand.
+|Deal 4 (6) damage for each Skill in your hand.
 |-
 |[[Footwork]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
 |1
-|Gain 2(3) [[Dexterity]].
+|Gain 2 (3) [[Dexterity]].
 |-
 |[[Heel Hook]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |1
-|Deal 5(8) damage.
+|Deal 5 (8) damage.
 If the enemy has [[Weak]],
 gain 1 [[Energy]] and
 draw 1 card.
@@ -363,15 +363,15 @@ draw 1 card.
 |[[Power]]
 |1
 |([[Innate]].)
- At the start of your turn, add a *Shiv into your hand.
+ At the start of your turn, add a Shiv into your hand.
 |-
 |[[Leg Sweep]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |2
-|Apply 2(3) [[Weak]].
-Gain 11(14) [[Block]].
+|Apply 2 (3) [[Weak]].
+Gain 11 (14) [[Block]].
 |-
 |[[Masterful Stab]]
 |[[File:|thumb|289x289px]]
@@ -380,21 +380,21 @@ Gain 11(14) [[Block]].
 |0
 |Costs 1 additional 1 [[Energy]]
 for each time you lose HP this combat.
-Deal 12(16) damage.
+Deal 12 (16) damage.
 |-
 |[[Noxious Fumes]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
 |1
-|At the start of your turn, apply 2(3) [[Poison]] to ALL enemies.
+|At the start of your turn, apply 2 (3) [[Poison]] to ALL enemies.
 |-
 |[[Predator]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |2
-|Deal 15(20) damage.
+|Deal 15 (20) damage.
 Next turn, draw 2 additional cards.
 |-
 |[[Reflex]]
@@ -403,20 +403,20 @@ Next turn, draw 2 additional cards.
 |[[Skill]]
 |
 |[[Unplayable]].
-If this card is discarded from your hand, draw 2(3) cards.
+If this card is discarded from your hand, draw 2 (3) cards.
 |-
 |[[Riddle with Holes]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |2
-|Deal 3(4) damage 5 times.
+|Deal 3 (4) damage 5 times.
 |-
 |[[Setup]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|1(0)
+|1 (0)
 |Put a card from your hand on top of your draw pile.
 It costs 0 until played.
 |-
@@ -425,7 +425,7 @@ It costs 0 until played.
 |Uncommon
 |[[Attack]]
 |X
-|Deal 7(10) damage X times.
+|Deal 7 (10) damage X times.
 |-
 |[[Tactician]]
 |[[File:|thumb|289x289px]]
@@ -439,7 +439,7 @@ If this card is discarded from your hand, gain 1 (2) [[Energy]].
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|1(0)
+|1 (0)
 |Apply 99 [[Vulnerable]].
 [[Exhaust]].
 |-
@@ -448,14 +448,14 @@ If this card is discarded from your hand, gain 1 (2) [[Energy]].
 |Uncommon
 |[[Power]]
 |1
-|At the end of your turn, [[Retain]] up to 1(2) card(s).
+|At the end of your turn, [[Retain]] up to 1 (2) card(s).
 |-
 |[[A Thousand Cuts]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
 |2
-|Whenever you play a card, deal 1(2) damage to ALL enemies.
+|Whenever you play a card, deal 1 (2) damage to ALL enemies.
 |-
 |[[Adrenaline]]
 |[[File:|thumb|289x289px]]
@@ -478,7 +478,7 @@ Draw 2 cards.
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|1(0)
+|1 (0)
 |Obtain a random potion.
 [[Exhaust]].
 |-
@@ -486,7 +486,7 @@ Draw 2 cards.
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|3(2)
+|3 (2)
 |You cannot draw additional cards this turn. Reduce the cost of all cards in your hand to 0 this turn.
 |-
 |[[Burst]]
@@ -494,14 +494,14 @@ Draw 2 cards.
 |Rare
 |[[Skill]]
 |1
-|This turn, your next (1(2)) Skill(s) is (are) played twice.
+|This turn, your next (!M!) Skill(s) is (are) played twice.
 |-
 |[[Corpse Explosion]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
 |2
-|Apply 6(9) [[Poison]].
+|Apply 6 (9) [[Poison]].
 When the enemy dies, deal damage equal to its Max HP to ALL enemies.
 |-
 |[[Die Die Die]]
@@ -509,7 +509,7 @@ When the enemy dies, deal damage equal to its Max HP to ALL enemies.
 |Rare
 |[[Attack]]
 |1
-|Deal 13(17) damage to ALL enemies.
+|Deal 13 (17) damage to ALL enemies.
 [[Exhaust]].
 |-
 |[[Doppelganger]]
@@ -524,7 +524,7 @@ When the enemy dies, deal damage equal to its Max HP to ALL enemies.
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
-|2(1)
+|2 (1)
 |Whenever an Attack deals unblocked damage, apply 1 [[Poison]].
 |-
 |[[Glass Knife]]
@@ -532,7 +532,7 @@ When the enemy dies, deal damage equal to its Max HP to ALL enemies.
 |Rare
 |[[Attack]]
 |1
-|Deal 8(12) damage twice. Decrease the damage of this card by 2 this combat.
+|Deal 8 (12) damage twice. Decrease the damage of this card by 2 this combat.
 |-
 |[[Grand Finale]]
 |[[File:|thumb|289x289px]]
@@ -540,7 +540,7 @@ When the enemy dies, deal damage equal to its Max HP to ALL enemies.
 |[[Attack]]
 |0
 |Can only be played if there are no cards in your draw pile.
-Deal 50(60) damage to ALL enemies.
+Deal 50 (60) damage to ALL enemies.
 |-
 |[[Malaise]]
 |[[File:|thumb|289x289px]]
@@ -554,7 +554,7 @@ Deal 50(60) damage to ALL enemies.
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|3(2)
+|3 (2)
 |Choose a card.
 Next turn, add 3 copies of that card into your hand. [[Exhaust]].
 |-
@@ -562,7 +562,7 @@ Next turn, add 3 copies of that card into your hand. [[Exhaust]].
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|1(0)
+|1 (0)
 |Next turn, your Attacks deal double damage.
 |-
 |[[Storm of Steel]]
@@ -571,13 +571,13 @@ Next turn, add 3 copies of that card into your hand. [[Exhaust]].
 |[[Skill]]
 |1
 |Discard your hand.
-Add 1 *Shiv (*Shiv+) into your hand for each card discarded.
+Add 1 Shiv (*Shiv+) into your hand for each card discarded.
 |-
 |[[Tools of the Trade]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
-|1(0)
+|1 (0)
 |At the start of your turn, draw 1 card and discard 1 card.
 |-
 |[[Unload]]
@@ -585,7 +585,7 @@ Add 1 *Shiv (*Shiv+) into your hand for each card discarded.
 |Rare
 |[[Attack]]
 |1
-|Deal 14(18) damage.
+|Deal 14 (18) damage.
 Discard all non-Attack cards in your hand.
 |-
 |[[Wraith Form]]
@@ -593,6 +593,6 @@ Discard all non-Attack cards in your hand.
 |Rare
 |[[Power]]
 |3
-|Gain 2(3) [[Intangible]].
+|Gain 2 (3) [[Intangible]].
 At the end of your turn, lose 1 [[Dexterity]].
 |-

@@ -11,4 +11,4 @@
 | Snecko | When drawn, this card randomizes its cost. |
 | Soulbound | Cannot be removed from your deck. |
 | Startup | Triggers at the start of each combat. |
-| Temporary hp | Temporary HP disappears at the end of combat. |
+| Temporary HP | Temporary HP disappears at the end of combat. |

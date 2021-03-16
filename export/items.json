@@ -402,7 +402,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 12 damage.\nShuffle a *Wound into your draw pile.",
+      "description": "Deal 12 damage.\nShuffle a Wound into your draw pile.",
       "mod": ""
     },
     {
@@ -411,7 +411,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 17 damage.\nShuffle a *Wound into your draw pile.",
+      "description": "Deal 17 damage.\nShuffle a Wound into your draw pile.",
       "mod": ""
     },
     {
@@ -798,7 +798,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Add 2 *Wounds into your hand.\nGain 15 Block.",
+      "description": "Add 2 Wounds into your hand.\nGain 15 Block.",
       "mod": ""
     },
     {
@@ -807,7 +807,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Add 2 *Wounds into your hand.\nGain 20 Block.",
+      "description": "Add 2 Wounds into your hand.\nGain 20 Block.",
       "mod": ""
     },
     {
@@ -870,7 +870,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 7 damage.\nShuffle a *Dazed into your draw pile.",
+      "description": "Deal 7 damage.\nShuffle a Dazed into your draw pile.",
       "mod": ""
     },
     {
@@ -879,7 +879,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 10 damage.\nShuffle a *Dazed into your draw pile.",
+      "description": "Deal 10 damage.\nShuffle a Dazed into your draw pile.",
       "mod": ""
     },
     {
@@ -916,6 +916,78 @@
       "type": "Attack",
       "cost": "2",
       "description": "Deal 16 damage.\nCan be Upgraded any number of times.",
+      "mod": ""
+    },
+    {
+      "name": "Searing Blow+2",
+      "color": "Red",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 21 damage.\nCan be Upgraded any number of times.",
+      "mod": ""
+    },
+    {
+      "name": "Searing Blow+3",
+      "color": "Red",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 27 damage.\nCan be Upgraded any number of times.",
+      "mod": ""
+    },
+    {
+      "name": "Searing Blow+4",
+      "color": "Red",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 34 damage.\nCan be Upgraded any number of times.",
+      "mod": ""
+    },
+    {
+      "name": "Searing Blow+5",
+      "color": "Red",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 42 damage.\nCan be Upgraded any number of times.",
+      "mod": ""
+    },
+    {
+      "name": "Searing Blow+6",
+      "color": "Red",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 51 damage.\nCan be Upgraded any number of times.",
+      "mod": ""
+    },
+    {
+      "name": "Searing Blow+7",
+      "color": "Red",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 61 damage.\nCan be Upgraded any number of times.",
+      "mod": ""
+    },
+    {
+      "name": "Searing Blow+8",
+      "color": "Red",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 72 damage.\nCan be Upgraded any number of times.",
+      "mod": ""
+    },
+    {
+      "name": "Searing Blow+9",
+      "color": "Red",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 84 damage.\nCan be Upgraded any number of times.",
       "mod": ""
     },
     {
@@ -1248,7 +1320,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 21 damage to ALL enemies.\nAdd a *Burn into your discard pile.",
+      "description": "Deal 21 damage to ALL enemies.\nAdd a Burn into your discard pile.",
       "mod": ""
     },
     {
@@ -1257,7 +1329,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 28 damage to ALL enemies.\nAdd a *Burn into your discard pile.",
+      "description": "Deal 28 damage to ALL enemies.\nAdd a Burn into your discard pile.",
       "mod": ""
     },
     {
@@ -1482,7 +1554,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Add 3 *Shivs into your hand.",
+      "description": "Add 3 Shivs into your hand.",
       "mod": ""
     },
     {
@@ -1491,7 +1563,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Add 4 *Shivs into your hand.",
+      "description": "Add 4 Shivs into your hand.",
       "mod": ""
     },
     {
@@ -1500,7 +1572,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Block.\nAdd 1 *Shiv into your hand.",
+      "description": "Gain 6 Block.\nAdd 1 Shiv into your hand.",
       "mod": ""
     },
     {
@@ -1509,7 +1581,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Block.\nAdd 2 *Shivs into your hand.",
+      "description": "Gain 6 Block.\nAdd 2 Shivs into your hand.",
       "mod": ""
     },
     {
@@ -2148,7 +2220,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of your turn, add a *Shiv into your hand.",
+      "description": "At the start of your turn, add a Shiv into your hand.",
       "mod": ""
     },
     {
@@ -2157,7 +2229,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Innate.\nAt the start of your turn, add a *Shiv into your hand.",
+      "description": "Innate.\nAt the start of your turn, add a Shiv into your hand.",
       "mod": ""
     },
     {
@@ -2634,7 +2706,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Discard your hand.\nAdd 1 *Shiv into your hand for each card discarded.",
+      "description": "Discard your hand.\nAdd 1 Shiv into your hand for each card discarded.",
       "mod": ""
     },
     {
@@ -2643,7 +2715,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Discard your hand.\nAdd 1 *Shiv+ into your hand for each card discarded.",
+      "description": "Discard your hand.\nAdd 1 Shiv+ into your hand for each card discarded.",
       "mod": ""
     },
     {
@@ -3084,7 +3156,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain [B] [B].\nAdd a *Void into your discard pile.",
+      "description": "Gain [B] [B].\nAdd a Void into your discard pile.",
       "mod": ""
     },
     {
@@ -3093,7 +3165,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain [B] [B] [B].\nAdd a *Void into your discard pile.",
+      "description": "Gain [B] [B] [B].\nAdd a Void into your discard pile.",
       "mod": ""
     },
     {
@@ -3516,7 +3588,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Draw 2 cards.\nAdd a *Burn into your discard pile.",
+      "description": "Draw 2 cards.\nAdd a Burn into your discard pile.",
       "mod": ""
     },
     {
@@ -3525,7 +3597,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Draw 3 cards.\nAdd a *Burn into your discard pile.",
+      "description": "Draw 3 cards.\nAdd a Burn into your discard pile.",
       "mod": ""
     },
     {
@@ -4254,7 +4326,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Block.\nShuffle an *Insight into your draw pile.",
+      "description": "Gain 6 Block.\nShuffle an Insight into your draw pile.",
       "mod": ""
     },
     {
@@ -4263,7 +4335,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 10 Block.\nShuffle an *Insight into your draw pile.",
+      "description": "Gain 10 Block.\nShuffle an Insight into your draw pile.",
       "mod": ""
     },
     {
@@ -4362,7 +4434,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 8 *Mark.\nALL enemies lose HP equal to their *Mark.",
+      "description": "Apply 8 Mark.\nALL enemies lose HP equal to their Mark.",
       "mod": ""
     },
     {
@@ -4371,7 +4443,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 11 *Mark.\nALL enemies lose HP equal to their *Mark.",
+      "description": "Apply 11 Mark.\nALL enemies lose HP equal to their Mark.",
       "mod": ""
     },
     {
@@ -4470,7 +4542,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of each turn, add a *Smite into your hand.",
+      "description": "At the start of each turn, add a Smite into your hand.",
       "mod": ""
     },
     {
@@ -4479,7 +4551,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Innate.\nAt the start of each turn, add a *Smite into your hand.",
+      "description": "Innate.\nAt the start of each turn, add a Smite into your hand.",
       "mod": ""
     },
     {
@@ -4488,7 +4560,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage.\nAdd a *Smite into your hand.",
+      "description": "Deal 6 damage.\nAdd a Smite into your hand.",
       "mod": ""
     },
     {
@@ -4497,7 +4569,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\nAdd a *Smite into your hand.",
+      "description": "Deal 10 damage.\nAdd a Smite into your hand.",
       "mod": ""
     },
     {
@@ -4506,7 +4578,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "X",
-      "description": "Put a *Miracle+ into your hand at the start of your next X turns.\nExhaust.",
+      "description": "Put a Miracle+ into your hand at the start of your next X turns.\nExhaust.",
       "mod": ""
     },
     {
@@ -4515,7 +4587,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "X",
-      "description": "Put a *Miracle+ into your hand at the start of your next X+1 turns.\nExhaust.",
+      "description": "Put a Miracle+ into your hand at the start of your next X+1 turns.\nExhaust.",
       "mod": ""
     },
     {
@@ -4542,7 +4614,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Block.\nAdd a *Safety into\nyour hand.",
+      "description": "Gain 4 Block.\nAdd a Safety into\nyour hand.",
       "mod": ""
     },
     {
@@ -4551,7 +4623,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 7 Block.\nAdd a *Safety into\nyour hand.",
+      "description": "Gain 7 Block.\nAdd a Safety into\nyour hand.",
       "mod": ""
     },
     {
@@ -4776,7 +4848,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 3 Mantra.\nShuffle an *Insight into your draw pile.",
+      "description": "Gain 3 Mantra.\nShuffle an Insight into your draw pile.",
       "mod": ""
     },
     {
@@ -4785,7 +4857,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Mantra.\nShuffle an *Insight into your draw pile.",
+      "description": "Gain 4 Mantra.\nShuffle an Insight into your draw pile.",
       "mod": ""
     },
     {
@@ -4794,7 +4866,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 10 damage.\nShuffle a\n*Through *Violence into your draw pile.",
+      "description": "Deal 10 damage.\nShuffle a\nThrough Violence into your draw pile.",
       "mod": ""
     },
     {
@@ -4803,7 +4875,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 15 damage.\nShuffle a\n*Through *Violence into your draw pile.",
+      "description": "Deal 15 damage.\nShuffle a\nThrough Violence into your draw pile.",
       "mod": ""
     },
     {
@@ -4902,7 +4974,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "2",
-      "description": "At the end of your turn, shuffle an *Insight into your draw pile.",
+      "description": "At the end of your turn, shuffle an Insight into your draw pile.",
       "mod": ""
     },
     {
@@ -4911,7 +4983,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "At the end of your turn, shuffle an *Insight into your draw pile.",
+      "description": "At the end of your turn, shuffle an Insight into your draw pile.",
       "mod": ""
     },
     {
@@ -5100,7 +5172,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Shuffle a *Beta into your draw pile.\nExhaust.",
+      "description": "Shuffle a Beta into your draw pile.\nExhaust.",
       "mod": ""
     },
     {
@@ -5109,7 +5181,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Innate.\nShuffle a *Beta into your draw pile.\nExhaust.",
+      "description": "Innate.\nShuffle a Beta into your draw pile.\nExhaust.",
       "mod": ""
     },
     {
@@ -5154,7 +5226,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Shuffle an *Expunger into your draw pile.\nExhaust.",
+      "description": "Shuffle an Expunger into your draw pile.\nExhaust.",
       "mod": ""
     },
     {
@@ -5163,7 +5235,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Shuffle an *Expunger with X+1 into your draw pile.\nExhaust.",
+      "description": "Shuffle an Expunger with X+1 into your draw pile.\nExhaust.",
       "mod": ""
     },
     {
@@ -5172,7 +5244,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "",
-      "description": "Unplayable.\nWhen you draw this card, add 2 *Miracles to your hand and Exhaust.",
+      "description": "Unplayable.\nWhen you draw this card, add 2 Miracles to your hand and Exhaust.",
       "mod": ""
     },
     {
@@ -5181,7 +5253,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "",
-      "description": "Unplayable.\nWhen you draw this card, add 3 *Miracles to your hand and Exhaust.",
+      "description": "Unplayable.\nWhen you draw this card, add 3 Miracles to your hand and Exhaust.",
       "mod": ""
     },
     {
@@ -5460,7 +5532,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Shuffle an *Omega into your draw pile.\nExhaust.",
+      "description": "Shuffle an Omega into your draw pile.\nExhaust.",
       "mod": ""
     },
     {
@@ -5468,8 +5540,8 @@
       "color": "Colorless",
       "rarity": "Special",
       "type": "Skill",
-      "cost": "2",
-      "description": "Gain 15 Block.\nbronze:Insert random Status.\nbronze:Compile - bronze:Insert *Full *Release.",
+      "cost": "1",
+      "description": "Gain 13 Block.\nbronze:Insert random Status.\nbronze:Encode.\nbronze:Compile - bronze:Insert Full Release.",
       "mod": "Downfall"
     },
     {
@@ -5477,8 +5549,8 @@
       "color": "Colorless",
       "rarity": "Special",
       "type": "Skill",
-      "cost": "2",
-      "description": "Gain 20 Block.\nbronze:Insert random Status.\nbronze:Compile - bronze:Insert *Full *Release.",
+      "cost": "1",
+      "description": "Gain 18 Block.\nbronze:Insert random Status.\nbronze:Encode.\nbronze:Compile - bronze:Insert Full Release.",
       "mod": "Downfall"
     },
     {
@@ -5487,7 +5559,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "1",
-      "description": "Shuffle an *Omega into your draw pile.\nExhaust.",
+      "description": "Shuffle an Omega into your draw pile.\nExhaust.",
       "mod": ""
     },
     {
@@ -5514,7 +5586,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage.",
+      "description": "Deal 9 damage.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -5523,7 +5595,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage.",
+      "description": "Deal 11 damage.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -5532,7 +5604,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 8 Block.",
+      "description": "Gain 8 Block.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -5541,7 +5613,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 10 Block.",
+      "description": "Gain 10 Block.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -5568,7 +5640,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Ethereal.\nDeal 6 damage.\nDamage is increased by 3 for each *Apparition in your exhaust pile.\nExhaust.",
+      "description": "Ethereal.\nDeal 6 damage.\nDamage is increased by 3 for each Apparition in your exhaust pile.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5577,7 +5649,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Ethereal.\nDeal 10 damage.\nDamage is increased by 4 for each *Apparition in your exhaust pile.\nExhaust.",
+      "description": "Ethereal.\nDeal 10 damage.\nDamage is increased by 4 for each Apparition in your exhaust pile.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5586,7 +5658,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage.\nGain 5 Block\nbronze:Compile *Error - bronze:Insert 2 *Dazed.",
+      "description": "Deal 5 damage.\nGain 5 Block\nbronze:Encode.\nbronze:Compile Error - bronze:Insert 2 Dazed.",
       "mod": "Downfall"
     },
     {
@@ -5595,7 +5667,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage.\nGain 7 Block\nbronze:Compile *Error - bronze:Insert 2 *Dazed.",
+      "description": "Deal 7 damage.\nGain 7 Block\nbronze:Encode.\nbronze:Compile Error - bronze:Insert 2 Dazed.",
       "mod": "Downfall"
     },
     {
@@ -5604,7 +5676,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Remove all bronze:Compile *Error effects from the cards in the Sequence.\nExhaust.",
+      "description": "Remove all bronze:Compile Error effects from the cards in the Sequence.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5613,7 +5685,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Remove all bronze:Compile *Error effects from the cards in the Sequence.\nExhaust.",
+      "description": "Remove all bronze:Compile Error effects from the cards in the Sequence.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5640,7 +5712,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "1",
-      "description": "bronze:Insert a *Burn.\nbronze:Compile - ALL enemies lose 15 HP.",
+      "description": "bronze:Insert a Burn.\nbronze:Encode.\nbronze:Compile - ALL enemies lose 15 HP.",
       "mod": "Downfall"
     },
     {
@@ -5649,7 +5721,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "1",
-      "description": "bronze:Insert a *Burn.\nbronze:Compile - ALL enemies lose 20 HP.",
+      "description": "bronze:Insert a Burn.\nbronze:Encode.\nbronze:Compile - ALL enemies lose 20 HP.",
       "mod": "Downfall"
     },
     {
@@ -5712,7 +5784,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage.\nGain 6 Block.",
+      "description": "Deal 5 damage.\nGain 5 Block.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -5721,7 +5793,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\nGain 8 Block.",
+      "description": "Deal 7 damage.\nGain 7 Block.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -5729,8 +5801,8 @@
       "color": "Colorless",
       "rarity": "Special",
       "type": "Skill",
-      "cost": "3",
-      "description": "bronze:Compile - Function becomes a Power which activates its effects at the start of each turn.",
+      "cost": "1",
+      "description": "bronze:Encode.\nbronze:Compile - Function becomes a Power which activates its effects at the start of each turn.",
       "mod": "Downfall"
     },
     {
@@ -5739,7 +5811,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "bronze:Compile - Function becomes a Power which activates its effects at the start of each turn.",
+      "description": "bronze:Encode.\nbronze:Compile - Function becomes a Power which activates its effects at the start of each turn.",
       "mod": "Downfall"
     },
     {
@@ -5802,7 +5874,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nExhaust.",
+      "description": "Apply 4 slimeboundmod:Goop.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5811,7 +5883,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nExhaust.",
+      "description": "Apply 6 slimeboundmod:Goop.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5820,7 +5892,7 @@
       "rarity": "Special",
       "type": "Power",
       "cost": "",
-      "description": "Gain 6 *Plated *Armor.",
+      "description": "Gain 6 Plated Armor.",
       "mod": ""
     },
     {
@@ -5829,7 +5901,7 @@
       "rarity": "Special",
       "type": "Power",
       "cost": "",
-      "description": "Gain 8 *Plated *Armor.",
+      "description": "Gain 8 Plated Armor.",
       "mod": ""
     },
     {
@@ -5838,7 +5910,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 3 damage.",
+      "description": "Deal 3 damage.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -5847,7 +5919,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 4 damage.",
+      "description": "Deal 4 damage.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -5892,7 +5964,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 2 damage !GuardianMulti! times.\nExhaust.",
+      "description": "Deal 2 damage 2 times.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5901,7 +5973,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 3 damage !GuardianMulti! times.\nExhaust.",
+      "description": "Deal 3 damage 2 times.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5910,7 +5982,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add an *Ancient *Attack, *Ancient *Power, and *Ancient *Construct to your hand.\nExhaust.",
+      "description": "Add an Ancient Attack, Ancient Power, and Ancient Construct to your hand.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5919,7 +5991,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add an *Ancient *Attack, *Ancient *Power, and *Ancient *Construct to your hand and Upgrade them.\nExhaust.",
+      "description": "Add an Ancient Attack, Ancient Power, and Ancient Construct to your hand and Upgrade them.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5928,7 +6000,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Hyper *Beam, *Orb *Beam, and *Bronze *Armor to your hand.\nExhaust.",
+      "description": "Add a Hyper Beam, Orb Beam, and Bronze Armor to your hand.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5937,7 +6009,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Hyper *Beam, *Orb *Beam, and *Bronze *Armor to your hand and Upgrade them.\nExhaust.",
+      "description": "Add a Hyper Beam, Orb Beam, and Bronze Armor to your hand and Upgrade them.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5946,7 +6018,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Reroute, *Preprogram, and *Time *Capacitor to your hand.\nExhaust.",
+      "description": "Add a Reroute, Preprogram, and Time Capacitor to your hand.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5955,7 +6027,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Reroute, *Preprogram, and *Time *Capacitor to your hand and Upgrade them.\nExhaust.",
+      "description": "Add a Reroute, Preprogram, and Time Capacitor to your hand and Upgrade them.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5964,7 +6036,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add an *Orbwalk, *Walker *Claw, and *Incinerate to your hand.\nExhaust.",
+      "description": "Add an Orbwalk, Walker Claw, and Incinerate to your hand.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5973,7 +6045,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add an *Orbwalk, *Walker *Claw, and *Incinerate to your hand and Upgrade them.\nExhaust.",
+      "description": "Add an Orbwalk, Walker Claw, and Incinerate to your hand and Upgrade them.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5982,7 +6054,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Sentry *Blast and two *Sentry *Waves to your hand and reduce their costs by 1 this combat.\nExhaust.",
+      "description": "Add a Sentry Blast and two Sentry Waves to your hand.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -5991,7 +6063,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Sentry *Blast+ and two *Sentry *Waves+ to your hand and reduce their costs by 1 this combat.\nExhaust.",
+      "description": "Add a Sentry Blast+ and two Sentry Waves+ to your hand and Upgrade them.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -6000,7 +6072,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Time *Bomb, *Spiker *Protocol, and *Repulsor to your hand.\nExhaust.",
+      "description": "Add a Time Bomb, Spiker Protocol, and Repulsor to your hand.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -6009,7 +6081,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Time *Bomb, *Spiker *Protocol, and *Repulsor to your hand and Upgrade them.\nExhaust.",
+      "description": "Add a Time Bomb, Spiker Protocol, and Repulsor to your hand and Upgrade them.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -6018,7 +6090,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Spheric *Shield, *Harden, and *Floating *Orbs to your hand.\nExhaust.",
+      "description": "Add a Spheric Shield, Harden, and Floating Orbs to your hand.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -6027,7 +6099,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Spheric *Shield, *Harden, and *Floating *Orbs to your hand and Upgrade them.\nExhaust.",
+      "description": "Add a Spheric Shield, Harden, and Floating Orbs to your hand and Upgrade them.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -6036,7 +6108,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage 2 times.\nbronze:Compile - Gain 2 Strength and lose !bauto! Dexterity.",
+      "description": "Deal 8 damage 2 times.\nbronze:Encode.\nbronze:Compile - Gain 2 Strength and lose 1 Dexterity.",
       "mod": "Downfall"
     },
     {
@@ -6045,7 +6117,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage 3 times.\nbronze:Compile - Gain 3 Strength and lose !bauto! Dexterity.",
+      "description": "Deal 8 damage 3 times.\nbronze:Encode.\nbronze:Compile - Gain 3 Strength and lose 1 Dexterity.",
       "mod": "Downfall"
     },
     {
@@ -6054,7 +6126,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 16 Block.\nbronze:Compile - Gain 4 Plated Armor and bronze:Insert !bauto! *Dazed.",
+      "description": "Gain 16 Block.\nbronze:Encode.\nbronze:Compile - Gain 4 Plated Armor and bronze:Insert 2 Dazed.",
       "mod": "Downfall"
     },
     {
@@ -6063,7 +6135,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 16 Block.\nbronze:Compile - Gain 6 Plated Armor and bronze:Insert !bauto! *Dazed.",
+      "description": "Gain 16 Block.\nbronze:Encode.\nbronze:Compile - Gain 6 Plated Armor and bronze:Insert 2 Dazed.",
       "mod": "Downfall"
     },
     {
@@ -6126,7 +6198,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Weak.\nPlace a *Sentry *Blast into guardianmod:Stasis.\nExhaust.",
+      "description": "Apply 1 Weak.\nPlace a Sentry Blast into guardianmod:Stasis.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -6135,7 +6207,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Weak.\nguardianmod:Brace 2.\nPlace a *Sentry *Blast+ into guardianmod:Stasis.\nExhaust.",
+      "description": "Apply 1 Weak.\nguardianmod:Brace 2.\nPlace a Sentry Blast+ into guardianmod:Stasis.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -6216,7 +6288,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 3 damage.\nbronze:Compile - Gain 3 Thorns.",
+      "description": "Deal 3 damage.\nbronze:Encode.\nbronze:Compile - Gain 3 Thorns.",
       "mod": "Downfall"
     },
     {
@@ -6225,7 +6297,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 4 damage.\nbronze:Compile - Gain 4 Thorns.",
+      "description": "Deal 4 damage.\nbronze:Encode.\nbronze:Compile - Gain 4 Thorns.",
       "mod": "Downfall"
     },
     {
@@ -7098,7 +7170,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nexpansioncontent:Boss - Ancients.\nGain 14 Block.\nNext turn, add a *Donu *Blast with Ethereal into your hand.\nExhaust.",
+      "description": "Ethereal.\nexpansioncontent:Boss - Ancients.\nGain 14 Block.\nNext turn, add a Donu Blast with Ethereal into your hand.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -7107,7 +7179,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nexpansioncontent:Boss - Ancients.\nGain 18 Block.\nNext turn, add a *Donu *Blast+ with Ethereal into your hand.\nExhaust.",
+      "description": "Ethereal.\nexpansioncontent:Boss - Ancients.\nGain 18 Block.\nNext turn, add a Donu Blast+ with Ethereal into your hand.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -7170,7 +7242,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "expansioncontent:Boss - Ancients.\nDeal 9 damage twice.\nNext turn, add a *Deca *Shield into your hand.\nExhaust.",
+      "description": "expansioncontent:Boss - Ancients.\nDeal 9 damage twice.\nNext turn, add a Deca Shield into your hand.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -7179,7 +7251,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "expansioncontent:Boss - Ancients.\nDeal 12 damage twice.\nNext turn, add a *Deca *Shield+ into your hand.\nExhaust.",
+      "description": "expansioncontent:Boss - Ancients.\nDeal 12 damage twice.\nNext turn, add a Deca Shield+ into your hand.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -7206,7 +7278,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "2",
-      "description": "expansioncontent:Boss - Hexaghost.\nIn 6 turns, deal 6 damage to a random enemy 6 times.",
+      "description": "expansioncontent:Boss - Hexaghost.\nIn 6 turns, deal 6 damage to a random enemy 6 times.\nScales with Strength.",
       "mod": "Downfall"
     },
     {
@@ -7215,7 +7287,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "2",
-      "description": "expansioncontent:Boss - Hexaghost.\nIn 4 turns, deal 6 damage to a random enemy 6 times.",
+      "description": "expansioncontent:Boss - Hexaghost.\nIn 4 turns, deal 6 damage to a random enemy 6 times.\nScales with Strength.",
       "mod": "Downfall"
     },
     {
@@ -7386,7 +7458,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply !burny! hexamod:Soulburn.",
+      "description": "Apply 9 hexamod:Soulburn.",
       "mod": "Downfall"
     },
     {
@@ -7395,7 +7467,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply !burny! hexamod:Soulburn.",
+      "description": "Apply 15 hexamod:Soulburn.",
       "mod": "Downfall"
     },
     {
@@ -7458,7 +7530,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "If the enemy has hexamod:Soulburn, apply !burny! hexamod:Soulburn.\nApply !burny! hexamod:Soulburn.",
+      "description": "If the enemy has hexamod:Soulburn, apply 7 hexamod:Soulburn.\nApply 7 hexamod:Soulburn.",
       "mod": "Downfall"
     },
     {
@@ -7467,7 +7539,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "If the enemy has hexamod:Soulburn, apply !burny! hexamod:Soulburn.\nApply !burny! hexamod:Soulburn.",
+      "description": "If the enemy has hexamod:Soulburn, apply 11 hexamod:Soulburn.\nApply 11 hexamod:Soulburn.",
       "mod": "Downfall"
     },
     {
@@ -7494,7 +7566,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage.\nApply !burny! hexamod:Soulburn.",
+      "description": "Deal 5 damage.\nApply 5 hexamod:Soulburn.",
       "mod": "Downfall"
     },
     {
@@ -7503,7 +7575,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage.\nApply !burny! hexamod:Soulburn.",
+      "description": "Deal 7 damage.\nApply 7 hexamod:Soulburn.",
       "mod": "Downfall"
     },
     {
@@ -7512,7 +7584,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "Unplayable.\nEthereal, hexamod:Afterlife.\nApply !burny! hexamod:Soulburn to ALL enemies.",
+      "description": "Unplayable.\nEthereal, hexamod:Afterlife.\nApply 12 hexamod:Soulburn to ALL enemies.",
       "mod": "Downfall"
     },
     {
@@ -7521,7 +7593,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "Unplayable.\nEthereal, hexamod:Afterlife.\nApply !burny! hexamod:Soulburn to ALL enemies.",
+      "description": "Unplayable.\nEthereal, hexamod:Afterlife.\nApply 18 hexamod:Soulburn to ALL enemies.",
       "mod": "Downfall"
     },
     {
@@ -7620,7 +7692,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nGain 14 Block.\nIf this card is Exhausted, add a *Shadow *Guise into your hand.",
+      "description": "Ethereal.\nGain 14 Block.\nIf this card is Exhausted, add a Shadow Guise into your hand.",
       "mod": "Downfall"
     },
     {
@@ -7629,7 +7701,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nGain 18 Block.\nIf this card is Exhausted, add a *Shadow *Guise+ to your hand.",
+      "description": "Ethereal.\nGain 18 Block.\nIf this card is Exhausted, add a Shadow Guise+ to your hand.",
       "mod": "Downfall"
     },
     {
@@ -7638,7 +7710,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Ethereal.\nDeal 16 damage.\nIf this card is Exhausted, add a *Shadow *Strike into your hand.",
+      "description": "Ethereal.\nDeal 16 damage.\nIf this card is Exhausted, add a Shadow Strike into your hand.",
       "mod": "Downfall"
     },
     {
@@ -7647,7 +7719,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Ethereal.\nDeal 20 damage.\nIf this card is Exhausted, add a *Shadow *Strike+ to your hand.",
+      "description": "Ethereal.\nDeal 20 damage.\nIf this card is Exhausted, add a Shadow Strike+ to your hand.",
       "mod": "Downfall"
     },
     {
@@ -7656,7 +7728,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Ethereal.\nDeal 10 damage.\nApply !burny! hexamod:Soulburn.\nIf this card is Exhausted, take 6 damage.",
+      "description": "Ethereal.\nDeal 10 damage.\nApply 6 hexamod:Soulburn.\nIf this card is Exhausted, take 6 damage.",
       "mod": "Downfall"
     },
     {
@@ -7665,7 +7737,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Ethereal.\nDeal 14 damage.\nApply !burny! hexamod:Soulburn.\nIf this card is Exhausted, take 6 damage.",
+      "description": "Ethereal.\nDeal 14 damage.\nApply 9 hexamod:Soulburn.\nIf this card is Exhausted, take 6 damage.",
       "mod": "Downfall"
     },
     {
@@ -7818,7 +7890,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply !burny! hexamod:Soulburn.\nRepeat for each hexamod:Ignited Ghostflame.",
+      "description": "Apply 5 hexamod:Soulburn.\nRepeat for each hexamod:Ignited Ghostflame.",
       "mod": "Downfall"
     },
     {
@@ -7827,7 +7899,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply !burny! hexamod:Soulburn.\nRepeat for each hexamod:Ignited Ghostflame.",
+      "description": "Apply 7 hexamod:Soulburn.\nRepeat for each hexamod:Ignited Ghostflame.",
       "mod": "Downfall"
     },
     {
@@ -7854,7 +7926,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Ethereal.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, apply !burny! hexamod:Soulburn. If not, deal 10 damage.",
+      "description": "Ethereal.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, apply 15 hexamod:Soulburn. If not, deal 10 damage.",
       "mod": "Downfall"
     },
     {
@@ -7863,7 +7935,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Ethereal.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, apply !burny! hexamod:Soulburn. If not, deal 13 damage.",
+      "description": "Ethereal.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, apply 20 hexamod:Soulburn. If not, deal 13 damage.",
       "mod": "Downfall"
     },
     {
@@ -7944,7 +8016,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 12 Block.\nWhenever you are attacked this turn, apply !burny! hexamod:Soulburn to the attacker.",
+      "description": "Gain 12 Block.\nWhenever you are attacked this turn, apply 4 hexamod:Soulburn to the attacker.",
       "mod": "Downfall"
     },
     {
@@ -7953,7 +8025,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 16 Block.\nWhenever you are attacked this turn, apply !burny! hexamod:Soulburn to the attacker.",
+      "description": "Gain 16 Block.\nWhenever you are attacked this turn, apply 6 hexamod:Soulburn to the attacker.",
       "mod": "Downfall"
     },
     {
@@ -8016,7 +8088,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 4 damage and apply !burny! hexamod:Soulburn to a random enemy 3 times.",
+      "description": "Deal 4 damage and apply 4 hexamod:Soulburn to a random enemy 3 times.",
       "mod": "Downfall"
     },
     {
@@ -8025,7 +8097,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 4 damage and apply !burny! hexamod:Soulburn to a random enemy 4 times.",
+      "description": "Deal 4 damage and apply 4 hexamod:Soulburn to a random enemy 4 times.",
       "mod": "Downfall"
     },
     {
@@ -8052,7 +8124,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !burny! hexamod:Soulburn.\nThe next time the target's hexamod:Soulburn detonates, it affects ALL enemies.\nExhaust.",
+      "description": "Apply 5 hexamod:Soulburn.\nThe next time the target's hexamod:Soulburn detonates, it affects ALL enemies.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -8061,7 +8133,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !burny! hexamod:Soulburn.\nThe next time the target's hexamod:Soulburn detonates, it affects ALL enemies.",
+      "description": "Apply 5 hexamod:Soulburn.\nThe next time the target's hexamod:Soulburn detonates, it affects ALL enemies.",
       "mod": "Downfall"
     },
     {
@@ -8160,7 +8232,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "X",
-      "description": "Deal 7 damage and apply !burny! hexamod:Soulburn to a random enemy X times.\nIf X is 3 or more, apply 1 Weak and Vulnerable to ALL enemies.",
+      "description": "Deal 7 damage and apply 7 hexamod:Soulburn to a random enemy X times.\nIf X is 3 or more, apply 1 Weak and Vulnerable to ALL enemies.",
       "mod": "Downfall"
     },
     {
@@ -8169,7 +8241,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "X",
-      "description": "Deal 8 damage and apply !burny! hexamod:Soulburn to a random enemy X times.\nIf X is 3 or more, apply 2 Weak and Vulnerable to ALL enemies.",
+      "description": "Deal 8 damage and apply 8 hexamod:Soulburn to a random enemy X times.\nIf X is 3 or more, apply 2 Weak and Vulnerable to ALL enemies.",
       "mod": "Downfall"
     },
     {
@@ -8223,7 +8295,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !burny! hexamod:Soulburn.\nIf the hexamod:Active Ghostflame is hexamod:Ignited: hexamod:Extinguish it and return this card to your hand.",
+      "description": "Apply 6 hexamod:Soulburn.\nIf the hexamod:Active Ghostflame is hexamod:Ignited: hexamod:Extinguish it and return this card to your hand.",
       "mod": "Downfall"
     },
     {
@@ -8232,7 +8304,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !burny! hexamod:Soulburn.\nIf the hexamod:Active Ghostflame is hexamod:Ignited: hexamod:Extinguish it and return this card to your hand.",
+      "description": "Apply 9 hexamod:Soulburn.\nIf the hexamod:Active Ghostflame is hexamod:Ignited: hexamod:Extinguish it and return this card to your hand.",
       "mod": "Downfall"
     },
     {
@@ -8376,7 +8448,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage.\nhexamod:Force-Ignite the previous, then the *Active, then the next Ghostflames.",
+      "description": "Deal 7 damage.\nhexamod:Force-Ignite the previous, then the Active, then the next Ghostflames.",
       "mod": "Downfall"
     },
     {
@@ -8664,7 +8736,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw 1 card.\nbronze:Compile - Next turn, draw 1 card.",
+      "description": "Draw 1 card.\nbronze:Encode.\nbronze:Compile - Next turn, draw 1 card.",
       "mod": "Downfall"
     },
     {
@@ -8673,7 +8745,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw 2 cards.\nbronze:Compile - Next turn, draw 2 cards.",
+      "description": "Draw 2 cards.\nbronze:Encode.\nbronze:Compile - Next turn, draw 2 cards.",
       "mod": "Downfall"
     },
     {
@@ -8682,7 +8754,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 4 damage.",
+      "description": "Deal 4 damage.\nbronze:Encode, then add a copy of this into your discard pile.",
       "mod": "Downfall"
     },
     {
@@ -8691,7 +8763,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 6 damage.",
+      "description": "Deal 6 damage.\nbronze:Encode, then add a copy of this into your discard pile.",
       "mod": "Downfall"
     },
     {
@@ -8763,7 +8835,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Add 1 *Wound to your hand.\nbronze:Cycle each Status in your hand, dealing 7 damage for each.",
+      "description": "Add 1 Wound to your hand.\nbronze:Cycle each Status in your hand, dealing 7 damage for each.",
       "mod": "Downfall"
     },
     {
@@ -8772,7 +8844,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Add 2 *Wounds to your hand.\nbronze:Cycle each Status in your hand, dealing 7 damage for each.",
+      "description": "Add 2 Wounds to your hand.\nbronze:Cycle each Status in your hand, dealing 7 damage for each.",
       "mod": "Downfall"
     },
     {
@@ -8781,7 +8853,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "bronze:Insert random Status.\nGain 1 [E] .",
+      "description": "bronze:Insert random Status.\nGain 1 [E] .\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -8790,7 +8862,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "bronze:Insert random Status.\nGain 1 [E] .",
+      "description": "bronze:Insert random Status.\nGain 1 [E] .\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -8799,7 +8871,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 5 Block. \u03C0\nWhen bronze:Encoded, if this is the first card, increase its Block by 5.",
+      "description": "Gain 5 Block. \u03C0\nWhen bronze:Encoded, if this is the first card, increase its Block by 5.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -8808,7 +8880,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 7 Block. \u03C0\nWhen bronze:Encoded, if this is the first card, increase its Block by 7.",
+      "description": "Gain 7 Block. \u03C0\nWhen bronze:Encoded, if this is the first card, increase its Block by 7.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -8817,7 +8889,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage.\nScry 2.\nbronze:Compile - Draw !bauto! card.",
+      "description": "Deal 5 damage.\nScry 2.\nbronze:Encode.\nbronze:Compile - Draw 1 card.",
       "mod": "Downfall"
     },
     {
@@ -8826,7 +8898,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage.\nScry 3.\nbronze:Compile - Draw !bauto! card.",
+      "description": "Deal 7 damage.\nScry 3.\nbronze:Encode.\nbronze:Compile - Draw 1 card.",
       "mod": "Downfall"
     },
     {
@@ -8835,7 +8907,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Next turn, gain 7 Block.",
+      "description": "Next turn, gain 7 Block.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -8844,7 +8916,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Next turn, gain 10 Block.",
+      "description": "Next turn, gain 10 Block.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -8853,7 +8925,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 3 damage.\nbronze:Compile - ALL enemies lose 6 HP.",
+      "description": "Deal 3 damage.\nbronze:Encode.\nbronze:Compile - ALL enemies lose 6 HP.",
       "mod": "Downfall"
     },
     {
@@ -8862,7 +8934,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 4 damage.\nbronze:Compile - ALL enemies lose 10 HP.",
+      "description": "Deal 4 damage.\nbronze:Encode.\nbronze:Compile - ALL enemies lose 10 HP.",
       "mod": "Downfall"
     },
     {
@@ -8871,7 +8943,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Weak to ALL enemies.\nbronze:Compile *Error - Gain Weak.",
+      "description": "Apply 1 Weak to ALL enemies.\nbronze:Encode.\nbronze:Compile Error - Gain Weak.",
       "mod": "Downfall"
     },
     {
@@ -8880,7 +8952,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 2 Weak to ALL enemies.\nbronze:Compile *Error - Gain Weak.",
+      "description": "Apply 2 Weak to ALL enemies.\nbronze:Encode.\nbronze:Compile Error - Gain Weak.",
       "mod": "Downfall"
     },
     {
@@ -8907,7 +8979,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 12 Block.\nbronze:Compile - Function gains Retain.",
+      "description": "Gain 12 Block.\nbronze:Encode.\nbronze:Compile - Function gains Retain.",
       "mod": "Downfall"
     },
     {
@@ -8916,7 +8988,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 16 Block.\nbronze:Compile - Function gains Retain.",
+      "description": "Gain 16 Block.\nbronze:Encode.\nbronze:Compile - Function gains Retain.",
       "mod": "Downfall"
     },
     {
@@ -8925,7 +8997,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Vulnerable to ALL enemies.\nbronze:Compile *Error - Gain Vulnerable.",
+      "description": "Apply 1 Vulnerable to ALL enemies.\nbronze:Encode.\nbronze:Compile Error - Gain Vulnerable.",
       "mod": "Downfall"
     },
     {
@@ -8934,7 +9006,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 2 Vulnerable to ALL enemies.\nbronze:Compile *Error - Gain Vulnerable.",
+      "description": "Apply 2 Vulnerable to ALL enemies.\nbronze:Encode.\nbronze:Compile Error - Gain Vulnerable.",
       "mod": "Downfall"
     },
     {
@@ -8943,7 +9015,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 2 damage 3 times.",
+      "description": "Deal 2 damage 3 times.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -8952,7 +9024,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 2 damage 4 times.",
+      "description": "Deal 2 damage 4 times.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -8961,7 +9033,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 4 damage and apply 4 Poison.\nbronze:Compile *Error - bronze:Insert a *Slimed.",
+      "description": "Deal 4 damage and apply 4 Poison.\nbronze:Encode.\nbronze:Compile Error - bronze:Insert a Slimed.",
       "mod": "Downfall"
     },
     {
@@ -8970,7 +9042,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage and apply 5 Poison.\nbronze:Compile *Error - bronze:Insert a *Slimed.",
+      "description": "Deal 5 damage and apply 5 Poison.\nbronze:Encode.\nbronze:Compile Error - bronze:Insert a Slimed.",
       "mod": "Downfall"
     },
     {
@@ -8979,7 +9051,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 18 damage.\nRemove the next bronze:Compile *Error you would bronze:Encode.",
+      "description": "Deal 18 damage.\nRemove the next bronze:Compile Error you would bronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -8988,7 +9060,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 24 damage.\nRemove the next bronze:Compile *Error you would bronze:Encode.",
+      "description": "Deal 24 damage.\nRemove the next bronze:Compile Error you would bronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -8997,7 +9069,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage to ALL enemies.",
+      "description": "Deal 6 damage to ALL enemies.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -9006,7 +9078,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage to ALL enemies.",
+      "description": "Deal 8 damage to ALL enemies.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -9015,7 +9087,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage. \u03C0\nWhen bronze:Encoded, if this is not in the first or last slot, increase its damage by 6.",
+      "description": "Deal 6 damage. \u03C0\nWhen bronze:Encoded, if this is not in the first or last slot, increase its damage by 6.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -9024,7 +9096,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage. \u03C0\nWhen bronze:Encoded, if this is not in the first or last slot, increase its damage by 8.",
+      "description": "Deal 8 damage. \u03C0\nWhen bronze:Encoded, if this is not in the first or last slot, increase its damage by 8.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -9033,7 +9105,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 11 Block.\nbronze:Insert a *Slimed.",
+      "description": "Gain 11 Block.\nbronze:Insert a Slimed.",
       "mod": "Downfall"
     },
     {
@@ -9042,7 +9114,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 14 Block.\nbronze:Insert a *Slimed.",
+      "description": "Gain 14 Block.\nbronze:Insert a Slimed.",
       "mod": "Downfall"
     },
     {
@@ -9051,7 +9123,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain [E] [E] .\nbronze:Insert a *Void.",
+      "description": "Gain [E] [E] .\nAdd a Void into your discard pile.",
       "mod": "Downfall"
     },
     {
@@ -9060,7 +9132,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nGain [E] [E] .\nbronze:Insert a *Void.",
+      "description": "Gain [E] [E] [E].\nAdd a Void into your discard pile.",
       "mod": "Downfall"
     },
     {
@@ -9069,7 +9141,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\nbronze:Compile *Error - bronze:Insert a *Wound.",
+      "description": "Deal 10 damage.\nbronze:Encode.\nbronze:Compile Error - bronze:Insert a Wound.",
       "mod": "Downfall"
     },
     {
@@ -9078,7 +9150,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 13 damage.\nbronze:Compile *Error - bronze:Insert a *Wound.",
+      "description": "Deal 13 damage.\nbronze:Encode.\nbronze:Compile Error - bronze:Insert a Wound.",
       "mod": "Downfall"
     },
     {
@@ -9105,7 +9177,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Innate.\n\u00A0 Deal 7 damage.\nbronze:Compile *Error - Function gains Exhaust.",
+      "description": "Innate.\n\u00A0 Deal 7 damage.\nbronze:Encode.\nbronze:Compile Error - Function gains Exhaust.",
       "mod": "Downfall"
     },
     {
@@ -9114,7 +9186,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Innate.\n\u00A0 Deal 10 damage.\nbronze:Compile *Error - Function gains Exhaust.",
+      "description": "Innate.\n\u00A0 Deal 10 damage.\nbronze:Encode.\nbronze:Compile Error - Function gains Exhaust.",
       "mod": "Downfall"
     },
     {
@@ -9122,8 +9194,8 @@
       "color": "The_bronze_automaton",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "0",
-      "description": "Gain 1 bronze:Blur.",
+      "cost": "1",
+      "description": "Gain 1 bronze:Blur.\nbronze:Encode.",
       "mod": "Downfall"
     },
     {
@@ -9131,8 +9203,8 @@
       "color": "The_bronze_automaton",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "0",
-      "description": "Gain 1 bronze:Blur.\nbronze:Compile - Gain 1 bronze:Blur.",
+      "cost": "1",
+      "description": "Gain 1 bronze:Blur.\nbronze:Encode.\nbronze:Compile - Gain 1 bronze:Blur.",
       "mod": "Downfall"
     },
     {
@@ -9141,7 +9213,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 8 Block.\nbronze:Compile - Gain 2 Strength.",
+      "description": "Gain 8 Block.\nbronze:Encode.\nbronze:Compile - Gain 2 Strength.",
       "mod": "Downfall"
     },
     {
@@ -9150,7 +9222,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 8 Block.\nbronze:Compile - Gain 3 Strength.",
+      "description": "Gain 8 Block.\nbronze:Encode.\nbronze:Compile - Gain 3 Strength.",
       "mod": "Downfall"
     },
     {
@@ -9159,7 +9231,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain !bauto! Artifact.\nbronze:Compile *Error - ALL enemies gain 2 Artifact.",
+      "description": "Gain 1 Artifact.\nbronze:Encode.\nbronze:Compile Error - ALL enemies gain 2 Artifact.",
       "mod": "Downfall"
     },
     {
@@ -9168,7 +9240,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain !bauto! Artifact.\nbronze:Compile *Error - ALL enemies gain 1 Artifact.",
+      "description": "Gain 1 Artifact.\nbronze:Encode.\nbronze:Compile Error - ALL enemies gain 1 Artifact.",
       "mod": "Downfall"
     },
     {
@@ -9213,7 +9285,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage.\nbronze:Compile - Increase this card's damage by 1 permanently.",
+      "description": "Deal 6 damage.\nbronze:Encode.\nbronze:Compile - Increase this card's damage by 1 permanently.",
       "mod": "Downfall"
     },
     {
@@ -9222,7 +9294,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage.\nbronze:Compile - Increase this card's damage by 1 permanently.",
+      "description": "Deal 9 damage.\nbronze:Encode.\nbronze:Compile - Increase this card's damage by 1 permanently.",
       "mod": "Downfall"
     },
     {
@@ -9231,7 +9303,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Gain 8 Block.\nDeal 8 damage.\nbronze:Compile *Error - bronze:Insert a *Void.",
+      "description": "Gain 8 Block.\nDeal 8 damage.\nbronze:Encode.\nbronze:Compile Error - bronze:Insert a Void.",
       "mod": "Downfall"
     },
     {
@@ -9240,7 +9312,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Gain 10 Block.\nDeal 10 damage.\nbronze:Compile *Error - bronze:Insert a *Void.",
+      "description": "Gain 10 Block.\nDeal 10 damage.\nbronze:Encode.\nbronze:Compile Error - bronze:Insert a Void.",
       "mod": "Downfall"
     },
     {
@@ -9249,7 +9321,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 20 damage.\nbronze:Compile *Error - Function is Ethereal.",
+      "description": "Deal 20 damage.\nbronze:Encode.\nbronze:Compile Error - Function is Ethereal.",
       "mod": "Downfall"
     },
     {
@@ -9258,7 +9330,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 28 damage.\nbronze:Compile *Error - Function is Ethereal.",
+      "description": "Deal 28 damage.\nbronze:Encode.\nbronze:Compile Error - Function is Ethereal.",
       "mod": "Downfall"
     },
     {
@@ -9267,7 +9339,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 6 damage to ALL enemies !bauto! times.\nbronze:Compile - Gain 1 Artifact.",
+      "description": "Deal 6 damage to ALL enemies 2 times.\nbronze:Encode.\nbronze:Compile - Gain 1 Artifact.",
       "mod": "Downfall"
     },
     {
@@ -9276,7 +9348,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 7 damage to ALL enemies !bauto! times.\nbronze:Compile - Gain 2 Artifact.",
+      "description": "Deal 7 damage to ALL enemies 2 times.\nbronze:Encode.\nbronze:Compile - Gain 2 Artifact.",
       "mod": "Downfall"
     },
     {
@@ -9339,7 +9411,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage.\nbronze:Compile - Gain 2 Dexterity.",
+      "description": "Deal 8 damage.\nbronze:Encode.\nbronze:Compile - Gain 2 Dexterity.",
       "mod": "Downfall"
     },
     {
@@ -9348,7 +9420,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage.\nbronze:Compile - Gain 3 Dexterity.",
+      "description": "Deal 8 damage.\nbronze:Encode.\nbronze:Compile - Gain 3 Dexterity.",
       "mod": "Downfall"
     },
     {
@@ -9375,7 +9447,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of each turn, add a *Minor *Beam to your hand.",
+      "description": "At the start of each turn, add a Minor Beam to your hand.",
       "mod": "Downfall"
     },
     {
@@ -9384,7 +9456,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of each turn, add a *Minor *Beam+ to your hand.",
+      "description": "At the start of each turn, add a Minor Beam+ to your hand.",
       "mod": "Downfall"
     },
     {
@@ -9393,7 +9465,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain 3 Block.\nbronze:Compile - Gain [E] equal to the total cost of cards in the Sequence.",
+      "description": "Gain 3 Block.\nbronze:Encode.\nbronze:Compile - Gain [E] equal to the total cost of cards in the Sequence.",
       "mod": "Downfall"
     },
     {
@@ -9402,7 +9474,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain 5 Block.\nbronze:Compile - Gain [E] equal to the total cost of cards in the Sequence.",
+      "description": "Gain 5 Block.\nbronze:Encode.\nbronze:Compile - Gain [E] equal to the total cost of cards in the Sequence.",
       "mod": "Downfall"
     },
     {
@@ -9429,7 +9501,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Draw 3 cards.\nAt the start of each turn, draw 1 additional card and bronze:Insert 1 *Dazed.",
+      "description": "Draw 3 cards.\nAt the start of each turn, draw 1 additional card and bronze:Insert 1 Dazed.",
       "mod": "Downfall"
     },
     {
@@ -9438,7 +9510,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "0",
-      "description": "Draw 3 cards.\nAt the start of each turn, draw 1 additional card and bronze:Insert 1 *Dazed.",
+      "description": "Draw 3 cards.\nAt the start of each turn, draw 1 additional card and bronze:Insert 1 Dazed.",
       "mod": "Downfall"
     },
     {
@@ -9465,7 +9537,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 12 damage.\nGain 12 Block.\nbronze:Compile *Error - Function is Unplayable.",
+      "description": "Deal 12 damage.\nGain 12 Block.\nbronze:Encode.\nbronze:Compile Error - Function is Unplayable.",
       "mod": "Downfall"
     },
     {
@@ -9474,7 +9546,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 15 damage.\nGain 15 Block.\nbronze:Compile *Error - Function is Unplayable.",
+      "description": "Deal 15 damage.\nGain 15 Block.\nbronze:Encode.\nbronze:Compile Error - Function is Unplayable.",
       "mod": "Downfall"
     },
     {
@@ -9519,7 +9591,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain !bauto! Strength.\nbronze:Compile *Error - ALL enemies gain 2 Strength.",
+      "description": "Gain 1 Strength.\nbronze:Encode.\nbronze:Compile Error - ALL enemies gain 2 Strength.",
       "mod": "Downfall"
     },
     {
@@ -9528,7 +9600,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain !bauto! Strength.\nbronze:Compile *Error - ALL enemies gain 1 Strength.",
+      "description": "Gain 1 Strength.\nbronze:Encode.\nbronze:Compile Error - ALL enemies gain 1 Strength.",
       "mod": "Downfall"
     },
     {
@@ -9555,7 +9627,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Block.\nbronze:Compile - Heal 7 HP.",
+      "description": "Gain 4 Block.\nbronze:Encode.\nbronze:Compile - Heal 7 HP.",
       "mod": "Downfall"
     },
     {
@@ -9564,7 +9636,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Block.\nbronze:Compile - Heal 10 HP.",
+      "description": "Gain 4 Block.\nbronze:Encode.\nbronze:Compile - Heal 10 HP.",
       "mod": "Downfall"
     },
     {
@@ -9581,8 +9653,8 @@
       "color": "The_bronze_automaton",
       "rarity": "Uncommon",
       "type": "Power",
-      "cost": "2",
-      "description": "Innate.\nWhen you draw the first Status or Curse card each turn, Exhaust it and draw a card.",
+      "cost": "1",
+      "description": "When you draw the first Status or Curse card each turn, Exhaust it and draw a card.",
       "mod": "Downfall"
     },
     {
@@ -9609,7 +9681,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 10 Block.\nbronze:Compile *Error - Gain 2 Frail.",
+      "description": "Gain 10 Block.\nbronze:Encode.\nbronze:Compile Error - Gain 2 Frail.",
       "mod": "Downfall"
     },
     {
@@ -9618,7 +9690,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 13 Block.\nbronze:Compile *Error - Gain 2 Frail.",
+      "description": "Gain 13 Block.\nbronze:Encode.\nbronze:Compile Error - Gain 2 Frail.",
       "mod": "Downfall"
     },
     {
@@ -9627,7 +9699,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "bronze:Compile - If this is the last card in the Sequence, Function gains 'Play this again'.",
+      "description": "bronze:Encode.\nbronze:Compile - If this is the last card in the Sequence, Function gains 'Play this again'.",
       "mod": "Downfall"
     },
     {
@@ -9636,7 +9708,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "bronze:Compile - If this is the last card in the Sequence, Function gains 'Play this again'.",
+      "description": "bronze:Encode.\nbronze:Compile - If this is the last card in the Sequence, Function gains 'Play this again'.",
       "mod": "Downfall"
     },
     {
@@ -9645,7 +9717,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Scry 5.\nbronze:Encode all cards with bronze:Encode discarded.\nExhaust.",
+      "description": "Scry 5.\nbronze:Encode all cards with bronze:Encode discarded in selected order.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -9654,7 +9726,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Scry 8.\nbronze:Encode all cards with bronze:Encode discarded.\nExhaust.",
+      "description": "Scry 8.\nbronze:Encode all cards with bronze:Encode discarded in selected order.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -9663,7 +9735,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 15 damage.\nbronze:Compile *Error - bronze:Insert 4 random Status cards.",
+      "description": "Deal 15 damage.\nbronze:Encode.\nbronze:Compile Error - bronze:Insert 4 random Status cards.",
       "mod": "Downfall"
     },
     {
@@ -9672,7 +9744,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 18 damage.\nbronze:Compile *Error - bronze:Insert 3 random Status cards.",
+      "description": "Deal 18 damage.\nbronze:Encode.\nbronze:Compile Error - bronze:Insert 3 random Status cards.",
       "mod": "Downfall"
     },
     {
@@ -9681,7 +9753,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 5 damage to a random enemy for ALL of your Status cards, then Exhaust them.\nbronze:Insert 3 *Burns.",
+      "description": "Deal 5 damage to a random enemy for ALL of your Status cards, then Exhaust them.\nbronze:Insert 3 Burns.",
       "mod": "Downfall"
     },
     {
@@ -9690,7 +9762,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage to a random enemy for ALL of your Status cards, then Exhaust them.\nbronze:Insert 3 *Burns.",
+      "description": "Deal 8 damage to a random enemy for ALL of your Status cards, then Exhaust them.\nbronze:Insert 3 Burns.",
       "mod": "Downfall"
     },
     {
@@ -9699,7 +9771,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Remove all bronze:Compile *Error effects from cards in the Sequence.\nLasts for the next 3 Functions created.",
+      "description": "Remove all bronze:Compile Error effects from cards in the Sequence.\nLasts for the next 3 Functions created.",
       "mod": "Downfall"
     },
     {
@@ -9708,7 +9780,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Remove all bronze:Compile *Error effects from cards in the Sequence.\nLasts for the next 4 Functions created.",
+      "description": "Remove all bronze:Compile Error effects from cards in the Sequence.\nLasts for the next 4 Functions created.",
       "mod": "Downfall"
     },
     {
@@ -9717,7 +9789,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nChoose between *Debug, *Batch, *Decompile, and *Byte *Shift.\nExhaust.",
+      "description": "Retain.\nChoose between Debug, Batch, Decompile, and Byte Shift.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -9726,7 +9798,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nChoose between *Debug, *Batch, *Decompile, and *Byte *Shift.",
+      "description": "Retain.\nChoose between Debug, Batch, Decompile, and Byte Shift.",
       "mod": "Downfall"
     },
     {
@@ -9734,8 +9806,8 @@
       "color": "The_bronze_automaton",
       "rarity": "Rare",
       "type": "Attack",
-      "cost": "2",
-      "description": "Deal 15 damage.\nbronze:Insert random Status.\nbronze:Compile - bronze:Insert *Beta *Build.",
+      "cost": "1",
+      "description": "Deal 13 damage.\nbronze:Insert random Status.\nbronze:Encode.\nbronze:Compile - bronze:Insert Beta Build.",
       "mod": "Downfall"
     },
     {
@@ -9743,8 +9815,8 @@
       "color": "The_bronze_automaton",
       "rarity": "Rare",
       "type": "Attack",
-      "cost": "2",
-      "description": "Innate.\n\u00A0 Deal 15 damage.\nbronze:Insert random Status.\nbronze:Compile - bronze:Insert *Beta *Build.",
+      "cost": "1",
+      "description": "Innate.\n\u00A0 Deal 13 damage.\nbronze:Insert random Status.\nbronze:Encode.\nbronze:Compile - bronze:Insert Beta Build.",
       "mod": "Downfall"
     },
     {
@@ -9771,7 +9843,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "bronze:Encode X copies of *Fragment.\nGain [E] .\nExhaust.",
+      "description": "bronze:Encode X copies of Fragment.\nGain [E] .\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -9780,7 +9852,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "bronze:Encode X+1 copies of *Fragment.\nGain [E] .\nExhaust.",
+      "description": "bronze:Encode X+1 copies of Fragment.\nGain [E] .\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -9789,7 +9861,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "6",
-      "description": "Retain.\nDeal 45 damage to ALL enemies.\nPut 5 *Void on top of your draw pile.\nWhen Retained, lower its cost by 1 this combat.",
+      "description": "Retain.\nDeal 45 damage to ALL enemies.\nPut 5 Void on top of your draw pile.\nWhen Retained, lower its cost by 1 this combat.",
       "mod": "Downfall"
     },
     {
@@ -9798,7 +9870,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "5",
-      "description": "Retain.\nDeal 45 damage to ALL enemies.\nPut 5 *Void on top of your draw pile.\nWhen Retained, lower its cost by 1 this combat.",
+      "description": "Retain.\nDeal 45 damage to ALL enemies.\nPut 5 Void on top of your draw pile.\nWhen Retained, lower its cost by 1 this combat.",
       "mod": "Downfall"
     },
     {
@@ -9807,7 +9879,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": "Fleeting.\nThe next Function you create goes into your deck permanently instead of your hand.",
+      "description": "Next time you create a Function, add it to your deck.\nRemove the cards used to create it (including this).",
       "mod": "Downfall"
     },
     {
@@ -9816,7 +9888,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "0",
-      "description": "Fleeting.\nThe next Function you create goes into your deck permanently instead of your hand.",
+      "description": "Next time you create a Function, add it to your deck.\nRemove the cards used to create it (including this).",
       "mod": "Downfall"
     },
     {
@@ -9825,7 +9897,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage.\nbronze:Compile - Add a copy of this into your hand and increase its damage by 2.",
+      "description": "Deal 6 damage.\nbronze:Encode.\nbronze:Compile - Add a copy of this into your hand and increase its damage by 2.",
       "mod": "Downfall"
     },
     {
@@ -9834,7 +9906,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage.\nbronze:Compile - Add a copy of this into your hand and increase its damage by 3.",
+      "description": "Deal 6 damage.\nbronze:Encode.\nbronze:Compile - Add a copy of this into your hand and increase its damage by 3.",
       "mod": "Downfall"
     },
     {
@@ -9879,7 +9951,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 6 damage 2 times.\nbronze:Compile - bronze:Encode 2 copies of *Strike.",
+      "description": "Deal 6 damage 2 times.\nbronze:Encode.\nbronze:Compile - bronze:Encode 2 copies of Strike.",
       "mod": "Downfall"
     },
     {
@@ -9888,7 +9960,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 9 damage 2 times.\nbronze:Compile - bronze:Encode 2 copies of *Strike+.",
+      "description": "Deal 9 damage 2 times.\nbronze:Encode.\nbronze:Compile - bronze:Encode 2 copies of Strike+.",
       "mod": "Downfall"
     },
     {
@@ -9987,7 +10059,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Retain.\nDeal 3 damage.\nTransform all cards in hand into *Minor *Beam.\nExhaust.",
+      "description": "Retain.\nDeal 3 damage.\nTransform all cards in hand into Minor Beam.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -9996,7 +10068,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Retain.\nDeal 4 damage.\nTransform all cards in hand into *Minor *Beam+.\nExhaust.",
+      "description": "Retain.\nDeal 4 damage.\nTransform all cards in hand into Minor Beam+.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10005,7 +10077,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.",
+      "description": "Apply 6 slimeboundmod:Goop.",
       "mod": "Downfall"
     },
     {
@@ -10014,7 +10086,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.",
+      "description": "Apply 6 slimeboundmod:Goop.",
       "mod": "Downfall"
     },
     {
@@ -10077,7 +10149,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 12 damage and !SlimeboundSelfharm! damage to yourself.",
+      "description": "Deal 12 damage and 3 damage to yourself.",
       "mod": "Downfall"
     },
     {
@@ -10086,7 +10158,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 16 damage and !SlimeboundSelfharm! damage to yourself.",
+      "description": "Deal 16 damage and 3 damage to yourself.",
       "mod": "Downfall"
     },
     {
@@ -10095,7 +10167,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 12 damage and !SlimeboundSelfharm! damage to yourself.\nAdd a random slimeboundmod:Tackle card to your hand. It costs 0 this turn.",
+      "description": "Deal 12 damage and 3 damage to yourself.\nAdd a random slimeboundmod:Tackle card to your hand. It costs 0 this turn.",
       "mod": "Downfall"
     },
     {
@@ -10104,7 +10176,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 15 damage and !SlimeboundSelfharm! damage to yourself.\nAdd a random Upgraded slimeboundmod:Tackle card to your hand. It costs 0 this turn.",
+      "description": "Deal 15 damage and 3 damage to yourself.\nAdd a random Upgraded slimeboundmod:Tackle card to your hand. It costs 0 this turn.",
       "mod": "Downfall"
     },
     {
@@ -10113,7 +10185,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 5 Block.\nApply !SlimeboundSlimed! slimeboundmod:Goop and 1 Weak to ALL enemies.",
+      "description": "Gain 5 Block.\nApply 5 slimeboundmod:Goop and 1 Weak to ALL enemies.",
       "mod": "Downfall"
     },
     {
@@ -10122,7 +10194,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Block.\nApply !SlimeboundSlimed! slimeboundmod:Goop and 2 Weak to ALL enemies.",
+      "description": "Gain 6 Block.\nApply 6 slimeboundmod:Goop and 2 Weak to ALL enemies.",
       "mod": "Downfall"
     },
     {
@@ -10131,7 +10203,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Vulnerable and !SlimeboundSlimed! slimeboundmod:Goop.\nExhaust.",
+      "description": "Apply 1 Vulnerable and 4 slimeboundmod:Goop.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10140,7 +10212,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Vulnerable and !SlimeboundSlimed! slimeboundmod:Goop.\nDraw a card.\nExhaust.",
+      "description": "Apply 1 Vulnerable and 4 slimeboundmod:Goop.\nDraw a card.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10149,7 +10221,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage. slimeboundmod:Consume - Add a *Lick to your hand.",
+      "description": "Deal 8 damage. slimeboundmod:Consume - Add a Lick to your hand.",
       "mod": "Downfall"
     },
     {
@@ -10158,7 +10230,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage. slimeboundmod:Consume - Add a *Lick+ to your hand.",
+      "description": "Deal 10 damage. slimeboundmod:Consume - Add a Lick+ to your hand.",
       "mod": "Downfall"
     },
     {
@@ -10203,7 +10275,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 12 Block.\nApply !SlimeboundSlimed! slimeboundmod:Goop to attackers this turn.",
+      "description": "Gain 12 Block.\nApply 4 slimeboundmod:Goop to attackers this turn.",
       "mod": "Downfall"
     },
     {
@@ -10212,7 +10284,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 15 Block.\nApply !SlimeboundSlimed! slimeboundmod:Goop to attackers this turn.",
+      "description": "Gain 15 Block.\nApply 6 slimeboundmod:Goop to attackers this turn.",
       "mod": "Downfall"
     },
     {
@@ -10221,7 +10293,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage and !SlimeboundSelfharm! damage to yourself. slimeboundmod:Consume - Apply 2 Vulnerable.",
+      "description": "Deal 11 damage and 3 damage to yourself. slimeboundmod:Consume - Apply 2 Vulnerable.",
       "mod": "Downfall"
     },
     {
@@ -10230,7 +10302,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 14 damage and !SlimeboundSelfharm! damage to yourself. slimeboundmod:Consume - Apply 3 Vulnerable.",
+      "description": "Deal 14 damage and 3 damage to yourself. slimeboundmod:Consume - Apply 3 Vulnerable.",
       "mod": "Downfall"
     },
     {
@@ -10293,7 +10365,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nGain 4 Block.\nExhaust.",
+      "description": "Apply 4 slimeboundmod:Goop.\nGain 4 Block.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10302,7 +10374,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nGain 4 Block.\nDraw a card.\nExhaust.",
+      "description": "Apply 4 slimeboundmod:Goop.\nGain 4 Block.\nDraw a card.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10311,7 +10383,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Block.\nAdd 2 *Licks to your hand.",
+      "description": "Gain 6 Block.\nAdd 2 Licks to your hand.",
       "mod": "Downfall"
     },
     {
@@ -10320,7 +10392,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Block.\nAdd 3 *Licks to your hand.",
+      "description": "Gain 6 Block.\nAdd 3 Licks to your hand.",
       "mod": "Downfall"
     },
     {
@@ -10347,7 +10419,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage and !SlimeboundSelfharm! damage to yourself.\nDraw 2 cards.",
+      "description": "Deal 11 damage and 3 damage to yourself.\nDraw 2 cards.",
       "mod": "Downfall"
     },
     {
@@ -10356,7 +10428,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 13 damage and !SlimeboundSelfharm! damage to yourself.\nDraw 3 cards.",
+      "description": "Deal 13 damage and 3 damage to yourself.\nDraw 3 cards.",
       "mod": "Downfall"
     },
     {
@@ -10473,7 +10545,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Draw a card, then Exhaust a card in your hand. Add a number of *Licks to your hand equal to it's cost.\nExhaust.",
+      "description": "Draw a card, then Exhaust a card in your hand. Add a number of Licks to your hand equal to its cost.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10482,7 +10554,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Draw a card, then Exhaust a card in your hand. Add a number of *Licks to your hand equal to it's cost plus 1.\nExhaust.",
+      "description": "Draw a card, then Exhaust a card in your hand. Add a number of Licks to your hand equal to its cost plus 1.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10509,7 +10581,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nAdd a *Lick to your hand.\nExhaust.",
+      "description": "Apply 4 slimeboundmod:Goop.\nAdd a Lick to your hand.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10518,7 +10590,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nAdd a *Lick to your hand.\nDraw a card.\nExhaust.",
+      "description": "Apply 4 slimeboundmod:Goop.\nAdd a Lick to your hand.\nDraw a card.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10545,7 +10617,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 16 damage and !SlimeboundSelfharm! damage to yourself.\nslimeboundmod:Tackles deal 3 more damage this combat.",
+      "description": "Deal 16 damage and 3 damage to yourself.\nslimeboundmod:Tackles deal 3 more damage this combat.",
       "mod": "Downfall"
     },
     {
@@ -10554,7 +10626,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 19 damage and !SlimeboundSelfharm! damage to yourself.\nslimeboundmod:Tackles deal 4 more damage this combat.",
+      "description": "Deal 19 damage and 3 damage to yourself.\nslimeboundmod:Tackles deal 4 more damage this combat.",
       "mod": "Downfall"
     },
     {
@@ -10563,7 +10635,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 15 damage and !SlimeboundSelfharm! damage to yourself.\nslimeboundmod:Command twice.",
+      "description": "Deal 15 damage and 3 damage to yourself.\nslimeboundmod:Command twice.",
       "mod": "Downfall"
     },
     {
@@ -10572,7 +10644,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 17 damage and !SlimeboundSelfharm! damage to yourself.\nslimeboundmod:Command three times.",
+      "description": "Deal 17 damage and 3 damage to yourself.\nslimeboundmod:Command three times.",
       "mod": "Downfall"
     },
     {
@@ -10581,7 +10653,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "The first time you slimeboundmod:Consume each turn, add a *Lick to your hand.",
+      "description": "The first time you slimeboundmod:Consume each turn, add a Lick to your hand.",
       "mod": "Downfall"
     },
     {
@@ -10590,7 +10662,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Innate.\nThe first time you slimeboundmod:Consume each turn, add a *Lick to your hand.",
+      "description": "Innate.\nThe first time you slimeboundmod:Consume each turn, add a Lick to your hand.",
       "mod": "Downfall"
     },
     {
@@ -10653,7 +10725,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage and !SlimeboundSelfharm! damage to yourself.\nReturn a random 0-cost Exhausted card to your hand.",
+      "description": "Deal 10 damage and 3 damage to yourself.\nReturn a random 0-cost Exhausted card to your hand.",
       "mod": "Downfall"
     },
     {
@@ -10662,7 +10734,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 14 damage and !SlimeboundSelfharm! damage to yourself.\nReturn a random 0-cost Exhausted card to your hand.",
+      "description": "Deal 14 damage and 3 damage to yourself.\nReturn a random 0-cost Exhausted card to your hand.",
       "mod": "Downfall"
     },
     {
@@ -10707,7 +10779,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Weak and !SlimeboundSlimed! slimeboundmod:Goop to ALL enemies.\nExhaust.",
+      "description": "Apply 1 Weak and 4 slimeboundmod:Goop to ALL enemies.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10716,7 +10788,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Weak and !SlimeboundSlimed! slimeboundmod:Goop to ALL enemies.\nDraw a card.\nExhaust.",
+      "description": "Apply 1 Weak and 4 slimeboundmod:Goop to ALL enemies.\nDraw a card.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10779,7 +10851,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop to a random enemy 4 times.",
+      "description": "Apply 3 slimeboundmod:Goop to a random enemy 4 times.",
       "mod": "Downfall"
     },
     {
@@ -10788,7 +10860,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop to a random enemy 6 times.",
+      "description": "Apply 3 slimeboundmod:Goop to a random enemy 6 times.",
       "mod": "Downfall"
     },
     {
@@ -10995,7 +11067,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 16 damage and !SlimeboundSelfharm! damage to yourself. This gains twice the damage bonus from slimeboundmod:Goop.",
+      "description": "Deal 16 damage and 3 damage to yourself. This gains twice the damage bonus from slimeboundmod:Goop.",
       "mod": "Downfall"
     },
     {
@@ -11004,7 +11076,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 20 damage and !SlimeboundSelfharm! damage to yourself. This gains twice the damage bonus from slimeboundmod:Goop.",
+      "description": "Deal 20 damage and 3 damage to yourself. This gains twice the damage bonus from slimeboundmod:Goop.",
       "mod": "Downfall"
     },
     {
@@ -11049,7 +11121,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nThe next Attack used on this enemy does not remove slimeboundmod:Goop.",
+      "description": "Apply 14 slimeboundmod:Goop.\nThe next Attack used on this enemy does not remove slimeboundmod:Goop.",
       "mod": "Downfall"
     },
     {
@@ -11058,7 +11130,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nThe next Attack used on this enemy does not remove slimeboundmod:Goop.",
+      "description": "Apply 14 slimeboundmod:Goop.\nThe next Attack used on this enemy does not remove slimeboundmod:Goop.",
       "mod": "Downfall"
     },
     {
@@ -11508,15 +11580,6 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown Character Card.",
-      "mod": "Downfall"
-    },
-    {
-      "name": "???",
-      "color": "Snecko_cyan",
-      "rarity": "Common",
-      "type": "Skill",
-      "cost": "",
       "description": "*Unknown Block Card.",
       "mod": "Downfall"
     },
@@ -11643,15 +11706,6 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown Upgraded  Character Card.",
-      "mod": "Downfall"
-    },
-    {
-      "name": "???+",
-      "color": "Snecko_cyan",
-      "rarity": "Common",
-      "type": "Skill",
-      "cost": "",
       "description": "*Unknown Upgraded  Block Card.",
       "mod": "Downfall"
     },
@@ -11733,7 +11787,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 1 - 10 Block.\nMaximum Block is increased by 1 for each *Unknown card you started combat with.",
+      "description": "Gain 1 - 10 Block.\nMaximum Block is increased by 1 for each Unknown card you started combat with.",
       "mod": "Downfall"
     },
     {
@@ -11742,7 +11796,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 1 - 14 Block.\nMaximum Block is increased by 1 for each *Unknown card you started combat with.",
+      "description": "Gain 1 - 14 Block.\nMaximum Block is increased by 1 for each Unknown card you started combat with.",
       "mod": "Downfall"
     },
     {
@@ -11751,7 +11805,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 1 - 10 damage.\nMaximum damage is increased by 1 for each *Unknown card you started combat with.",
+      "description": "Deal 1 - 10 damage.\nMaximum damage is increased by 1 for each Unknown card you started combat with.",
       "mod": "Downfall"
     },
     {
@@ -11760,7 +11814,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 1 - 14 damage.\nMaximum damage is increased by 1 for each *Unknown card you started combat with.",
+      "description": "Deal 1 - 14 damage.\nMaximum damage is increased by 1 for each Unknown card you started combat with.",
       "mod": "Downfall"
     },
     {
@@ -11769,7 +11823,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal !qqq! - 7 damage.\nGain 3 - 7 Block.",
+      "description": "Deal 3 - 7 damage.\nGain 3 - 7 Block.",
       "mod": "Downfall"
     },
     {
@@ -11778,7 +11832,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal !qqq! - 9 damage.\nGain 3 - 9 Block.",
+      "description": "Deal 3 - 9 damage.\nGain 3 - 9 Block.",
       "mod": "Downfall"
     },
     {
@@ -11823,7 +11877,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal !qqq! - 4 damage to a random enemy 2 - 4 times.",
+      "description": "Deal 2 - 4 damage to a random enemy 2 - 4 times.",
       "mod": "Downfall"
     },
     {
@@ -11832,7 +11886,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal !qqq! - 5 damage to a random enemy 2 - 5 times.",
+      "description": "Deal 2 - 5 damage to a random enemy 2 - 5 times.",
       "mod": "Downfall"
     },
     {
@@ -12196,6 +12250,78 @@
       "mod": "Downfall"
     },
     {
+      "name": "Dice Boulder+2",
+      "color": "Snecko_cyan",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 17 - 38 damage.\nCan be Upgraded any number of times.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Dice Boulder+3",
+      "color": "Snecko_cyan",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 25 - 42 damage.\nCan be Upgraded any number of times.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Dice Boulder+4",
+      "color": "Snecko_cyan",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 33 - 46 damage.\nCan be Upgraded any number of times.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Dice Boulder+5",
+      "color": "Snecko_cyan",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 41 - 50 damage.\nCan be Upgraded any number of times.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Dice Boulder+6",
+      "color": "Snecko_cyan",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 49 - 54 damage.\nCan be Upgraded any number of times.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Dice Boulder+7",
+      "color": "Snecko_cyan",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 57 - 58 damage.\nCan be Upgraded any number of times.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Dice Boulder+8",
+      "color": "Snecko_cyan",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 62 - 62 damage.\nCan be Upgraded any number of times.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Dice Boulder+9",
+      "color": "Snecko_cyan",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 66 - 66 damage.\nCan be Upgraded any number of times.",
+      "mod": "Downfall"
+    },
+    {
       "name": "Improvised Attack",
       "color": "Snecko_cyan",
       "rarity": "Uncommon",
@@ -12255,7 +12381,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof. Fleeting.\nChoose a card in hand which started *Unknown.\nPermanently add it to your deck, removing its *Unknown.",
+      "description": "sneckomod:Snekproof. Fleeting.\nChoose a card in hand which started Unknown.\nPermanently add it to your deck, removing its Unknown.",
       "mod": "Downfall"
     },
     {
@@ -12264,7 +12390,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof. Fleeting. Retain.\nChoose a card in hand which started *Unknown.\nPermanently add it to your deck, removing its *Unknown.",
+      "description": "sneckomod:Snekproof. Fleeting. Retain.\nChoose a card in hand which started Unknown.\nPermanently add it to your deck, removing its Unknown.",
       "mod": "Downfall"
     },
     {
@@ -12363,7 +12489,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "sneckomod:Snekproof.\nDeal !qqq! - 3 damage.\nGain 1 - 3 [E] .\nExhaust.",
+      "description": "sneckomod:Snekproof.\nDeal 1 - 3 damage.\nGain 1 - 3 [E] .\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -12372,7 +12498,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "sneckomod:Snekproof.\nDeal !qqq! - 4 damage.\nGain 1 - 4 [E] .\nExhaust.",
+      "description": "sneckomod:Snekproof.\nDeal 1 - 4 damage.\nGain 1 - 4 [E] .\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -12597,7 +12723,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof.\nGain -10 - 30 *Gold.\nExhaust.",
+      "description": "sneckomod:Snekproof.\nGain -10 - 30 Gold.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -12606,7 +12732,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof.\nGain 0 - 30 *Gold.\nExhaust.",
+      "description": "sneckomod:Snekproof.\nGain 0 - 30 Gold.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -12615,7 +12741,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Obtain an additional Upgraded *Unknown card reward at the end of combat.",
+      "description": "Obtain an additional Upgraded Unknown card reward at the end of combat.",
       "mod": "Downfall"
     },
     {
@@ -12624,7 +12750,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "0",
-      "description": "Obtain an additional Upgraded *Unknown card reward at the end of combat.",
+      "description": "Obtain an additional Upgraded Unknown card reward at the end of combat.",
       "mod": "Downfall"
     },
     {
@@ -12687,7 +12813,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Lose a random Relic.\nChoose to gain it back, or obtain a random Relic at the same rarity at the end of combat.\nExhaust.",
+      "description": "Choose 1 of 2 Relics to lose.\nObtain a random Relic of the same rarity.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -12696,7 +12822,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Lose a random Relic.\nChoose to gain it back, or obtain a random Relic at the same rarity at the end of combat.\nExhaust.",
+      "description": "Choose 1 of 2 Relics to lose.\nObtain a random Relic of the same rarity.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -12705,7 +12831,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of your turn, add a *Soul *Roll to your hand. It gains Ethereal and Exhaust.",
+      "description": "At the start of your turn, add a Soul Roll to your hand. It gains Ethereal and Exhaust.",
       "mod": "Downfall"
     },
     {
@@ -12714,7 +12840,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Innate.\nAt the start of your turn, add a *Soul *Roll to your hand. It gains Ethereal and Exhaust.",
+      "description": "Innate.\nAt the start of your turn, add a Soul Roll to your hand. It gains Ethereal and Exhaust.",
       "mod": "Downfall"
     },
     {
@@ -12741,7 +12867,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 6 damage !cool! times.\nchamp:Fatigue 10.\n[fist_icon]   champ:Finisher",
+      "description": "Deal 6 damage 2 times.\nchamp:Fatigue 10.\n[fist_icon]   champ:Finisher",
       "mod": "Downfall"
     },
     {
@@ -12750,7 +12876,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage !cool! times.\nchamp:Fatigue 10.\n[fist_icon]   champ:Finisher",
+      "description": "Deal 8 damage 2 times.\nchamp:Fatigue 10.\n[fist_icon]   champ:Finisher",
       "mod": "Downfall"
     },
     {
@@ -12795,7 +12921,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nGain 5 Block.\n*Berserker champ:Combo: Play this twice.",
+      "description": "[crown_icon]   champ:Technique\nGain 5 Block.\nBerserker champ:Combo: Play this twice.",
       "mod": "Downfall"
     },
     {
@@ -12804,7 +12930,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nGain 7 Block.\n*Berserker champ:Combo: Play this twice.",
+      "description": "[crown_icon]   champ:Technique\nGain 7 Block.\nBerserker champ:Combo: Play this twice.",
       "mod": "Downfall"
     },
     {
@@ -12813,7 +12939,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Enter champ:Defensive.\nGain 6 Block.\n*Berserker champ:Combo: Gain Block equal to your champ:Fatigue.",
+      "description": "Enter champ:Defensive.\nGain 6 Block.\nBerserker champ:Combo: Gain Block equal to your champ:Fatigue.",
       "mod": "Downfall"
     },
     {
@@ -12822,7 +12948,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Enter champ:Defensive.\nGain 6 Block.\n*Berserker champ:Combo: Gain Block equal to your champ:Fatigue.",
+      "description": "Enter champ:Defensive.\nGain 6 Block.\nBerserker champ:Combo: Gain Block equal to your champ:Fatigue.",
       "mod": "Downfall"
     },
     {
@@ -12849,7 +12975,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Requires *Defensive or *Berserker.\nGain 10 Block.\nGain 10 champ:Counter.\n[fist_icon]   champ:Finisher",
+      "description": "Requires Defensive or Berserker.\nGain 10 Block.\nGain 10 champ:Counter.\n[fist_icon]   champ:Finisher",
       "mod": "Downfall"
     },
     {
@@ -12858,7 +12984,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Requires *Defensive or *Berserker.\nGain 13 Block.\nGain 13 champ:Counter.\n[fist_icon]   champ:Finisher",
+      "description": "Requires Defensive or Berserker.\nGain 13 Block.\nGain 13 champ:Counter.\n[fist_icon]   champ:Finisher",
       "mod": "Downfall"
     },
     {
@@ -12885,7 +13011,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Block.\n*Defensive champ:Combo: Gain Block equal to your champ:Counter.",
+      "description": "Gain 6 Block.\nDefensive champ:Combo: Gain Block equal to your champ:Counter.",
       "mod": "Downfall"
     },
     {
@@ -12894,7 +13020,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 champ:Counter.\nGain 6 Block.\n*Defensive champ:Combo: Gain Block equal to your champ:Counter.",
+      "description": "Gain 4 champ:Counter.\nGain 6 Block.\nDefensive champ:Combo: Gain Block equal to your champ:Counter.",
       "mod": "Downfall"
     },
     {
@@ -12957,7 +13083,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage to ALL enemies.\n*Berserker champ:Combo: Deals damage twice.\nEnter champ:Berserker.",
+      "description": "Deal 5 damage to ALL enemies.\nBerserker champ:Combo: Deals damage twice.\nEnter champ:Berserker.",
       "mod": "Downfall"
     },
     {
@@ -12966,7 +13092,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage to ALL enemies.\n*Berserker champ:Combo: Deals damage three times.\nEnter champ:Berserker.",
+      "description": "Deal 5 damage to ALL enemies.\nBerserker champ:Combo: Deals damage three times.\nEnter champ:Berserker.",
       "mod": "Downfall"
     },
     {
@@ -12975,7 +13101,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage.\n*Defensive champ:Combo: Gain 6 champ:Counter and 6 Block.\nEnter champ:Defensive.",
+      "description": "Deal 6 damage.\nDefensive champ:Combo: Gain 6 champ:Counter and 6 Block.\nEnter champ:Defensive.",
       "mod": "Downfall"
     },
     {
@@ -12984,7 +13110,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\n*Defensive champ:Combo: Gain 8 champ:Counter and 8 Block.\nEnter champ:Defensive.",
+      "description": "Deal 8 damage.\nDefensive champ:Combo: Gain 8 champ:Counter and 8 Block.\nEnter champ:Defensive.",
       "mod": "Downfall"
     },
     {
@@ -13011,7 +13137,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Enter champ:Berserker.\nDeal 5 damage.\n*Defensive champ:Combo: Gain [E] and 5 Block.",
+      "description": "Enter champ:Berserker.\nDeal 5 damage.\nDefensive champ:Combo: Gain [E] and 5 Block.",
       "mod": "Downfall"
     },
     {
@@ -13020,7 +13146,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Enter champ:Berserker.\nDeal 8 damage.\n*Defensive champ:Combo: Gain [E] and 8 Block.",
+      "description": "Enter champ:Berserker.\nDeal 8 damage.\nDefensive champ:Combo: Gain [E] and 8 Block.",
       "mod": "Downfall"
     },
     {
@@ -13047,7 +13173,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 14 damage.\n*Berserker champ:Combo: Apply 2 Vulnerable.\n*Defensive champ:Combo: Apply 2 Weak.",
+      "description": "Deal 14 damage.\nBerserker champ:Combo: Apply 2 Vulnerable.\nDefensive champ:Combo: Apply 2 Weak.",
       "mod": "Downfall"
     },
     {
@@ -13056,7 +13182,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 18 damage.\n*Berserker champ:Combo: Apply 2 Vulnerable.\n*Defensive champ:Combo: Apply 2 Weak.",
+      "description": "Deal 18 damage.\nBerserker champ:Combo: Apply 2 Vulnerable.\nDefensive champ:Combo: Apply 2 Weak.",
       "mod": "Downfall"
     },
     {
@@ -13065,7 +13191,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage.\n*Berserker champ:Combo: Deal 7 damage.\n*Defensive champ:Combo: Gain 7 Block.",
+      "description": "Deal 7 damage.\nBerserker champ:Combo: Deal 7 damage.\nDefensive champ:Combo: Gain 7 Block.",
       "mod": "Downfall"
     },
     {
@@ -13074,7 +13200,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage.\n*Berserker champ:Combo: Deal 9 damage.\n*Defensive champ:Combo: Gain 9 Block.",
+      "description": "Deal 9 damage.\nBerserker champ:Combo: Deal 9 damage.\nDefensive champ:Combo: Gain 9 Block.",
       "mod": "Downfall"
     },
     {
@@ -13083,7 +13209,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\n*Berserker champ:Combo: Remove the enemy's Block before dealing damage.",
+      "description": "Deal 8 damage.\nBerserker champ:Combo: Remove the enemy's Block before dealing damage.",
       "mod": "Downfall"
     },
     {
@@ -13092,7 +13218,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\n*Berserker champ:Combo: Remove the enemy's Block and Artifact before dealing damage.",
+      "description": "Deal 10 damage.\nBerserker champ:Combo: Remove the enemy's Block and Artifact before dealing damage.",
       "mod": "Downfall"
     },
     {
@@ -13119,7 +13245,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 10 damage to ALL enemies.\n*Defensive champ:Combo: Gain 5 champ:Counter and 5 Block for each enemy hit.",
+      "description": "Deal 10 damage to ALL enemies.\nDefensive champ:Combo: Gain 5 champ:Counter and 5 Block for each enemy hit.",
       "mod": "Downfall"
     },
     {
@@ -13128,7 +13254,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 12 damage to ALL enemies.\n*Defensive champ:Combo: Gain 7 champ:Counter and 7 Block for each enemy hit.",
+      "description": "Deal 12 damage to ALL enemies.\nDefensive champ:Combo: Gain 7 champ:Counter and 7 Block for each enemy hit.",
       "mod": "Downfall"
     },
     {
@@ -13191,7 +13317,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage.\nHits three times if *Fatigue is 20 or higher.\n[fist_icon]   champ:Finisher",
+      "description": "Deal 9 damage.\nHits three times if Fatigue is 20 or higher.\n[fist_icon]   champ:Finisher",
       "mod": "Downfall"
     },
     {
@@ -13200,7 +13326,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 12 damage.\nHits three times if *Fatigue is 20 or higher.\n[fist_icon]   champ:Finisher",
+      "description": "Deal 12 damage.\nHits three times if Fatigue is 20 or higher.\n[fist_icon]   champ:Finisher",
       "mod": "Downfall"
     },
     {
@@ -13227,7 +13353,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Enter champ:Defensive.\nchamp:Defensive *Techniques grant 2 more champ:Counter.",
+      "description": "Enter champ:Defensive.\nchamp:Defensive Techniques grant 2 more champ:Counter.",
       "mod": "Downfall"
     },
     {
@@ -13236,7 +13362,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Innate.\nEnter champ:Defensive.\nchamp:Defensive *Techniques grant 2 more champ:Counter.",
+      "description": "Innate.\nEnter champ:Defensive.\nchamp:Defensive Techniques grant 2 more champ:Counter.",
       "mod": "Downfall"
     },
     {
@@ -13263,7 +13389,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 3 damage to a random enemy 2 times.\n*Berserker champ:Combo: Play this twice. ",
+      "description": "Deal 3 damage to a random enemy 2 times.\nBerserker champ:Combo: Play this twice. ",
       "mod": "Downfall"
     },
     {
@@ -13272,7 +13398,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage to a random enemy 2 times.\n*Berserker champ:Combo: Play this twice. ",
+      "description": "Deal 5 damage to a random enemy 2 times.\nBerserker champ:Combo: Play this twice. ",
       "mod": "Downfall"
     },
     {
@@ -13317,7 +13443,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage.\nchamp:Fatigue 5.\n*Berserker champ:Combo: This card hits an additional time this combat.",
+      "description": "Deal 5 damage.\nchamp:Fatigue 5.\nBerserker champ:Combo: This card hits an additional time this combat.",
       "mod": "Downfall"
     },
     {
@@ -13326,7 +13452,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage 2 times.\nchamp:Fatigue 5.\n*Berserker champ:Combo: This card hits an additional time this combat.",
+      "description": "Deal 5 damage 2 times.\nchamp:Fatigue 5.\nBerserker champ:Combo: This card hits an additional time this combat.",
       "mod": "Downfall"
     },
     {
@@ -13335,7 +13461,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Enter champ:Berserker.\nDeal 9 damage, twice if enemy is Vulnerable.\n*Berserker champ:Combo: Apply 2 Vulnerable.",
+      "description": "Enter champ:Berserker.\nDeal 9 damage, twice if enemy is Vulnerable.\nBerserker champ:Combo: Apply 2 Vulnerable.",
       "mod": "Downfall"
     },
     {
@@ -13344,7 +13470,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Enter champ:Berserker.\nDeal 11 damage, twice if enemy is Vulnerable.\n*Berserker champ:Combo: Apply 3 Vulnerable.",
+      "description": "Enter champ:Berserker.\nDeal 11 damage, twice if enemy is Vulnerable.\nBerserker champ:Combo: Apply 3 Vulnerable.",
       "mod": "Downfall"
     },
     {
@@ -13371,7 +13497,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Requires *Defensive or *Berserker.\nEnter the Stance you aren't in.\nDraw 1 card.",
+      "description": "Requires Defensive or Berserker.\nEnter the Stance you aren't in.\nDraw 1 card.",
       "mod": "Downfall"
     },
     {
@@ -13380,7 +13506,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Requires *Defensive or *Berserker.\nEnter the Stance you aren't in.\nDraw 2 cards.",
+      "description": "Requires Defensive or Berserker.\nEnter the Stance you aren't in.\nDraw 2 cards.",
       "mod": "Downfall"
     },
     {
@@ -13515,7 +13641,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 10 Counter.\nIf your Counter is used this turn, add *Riposte to your hand.",
+      "description": "Gain 10 Counter.\nIf your Counter is used this turn, add Riposte to your hand.",
       "mod": "Downfall"
     },
     {
@@ -13524,7 +13650,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 16 Counter.\nIf your Counter is used this turn, add *Riposte to your hand.",
+      "description": "Gain 16 Counter.\nIf your Counter is used this turn, add Riposte to your hand.",
       "mod": "Downfall"
     },
     {
@@ -13533,7 +13659,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Requires *Defensive.\nDeal damage equal to your champ:Counter to ALL enemies.\nLose half of your champ:Counter.",
+      "description": "Requires Defensive.\nDeal damage equal to your champ:Counter to ALL enemies.\nLose half of your champ:Counter.",
       "mod": "Downfall"
     },
     {
@@ -13542,7 +13668,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Requires *Defensive.\nDeal damage equal to your champ:Counter to ALL enemies.\nLose half of your champ:Counter.",
+      "description": "Requires Defensive.\nDeal damage equal to your champ:Counter to ALL enemies.\nLose half of your champ:Counter.",
       "mod": "Downfall"
     },
     {
@@ -13551,7 +13677,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 3 damage 2 times.\nDeal 3 damage an additional time for each champ:Technique *Bonus triggered this turn.",
+      "description": "Deal 3 damage 2 times.\nDeal 3 damage an additional time for each champ:Technique Bonus triggered this turn.",
       "mod": "Downfall"
     },
     {
@@ -13560,7 +13686,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 3 damage 3 times.\nDeal 3 damage an additional time for each champ:Technique *Bonus triggered this turn.",
+      "description": "Deal 3 damage 3 times.\nDeal 3 damage an additional time for each champ:Technique Bonus triggered this turn.",
       "mod": "Downfall"
     },
     {
@@ -13587,7 +13713,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "*Berserker champ:Combo: Gain [E] [E] , then Exhaust this.\n*Defensive champ:Combo: Draw 3 cards.",
+      "description": "*Berserker champ:Combo: Gain [E] [E] , then Exhaust this.\nDefensive champ:Combo: Draw 3 cards.",
       "mod": "Downfall"
     },
     {
@@ -13596,7 +13722,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "*Berserker champ:Combo: Gain [E] [E] [E] , then Exhaust this.\n*Defensive champ:Combo: Draw 4 cards.",
+      "description": "*Berserker champ:Combo: Gain [E] [E] [E] , then Exhaust this.\nDefensive champ:Combo: Draw 4 cards.",
       "mod": "Downfall"
     },
     {
@@ -13632,7 +13758,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 champ:Counter.\n*Defensive champ:Combo: Gain 6 champ:Counter for each Attack in your hand.\nEnter champ:Defensive.",
+      "description": "Gain 6 champ:Counter.\nDefensive champ:Combo: Gain 6 champ:Counter for each Attack in your hand.\nEnter champ:Defensive.",
       "mod": "Downfall"
     },
     {
@@ -13677,7 +13803,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Block.\nGain 4 champ:Counter.\n*Defensive champ:Combo: Increase this card's Block and champ:Counter by !cool! this combat.",
+      "description": "Gain 4 Block.\nGain 4 champ:Counter.\nDefensive champ:Combo: Increase this card's Block and champ:Counter by 2 this combat.",
       "mod": "Downfall"
     },
     {
@@ -13686,7 +13812,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Block.\nGain 4 champ:Counter.\n*Defensive champ:Combo: Increase this card's Block and champ:Counter by !cool! this combat.",
+      "description": "Gain 4 Block.\nGain 4 champ:Counter.\nDefensive champ:Combo: Increase this card's Block and champ:Counter by 4 this combat.",
       "mod": "Downfall"
     },
     {
@@ -13695,7 +13821,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "*Berserker champ:Combo: Gain 3 temporary Strength.\n*Defensive champ:Combo: Gain 3 temporary  Dexterity.",
+      "description": "*Berserker champ:Combo: Gain 3 temporary Strength.\nDefensive champ:Combo: Gain 3 temporary  Dexterity.",
       "mod": "Downfall"
     },
     {
@@ -13704,7 +13830,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "*Berserker champ:Combo: Gain 5 temporary Strength.\n*Defensive champ:Combo: Gain 5 temporary  Dexterity.",
+      "description": "*Berserker champ:Combo: Gain 5 temporary Strength.\nDefensive champ:Combo: Gain 5 temporary  Dexterity.",
       "mod": "Downfall"
     },
     {
@@ -13731,7 +13857,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage. *Berserker champ:Combo:\nGain [E] .\n*Defensive champ:Combo: Gain Block equal to unblocked damage dealt.",
+      "description": "Deal 10 damage. Berserker champ:Combo:\nGain [E] .\nDefensive champ:Combo: Gain Block equal to unblocked damage dealt.",
       "mod": "Downfall"
     },
     {
@@ -13740,7 +13866,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 13 damage. *Berserker champ:Combo:\nGain [E] .\n*Defensive champ:Combo: Gain Block equal to unblocked damage dealt.",
+      "description": "Deal 13 damage. Berserker champ:Combo:\nGain [E] .\nDefensive champ:Combo: Gain Block equal to unblocked damage dealt.",
       "mod": "Downfall"
     },
     {
@@ -13839,7 +13965,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": "Whenever you use a champ:Technique *Bonus, draw a card.\nWhenever you use a champ:Finisher *Bonus, gain [E] next turn.",
+      "description": "Whenever you use a champ:Technique Bonus, draw a card.\nWhenever you use a champ:Finisher Bonus, gain [E] next turn.",
       "mod": "Downfall"
     },
     {
@@ -13848,7 +13974,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Whenever you use a champ:Technique *Bonus, draw a card.\nWhenever you use a champ:Finisher *Bonus, gain [E] next turn.",
+      "description": "Whenever you use a champ:Technique Bonus, draw a card.\nWhenever you use a champ:Finisher Bonus, gain [E] next turn.",
       "mod": "Downfall"
     },
     {
@@ -13965,7 +14091,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 9 Block.\nDeal damage equal to your Block.\nUnless *Defensive champ:Combo: You can't gain Block next turn.",
+      "description": "Gain 9 Block.\nDeal damage equal to your Block.\nUnless Defensive champ:Combo: You can't gain Block next turn.",
       "mod": "Downfall"
     },
     {
@@ -13974,7 +14100,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 13 Block.\nDeal damage equal to your Block.\nUnless *Defensive champ:Combo: You can't gain Block next turn.",
+      "description": "Gain 13 Block.\nDeal damage equal to your Block.\nUnless Defensive champ:Combo: You can't gain Block next turn.",
       "mod": "Downfall"
     },
     {
@@ -13983,7 +14109,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "X",
-      "description": "*Berserker champ:Combo: Deal 9 damage X times.\n*Defensive champ:Combo: Gain 9 Block X times.",
+      "description": "*Berserker champ:Combo: Deal 9 damage X times.\nDefensive champ:Combo: Gain 9 Block X times.",
       "mod": "Downfall"
     },
     {
@@ -13992,7 +14118,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "X",
-      "description": "*Berserker champ:Combo: Deal 12 damage X times.\n*Defensive champ:Combo: Gain 12 Block X times.",
+      "description": "*Berserker champ:Combo: Deal 12 damage X times.\nDefensive champ:Combo: Gain 12 Block X times.",
       "mod": "Downfall"
     },
     {
@@ -14019,7 +14145,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage 2 times.\nUnless *Berserker champ:Combo: You can't attack next turn.",
+      "description": "Deal 8 damage 2 times.\nUnless Berserker champ:Combo: You can't attack next turn.",
       "mod": "Downfall"
     },
     {
@@ -14028,7 +14154,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage 3 times.\nUnless *Berserker champ:Combo: You can't attack next turn.",
+      "description": "Deal 8 damage 3 times.\nUnless Berserker champ:Combo: You can't attack next turn.",
       "mod": "Downfall"
     },
     {
@@ -14037,7 +14163,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "[crown_icon]   champ:Technique\nDeal 6 damage.\nAdd 2 *Strikes into your hand. They cost 0 and have champ:Technique.\nExhaust.",
+      "description": "[crown_icon]   champ:Technique\nDeal 6 damage.\nAdd 2 Strikes into your hand. They cost 0 and have champ:Technique.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -14046,7 +14172,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "[crown_icon]   champ:Technique\nDeal 9 damage.\nAdd 2 Upgraded *Strikes into your hand. They cost 0 and have champ:Technique.\nExhaust.",
+      "description": "[crown_icon]   champ:Technique\nDeal 9 damage.\nAdd 2 Upgraded Strikes into your hand. They cost 0 and have champ:Technique.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -14055,7 +14181,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nRequires *Defensive or *Berserker.\nEnter champ:Ultimate Stance for 1 turn.",
+      "description": "[crown_icon]   champ:Technique\nRequires Defensive or Berserker.\nEnter champ:Ultimate Stance for 1 turn.",
       "mod": "Downfall"
     },
     {
@@ -14064,7 +14190,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nRequires *Defensive or *Berserker.\nEnter champ:Ultimate Stance for 2 turns.",
+      "description": "[crown_icon]   champ:Technique\nRequires Defensive or Berserker.\nEnter champ:Ultimate Stance for 2 turns.",
       "mod": "Downfall"
     },
     {
@@ -14073,7 +14199,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 10 Block if in guardianmod:Defensive_Mode.\nOtherwise, guardianmod:Brace 10.\n[ guardianmod:Socket ]",
+      "description": "Gain 10 Block if in guardianmod:Defensive_Mode.\nOtherwise, guardianmod:Brace 10.",
       "mod": "Downfall"
     },
     {
@@ -14082,7 +14208,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 13 Block if in guardianmod:Defensive_Mode.\nOtherwise, guardianmod:Brace 13.\n[ guardianmod:Socket ]",
+      "description": "Gain 13 Block if in guardianmod:Defensive_Mode.\nOtherwise, guardianmod:Brace 13.",
       "mod": "Downfall"
     },
     {
@@ -14127,7 +14253,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 4 damage !GuardianMulti! times.\n[ guardianmod:Socket ]\n[ guardianmod:Socket ]",
+      "description": "Deal 4 damage 2 times.\n[ guardianmod:Socket ]\n[ guardianmod:Socket ]",
       "mod": "Downfall"
     },
     {
@@ -14136,7 +14262,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage !GuardianMulti! times.\n[ guardianmod:Socket ]\n[ guardianmod:Socket ]",
+      "description": "Deal 6 damage 2 times.\n[ guardianmod:Socket ]\n[ guardianmod:Socket ]",
       "mod": "Downfall"
     },
     {
@@ -14145,7 +14271,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "guardianmod:Gem.\nAdd a *Crystal *Ward to your hand.",
+      "description": "guardianmod:Gem.\nAdd a Crystal Ward to your hand.",
       "mod": "Downfall"
     },
     {
@@ -14379,7 +14505,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 10 Block.\nDraw 2 card if you have a card in guardianmod:Stasis.",
+      "description": "Gain 10 Block.\nDraw 2 cards if you have a card in guardianmod:Stasis.",
       "mod": "Downfall"
     },
     {
@@ -14577,7 +14703,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose a card. Place a copy of that card into guardianmod:Stasis.\nExhaust.",
+      "description": "Choose a card in your hand. Place a copy of that card into guardianmod:Stasis.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -14586,7 +14712,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose a card. Place a copy of that card into guardianmod:Stasis.\nguardianmod:Accelerate.\nExhaust.",
+      "description": "Choose a card in your hand. Place a copy of that card into guardianmod:Stasis.\nguardianmod:Accelerate.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -14631,7 +14757,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of your turn, add an *Orb *Slam to your hand.",
+      "description": "At the start of your turn, add an Orb Slam to your hand.",
       "mod": "Downfall"
     },
     {
@@ -14640,7 +14766,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "0",
-      "description": "At the start of your turn, add an *Orb *Slam to your hand.",
+      "description": "At the start of your turn, add an Orb Slam to your hand.",
       "mod": "Downfall"
     },
     {
@@ -14649,7 +14775,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "guardianmod:Gem.\nAdd a *Crystal *Shiv to your hand.",
+      "description": "guardianmod:Gem.\nAdd a Crystal Shiv to your hand.",
       "mod": "Downfall"
     },
     {
@@ -14685,7 +14811,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Must be in *Defensive *Mode.\nExit *Defensive *Mode.\nDeal 4 damage 4 times to ALL enemies.",
+      "description": "Must be in Defensive Mode.\nExit Defensive Mode.\nDeal 4 damage 4 times to ALL enemies.",
       "mod": "Downfall"
     },
     {
@@ -14694,7 +14820,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Must be in *Defensive *Mode.\nExit *Defensive *Mode.\nDeal 4 damage 5 times to ALL enemies.",
+      "description": "Must be in Defensive Mode.\nExit Defensive Mode.\nDeal 4 damage 5 times to ALL enemies.",
       "mod": "Downfall"
     },
     {
@@ -14703,7 +14829,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Must be in *Defensive *Mode.\nGain 12 Block and 2 Thorns.",
+      "description": "Must be in Defensive Mode.\nGain 12 Block and 2 Thorns.",
       "mod": "Downfall"
     },
     {
@@ -14712,7 +14838,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Must be in *Defensive *Mode.\nGain 16 Block and 3 Thorns.",
+      "description": "Must be in Defensive Mode.\nGain 16 Block and 3 Thorns.",
       "mod": "Downfall"
     },
     {
@@ -14869,6 +14995,78 @@
       "mod": "Downfall"
     },
     {
+      "name": "Refracted Beam+2",
+      "color": "Guardian",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage 6 times.\nDecrease the number of times this card hits by 1 this combat.\nCan be upgraded any number of times.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Refracted Beam+3",
+      "color": "Guardian",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage 7 times.\nDecrease the number of times this card hits by 1 this combat.\nCan be upgraded any number of times.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Refracted Beam+4",
+      "color": "Guardian",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage 8 times.\nDecrease the number of times this card hits by 1 this combat.\nCan be upgraded any number of times.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Refracted Beam+5",
+      "color": "Guardian",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage 9 times.\nDecrease the number of times this card hits by 1 this combat.\nCan be upgraded any number of times.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Refracted Beam+6",
+      "color": "Guardian",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage 10 times.\nDecrease the number of times this card hits by 1 this combat.\nCan be upgraded any number of times.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Refracted Beam+7",
+      "color": "Guardian",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage 11 times.\nDecrease the number of times this card hits by 1 this combat.\nCan be upgraded any number of times.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Refracted Beam+8",
+      "color": "Guardian",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage 12 times.\nDecrease the number of times this card hits by 1 this combat.\nCan be upgraded any number of times.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Refracted Beam+9",
+      "color": "Guardian",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage 13 times.\nDecrease the number of times this card hits by 1 this combat.\nCan be upgraded any number of times.",
+      "mod": "Downfall"
+    },
+    {
       "name": "Repulsor",
       "color": "Guardian",
       "rarity": "Uncommon",
@@ -14901,7 +15099,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 5 damage.\nPlace a *Sentry *Wave into guardianmod:Stasis.\nExhaust.",
+      "description": "Deal 5 damage.\nPlace a Sentry Wave into guardianmod:Stasis.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -14910,7 +15108,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 7 damage.\nPlace a *Sentry *Wave+ into guardianmod:Stasis.\nExhaust.",
+      "description": "Deal 7 damage.\nPlace a Sentry Wave+ into guardianmod:Stasis.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -15435,7 +15633,7 @@
       "name": "Baalor's Lordly Plate",
       "tier": "Common",
       "pool": "Guardian",
-      "description": "Whenever you guardianmod:Brace, reduce Mode Shift's counter by 1.",
+      "description": "Whenever you guardianmod:Brace, Brace 1 more.",
       "flavorText": "One can never have enough armor.",
       "mod": "Downfall"
     },
@@ -16808,6 +17006,14 @@
       "mod": ""
     },
     {
+      "name": "Paradox Artifact",
+      "tier": "Special",
+      "pool": "",
+      "description": "At the start of each turn, add a random card with Encode to your hand and give it Ethereal.",
+      "flavorText": "You've never seen a coding frenzy like this before.",
+      "mod": "Downfall"
+    },
+    {
       "name": "Quantum Chamber",
       "tier": "Special",
       "pool": "Guardian",
@@ -17027,7 +17233,7 @@
       "name": "Guardian Gear",
       "tier": "Boss",
       "pool": "Guardian",
-      "description": "Replaces Mode Shifter.\nBegin each combat in guardianmod:Defensive_Mode, which persists for 3 turns.",
+      "description": "Replaces Bronze Gear.\nBegin each combat in guardianmod:Defensive_Mode, which persists for 3 turns.",
       "flavorText": "Replace every 3,000 floors.",
       "mod": "Downfall"
     },
@@ -18077,8 +18283,8 @@
     {
       "name": "Byrd (Grounded)",
       "type": "Normal",
-      "minHP": "26",
-      "maxHP": "26",
+      "minHP": "25",
+      "maxHP": "25",
       "mod": ""
     },
     {
@@ -18101,13 +18307,6 @@
       "minHP": "750",
       "maxHP": "750",
       "mod": ""
-    },
-    {
-      "name": "Crowbot",
-      "type": "Boss",
-      "minHP": "74",
-      "maxHP": "74",
-      "mod": "Downfall"
     },
     {
       "name": "Cultist",
@@ -18245,8 +18444,8 @@
     {
       "name": "Lagavulin (Awake)",
       "type": "Elite",
-      "minHP": "110",
-      "maxHP": "110",
+      "minHP": "111",
+      "maxHP": "111",
       "mod": ""
     },
     {
@@ -18294,8 +18493,8 @@
     {
       "name": "Merchant",
       "type": "Elite",
-      "minHP": "400",
-      "maxHP": "400",
+      "minHP": "300",
+      "maxHP": "300",
       "mod": "Downfall"
     },
     {
@@ -18574,6 +18773,798 @@
   ],
   "keywords": [
     {
+      "name": "Absorb",
+      "description": "Manually recombine with your leading Slime, granting you 1 Strength.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Absorb",
+      "description": "Manually recombine with your leading Slime, granting you 1 Strength.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Absorb",
+      "description": "Manually recombine with your leading Slime, granting you 1 Strength.",
+      "names": ["slimeboundmod:absorb","slimeboundmod:absorbed","slimeboundmod:absorbing"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Accelerate",
+      "description": "Reduce the turn counter of the right-most card in Stasis by 1. If the card's turn counter is now 0, return it to your hand. It costs 0 until played.",
+      "names": ["guardianmod:accelerate"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Active",
+      "description": "The Active Ghostflame can be Ignited by meeting its listed Ignition requirements.",
+      "names": ["hexamod:active"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Advance",
+      "description": "Activate the next Ghostflame. If it's Ignited, Extinguish it.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Advance",
+      "description": "Activate the next Ghostflame. If it's Ignited, Extinguish it.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Advance",
+      "description": "Activate the next Ghostflame. If it's Ignited, Extinguish it.",
+      "names": ["hexamod:advance","hexamod:advanced","hexamod:advancing"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Afterlife",
+      "description": "If this card is Exhausted, its effects activate.",
+      "names": ["hexamod:afterlife"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Ancient Slime",
+      "description": "Attacks for 3 and causes you to draw 1 card each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Ancient Slime",
+      "description": "Attacks for 3 and causes you to draw 1 card each turn.",
+      "names": ["slimeboundmod:ancient slime","slimeboundmod:ancient_slime"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Berserker",
+      "description": "Stance.\nTechnique Bonus: Fatigue 5.\nFinisher Bonus: Lose all Fatigue and gain that much HP, preserving Strength.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Berserker",
+      "description": "Stance.\nTechnique Bonus: Fatigue 5.\nFinisher Bonus: Lose all Fatigue and gain that much HP, preserving Strength.",
+      "names": ["champ:berserker","champ:berserker."],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Blur",
+      "description": "Do not lose Block at the end of the turn.",
+      "names": ["bronze:blur"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Bolstering",
+      "description": "Ghostflame. Ignites when a Power is played while Active. Ignition: When Ignited, gain 4 Block and 1 Strength.",
+      "names": ["hexamod:bolstering"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Boss",
+      "description": "You may only play 1 Boss card in a turn.",
+      "names": ["expansioncontent:boss"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Brace",
+      "description": "Reduce the HP loss required to trigger Mode Shift by X, triggering Mode Shift if the HP loss required is now 0.",
+      "names": ["guardianmod:brace"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Bronze Slime",
+      "description": "Attacks for 4 and grants you 4 Block each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Bronze Slime",
+      "description": "Attacks for 4 and grants you 4 Block each turn.",
+      "names": ["slimeboundmod:bronze slime","slimeboundmod:bronze_slime"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Bruiser Slime",
+      "description": "Attacks for 5 each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Bruiser Slime",
+      "description": "Attacks for 5 each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Bruiser Slime",
+      "description": "Attacks for 5 each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Bruiser Slime",
+      "description": "Attacks for 5 each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Bruiser Slime",
+      "description": "Attacks for 5 each turn.",
+      "names": ["slimeboundmod:bruiser","slimeboundmod:bruiser slime","slimeboundmod:bruiser slimes","slimeboundmod:bruiser_slime","slimeboundmod:bruiser_slimes"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Buffer",
+      "description": "Prevent the next time you would lose HP.",
+      "names": ["guardianmod:buffer"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Combo",
+      "description": "Extra effect when played in the listed Stance, or if you entered that Stance this turn.",
+      "names": ["champ:combo"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Command",
+      "description": "Your leading Slime attacks.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Command",
+      "description": "Your leading Slime attacks.",
+      "names": ["slimeboundmod:command","slimeboundmod:commands"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Compile",
+      "description": "An additional effect that triggers when this card, while in the Sequence, is combined into a Function.\nCan be a negative effect, which is referred to as an 'Error'.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Compile",
+      "description": "An additional effect that triggers when this card, while in the Sequence, is combined into a Function.\nCan be a negative effect, which is referred to as an 'Error'.",
+      "names": ["bronze:compile","bronze:compiled"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Consume",
+      "description": "Bonus effect which activates when an Attack is used on an enemy who has Goop.",
+      "names": ["slimeboundmod:consume"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Counter",
+      "description": "The next time you take Attack damage, deal damage back.",
+      "names": ["champ:counter"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Crushing",
+      "description": "Ghostflame. Ignites when 2 Skills are played while Active. Ignition: When Ignited, deal 4 damage to a random enemy twice.",
+      "names": ["hexamod:crushing"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Cultist Slime",
+      "description": "Attacks for 6 each turn, then increases its damage by 1.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Cultist Slime",
+      "description": "Attacks for 6 each turn, then increases its damage by 1.",
+      "names": ["slimeboundmod:cultist slime","slimeboundmod:cultist_slime"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Cycle",
+      "description": "Discard a card, drawing a new card to replace it.",
+      "names": ["bronze:cycle"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Darkling Slime",
+      "description": "Attacks for 3 each turn. When Commanded, other Darkling Slimes also attack.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Darkling Slime",
+      "description": "Attacks for 3 each turn. When Commanded, other Darkling Slimes also attack.",
+      "names": ["slimeboundmod:darkling slime","slimeboundmod:darkling_slime"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Defensive",
+      "description": "Stance.\nTechnique Bonus: Gain 5 Counter.\nFinisher Bonus: Gain 12 Block.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Defensive",
+      "description": "Stance.\nTechnique Bonus: Gain 5 Counter.\nFinisher Bonus: Gain 12 Block.",
+      "names": ["champ:defensive","champ:defensive."],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Defensive Mode",
+      "description": "Stance.\nGain 10 Block when entering Defensive Mode.\nWhile in Defensive Mode, you have 3 Thorns, gain 10 Block at the start of your turn, and your Block does not expire.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Defensive Mode",
+      "description": "Stance.\nGain 10 Block when entering Defensive Mode.\nWhile in Defensive Mode, you have 3 Thorns, gain 10 Block at the start of your turn, and your Block does not expire.",
+      "names": ["guardianmod:defensive mode","guardianmod:defensive_mode"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Encode",
+      "description": "Add the card to the Sequence.\nWhen 3 cards are in the Sequence, their effects (other than Encode) are merged into a Function with cost equal to the highest cost card in the Sequence.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Encode",
+      "description": "Add the card to the Sequence.\nWhen 3 cards are in the Sequence, their effects (other than Encode) are merged into a Function with cost equal to the highest cost card in the Sequence.",
+      "names": ["bronze:encode","bronze:encoded"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Extinguish",
+      "description": "Allows Ghostflame to become Ignited again, resetting its Ignition requirements.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Extinguish",
+      "description": "Allows Ghostflame to become Ignited again, resetting its Ignition requirements.",
+      "names": ["hexamod:extinguish","hexamod:extinguished"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Fatigue",
+      "description": "Lose HP and gain 1 Strength for every 10 HP lost. Regenerate Fatigued health at the end of combat.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Fatigue",
+      "description": "Lose HP and gain 1 Strength for every 10 HP lost. Regenerate Fatigued health at the end of combat.",
+      "names": ["champ:fatigue","champ:fatigued"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Finisher",
+      "description": "After playing a Finisher, if you are in a Stance, exit it and trigger its Finisher bonus.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Finisher",
+      "description": "After playing a Finisher, if you are in a Stance, exit it and trigger its Finisher bonus.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Finisher",
+      "description": "After playing a Finisher, if you are in a Stance, exit it and trigger its Finisher bonus.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Finisher",
+      "description": "After playing a Finisher, if you are in a Stance, exit it and trigger its Finisher bonus.",
+      "names": ["champ:[fist_icon]","champ:champ:[fist_icon]","champ:finisher","champ:finishers"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Force-Ignite",
+      "description": "Triggers the Ignition effect described on a Ghostflame, even if it was already Ignited.",
+      "names": ["hexamod:force-ignite"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Gem",
+      "description": "Gems can be placed into Sockets in cards at a Rest Site. Cannot be Upgraded.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Gem",
+      "description": "Gems can be placed into Sockets in cards at a Rest Site. Cannot be Upgraded.",
+      "names": ["guardianmod:gem","guardianmod:gems"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Ghostflame Slime",
+      "description": "Attacks for 3 and applies 3 Soulburn each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Ghostflame Slime",
+      "description": "Attacks for 3 and applies 3 Soulburn each turn.",
+      "names": ["slimeboundmod:ghostflame slime","slimeboundmod:ghostflame_slime"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Gladiator",
+      "description": "Stance.\nTechnique Bonus: Draw a card.\nFinisher Bonus: Next turn, draw 1 card and gain [E] . End your turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Gladiator",
+      "description": "Stance.\nTechnique Bonus: Draw a card.\nFinisher Bonus: Next turn, draw 1 card and gain [E] . End your turn.",
+      "names": ["champ:gladiator","champ:gladiator."],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Goop",
+      "description": "The next attack deals 1 more damage per Goop, removing all Goop and triggering any Consume effects.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Goop",
+      "description": "The next attack deals 1 more damage per Goop, removing all Goop and triggering any Consume effects.",
+      "names": ["slimeboundmod:goop","slimeboundmod:gooped"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Guerilla Slime",
+      "description": "Attacks for 3 to ALL enemies each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Guerilla Slime",
+      "description": "Attacks for 3 to ALL enemies each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Guerilla Slime",
+      "description": "Attacks for 3 to ALL enemies each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Guerilla Slime",
+      "description": "Attacks for 3 to ALL enemies each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Guerilla Slime",
+      "description": "Attacks for 3 to ALL enemies each turn.",
+      "names": ["slimeboundmod:guerilla","slimeboundmod:guerilla slime","slimeboundmod:guerilla slimes","slimeboundmod:guerilla_slime","slimeboundmod:guerilla_slimes"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Ignite",
+      "description": "Triggers the Ignition effect described on a Ghostflame.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Ignite",
+      "description": "Triggers the Ignition effect described on a Ghostflame.",
+      "names": ["hexamod:ignite","hexamod:ignited"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Insert",
+      "description": "Shuffle a card into your draw pile.",
+      "names": ["bronze:insert"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Insulting Slime",
+      "description": "Attacks for 4 and applies 1 Vulnerable each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Insulting Slime",
+      "description": "Attacks for 4 and applies 1 Vulnerable each turn.",
+      "names": ["slimeboundmod:insulting slime","slimeboundmod:insulting_slime"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Intensity",
+      "description": "Intensity increases the amount of damage, Soulburn, and Block applied by Ghostflames when Ignited.",
+      "names": ["hexamod:intensity"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Invincible",
+      "description": "You cannot lose more than a given amount of HP in a single turn.\nAt the end of any round in which Invincible prevented HP loss, remove it.",
+      "names": ["expansioncontent:invincible"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Leeching Slime",
+      "description": "Attacks for 1 and grants you 3 Block each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Leeching Slime",
+      "description": "Attacks for 1 and grants you 3 Block each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Leeching Slime",
+      "description": "Attacks for 1 and grants you 3 Block each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Leeching Slime",
+      "description": "Attacks for 1 and grants you 3 Block each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Leeching Slime",
+      "description": "Attacks for 1 and grants you 3 Block each turn.",
+      "names": ["slimeboundmod:leeching","slimeboundmod:leeching slime","slimeboundmod:leeching slimes","slimeboundmod:leeching_slime","slimeboundmod:leeching_slimes"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Lick",
+      "description": "0-cost cards that apply Goop with a variety of secondary effects.",
+      "names": ["slimeboundmod:lick"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Mire Slime",
+      "description": "Attacks for 2 and applies 2 Goop each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Mire Slime",
+      "description": "Attacks for 2 and applies 2 Goop each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Mire Slime",
+      "description": "Attacks for 2 and applies 2 Goop each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Mire Slime",
+      "description": "Attacks for 2 and applies 2 Goop each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Mire Slime",
+      "description": "Attacks for 2 and applies 2 Goop each turn.",
+      "names": ["slimeboundmod:mire","slimeboundmod:mire slime","slimeboundmod:mire slimes","slimeboundmod:mire_slime","slimeboundmod:mire_slimes"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Morph",
+      "description": "Replace with a random new card of your class, regardless of type. It costs 1 less.",
+      "names": ["slimeboundmod:morph"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Muddle",
+      "description": "Muddling a card changes its cost to between 0 and 3.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Muddle",
+      "description": "Muddling a card changes its cost to between 0 and 3.",
+      "names": ["sneckomod:muddle","sneckomod:muddled"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Offclass",
+      "description": "An Offclass card is any obtainable card from a class other than your own (including Colorless cards).",
+      "names": ["sneckomod:offclass"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Package",
+      "description": "0-cost Exhausting Skill that generates three cards inspired by a chosen Construct of the Spire, and reduces their cost by 1 for this combat.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Package",
+      "description": "0-cost Exhausting Skill that generates three cards inspired by a chosen Construct of the Spire, and reduces their cost by 1 for this combat.",
+      "names": ["guardianmod:package","guardianmod:packages"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Potency",
+      "description": "Increases the damage of ALL of your Spawned Slimes.",
+      "names": ["slimeboundmod:potency"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Protector Slime",
+      "description": "Attacks for 2 and grants you 6 Block each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Protector Slime",
+      "description": "Attacks for 2 and grants you 6 Block each turn.",
+      "names": ["slimeboundmod:protector slime","slimeboundmod:protector_slime"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Retract",
+      "description": "Activate the previous Ghostflame. If it's Ignited, Extinguish it.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Retract",
+      "description": "Activate the previous Ghostflame. If it's Ignited, Extinguish it.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Retract",
+      "description": "Activate the previous Ghostflame. If it's Ignited, Extinguish it.",
+      "names": ["hexamod:retract","hexamod:retracted","hexamod:retracting"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Seal",
+      "description": "Can't be upgraded. If all 6 Seals have been played this combat, obtain The Broken Seal and remove the Seals from your deck.",
+      "names": ["hexamod:seal"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Searing",
+      "description": "Ghostflame. Ignites when 2 Attacks are played while Active. Ignition: When Ignited, apply 4 Soulburn to a random enemy.",
+      "names": ["hexamod:searing"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Slow",
+      "description": "Receives 10% more damage per card played in a turn.",
+      "names": ["slimeboundmod:slow"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Snekproof",
+      "description": "Snekproof cards aren't affected by Confusion and cannot be Muddled.",
+      "names": ["sneckomod:snekproof"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Socket",
+      "description": "Gems can be placed into this Socket at a Rest Site to combine the Gem's effect with this card's effect.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Socket",
+      "description": "Gems can be placed into this Socket at a Rest Site to combine the Gem's effect with this card's effect.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Socket",
+      "description": "Gems can be placed into this Socket at a Rest Site to combine the Gem's effect with this card's effect.",
+      "names": ["guardianmod:socket","guardianmod:socketed","guardianmod:sockets"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Soulburn",
+      "description": "After 3 turns, a Soulburned enemy loses HP, removing the Soulburn effect.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Soulburn",
+      "description": "After 3 turns, a Soulburned enemy loses HP, removing the Soulburn effect.",
+      "names": ["hexamod:soulburn","hexamod:soulburned"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Specialist",
+      "description": "A unique slime with a more powerful effect than normal slimes.",
+      "names": ["slimeboundmod:specialist"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Spire Boss",
+      "description": "Powerful 0-cost cards, inspired by the bosses of the Spire.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Spire Boss",
+      "description": "Powerful 0-cost cards, inspired by the bosses of the Spire.",
+      "names": ["slimeboundmod:spire boss","slimeboundmod:spire_boss"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Split",
+      "description": "Spawn a Slime minion, who attacks at the start of each turn.\n\nIf you have no empty slots, your oldest Slime is automatically Absorbed to make room, granting you 1 Strength.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Split",
+      "description": "Spawn a Slime minion, who attacks at the start of each turn.\n\nIf you have no empty slots, your oldest Slime is automatically Absorbed to make room, granting you 1 Strength.",
+      "names": ["slimeboundmod:split","slimeboundmod:splitting"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Stasis",
+      "description": "A card in Stasis gains a turn counter equal to its cost plus 1.\nTurn counter is reduced by 1 at the start of your turn.\nWhen the counter reaches 0, it is returned to your hand and costs 0 until played.",
+      "names": ["guardianmod:stasis"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Tackle",
+      "description": "High-damage Attacks that also deal a small amount of damage to you.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Tackle",
+      "description": "High-damage Attacks that also deal a small amount of damage to you.",
+      "names": ["slimeboundmod:tackle","slimeboundmod:tackles"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Technique",
+      "description": "If you are in a Stance, trigger its Technique bonus.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Technique",
+      "description": "If you are in a Stance, trigger its Technique bonus.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Technique",
+      "description": "If you are in a Stance, trigger its Technique bonus.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Technique",
+      "description": "If you are in a Stance, trigger its Technique bonus.",
+      "names": ["champ:[crown_icon]","champ:champ:[crown_icon]","champ:technique","champ:techniques"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Temporary HP",
+      "description": "Temporary HP disappears at the end of combat.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Temporary HP",
+      "description": "Temporary HP disappears at the end of combat.",
+      "names": ["temporary hp","temporary_hp"],
+      "mod": "StSLib"
+    },
+    {
+      "name": "Tick",
+      "description": "This effect is triggered whenever this card's turn counter is reduced while in Stasis.",
+      "names": ["guardianmod:tick"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Time Slime",
+      "description": "Attacks for 4 and applies 1 Weak each turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Time Slime",
+      "description": "Attacks for 4 and applies 1 Weak each turn.",
+      "names": ["slimeboundmod:time slime","slimeboundmod:time_slime"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Torch Head Slime",
+      "description": "Attacks for 6 each turn. Gains damage from your Strength.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Torch Head Slime",
+      "description": "Attacks for 6 each turn. Gains damage from your Strength.",
+      "names": ["slimeboundmod:torchhead slime","slimeboundmod:torchhead_slime"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Ultimate Stance",
+      "description": "Stance. Counts as both Defensive and Berserker Stances.\nFinishers do not exit the Stance.\nYou can't change to any other Stance.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Ultimate Stance",
+      "description": "Stance. Counts as both Defensive and Berserker Stances.\nFinishers do not exit the Stance.\nYou can't change to any other Stance.",
+      "names": ["champ:ultimate","champ:ultimate."],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Volatile",
+      "description": "When this card leaves Stasis, Exhaust it instead of returning it to your hand.",
+      "names": ["guardianmod:volatile"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "[B]",
+      "description": "Energy is used to play cards from your hand.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "[E]",
+      "description": "Energy is used to play cards from your hand.",
+      "names": ["[E]"],
+      "mod": "BaseMod"
+    },
+    {
+      "name": "[G]",
+      "description": "Energy is used to play cards from your hand.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "[R]",
+      "description": "Energy is used to play cards from your hand.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "[W]",
+      "description": "Energy is used to play cards from your hand.",
+      "names": [],
+      "mod": ""
+    },
+    {
       "name": "Artifact",
       "description": "Negates the next debuff.",
       "names": ["artifact"],
@@ -18592,39 +19583,21 @@
       "mod": ""
     },
     {
-      "name": "Bronze:blur",
-      "description": "Do not lose Block at the end of the turn.",
-      "names": ["bronze:blur"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Bronze:compile",
-      "description": "An additional effect that triggers when this card, while in the Sequence, is combined into a Function.\nCan be a negative effect, which is referred to as an 'Error'.",
-      "names": ["bronze:compile","bronze:compiled"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Bronze:cycle",
-      "description": "Discard a card, drawing a new card to replace it.",
-      "names": ["bronze:cycle"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Bronze:encode",
-      "description": "Add the card to the Sequence.\nWhen 3 cards are in the Sequence, their effects (other than Encode) are merged into a Function with cost equal to the highest cost card in the Sequence.",
-      "names": ["bronze:encode","bronze:encoded"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Bronze:insert",
-      "description": "Add a card to your draw pile.",
-      "names": ["bronze:insert"],
-      "mod": "Downfall"
+      "name": "Blocks",
+      "description": "Until next turn, prevents damage.",
+      "names": [],
+      "mod": ""
     },
     {
       "name": "Burn",
       "description": "Burns are unplayable status cards that damage you.",
       "names": ["burn","burns"],
+      "mod": ""
+    },
+    {
+      "name": "Burns",
+      "description": "Burns are unplayable status cards that damage you.",
+      "names": [],
       "mod": ""
     },
     {
@@ -18634,63 +19607,15 @@
       "mod": ""
     },
     {
-      "name": "Champ:berserker",
-      "description": "Stance.\nTechnique Bonus: Fatigue 5.\nFinisher Bonus: Lose all Fatigue and gain that much HP, preserving Strength.",
-      "names": ["champ:berserker","champ:berserker."],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Champ:combo",
-      "description": "Extra effect when played in the listed Stance, or if you entered that Stance this turn.",
-      "names": ["champ:combo"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Champ:counter",
-      "description": "The next time you take Attack damage, deal damage back.",
-      "names": ["champ:counter"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Champ:defensive",
-      "description": "Stance.\nTechnique Bonus: Gain 5 Counter.\nFinisher Bonus: Gain 12 Block.",
-      "names": ["champ:defensive","champ:defensive."],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Champ:fatigue",
-      "description": "Lose HP and gain 1 Strength for every 10 HP lost. Regenerate Fatigued health at the end of combat.",
-      "names": ["champ:fatigue","champ:fatigued"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Champ:finisher",
-      "description": "After playing a Finisher, if you are in a Stance, exit it and trigger its Finisher bonus.",
-      "names": ["champ:[fist_icon]","champ:champ:[fist_icon]","champ:finisher","champ:finishers"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Champ:gladiator",
-      "description": "Stance.\nTechnique Bonus: Draw a card.\nFinisher Bonus: Next turn, draw 1 card and gain [E] . End your turn.",
-      "names": ["champ:gladiator","champ:gladiator."],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Champ:technique",
-      "description": "If you are in a Stance, trigger its Technique bonus.",
-      "names": ["champ:[crown_icon]","champ:champ:[crown_icon]","champ:technique","champ:techniques"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Champ:ultimate",
-      "description": "Stance. Counts as both Defensive and Berserker Stances.\nFinishers do not exit the Stance.\nYou can't change to any other Stance.",
-      "names": ["champ:ultimate","champ:ultimate."],
-      "mod": "Downfall"
-    },
-    {
       "name": "Channel",
       "description": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically Evoked to make room.",
       "names": ["channel","channeled"],
+      "mod": ""
+    },
+    {
+      "name": "Channeled",
+      "description": "Channeling an Orb puts it into your first empty slot. If you have no empty slots, your first Orb is automatically Evoked to make room.",
+      "names": [],
       "mod": ""
     },
     {
@@ -18709,6 +19634,12 @@
       "name": "Dark",
       "description": "Orb: Increases damage every turn. When Evoked, deals damage to the enemy with the least HP.",
       "names": ["dark","dark+"],
+      "mod": ""
+    },
+    {
+      "name": "Dark+",
+      "description": "Orb: Increases damage every turn. When Evoked, deals damage to the enemy with the least HP.",
+      "names": [],
       "mod": ""
     },
     {
@@ -18736,6 +19667,12 @@
       "mod": "Downfall"
     },
     {
+      "name": "Downfall:fired",
+      "description": "Only Ammo can be fired. Firing Ammo activates its effect and discards it.",
+      "names": [],
+      "mod": ""
+    },
+    {
       "name": "Ethereal",
       "description": "If this card is in your hand at the end of turn, it is exhausted. Exhausted cards are removed from your deck until the end of combat.",
       "names": ["ethereal"],
@@ -18748,9 +19685,21 @@
       "mod": ""
     },
     {
+      "name": "Evoked",
+      "description": "Consume your rightmost Orb and use its Evoke effect.",
+      "names": [],
+      "mod": ""
+    },
+    {
       "name": "Exhaust",
       "description": "Removed until end of combat.",
       "names": ["exhaust","exhausted","exhausts"],
+      "mod": ""
+    },
+    {
+      "name": "Exhausted",
+      "description": "Removed until end of combat.",
+      "names": [],
       "mod": ""
     },
     {
@@ -18760,16 +19709,10 @@
       "mod": "StSLib"
     },
     {
-      "name": "Expansioncontent:boss",
-      "description": "You may only play 1 Boss card in a turn.",
-      "names": ["expansioncontent:boss"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Expansioncontent:invincible",
-      "description": "You cannot lose more than a given amount of HP in a single turn.\nAt the end of any round in which Invincible prevented HP loss, remove it.",
-      "names": ["expansioncontent:invincible"],
-      "mod": "Downfall"
+      "name": "Exhausts",
+      "description": "Removed until end of combat.",
+      "names": [],
+      "mod": ""
     },
     {
       "name": "Fatal",
@@ -18808,148 +19751,16 @@
       "mod": ""
     },
     {
+      "name": "Frost+",
+      "description": "Orb: Gains Block.",
+      "names": [],
+      "mod": ""
+    },
+    {
       "name": "Grave",
       "description": "Start each combat with this card in your discard pile.",
       "names": ["grave"],
       "mod": "StSLib"
-    },
-    {
-      "name": "Guardianmod:accelerate",
-      "description": "Reduce the turn counter of the right-most card in Stasis by 1. If the card's turn counter is now 0, return it to your hand. It costs 0 until played.",
-      "names": ["guardianmod:accelerate"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Guardianmod:brace",
-      "description": "Reduce the HP loss required to trigger Mode Shift by X, triggering Mode Shift if the HP loss required is now 0.",
-      "names": ["guardianmod:brace"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Guardianmod:buffer",
-      "description": "Prevent the next time you would lose HP.",
-      "names": ["guardianmod:buffer"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Guardianmod:defensive mode",
-      "description": "Stance.\nGain 10 Block when entering Defensive Mode.\nWhile in Defensive Mode, you have 3 Thorns, gain 10 Block at the start of your turn, and your Block does not expire.",
-      "names": ["guardianmod:defensive mode","guardianmod:defensive_mode"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Guardianmod:gem",
-      "description": "Gems can be placed into Sockets in cards at a Rest Site. Cannot be Upgraded.",
-      "names": ["guardianmod:gem","guardianmod:gems"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Guardianmod:package",
-      "description": "0-cost Exhausting Skill that generates three cards inspired by a chosen Construct of the Spire, and reduces their cost by 1 for this combat.",
-      "names": ["guardianmod:package","guardianmod:packages"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Guardianmod:socket",
-      "description": "Gems can be placed into this Socket at a Rest Site to combine the Gem's effect with this card's effect.",
-      "names": ["guardianmod:socket","guardianmod:socketed","guardianmod:sockets"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Guardianmod:stasis",
-      "description": "A card in Stasis gains a turn counter equal to its cost plus 1.\nTurn counter is reduced by 1 at the start of your turn.\nWhen the counter reaches 0, it is returned to your hand and costs 0 until played.",
-      "names": ["guardianmod:stasis"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Guardianmod:tick",
-      "description": "This effect is triggered whenever this card's turn counter is reduced while in Stasis.",
-      "names": ["guardianmod:tick"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Guardianmod:volatile",
-      "description": "When this card leaves Stasis, Exhaust it instead of returning it to your hand.",
-      "names": ["guardianmod:volatile"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Hexamod:active",
-      "description": "The Active Ghostflame can be Ignited by meeting its listed Ignition requirements.",
-      "names": ["hexamod:active"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Hexamod:advance",
-      "description": "Activate the next Ghostflame. If it's Ignited, Extinguish it.",
-      "names": ["hexamod:advance","hexamod:advanced","hexamod:advancing"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Hexamod:afterlife",
-      "description": "If this card is Exhausted, its effects activate.",
-      "names": ["hexamod:afterlife"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Hexamod:bolstering",
-      "description": "Ghostflame. Ignites when a Power is played while Active. Ignition: When Ignited, gain 4 Block and 1 Strength.",
-      "names": ["hexamod:bolstering"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Hexamod:crushing",
-      "description": "Ghostflame. Ignites when 2 Skills are played while Active. Ignition: When Ignited, deal 4 damage to a random enemy twice.",
-      "names": ["hexamod:crushing"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Hexamod:extinguish",
-      "description": "Allows Ghostflame to become Ignited again, resetting its Ignition requirements.",
-      "names": ["hexamod:extinguish","hexamod:extinguished"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Hexamod:force-ignite",
-      "description": "Triggers the Ignition effect described on a Ghostflame, even if it was already Ignited.",
-      "names": ["hexamod:force-ignite"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Hexamod:ignite",
-      "description": "Triggers the Ignition effect described on a Ghostflame.",
-      "names": ["hexamod:ignite","hexamod:ignited"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Hexamod:intensity",
-      "description": "Intensity increases the amount of damage, Soulburn, and Block applied by Ghostflames when Ignited.",
-      "names": ["hexamod:intensity"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Hexamod:retract",
-      "description": "Activate the previous Ghostflame. If it's Ignited, Extinguish it.",
-      "names": ["hexamod:retract","hexamod:retracted","hexamod:retracting"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Hexamod:seal",
-      "description": "Can't be upgraded. If all 6 Seals have been played this combat, obtain The Broken Seal and remove the Seals from your deck.",
-      "names": ["hexamod:seal"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Hexamod:searing",
-      "description": "Ghostflame. Ignites when 2 Attacks are played while Active. Ignition: When Ignited, apply 4 Soulburn to a random enemy.",
-      "names": ["hexamod:searing"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Hexamod:soulburn",
-      "description": "After 3 turns, a Soulburned enemy loses HP, removing the Soulburn effect.",
-      "names": ["hexamod:soulburn","hexamod:soulburned"],
-      "mod": "Downfall"
     },
     {
       "name": "Innate",
@@ -18967,6 +19778,12 @@
       "name": "Lightning",
       "description": "Orb: Deals damage to random enemies.",
       "names": ["lightning","lightning+"],
+      "mod": ""
+    },
+    {
+      "name": "Lightning+",
+      "description": "Orb: Deals damage to random enemies.",
+      "names": [],
       "mod": ""
     },
     {
@@ -19000,9 +19817,21 @@
       "mod": ""
     },
     {
+      "name": "Plasma+",
+      "description": "Orb: Gains Energy.",
+      "names": [],
+      "mod": ""
+    },
+    {
       "name": "Poison",
       "description": "Poisoned creatures lose HP at the start of their turn. Each turn, Poison is reduced by 1.",
       "names": ["poison","poisoned"],
+      "mod": ""
+    },
+    {
+      "name": "Poisoned",
+      "description": "Poisoned creatures lose HP at the start of their turn. Each turn, Poison is reduced by 1.",
+      "names": [],
       "mod": ""
     },
     {
@@ -19018,6 +19847,12 @@
       "mod": "StSLib"
     },
     {
+      "name": "Refunds",
+      "description": "Returns energy spent on playing the card, up to the Refund value.",
+      "names": [],
+      "mod": ""
+    },
+    {
       "name": "Regen",
       "description": "Regen heals HP at the end of your turn. Each turn, Regen is reduced by 1.",
       "names": ["regen"],
@@ -19028,6 +19863,18 @@
       "description": "Not discarded at the end of your turn.",
       "names": ["retain","retained","retains"],
       "mod": "StSLib"
+    },
+    {
+      "name": "Retained",
+      "description": "Retained cards are not discarded at the end of turn.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Retains",
+      "description": "Retained cards are not discarded at the end of turn.",
+      "names": [],
+      "mod": ""
     },
     {
       "name": "Ritual",
@@ -19048,178 +19895,16 @@
       "mod": ""
     },
     {
-      "name": "Slimeboundmod:absorb",
-      "description": "Manually recombine with your leading Slime, granting you 1 Strength.",
-      "names": ["slimeboundmod:absorb","slimeboundmod:absorbed","slimeboundmod:absorbing"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:ancient slime",
-      "description": "Attacks for 3 and causes you to draw 1 card each turn.",
-      "names": ["slimeboundmod:ancient slime","slimeboundmod:ancient_slime"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:bronze slime",
-      "description": "Attacks for 4 and grants you 4 Block each turn.",
-      "names": ["slimeboundmod:bronze slime","slimeboundmod:bronze_slime"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:bruiser slime",
-      "description": "Attacks for 5 each turn.",
-      "names": ["slimeboundmod:bruiser","slimeboundmod:bruiser slime","slimeboundmod:bruiser slimes","slimeboundmod:bruiser_slime","slimeboundmod:bruiser_slimes"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:command",
-      "description": "Your leading Slime attacks.",
-      "names": ["slimeboundmod:command","slimeboundmod:commands"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:consume",
-      "description": "Bonus effect which activates when an Attack is used on an enemy who has Goop.",
-      "names": ["slimeboundmod:consume"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:cultist slime",
-      "description": "Attacks for 6 each turn, then increases its damage by 1.",
-      "names": ["slimeboundmod:cultist slime","slimeboundmod:cultist_slime"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:darkling slime",
-      "description": "Attacks for 3 each turn. When Commanded, other Darkling Slimes also attack.",
-      "names": ["slimeboundmod:darkling slime","slimeboundmod:darkling_slime"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:ghostflame slime",
-      "description": "Attacks for 3 and applies 3 Soulburn each turn.",
-      "names": ["slimeboundmod:ghostflame slime","slimeboundmod:ghostflame_slime"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:goop",
-      "description": "The next attack deals 1 more damage per Goop, removing all Goop and triggering any Consume effects.",
-      "names": ["slimeboundmod:goop","slimeboundmod:gooped"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:guerilla slime",
-      "description": "Attacks for 3 to ALL enemies each turn.",
-      "names": ["slimeboundmod:guerilla","slimeboundmod:guerilla slime","slimeboundmod:guerilla slimes","slimeboundmod:guerilla_slime","slimeboundmod:guerilla_slimes"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:insulting slime",
-      "description": "Attacks for 4 and applies 1 Vulnerable each turn.",
-      "names": ["slimeboundmod:insulting slime","slimeboundmod:insulting_slime"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:leeching slime",
-      "description": "Attacks for 1 and grants you 3 Block each turn.",
-      "names": ["slimeboundmod:leeching","slimeboundmod:leeching slime","slimeboundmod:leeching slimes","slimeboundmod:leeching_slime","slimeboundmod:leeching_slimes"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:lick",
-      "description": "0-cost cards that apply Goop with a variety of secondary effects.",
-      "names": ["slimeboundmod:lick"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:mire slime",
-      "description": "Attacks for 2 and applies 2 Goop each turn.",
-      "names": ["slimeboundmod:mire","slimeboundmod:mire slime","slimeboundmod:mire slimes","slimeboundmod:mire_slime","slimeboundmod:mire_slimes"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:morph",
-      "description": "Replace with a random new card of your class, regardless of type. It costs 1 less.",
-      "names": ["slimeboundmod:morph"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:potency",
-      "description": "Increases the damage of ALL of your Spawned Slimes.",
-      "names": ["slimeboundmod:potency"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:protector slime",
-      "description": "Attacks for 2 and grants you 6 Block each turn.",
-      "names": ["slimeboundmod:protector slime","slimeboundmod:protector_slime"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:slow",
-      "description": "Receives 10% more damage per card played in a turn.",
-      "names": ["slimeboundmod:slow"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:specialist",
-      "description": "A unique slime with a more powerful effect than normal slimes.",
-      "names": ["slimeboundmod:specialist"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:spire boss",
-      "description": "Powerful 0-cost cards, inspired by the bosses of the Spire.",
-      "names": ["slimeboundmod:spire boss","slimeboundmod:spire_boss"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:split",
-      "description": "Spawn a Slime minion, who attacks at the start of each turn.\n\nIf you have no empty slots, your oldest Slime is automatically Absorbed to make room, granting you 1 Strength.",
-      "names": ["slimeboundmod:split","slimeboundmod:splitting"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:tackle",
-      "description": "High-damage Attacks that also deal a small amount of damage to you.",
-      "names": ["slimeboundmod:tackle","slimeboundmod:tackles"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:time slime",
-      "description": "Attacks for 4 and applies 1 Weak each turn.",
-      "names": ["slimeboundmod:time slime","slimeboundmod:time_slime"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Slimeboundmod:torchhead slime",
-      "description": "Attacks for 6 each turn. Gains damage from your Strength.",
-      "names": ["slimeboundmod:torchhead slime","slimeboundmod:torchhead_slime"],
-      "mod": "Downfall"
+      "name": "Shivs",
+      "description": "Shivs are 0 cost Attack cards which Exhaust.",
+      "names": [],
+      "mod": ""
     },
     {
       "name": "Snecko",
       "description": "When drawn, this card randomizes its cost.",
       "names": ["snecko"],
       "mod": "StSLib"
-    },
-    {
-      "name": "Sneckomod:muddle",
-      "description": "Muddling a card changes its cost to between 0 and 3.",
-      "names": ["sneckomod:muddle","sneckomod:muddled"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Sneckomod:offclass",
-      "description": "An Offclass card is any obtainable card from a class other than your own (including Colorless cards).",
-      "names": ["sneckomod:offclass"],
-      "mod": "Downfall"
-    },
-    {
-      "name": "Sneckomod:snekproof",
-      "description": "Snekproof cards aren't affected by Confusion and cannot be Muddled.",
-      "names": ["sneckomod:snekproof"],
-      "mod": "Downfall"
     },
     {
       "name": "Soulbound",
@@ -19231,6 +19916,12 @@
       "name": "Stance",
       "description": "You can only have one stance at a time.",
       "names": ["stance","stances"],
+      "mod": ""
+    },
+    {
+      "name": "Stances",
+      "description": "You can only have one stance at a time.",
+      "names": [],
       "mod": ""
     },
     {
@@ -19258,15 +19949,15 @@
       "mod": ""
     },
     {
-      "name": "Temporary hp",
-      "description": "Temporary HP disappears at the end of combat.",
-      "names": ["temporary hp","temporary_hp"],
-      "mod": "StSLib"
-    },
-    {
       "name": "Thorns",
       "description": "When receiving Attack damage, deals damage back.",
       "names": ["thorns"],
+      "mod": ""
+    },
+    {
+      "name": "Through violence",
+      "description": "When you obtain 10 Mantra, enter Divinity.",
+      "names": [],
       "mod": ""
     },
     {
@@ -19294,6 +19985,12 @@
       "mod": ""
     },
     {
+      "name": "Upgraded",
+      "description": "Upgrading cards makes them more powerful. Cards can only be upgraded once.",
+      "names": [],
+      "mod": ""
+    },
+    {
       "name": "Vigor",
       "description": "Your next Attack deals additional damage.",
       "names": ["vigor"],
@@ -19303,6 +20000,12 @@
       "name": "Void",
       "description": "Voids are unplayable status cards that consume energy when drawn.",
       "names": ["void","voids"],
+      "mod": ""
+    },
+    {
+      "name": "Voids",
+      "description": "Voids are unplayable status cards that consume energy when drawn.",
+      "names": [],
       "mod": ""
     },
     {
@@ -19318,9 +20021,33 @@
       "mod": ""
     },
     {
+      "name": "Weaken",
+      "description": "Weakened creatures deal 25% less damage with Attacks.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Weakened",
+      "description": "Weakened creatures deal 25% less damage with Attacks.",
+      "names": [],
+      "mod": ""
+    },
+    {
+      "name": "Weakens",
+      "description": "Weakened creatures deal 25% less damage with Attacks.",
+      "names": [],
+      "mod": ""
+    },
+    {
       "name": "Wound",
       "description": "Wounds are unplayable status cards.",
       "names": ["wound","wounds"],
+      "mod": ""
+    },
+    {
+      "name": "Wounds",
+      "description": "Wounds are unplayable status cards.",
+      "names": [],
       "mod": ""
     },
     {

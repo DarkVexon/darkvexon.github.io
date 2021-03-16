@@ -14,14 +14,14 @@
 |Basic
 |[[Skill]]
 |1
-|Gain 5(8) [[Block]].
+|Gain 5 (8) [[Block]].
 |-
 |[[Execute]]
 |[[File:|thumb|289x289px]]
 |Basic
 |[[Attack]]
 |2
-|Deal 6(8) damage !cool! times.
+|Deal 6 (8) damage 2 times.
 [[champ:Fatigue]] 10.
 [fist_icon] [[champ:Finisher]]
 |-
@@ -30,7 +30,7 @@
 |Basic
 |[[Attack]]
 |1
-|Deal 6(9) damage.
+|Deal 6 (9) damage.
 |-
 |[[Taunt]]
 |[[File:|thumb|289x289px]]
@@ -47,17 +47,17 @@ Enter (Choose) a random (not random)[[Stance]] (to Enter).
 |[[Skill]]
 |1
 |[crown_icon] [[champ:Technique]]
-Gain 5(7) [[Block]].
-*Berserker champ:Combo: Play this twice.
+Gain 5 (7) [[Block]].
+Berserker champ:Combo: Play this twice.
 |-
 |[[Backstep]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
-|1(0)
+|1 (0)
 |Enter [[champ:Defensive]].
 Gain 6 [[Block]].
-*Berserker champ:Combo: Gain [[Block]] equal to your [[champ:Fatigue]].
+Berserker champ:Combo: Gain [[Block]] equal to your [[champ:Fatigue]].
 |-
 |[[Berserker's Shout]]
 |[[File:|thumb|289x289px]]
@@ -74,9 +74,9 @@ Enter [[champ:Berserker]].
 |Common
 |[[Skill]]
 |1
-|Requires *Defensive or *Berserker.
-Gain 10(13) [[Block]].
-Gain 10(13) [[champ:Counter]].
+|Requires Defensive or Berserker.
+Gain 10 (13) [[Block]].
+Gain 10 (13) [[champ:Counter]].
 [fist_icon] [[champ:Finisher]]
 |-
 |[[Chain Lash]]
@@ -85,23 +85,23 @@ Gain 10(13) [[champ:Counter]].
 |[[Skill]]
 |1
 |[crown_icon] [[champ:Technique]]
-Repeat this effect 2(3) times.
+Repeat this effect 2 (3) times.
 |-
 |[[Circumvent]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |1
-|Gain (4 [[champ:Counter]].
+|Gain (!M! [[champ:Counter]].
 Gain) 6 [[Block]].
-*Defensive champ:Combo: Gain [[Block]] equal to your [[champ:Counter]].
+Defensive champ:Combo: Gain [[Block]] equal to your [[champ:Counter]].
 |-
 |[[Crownarang]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 7(10) damage.
+|Deal 7 (10) damage.
 If this doesn't cost 0, return it to your hand next turn.
 It costs 0 until played.
 |-
@@ -121,8 +121,8 @@ Gain 5 [[champ:Counter]].
 |[[Skill]]
 |1
 |[crown_icon] [[champ:Technique]]
-Gain 8(11) [[Block]].
-If your [[Block]] is broken this turn, gain 8(11) [[Block]] next turn.
+Gain 8 (11) [[Block]].
+If your [[Block]] is broken this turn, gain 8 (11) [[Block]] next turn.
 |-
 |[[Fan of Knives]]
 |[[File:|thumb|289x289px]]
@@ -130,7 +130,7 @@ If your [[Block]] is broken this turn, gain 8(11) [[Block]] next turn.
 |[[Attack]]
 |1
 |Deal 5 damage to ALL enemies.
-*Berserker champ:Combo: Deals damage twice (three times).
+Berserker champ:Combo: Deals damage twice (three times).
 Enter [[champ:Berserker]].
 |-
 |[[Flash Strike]]
@@ -138,8 +138,8 @@ Enter [[champ:Berserker]].
 |Common
 |[[Attack]]
 |1
-|Deal 6(8) damage.
-*Defensive champ:Combo: Gain 6(8) [[champ:Counter]] and 6(8) [[Block]].
+|Deal 6 (8) damage.
+Defensive champ:Combo: Gain 6 (8) [[champ:Counter]] and 6 (8) [[Block]].
 Enter [[champ:Defensive]].
 |-
 |[[Flurry of Strikes]]
@@ -157,8 +157,8 @@ Deal 4 damage) for each card containing "Strike" in your hand.
 |[[Attack]]
 |1
 |Enter [[champ:Berserker]].
-Deal 5(8) damage.
-*Defensive champ:Combo: Gain [E] and 5(8) [[Block]].
+Deal 5 (8) damage.
+Defensive champ:Combo: Gain [E] and 5 (8) [[Block]].
 |-
 |[[Perfected Strike]]
 |[[File:|thumb|289x289px]]
@@ -166,7 +166,7 @@ Deal 5(8) damage.
 |[[Attack]]
 |2
 |Deal 14 damage.
-Deals 2(3) additional damage for ALL your cards containing "Strike".
+Deals 2 (3) additional damage for ALL your cards containing "Strike".
 [fist_icon] [[champ:Finisher]]
 |-
 |[[Piledriver]]
@@ -174,26 +174,26 @@ Deals 2(3) additional damage for ALL your cards containing "Strike".
 |Common
 |[[Attack]]
 |2
-|Deal 14(18) damage.
-*Berserker champ:Combo: Apply 2 [[Vulnerable]].
-*Defensive champ:Combo: Apply 2 [[Weak]].
+|Deal 14 (18) damage.
+Berserker champ:Combo: Apply 2 [[Vulnerable]].
+Defensive champ:Combo: Apply 2 [[Weak]].
 |-
 |[[Precise Thrust]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 7(9) damage.
-*Berserker champ:Combo: Deal 7(9) damage.
-*Defensive champ:Combo: Gain 7(9) [[Block]].
+|Deal 7 (9) damage.
+Berserker champ:Combo: Deal 7 (9) damage.
+Defensive champ:Combo: Gain 7 (9) [[Block]].
 |-
 |[[Shatter]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 8(10) damage.
-*Berserker champ:Combo: Remove the enemy's [[Block]] (and [[Artifact]]) before dealing damage.
+|Deal 8 (10) damage.
+Berserker champ:Combo: Remove the enemy's [[Block]] (and [[Artifact]]) before dealing damage.
 |-
 |[[Stance Dance]]
 |[[File:|thumb|289x289px]]
@@ -208,8 +208,8 @@ If you were already in that [[Stance]], add (Add) a [[champ:Combo]] of that [[St
 |Common
 |[[Attack]]
 |2
-|Deal 10(12) damage to ALL enemies.
-*Defensive champ:Combo: Gain 5(7) [[champ:Counter]] and 5(7) [[Block]] for each enemy hit.
+|Deal 10 (12) damage to ALL enemies.
+Defensive champ:Combo: Gain 5 (7) [[champ:Counter]] and 5 (7) [[Block]] for each enemy hit.
 |-
 |[[Arena Preparation]]
 |[[File:|thumb|289x289px]]
@@ -217,7 +217,7 @@ If you were already in that [[Stance]], add (Add) a [[champ:Combo]] of that [[St
 |[[Skill]]
 |0
 |[crown_icon] [[champ:Technique]]
-Add 2(3) random [[champ:Techniques]] into your hand.
+Add 2 (3) random [[champ:Techniques]] into your hand.
 They gain [[Retain]].
 [[Exhaust]].
 |-
@@ -228,7 +228,7 @@ They gain [[Retain]].
 |0
 |[crown_icon] [[champ:Technique]]
 Draw a card. 
-(Gain -1(3) [[Block]].)
+(Gain !B! [[Block]].)
 |-
 |[[Berserker Style]]
 |[[File:|thumb|289x289px]]
@@ -244,8 +244,8 @@ Draw a card.
 |Uncommon
 |[[Attack]]
 |1
-|Deal 9(12) damage.
-Hits three times if *Fatigue is 20 or higher.
+|Deal 9 (12) damage.
+Hits three times if Fatigue is 20 or higher.
 [fist_icon] [[champ:Finisher]]
 |-
 |[[Death Blow]]
@@ -254,7 +254,7 @@ Hits three times if *Fatigue is 20 or higher.
 |[[Attack]]
 |2
 |Deal 10 damage to ALL enemies.
-[[champ:Fatigue]] 10(15).
+[[champ:Fatigue]] 10 (15).
 [fist_icon] [[champ:Finisher]]
 |-
 |[[Defensive Style]]
@@ -264,7 +264,7 @@ Hits three times if *Fatigue is 20 or higher.
 |1
 |([[Innate]].)
  Enter [[champ:Defensive]].
-[[champ:Defensive]] *Techniques grant 2 more [[champ:Counter]].
+[[champ:Defensive]] Techniques grant 2 more [[champ:Counter]].
 |-
 |[[Duel]]
 |[[File:|thumb|289x289px]]
@@ -272,8 +272,8 @@ Hits three times if *Fatigue is 20 or higher.
 |[[Attack]]
 |2
 |[crown_icon] [[champ:Technique]]
-Gain 7(10) [[Block]].
-Deal 7(10) damage.
+Gain 7 (10) [[Block]].
+Deal 7 (10) damage.
 If there's only one enemy, play this twice.
 |-
 |[[Encircle]]
@@ -281,14 +281,14 @@ If there's only one enemy, play this twice.
 |Uncommon
 |[[Attack]]
 |1
-|Deal 3(5) damage to a random enemy 2 times.
-*Berserker champ:Combo: Play this twice.
+|Deal 3 (5) damage to a random enemy 2 times.
+Berserker champ:Combo: Play this twice.
 |-
 |[[Endless Rage]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
-|2(1)
+|2 (1)
 |Whenever you lose HP on your turn, gain 1 temporary [[Strength]].
 |-
 |[[Endure]]
@@ -297,7 +297,7 @@ If there's only one enemy, play this twice.
 |[[Skill]]
 |1
 |[crown_icon] [[champ:Technique]]
-Gain 7(10) [[Block]].
+Gain 7 (10) [[Block]].
 This card's [[Block]] is increased by [[Strength]] instead of [[Dexterity]] (not instead of Dexterity).
 |-
 |[[Enraged Bash]]
@@ -305,9 +305,9 @@ This card's [[Block]] is increased by [[Strength]] instead of [[Dexterity]] (not
 |Uncommon
 |[[Attack]]
 |1
-|Deal 5 damage (1(2) times).
+|Deal 5 damage (!M! times).
 [[champ:Fatigue]] 5.
-*Berserker champ:Combo: This card hits an additional time this combat.
+Berserker champ:Combo: This card hits an additional time this combat.
 |-
 |[[Face Slap]]
 |[[File:|thumb|289x289px]]
@@ -315,8 +315,8 @@ This card's [[Block]] is increased by [[Strength]] instead of [[Dexterity]] (not
 |[[Attack]]
 |1
 |Enter [[champ:Berserker]].
-Deal 9(11) damage, twice if enemy is [[Vulnerable]].
-*Berserker champ:Combo: Apply 2(3) [[Vulnerable]].
+Deal 9 (11) damage, twice if enemy is [[Vulnerable]].
+Berserker champ:Combo: Apply 2 (3) [[Vulnerable]].
 |-
 |[[False Counter]]
 |[[File:|thumb|289x289px]]
@@ -324,7 +324,7 @@ Deal 9(11) damage, twice if enemy is [[Vulnerable]].
 |[[Skill]]
 |1
 |Requires [[champ:Defensive]].
-(Gain 6 [[champ:Counter]].)
+(Gain !M! [[champ:Counter]].)
  The next time [[champ:Counter]] activates, lose only half.
 [fist_icon] [[champ:Finisher]]
 |-
@@ -333,15 +333,15 @@ Deal 9(11) damage, twice if enemy is [[Vulnerable]].
 |Uncommon
 |[[Skill]]
 |0
-|Requires *Defensive or *Berserker.
+|Requires Defensive or Berserker.
 Enter the [[Stance]] you aren't in.
-Draw 1(2) card(s).
+Draw 1 (2) card(s).
 |-
 |[[Finish Him]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
-|1(0)
+|1 (0)
 |Requires [[champ:Berserker]].
 Deal damage equal to your [[champ:Fatigue]].
 [fist_icon] [[champ:Finisher]]
@@ -353,7 +353,7 @@ Deal damage equal to your [[champ:Fatigue]].
 |0
 |[crown_icon] [[champ:Technique]]
 Enter [[champ:Berserker]].
-If you end this turn with at least 20 [[champ:Fatigue]], deal 10(15) damage to ALL enemies.
+If you end this turn with at least 20 [[champ:Fatigue]], deal 10 (15) damage to ALL enemies.
 |-
 |[[Focus: Defensive]]
 |[[File:|thumb|289x289px]]
@@ -362,21 +362,21 @@ If you end this turn with at least 20 [[champ:Fatigue]], deal 10(15) damage to A
 |0
 |[crown_icon] [[champ:Technique]]
 Enter [[champ:Defensive]].
-If you end this turn with at least 20 [[champ:Counter]], gain 10(15) [[Block]].
+If you end this turn with at least 20 [[champ:Counter]], gain 10 (15) [[Block]].
 |-
 |[[Good Clean Fight]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
 |1
-|If you start your turn in no [[Stance]], gain 2(3) temporary [[Strength]] and [[Dexterity]].
+|If you start your turn in no [[Stance]], gain 2 (3) temporary [[Strength]] and [[Dexterity]].
 |-
 |[[Iron Fortress]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
 |1
-|Whenever you enter a [[Stance]], gain 2(3) [[Block]] and 2(3) [[champ:Counter]].
+|Whenever you enter a [[Stance]], gain 2 (3) [[Block]] and 2 (3) [[champ:Counter]].
 |-
 |[[Lariat]]
 |[[File:|thumb|289x289px]]
@@ -402,15 +402,15 @@ Trigger [[champ:Technique]].
 |Uncommon
 |[[Skill]]
 |2
-|Gain 10(16) Counter.
-If your Counter is used this turn, add *Riposte to your hand.
+|Gain 10 (16) Counter.
+If your Counter is used this turn, add Riposte to your hand.
 |-
 |[[Preemptive Strike]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
-|1(0)
-|Requires *Defensive.
+|1 (0)
+|Requires Defensive.
 Deal damage equal to your [[champ:Counter]] to ALL enemies.
 Lose half of your [[champ:Counter]].
 |-
@@ -419,8 +419,8 @@ Lose half of your [[champ:Counter]].
 |Uncommon
 |[[Attack]]
 |1
-|Deal 3 damage 2(3) times.
-Deal 3 damage an additional time for each [[champ:Technique]] *Bonus triggered this turn.
+|Deal 3 damage 2 (3) times.
+Deal 3 damage an additional time for each [[champ:Technique]] Bonus triggered this turn.
 |-
 |[[Reckless Leap]]
 |[[File:|thumb|289x289px]]
@@ -428,8 +428,8 @@ Deal 3 damage an additional time for each [[champ:Technique]] *Bonus triggered t
 |[[Attack]]
 |2
 |Requires [[champ:Berserker]].
-Deal 18(20) damage.
-[[champ:Fatigue]] 15(20).
+Deal 18 (20) damage.
+[[champ:Fatigue]] 15 (20).
 |-
 |[[Refreshment]]
 |[[File:|thumb|289x289px]]
@@ -437,7 +437,7 @@ Deal 18(20) damage.
 |[[Skill]]
 |1
 |*Berserker champ:Combo: Gain [E] [E] ([E]), then [[Exhaust]] this.
-*Defensive champ:Combo: Draw 3(4) cards.
+Defensive champ:Combo: Draw 3 (4) cards.
 |-
 |[[Rising Strike]]
 |[[File:|thumb|289x289px]]
@@ -445,7 +445,7 @@ Deal 18(20) damage.
 |[[Attack]]
 |1
 |[crown_icon] [[champ:Technique]]
-Deal 7(10) damage.
+Deal 7 (10) damage.
 Play this twice if the last played card was a [[champ:Technique]].
 |-
 |[[Set A Trap]]
@@ -454,7 +454,7 @@ Play this twice if the last played card was a [[champ:Technique]].
 |[[Skill]]
 |1
 |(Gain 6 [[champ:Counter]].)
- *Defensive champ:Combo: Gain 6 [[champ:Counter]] for each Attack in your hand.
+ Defensive champ:Combo: Gain 6 [[champ:Counter]] for each Attack in your hand.
 Enter [[champ:Defensive]].
 |-
 |[[Shield Wall]]
@@ -463,7 +463,7 @@ Enter [[champ:Defensive]].
 |[[Power]]
 |2
 |Gain 2 [[Dexterity]].
-At the end of each turn, gain 6(9) [[champ:Counter]].
+At the end of each turn, gain 6 (9) [[champ:Counter]].
 |-
 |[[Sigil of Victory]]
 |[[File:|thumb|289x289px]]
@@ -471,7 +471,7 @@ At the end of each turn, gain 6(9) [[champ:Counter]].
 |[[Skill]]
 |0
 |[crown_icon] [[champ:Technique]]
-Repeat this effect 2(4) times.
+Repeat this effect 2 (4) times.
 [[Exhaust]].
 |-
 |[[Skillful Dodge]]
@@ -481,21 +481,21 @@ Repeat this effect 2(4) times.
 |1
 |Gain 4 [[Block]].
 Gain 4 [[champ:Counter]].
-*Defensive champ:Combo: Increase this card's [[Block]] and [[champ:Counter]] by !cool! this combat.
+Defensive champ:Combo: Increase this card's [[Block]] and [[champ:Counter]] by 2 (4) this combat.
 |-
 |[[Vicious Mockery]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |0
-|*Berserker champ:Combo: Gain 3(5) temporary [[Strength]].
-*Defensive champ:Combo: Gain 3(5) temporary [[Dexterity]].
+|*Berserker champ:Combo: Gain 3 (5) temporary [[Strength]].
+Defensive champ:Combo: Gain 3 (5) temporary [[Dexterity]].
 |-
 |[[Cheap Shot]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
-|2(1)
+|2 (1)
 |Deal 5 damage.
 If the enemy is a Boss, deal damage two more times. If not, stun it.
 [[Exhaust]].
@@ -505,9 +505,9 @@ If the enemy is a Boss, deal damage two more times. If not, stun it.
 |Rare
 |[[Attack]]
 |1
-|Deal 10(13) damage. *Berserker champ:Combo:
+|Deal 10 (13) damage. Berserker champ:Combo:
 Gain [E].
-*Defensive champ:Combo: Gain [[Block]] equal to unblocked damage dealt.
+Defensive champ:Combo: Gain [[Block]] equal to unblocked damage dealt.
 |-
 |[[Dancing Master]]
 |[[File:|thumb|289x289px]]
@@ -521,7 +521,7 @@ Gain [E].
 |Rare
 |[[Attack]]
 |5
-|Deal 24(32) damage.
+|Deal 24 (32) damage.
 Costs 1 less [E] for each Finisher played this combat.
 [fist_icon] [[champ:Finisher]]
 |-
@@ -529,7 +529,7 @@ Costs 1 less [E] for each Finisher played this combat.
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|1(0)
+|1 (0)
 |Choose a card in hand. It costs 0 this combat.
 [[Exhaust]].
 |-
@@ -537,7 +537,7 @@ Costs 1 less [E] for each Finisher played this combat.
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|1(0)
+|1 (0)
 |Choose a card in hand. Increase its [[Block]] by 5 for this combat.
 [[Exhaust]].
 |-
@@ -545,31 +545,31 @@ Costs 1 less [E] for each Finisher played this combat.
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|1(0)
+|1 (0)
 |Choose a card in hand. Increase its damage by 5 for this combat. [[Exhaust]].
 |-
 |[[Gladiator Form]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
-|3(2)
-|Whenever you use a [[champ:Technique]] *Bonus, draw a card.
-Whenever you use a [[champ:Finisher]] *Bonus, gain [E] next turn.
+|3 (2)
+|Whenever you use a [[champ:Technique]] Bonus, draw a card.
+Whenever you use a [[champ:Finisher]] Bonus, gain [E] next turn.
 |-
 |[[Hold Firm]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
 |2
-|Gain 15(20) [[Block]].
-Gain 10(15) [[champ:Counter]].
+|Gain 15 (20) [[Block]].
+Gain 10 (15) [[champ:Counter]].
 Gain 1 [[bronze:Blur]].
 |-
 |[[Ignore Pain]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|3(2)
+|3 (2)
 |Your HP cannot be reduced until your next turn.
 [[Exhaust]].
 |-
@@ -577,7 +577,7 @@ Gain 1 [[bronze:Blur]].
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
-|2(1)
+|2 (1)
 |The first time you use a [[champ:Combo]] each turn, return it to your hand.
 It costs 0 until played.
 |-
@@ -585,7 +585,7 @@ It costs 0 until played.
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
-|1(0)
+|1 (0)
 |Can only be played if you're under 50% HP.
 Remove all debuffs.
 Gain 6 [[Strength]].
@@ -597,15 +597,15 @@ Gain 6 [[Strength]].
 |[[Attack]]
 |2
 |Deal 10 damage.
-Deals 1(2) additional damage for ALL your [[Upgraded]] cards.
+Deals 1 (2) additional damage for ALL your [[Upgraded]] cards.
 |-
 |[[Murder Strike]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
-|8(6)
+|8 (6)
 |[[Retain]].
-Deal 15(21) damage.
+Deal 15 (21) damage.
 When you use a [[champ:Technique]], this card costs 1 less and deals 3 more damage.
 [[Exhaust]].
 |-
@@ -614,17 +614,17 @@ When you use a [[champ:Technique]], this card costs 1 less and deals 3 more dama
 |Rare
 |[[Attack]]
 |1
-|Gain 9(13) [[Block]].
+|Gain 9 (13) [[Block]].
 Deal damage equal to your [[Block]].
-Unless *Defensive champ:Combo: You can't gain [[Block]] next turn.
+Unless Defensive champ:Combo: You can't gain [[Block]] next turn.
 |-
 |[[Steel Edge]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
 |X
-|*Berserker champ:Combo: Deal 9(12) damage X times.
-*Defensive champ:Combo: Gain 9(12) [[Block]] X times.
+|*Berserker champ:Combo: Deal 9 (12) damage X times.
+Defensive champ:Combo: Gain 9 (12) [[Block]] X times.
 |-
 |[[Strike of Genius]]
 |[[File:|thumb|289x289px]]
@@ -639,8 +639,8 @@ It costs 0 until played and gains [[Exhaust]].
 |Rare
 |[[Attack]]
 |1
-|Deal 8 damage 2(3) times.
-Unless *Berserker champ:Combo: You can't attack next turn.
+|Deal 8 damage 2 (3) times.
+Unless Berserker champ:Combo: You can't attack next turn.
 |-
 |[[Triple Strike]]
 |[[File:|thumb|289x289px]]
@@ -648,8 +648,8 @@ Unless *Berserker champ:Combo: You can't attack next turn.
 |[[Attack]]
 |2
 |[crown_icon] [[champ:Technique]]
-Deal 6(9) damage.
-Add 2 ([[Upgraded]]) *Strikes into your hand. They cost 0 and have [[champ:Technique]].
+Deal 6 (9) damage.
+Add 2 ([[Upgraded]]) Strikes into your hand. They cost 0 and have [[champ:Technique]].
 [[Exhaust]].
 |-
 |[[Ultimate Stance]]
@@ -658,6 +658,6 @@ Add 2 ([[Upgraded]]) *Strikes into your hand. They cost 0 and have [[champ:Techn
 |[[Skill]]
 |1
 |[crown_icon] [[champ:Technique]]
-Requires *Defensive or *Berserker.
-Enter [[champ:Ultimate]] [[Stance]] for 1 (1(2)) turn(s).
+Requires Defensive or Berserker.
+Enter [[champ:Ultimate]] [[Stance]] for 1 (!M!) turn(s).
 |-

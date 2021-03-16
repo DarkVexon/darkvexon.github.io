@@ -21,31 +21,31 @@
 |Basic
 |[[Skill]]
 |1
-|Gain 5(8) [[Block]].
+|Gain 5 (8) [[Block]].
 |-
 |[[Snek Bite]]
 |[[File:|thumb|289x289px]]
 |Basic
 |[[Attack]]
 |1
-|Deal 9(11) damage.
-[[sneckomod:Muddle]] the (1(2)) highest-cost card(s) in your hand.
+|Deal 9 (11) damage.
+[[sneckomod:Muddle]] the (!M!) highest-cost card(s) in your hand.
 |-
 |[[Strike]]
 |[[File:|thumb|289x289px]]
 |Basic
 |[[Attack]]
 |1
-|Deal 6(9) damage.
+|Deal 6 (9) damage.
 |-
 |[[Tail Whip]]
 |[[File:|thumb|289x289px]]
 |Basic
 |[[Attack]]
 |2
-|Deal 10(13) damage.
-Apply 0(1) - 2 [[Weak]].
-Apply 0(1) - 2 [[Vulnerable]].
+|Deal 10 (13) damage.
+Apply 0 (1) - 2 [[Weak]].
+Apply 0 (1) - 2 [[Vulnerable]].
 |-
 |[[???]]
 |[[File:|thumb|289x289px]]
@@ -74,13 +74,6 @@ Apply 0(1) - 2 [[Vulnerable]].
 |[[Attack]]
 |
 |*Unknown ([[Upgraded]]) Common Attack Card.
-|-
-|[[???]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Skill]]
-|
-|*Unknown ([[Upgraded]]) Character Card.
 |-
 |[[???]]
 |[[File:|thumb|289x289px]]
@@ -157,24 +150,24 @@ Apply 0(1) - 2 [[Vulnerable]].
 |Common
 |[[Skill]]
 |1
-|Gain 1 - 10(14) [[Block]].
-Maximum [[Block]] is increased by 1 for each *Unknown card you started combat with.
+|Gain 1 - 10 (14) [[Block]].
+Maximum [[Block]] is increased by 1 for each Unknown card you started combat with.
 |-
 |[[Dice Crush]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 1 - 10(14) damage.
-Maximum damage is increased by 1 for each *Unknown card you started combat with.
+|Deal 1 - 10 (14) damage.
+Maximum damage is increased by 1 for each Unknown card you started combat with.
 |-
 |[[Iron Fang]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal !qqq! - 7(9) damage.
-Gain 3 - 7(9) [[Block]].
+|Deal 3 - 7 (9) damage.
+Gain 3 - 7 (9) [[Block]].
 |-
 |[[Nope]]
 |[[File:|thumb|289x289px]]
@@ -192,23 +185,23 @@ Exhaust.)
 |Common
 |[[Skill]]
 |1
-|Gain 8(10) [[Block]].
-[[sneckomod:Muddle]] the (1(2)) highest-cost card(s) in your hand.
+|Gain 8 (10) [[Block]].
+[[sneckomod:Muddle]] the (!M!) highest-cost card(s) in your hand.
 |-
 |[[Rain of Dice]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal !qqq! - 4(5) damage to a random enemy 2 - 4(5) times.
+|Deal 2 - 4 (5) damage to a random enemy 2 - 4 (5) times.
 |-
 |[[Snake Rake]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 9(12) damage.
-Draw 0(1) - 2 cards.
+|Deal 9 (12) damage.
+Draw 0 (1) - 2 cards.
 [[sneckomod:Muddle]] the highest-cost card in your hand.
 |-
 |[[Soul Draw]]
@@ -217,7 +210,7 @@ Draw 0(1) - 2 cards.
 |[[Skill]]
 |1
 |[[sneckomod:Snekproof]].
-Draw 0 (1) - 4(5) cards.
+Draw 0 (1) - 4 (5) cards.
 |-
 |[[Soul Roll]]
 |[[File:|thumb|289x289px]]
@@ -232,7 +225,7 @@ Draw 0 (1) - 4(5) cards.
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
-|2(1)
+|2 (1)
 |Deal 7 - 12 damage to ALL enemies.
 [[Upgrade]] all [[sneckomod:Offclass]] cards in your hand.
 |-
@@ -340,14 +333,14 @@ Draw 0 (1) - 4(5) cards.
 |Uncommon
 |[[Skill]]
 |1
-|Gain 6(7) [[Block]], increased by 1(2) for each [[sneckomod:Offclass]] card in your hand.
+|Gain 6 (7) [[Block]], increased by 1 (2) for each [[sneckomod:Offclass]] card in your hand.
 |-
 |[[Dice Boulder]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |2
-|Deal 1(9) - 30(34) damage.
+|Deal 1 (9) - 30 (34) damage.
 Can be [[Upgraded]] any number of times.
 |-
 |[[Improvised Attack]]
@@ -355,7 +348,7 @@ Can be [[Upgraded]] any number of times.
 |Uncommon
 |[[Attack]]
 |1
-|Deal 8(11) damage.
+|Deal 8 (11) damage.
 Add a random [[sneckomod:Offclass]] Attack into your hand and [[sneckomod:Muddle]] it.
 |-
 |[[Improvised Guard]]
@@ -363,7 +356,7 @@ Add a random [[sneckomod:Offclass]] Attack into your hand and [[sneckomod:Muddle
 |Uncommon
 |[[Skill]]
 |1
-|Gain 7(10) [[Block]].
+|Gain 7 (10) [[Block]].
 Add a random [[sneckomod:Offclass]] Skill into your hand and [[sneckomod:Muddle]] it.
 |-
 |[[Master Eye]]
@@ -372,7 +365,7 @@ Add a random [[sneckomod:Offclass]] Skill into your hand and [[sneckomod:Muddle]
 |[[Power]]
 |1
 |Become [[Confused]].
-Draw 1(2) additional card(s) each turn.
+Draw 1 (2) additional card(s) each turn.
 |-
 |[[Memorize]]
 |[[File:|thumb|289x289px]]
@@ -380,15 +373,15 @@ Draw 1(2) additional card(s) each turn.
 |[[Skill]]
 |0
 |[[sneckomod:Snekproof]]. [[Fleeting]]. ([[Retain]].)
-Choose a card in hand which started *Unknown.
-Permanently add it to your deck, removing its *Unknown.
+Choose a card in hand which started Unknown.
+Permanently add it to your deck, removing its Unknown.
 |-
 |[[Mix It Up!]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |1
-|Deal 5(7) damage for each of your Potions.
+|Deal 5 (7) damage for each of your Potions.
 Lose your Potions and replace them with new ones.
 [[Exhaust]].
 |-
@@ -399,13 +392,13 @@ Lose your Potions and replace them with new ones.
 |0
 |[[sneckomod:Snekproof]].
 Discard all [[sneckomod:Offclass]] cards.
-Draw that many cards plus 1(2).
+Draw that many cards plus 1 (2).
 |-
 |[[Serpent Idol]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|1(0)
+|1 (0)
 |[[sneckomod:Snekproof]].
 Choose 1 of 3 random [[sneckomod:Offclass]] cards to add into your hand.
 It costs 0 this turn.
@@ -424,7 +417,7 @@ It costs 0 this turn.
 |Uncommon
 |[[Attack]]
 |1
-|Deal 9(12) damage.
+|Deal 9 (12) damage.
 Reduce the cost of [[sneckomod:Offclass]] cards in your hand by 1 this turn.
 |-
 |[[Snake Sap]]
@@ -433,8 +426,8 @@ Reduce the cost of [[sneckomod:Offclass]] cards in your hand by 1 this turn.
 |[[Attack]]
 |1
 |[[sneckomod:Snekproof]].
-Deal !qqq! - 3(4) damage.
-Gain 1 - 3(4) [E].
+Deal 1 - 3 (4) damage.
+Gain 1 - 3 (4) [E].
 [[Exhaust]].
 |-
 |[[Snek Beam]]
@@ -471,7 +464,7 @@ Exhaust.)
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
-|1(0)
+|1 (0)
 |At the start of each turn, add a random [[sneckomod:Offclass]] card to your hand and [[sneckomod:Muddle]] it.
 |-
 |[[???]]
@@ -524,14 +517,14 @@ Exhaust.)
 |Rare
 |[[Attack]]
 |2
-|Deal 9(12) damage.
+|Deal 9 (12) damage.
 Repeat this for each [[sneckomod:Offclass]] card in your hand, then [[Exhaust]] those cards.
 |-
 |[[Exotic Form]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
-|3(2)
+|3 (2)
 |Whenever you play a [[sneckomod:Offclass]] card, draw 1 card.
 |-
 |[[Glittering Gambit]]
@@ -540,15 +533,15 @@ Repeat this for each [[sneckomod:Offclass]] card in your hand, then [[Exhaust]] 
 |[[Skill]]
 |0
 |[[sneckomod:Snekproof]].
-Gain -10(0) - 30 *Gold.
+Gain -10 (0) - 30 Gold.
 [[Exhaust]].
 |-
 |[[More Power!]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
-|1(0)
-|Obtain an additional [[Upgraded]] *Unknown card reward at the end of combat.
+|1 (0)
+|Obtain an additional [[Upgraded]] Unknown card reward at the end of combat.
 |-
 |[[Mud Shield]]
 |[[File:|thumb|289x289px]]
@@ -562,7 +555,7 @@ Gain -10(0) - 30 *Gold.
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|1(0)
+|1 (0)
 |[[sneckomod:Snekproof]].
 Discard your hand.
 Draw 5-10 cards.
@@ -581,9 +574,9 @@ Draw 1 (2) card(s), then [[Exhaust]] 1 card.
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|1(0)
-|Lose a random Relic.
-Choose to gain it back, or obtain a random Relic at the same rarity at the end of combat.
+|1 (0)
+|Choose 1 of 2 Relics to lose.
+Obtain a random Relic of the same rarity.
 [[Exhaust]].
 |-
 |[[Unlimited Rolls]]
@@ -592,5 +585,5 @@ Choose to gain it back, or obtain a random Relic at the same rarity at the end o
 |[[Power]]
 |1
 |([[Innate]].)
- At the start of your turn, add a *Soul *Roll to your hand. It gains [[Ethereal]] and [[Exhaust]].
+ At the start of your turn, add a Soul Roll to your hand. It gains [[Ethereal]] and [[Exhaust]].
 |-

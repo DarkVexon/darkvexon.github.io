@@ -25,7 +25,6 @@
 | ![](slay-the-spire/creatures/Centurion.png) | Centurion |
 | ![](slay-the-spire/creatures/Chosen.png) | Chosen |
 | ![](slay-the-spire/creatures/CorruptHeart.png) | Corrupt Heart |
-| ![](downfall/creatures/Crowbot.png) | Crowbot |
 | ![](slay-the-spire/creatures/Cultist.png) | Cultist |
 | ![](slay-the-spire/creatures/Dagger.png) | Dagger |
 | ![](slay-the-spire/creatures/Darkling.png) | Darkling |

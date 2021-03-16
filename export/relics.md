@@ -15,7 +15,7 @@
 | ![](slay-the-spire/relics/AncientTeaSet.png) | Ancient Tea Set | Common |  | Whenever you enter a Rest Site, start the next combat with [E] [E] . | The key to a refreshing night's rest. |
 | ![](slay-the-spire/relics/ArtofWar.png) | Art of War | Common |  | If you do not play any #yAttacks during your turn, gain an additional [E] next turn. | This ancient manuscript contains wisdom from a past age. |
 | ![](downfall/relics/Guardian-PocketSentry.png) | Arumba's Pocket Sentry | Common |  | At the start of each turn, alternates between: NL Deal #b7 damage to a random enemy. NL Apply #b1 #yWeak to ALL enemies. | Sentry Mode active. Target acquired. No hard feelings. |
-| ![](downfall/relics/Guardian-DefensiveModeMoreBlock.png) | Baalor's Lordly Plate | Common | Guardian | Whenever you #yguardianmod:Brace, reduce Mode Shift's counter by 1. | One can never have enough armor. |
+| ![](downfall/relics/Guardian-DefensiveModeMoreBlock.png) | Baalor's Lordly Plate | Common | Guardian | Whenever you #yguardianmod:Brace, #yBrace 1 more. | One can never have enough armor. |
 | ![](slay-the-spire/relics/BagofMarbles.png) | Bag of Marbles | Common |  | At the start of each combat, apply #b1 #yVulnerable to ALL enemies. | A once popular toy in the City. Useful for throwing enemies off balance. |
 | ![](slay-the-spire/relics/BagofPreparation.png) | Bag of Preparation | Common |  | At the start of each combat, draw #b2 additional cards. | Oversized adventurer's pack. Has many pockets and straps. |
 | ![](downfall/relics/sneckomod-BlankCard.png) | Blank Card | Common |  | At the start of each combat, play a copy of a random card from your deck. | Card Mimic. |
@@ -187,6 +187,7 @@
 | ![](downfall/relics/champ-ChampStancesModRelic.png) | New Challenger | Special |  | Start each combat in a random Champ #yStance. | Can you take the crown? |
 | ![](slay-the-spire/relics/NilrysCodex.png) | Nilry's Codex | Special |  | At the end of your turn, you may shuffle #b1 of #b3 random cards into your draw pile. | Crafted by the infamous game master himself. Said to expand one's mind. |
 | ![](slay-the-spire/relics/OddMushroom.png) | Odd Mushroom | Special |  | When #yVulnerable, take #b25% more attack damage rather than #b50%. | "After consuming trichella parastius I felt larger and less... susceptible." - Ranwid |
+| ![](downfall/relics/bronze-AnalyticalCore.png) | Paradox Artifact | Special |  | At the start of each turn, add a random card with Encode to your hand and give it Ethereal. | You've never seen a coding frenzy like this before. |
 | ![](downfall/relics/Guardian-StasisEgg.png) | Quantum Chamber | Special | Guardian | Upon pickup, choose a card. Start each combat with this card removed from your deck. At the start of your #b4th turn, return it and #b2 copies of it to your hand. | You get the chicken by hatching the egg, not by smashing it. |
 | ![](slay-the-spire/relics/RedMask.png) | Red Mask | Special |  | At the start of each combat, apply #b1 #yWeak to ALL enemies. | This very stylish looking mask belongs to the leader of the Red Mask Bandits. Technically that makes you the leader now? |
 | ![](downfall/relics/HeartBlessingRed.png) | Ruby Heart Blessing | Special |  | Start each combat with #b1 #yStrength. | The heart is strong. The heart is pleased. |
@@ -214,7 +215,7 @@
 | ![](slay-the-spire/relics/EmptyCage.png) | Empty Cage | Boss |  | Upon pickup, remove #b2 cards from your deck. | "How unusual to cage that which you worship." - Ranwid |
 | ![](slay-the-spire/relics/FrozenCore.png) | Frozen Core | Boss | Blue | Replaces #bCracked #bCore. If you end your turn with any empty Orb slots, #yChannel #b1 #yFrost. | The crack in your core has been filled with a pulsating cold energy. |
 | ![](slay-the-spire/relics/FusionHammer.png) | Fusion Hammer | Boss |  | Gain [E] at the start of your turn. You can no longer #ySmith at Rest Sites. | Once wielded, the owner can never let go. |
-| ![](downfall/relics/Guardian-ModeShifterPlus.png) | Guardian Gear | Boss | Guardian | Replaces #rMode #rShifter. NL Begin each combat in #yguardianmod:Defensive_Mode, which persists for #b3 turns. | Replace every 3,000 floors. |
+| ![](downfall/relics/Guardian-ModeShifterPlus.png) | Guardian Gear | Boss | Guardian | Replaces #rBronze #rGear. NL Begin each combat in #yguardianmod:Defensive_Mode, which persists for #b3 turns. | Replace every 3,000 floors. |
 | ![](slay-the-spire/relics/HolyWater.png) | Holy Water | Boss | Purple | Replaces #pPure #pWater. At the start of each combat, add #b3 #yMiracles into your hand. | Collected from a time before the Spire. |
 | ![](slay-the-spire/relics/HoveringKite.png) | Hovering Kite | Boss | Green | The first time you discard a card each turn, gain [E] . | The Kite floats around you in battle, propelled by a mysterious force. |
 | ![](downfall/relics/sneckomod-SneckoTalon.png) | Idol of Retromation | Boss |  | At the start of your turn, reduce the cost of the most expensive card in your hand by #b1 for this turn. | Often called the Idol of Reto for short. |

@@ -14,13 +14,13 @@
 |Basic
 |[[Skill]]
 |1
-|Gain 5(8) [[Block]].
+|Gain 5 (8) [[Block]].
 |-
 |[[Dualcast]]
 |[[File:|thumb|289x289px]]
 |Basic
 |[[Skill]]
-|1(0)
+|1 (0)
 |[[Evoke]] your next Orb twice.
 |-
 |[[Strike]]
@@ -28,13 +28,13 @@
 |Basic
 |[[Attack]]
 |1
-|Deal 6(9) damage.
+|Deal 6 (9) damage.
 |-
 |[[Zap]]
 |[[File:|thumb|289x289px]]
 |Basic
 |[[Skill]]
-|1(0)
+|1 (0)
 |[[Channel]] 1 [[Lightning]].
 |-
 |[[Ball Lightning]]
@@ -42,29 +42,29 @@
 |Common
 |[[Attack]]
 |1
-|Deal 7(10) damage. [[Channel]] 1 [[Lightning]].
+|Deal 7 (10) damage. [[Channel]] 1 [[Lightning]].
 |-
 |[[Barrage]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 4(6) damage for each [[Channeled]] Orb.
+|Deal 4 (6) damage for each [[Channeled]] Orb.
 |-
 |[[Beam Cell]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |0
-|Deal 3(4) damage.
-Apply 1(2) [[Vulnerable]].
+|Deal 3 (4) damage.
+Apply 1 (2) [[Vulnerable]].
 |-
 |[[Charge Battery]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |1
-|Gain 7(10) [[Block]].
+|Gain 7 (10) [[Block]].
 Next turn, gain 1 [[Energy]].
 |-
 |[[Claw]]
@@ -72,7 +72,7 @@ Next turn, gain 1 [[Energy]].
 |Common
 |[[Attack]]
 |0
-|Deal 3(5) damage.
+|Deal 3 (5) damage.
 Increase the damage of ALL Claw cards by 2 this combat.
 |-
 |[[Cold Snap]]
@@ -80,14 +80,14 @@ Increase the damage of ALL Claw cards by 2 this combat.
 |Common
 |[[Attack]]
 |1
-|Deal 6(9) damage. [[Channel]] 1 [[Frost]].
+|Deal 6 (9) damage. [[Channel]] 1 [[Frost]].
 |-
 |[[Compile Driver]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 7(10) damage.
+|Deal 7 (10) damage.
 Draw 1 card for each unique Orb you have.
 |-
 |[[Coolheaded]]
@@ -96,22 +96,22 @@ Draw 1 card for each unique Orb you have.
 |[[Skill]]
 |1
 |[[Channel]] 1 [[Frost]].
-Draw 1(2) card(s).
+Draw 1 (2) card(s).
 |-
 |[[Go for the Eyes]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |0
-|Deal 3(4) damage.
-If the enemy intends to attack, apply 1(2) [[Weak]].
+|Deal 3 (4) damage.
+If the enemy intends to attack, apply 1 (2) [[Weak]].
 |-
 |[[Hologram]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |1
-|Gain 3(5) [[Block]].
+|Gain 3 (5) [[Block]].
 Put a card from your discard pile into your hand.
 [[Exhaust]]. (not
 Exhaust.)
@@ -121,21 +121,21 @@ Exhaust.)
 |Common
 |[[Skill]]
 |1
-|Gain 9(12) [[Block]].
+|Gain 9 (12) [[Block]].
 |-
 |[[Rebound]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 9(12) damage.
+|Deal 9 (12) damage.
 Put the next card you play this turn on top of your draw pile.
 |-
 |[[Recursion]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
-|1(0)
+|1 (0)
 |[[Evoke]] your next Orb.
 [[Channel]] the Orb that was just [[Evoked]].
 |-
@@ -151,14 +151,14 @@ Put the next card you play this turn on top of your draw pile.
 |Common
 |[[Skill]]
 |0
-|Gain 6(8) [[Block]]. Decrease this card's [[Block]] by 1 this combat.
+|Gain 6 (8) [[Block]]. Decrease this card's [[Block]] by 1 this combat.
 |-
 |[[Streamline]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |2
-|Deal 15(20) damage.
+|Deal 15 (20) damage.
 Reduce this card's cost by 1 this combat.
 |-
 |[[Sweeping Beam]]
@@ -166,7 +166,7 @@ Reduce this card's cost by 1 this combat.
 |Common
 |[[Attack]]
 |1
-|Deal 6(9) damage to ALL enemies.
+|Deal 6 (9) damage to ALL enemies.
 Draw 1 card.
 |-
 |[[TURBO]]
@@ -175,28 +175,28 @@ Draw 1 card.
 |[[Skill]]
 |0
 |Gain 2 (3) [[Energy]].
-Add a *Void into your discard pile.
+Add a Void into your discard pile.
 |-
 |[[Aggregate]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |1
-|Gain 1 [[Energy]] for every 4(3) cards in your draw pile.
+|Gain 1 [[Energy]] for every 4 (3) cards in your draw pile.
 |-
 |[[Auto-Shields]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |1
-|If you have no [[Block]], gain 11(15) [[Block]].
+|If you have no [[Block]], gain 11 (15) [[Block]].
 |-
 |[[Blizzard]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |1
-|Deal damage equal to 2(3) times the number of [[Frost]] [[Channeled]] this combat to ALL enemies.
+|Deal damage equal to 2 (3) times the number of [[Frost]] [[Channeled]] this combat to ALL enemies.
 |-
 |[[Boot Sequence]]
 |[[File:|thumb|289x289px]]
@@ -204,7 +204,7 @@ Add a *Void into your discard pile.
 |[[Skill]]
 |0
 |[[Innate]].
-Gain 10(13) [[Block]].
+Gain 10 (13) [[Block]].
 [[Exhaust]].
 |-
 |[[Bullseye]]
@@ -212,22 +212,22 @@ Gain 10(13) [[Block]].
 |Uncommon
 |[[Attack]]
 |1
-|Deal 8(11) damage.
-Apply 2(3) [[Lock-On]].
+|Deal 8 (11) damage.
+Apply 2 (3) [[Lock-On]].
 |-
 |[[Capacitor]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
 |1
-|Gain 2(3) Orb slots.
+|Gain 2 (3) Orb slots.
 |-
 |[[Chaos]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |1
-|[[Channel]] 1(2) random Orb(s).
+|[[Channel]] 1 (2) random Orb(s).
 |-
 |[[Chill]]
 |[[File:|thumb|289x289px]]
@@ -243,7 +243,7 @@ Apply 2(3) [[Lock-On]].
 |Uncommon
 |[[Skill]]
 |2
-|Gain 2(3) [[Focus]].
+|Gain 2 (3) [[Focus]].
 Lose 1 Orb slot.
 |-
 |[[Darkness]]
@@ -259,21 +259,21 @@ Lose 1 Orb slot.
 |Uncommon
 |[[Power]]
 |1
-|Gain 1(2) [[Focus]].
+|Gain 1 (2) [[Focus]].
 |-
 |[[Doom and Gloom]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |2
-|Deal 10(14) damage to ALL enemies.
+|Deal 10 (14) damage to ALL enemies.
 [[Channel]] 1 [[Dark]].
 |-
 |[[Double Energy]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|1(0)
+|1 (0)
 |Double your [[Energy]].
 [[Exhaust]].
 |-
@@ -282,7 +282,7 @@ Lose 1 Orb slot.
 |Uncommon
 |[[Skill]]
 |2
-|Gain 13(16) [[Block]].
+|Gain 13 (16) [[Block]].
 [[Retain]] your hand this turn.
 |-
 |[[FTL]]
@@ -290,7 +290,7 @@ Lose 1 Orb slot.
 |Uncommon
 |[[Attack]]
 |0
-|Deal 5(6) damage. If you have played less than 3(4) cards this turn, draw 1 card.
+|Deal 5 (6) damage. If you have played less than 3 (4) cards this turn, draw 1 card.
 |-
 |[[Force Field]]
 |[[File:|thumb|289x289px]]
@@ -298,13 +298,13 @@ Lose 1 Orb slot.
 |[[Skill]]
 |4
 |Costs 1 less 1 [[Energy]] for each Power card played this combat.
-Gain 12(16) [[Block]].
+Gain 12 (16) [[Block]].
 |-
 |[[Fusion]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|2(1)
+|2 (1)
 |[[Channel]] 1 [[Plasma]].
 |-
 |[[Genetic Algorithm]]
@@ -312,7 +312,7 @@ Gain 12(16) [[Block]].
 |Uncommon
 |[[Skill]]
 |1
-|Gain 1 [[Block]]. Permanently increase this card's [[Block]] by 2(3).
+|Gain 1 [[Block]]. Permanently increase this card's [[Block]] by 2 (3).
 [[Exhaust]].
 |-
 |[[Glacier]]
@@ -320,7 +320,7 @@ Gain 12(16) [[Block]].
 |Uncommon
 |[[Skill]]
 |2
-|Gain 7(10) [[Block]].
+|Gain 7 (10) [[Block]].
 [[Channel]] 2 [[Frost]].
 |-
 |[[Heatsinks]]
@@ -328,7 +328,7 @@ Gain 12(16) [[Block]].
 |Uncommon
 |[[Power]]
 |1
-|Whenever you play a Power card, draw 1(2) card(s).
+|Whenever you play a Power card, draw 1 (2) card(s).
 |-
 |[[Hello World]]
 |[[File:|thumb|289x289px]]
@@ -343,7 +343,7 @@ Gain 12(16) [[Block]].
 |Uncommon
 |[[Power]]
 |1
-|At the start of your turn, trigger the passive ability of your next Orb (1(2) times).
+|At the start of your turn, trigger the passive ability of your next Orb (!M! times).
 |-
 |[[Melter]]
 |[[File:|thumb|289x289px]]
@@ -351,21 +351,21 @@ Gain 12(16) [[Block]].
 |[[Attack]]
 |1
 |Remove all [[Block]] from the enemy.
-Deal 10(14) damage.
+Deal 10 (14) damage.
 |-
 |[[Overclock]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |0
-|Draw 2(3) cards.
-Add a *Burn into your discard pile.
+|Draw 2 (3) cards.
+Add a Burn into your discard pile.
 |-
 |[[Recycle]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|1(0)
+|1 (0)
 |[[Exhaust]] a card.
 Gain 1 [[Energy]] equal to its cost.
 |-
@@ -374,31 +374,31 @@ Gain 1 [[Energy]] equal to its cost.
 |Uncommon
 |[[Skill]]
 |X
-|Gain 7(9) [[Block]] X times.
+|Gain 7 (9) [[Block]] X times.
 |-
 |[[Reprogram]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |1
-|Lose 1(2) [[Focus]].
-Gain 1(2) [[Strength]].
-Gain 1(2) [[Dexterity]].
+|Lose 1 (2) [[Focus]].
+Gain 1 (2) [[Strength]].
+Gain 1 (2) [[Dexterity]].
 |-
 |[[Rip and Tear]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |1
-|Deal 7(9) damage to a random enemy twice.
+|Deal 7 (9) damage to a random enemy twice.
 |-
 |[[Scrape]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |1
-|Deal 7(10) damage.
-Draw 4(5) cards.
+|Deal 7 (10) damage.
+Draw 4 (5) cards.
 Discard all cards drawn this way that do not cost 0.
 |-
 |[[Self Repair]]
@@ -406,21 +406,21 @@ Discard all cards drawn this way that do not cost 0.
 |Uncommon
 |[[Power]]
 |1
-|At the end of combat, heal 7(10) HP.
+|At the end of combat, heal 7 (10) HP.
 |-
 |[[Skim]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |1
-|Draw 3(4) cards.
+|Draw 3 (4) cards.
 |-
 |[[Static Discharge]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
 |1
-|Whenever you receive unblocked attack damage, [[Channel]] 1(2) [[Lightning]].
+|Whenever you receive unblocked attack damage, [[Channel]] 1 (2) [[Lightning]].
 |-
 |[[Storm]]
 |[[File:|thumb|289x289px]]
@@ -435,7 +435,7 @@ Discard all cards drawn this way that do not cost 0.
 |Uncommon
 |[[Attack]]
 |3
-|Deal 24(32) damage.
+|Deal 24 (32) damage.
 If this kills an enemy, gain 3 [[Energy]].
 |-
 |[[Tempest]]
@@ -450,7 +450,7 @@ If this kills an enemy, gain 3 [[Energy]].
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|1(0)
+|1 (0)
 |Add a random Power card into your hand.
 It costs 0 this turn.
 [[Exhaust]].
@@ -460,7 +460,7 @@ It costs 0 this turn.
 |Rare
 |[[Attack]]
 |2
-|Deal 10(14) damage.
+|Deal 10 (14) damage.
 Put all cost 0 cards from your discard pile into your hand.
 |-
 |[[Amplify]]
@@ -468,14 +468,14 @@ Put all cost 0 cards from your discard pile into your hand.
 |Rare
 |[[Skill]]
 |1
-|This turn, your next (1(2)) Power card(s) is (are) played twice.
+|This turn, your next (!M!) Power card(s) is (are) played twice.
 |-
 |[[Biased Cognition]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
 |1
-|Gain 4(5) [[Focus]].
+|Gain 4 (5) [[Focus]].
 At the start of your turn, lose 1 [[Focus]].
 |-
 |[[Buffer]]
@@ -483,14 +483,14 @@ At the start of your turn, lose 1 [[Focus]].
 |Rare
 |[[Power]]
 |2
-|Prevent the next (1(2)) time(s) you would lose HP.
+|Prevent the next (!M!) time(s) you would lose HP.
 |-
 |[[Core Surge]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
 |1
-|Deal 11(15) damage.
+|Deal 11 (15) damage.
 Gain 1 [[Artifact]].
 [[Exhaust]].
 |-
@@ -498,7 +498,7 @@ Gain 1 [[Artifact]].
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
-|3(2)
+|3 (2)
 |At the start of your turn, add a random Power card into your hand.
 |-
 |[[Echo Form]]
@@ -516,7 +516,7 @@ The first card you play each turn is played twice.
 |[[Power]]
 |2
 |[[Lightning]] now hits ALL enemies.
-[[Channel]] 2(3) [[Lightning]].
+[[Channel]] 2 (3) [[Lightning]].
 |-
 |[[Fission]]
 |[[File:|thumb|289x289px]]
@@ -531,7 +531,7 @@ The first card you play each turn is played twice.
 |Rare
 |[[Attack]]
 |2
-|Deal 26(34) damage to ALL enemies.
+|Deal 26 (34) damage to ALL enemies.
 Lose 3 [[Focus]].
 |-
 |[[Machine Learning]]
@@ -547,7 +547,7 @@ Lose 3 [[Focus]].
 |Rare
 |[[Attack]]
 |5
-|Deal 24(30) damage.
+|Deal 24 (30) damage.
 [[Channel]] 3 [[Plasma]].
 |-
 |[[Multi-Cast]]
@@ -574,7 +574,7 @@ Exhaust.)
 |[[Skill]]
 |0
 |Shuffle ALL your cards into your draw pile.
-Draw 4(6) cards.
+Draw 4 (6) cards.
 [[Exhaust]].
 |-
 |[[Seek]]
@@ -582,7 +582,7 @@ Draw 4(6) cards.
 |Rare
 |[[Skill]]
 |0
-|Put 1(2) card(s) from your draw pile into your hand.
+|Put 1 (2) card(s) from your draw pile into your hand.
 [[Exhaust]].
 |-
 |[[Thunder Strike]]
@@ -590,5 +590,5 @@ Draw 4(6) cards.
 |Rare
 |[[Attack]]
 |3
-|Deal 7(9) damage to a random enemy for each [[Lightning]] [[Channeled]] this combat.
+|Deal 7 (9) damage to a random enemy for each [[Lightning]] [[Channeled]] this combat.
 |-

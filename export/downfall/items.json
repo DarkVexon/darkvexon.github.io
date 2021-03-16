@@ -1,10 +1,10 @@
 {
   "mod": {
     "name": "Downfall",
-    "version": "3.5",
+    "version": "2004",
     "authors": ["The Downfall Collab Team"],
     "credits": "",
-    "description": "This is Vex's Downfall compilation.",
+    "description": "Downfall Beta 2: Champy Style",
     "mts_version": "3.8.0",
     "sts_version": "2.0",
     "dependencies": ["basemod","stslib"],
@@ -32,16 +32,16 @@
       "color": "Colorless",
       "rarity": "Special",
       "type": "Skill",
-      "cost": "2",
-      "description": "Gain 15 Block.\nbronze:Insert random Status.\nbronze:Compile - bronze:Insert *Full *Release."
+      "cost": "1",
+      "description": "Gain 13 Block.\nbronze:Insert random Status.\nbronze:Encode.\nbronze:Compile - bronze:Insert Full Release."
     },
     {
       "name": "Beta Build+",
       "color": "Colorless",
       "rarity": "Special",
       "type": "Skill",
-      "cost": "2",
-      "description": "Gain 20 Block.\nbronze:Insert random Status.\nbronze:Compile - bronze:Insert *Full *Release."
+      "cost": "1",
+      "description": "Gain 18 Block.\nbronze:Insert random Status.\nbronze:Encode.\nbronze:Compile - bronze:Insert Full Release."
     },
     {
       "name": "Branch: Attack",
@@ -49,7 +49,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage."
+      "description": "Deal 9 damage.\nbronze:Encode."
     },
     {
       "name": "Branch: Attack+",
@@ -57,7 +57,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage."
+      "description": "Deal 11 damage.\nbronze:Encode."
     },
     {
       "name": "Branch: Block",
@@ -65,7 +65,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 8 Block."
+      "description": "Gain 8 Block.\nbronze:Encode."
     },
     {
       "name": "Branch: Block+",
@@ -73,7 +73,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 10 Block."
+      "description": "Gain 10 Block.\nbronze:Encode."
     },
     {
       "name": "Byte Shift",
@@ -97,7 +97,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Ethereal.\nDeal 6 damage.\nDamage is increased by 3 for each *Apparition in your exhaust pile.\nExhaust."
+      "description": "Ethereal.\nDeal 6 damage.\nDamage is increased by 3 for each Apparition in your exhaust pile.\nExhaust."
     },
     {
       "name": "Council's Justice+",
@@ -105,7 +105,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Ethereal.\nDeal 10 damage.\nDamage is increased by 4 for each *Apparition in your exhaust pile.\nExhaust."
+      "description": "Ethereal.\nDeal 10 damage.\nDamage is increased by 4 for each Apparition in your exhaust pile.\nExhaust."
     },
     {
       "name": "Dazing Pulse",
@@ -113,7 +113,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage.\nGain 5 Block\nbronze:Compile *Error - bronze:Insert 2 *Dazed."
+      "description": "Deal 5 damage.\nGain 5 Block\nbronze:Encode.\nbronze:Compile Error - bronze:Insert 2 Dazed."
     },
     {
       "name": "Dazing Pulse+",
@@ -121,7 +121,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage.\nGain 7 Block\nbronze:Compile *Error - bronze:Insert 2 *Dazed."
+      "description": "Deal 7 damage.\nGain 7 Block\nbronze:Encode.\nbronze:Compile Error - bronze:Insert 2 Dazed."
     },
     {
       "name": "Debug",
@@ -129,7 +129,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Remove all bronze:Compile *Error effects from the cards in the Sequence.\nExhaust."
+      "description": "Remove all bronze:Compile Error effects from the cards in the Sequence.\nExhaust."
     },
     {
       "name": "Debug+",
@@ -137,7 +137,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Remove all bronze:Compile *Error effects from the cards in the Sequence.\nExhaust."
+      "description": "Remove all bronze:Compile Error effects from the cards in the Sequence.\nExhaust."
     },
     {
       "name": "Decompile",
@@ -161,7 +161,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "1",
-      "description": "bronze:Insert a *Burn.\nbronze:Compile - ALL enemies lose 15 HP."
+      "description": "bronze:Insert a Burn.\nbronze:Encode.\nbronze:Compile - ALL enemies lose 15 HP."
     },
     {
       "name": "Explode+",
@@ -169,7 +169,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "1",
-      "description": "bronze:Insert a *Burn.\nbronze:Compile - ALL enemies lose 20 HP."
+      "description": "bronze:Insert a Burn.\nbronze:Encode.\nbronze:Compile - ALL enemies lose 20 HP."
     },
     {
       "name": "Finishing Strike",
@@ -193,7 +193,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage.\nGain 6 Block."
+      "description": "Deal 5 damage.\nGain 5 Block.\nbronze:Encode."
     },
     {
       "name": "Fragment+",
@@ -201,15 +201,15 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\nGain 8 Block."
+      "description": "Deal 7 damage.\nGain 7 Block.\nbronze:Encode."
     },
     {
       "name": "Full Release",
       "color": "Colorless",
       "rarity": "Special",
       "type": "Skill",
-      "cost": "3",
-      "description": "bronze:Compile - Function becomes a Power which activates its effects at the start of each turn."
+      "cost": "1",
+      "description": "bronze:Encode.\nbronze:Compile - Function becomes a Power which activates its effects at the start of each turn."
     },
     {
       "name": "Full Release+",
@@ -217,7 +217,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "bronze:Compile - Function becomes a Power which activates its effects at the start of each turn."
+      "description": "bronze:Encode.\nbronze:Compile - Function becomes a Power which activates its effects at the start of each turn."
     },
     {
       "name": "Knowing Skull",
@@ -241,7 +241,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nExhaust."
+      "description": "Apply 4 slimeboundmod:Goop.\nExhaust."
     },
     {
       "name": "Lick+",
@@ -249,7 +249,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nExhaust."
+      "description": "Apply 6 slimeboundmod:Goop.\nExhaust."
     },
     {
       "name": "Minor Beam",
@@ -257,7 +257,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 3 damage."
+      "description": "Deal 3 damage.\nbronze:Encode."
     },
     {
       "name": "Minor Beam+",
@@ -265,7 +265,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 4 damage."
+      "description": "Deal 4 damage.\nbronze:Encode."
     },
     {
       "name": "Orb Slam",
@@ -273,7 +273,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 2 damage !GuardianMulti! times.\nExhaust."
+      "description": "Deal 2 damage 2 times.\nExhaust."
     },
     {
       "name": "Orb Slam+",
@@ -281,7 +281,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 3 damage !GuardianMulti! times.\nExhaust."
+      "description": "Deal 3 damage 2 times.\nExhaust."
     },
     {
       "name": "Package: Ancients",
@@ -289,7 +289,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add an *Ancient *Attack, *Ancient *Power, and *Ancient *Construct to your hand.\nExhaust."
+      "description": "Add an Ancient Attack, Ancient Power, and Ancient Construct to your hand.\nExhaust."
     },
     {
       "name": "Package: Ancients+",
@@ -297,7 +297,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add an *Ancient *Attack, *Ancient *Power, and *Ancient *Construct to your hand and Upgrade them.\nExhaust."
+      "description": "Add an Ancient Attack, Ancient Power, and Ancient Construct to your hand and Upgrade them.\nExhaust."
     },
     {
       "name": "Package: Bronze",
@@ -305,7 +305,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Hyper *Beam, *Orb *Beam, and *Bronze *Armor to your hand.\nExhaust."
+      "description": "Add a Hyper Beam, Orb Beam, and Bronze Armor to your hand.\nExhaust."
     },
     {
       "name": "Package: Bronze+",
@@ -313,7 +313,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Hyper *Beam, *Orb *Beam, and *Bronze *Armor to your hand and Upgrade them.\nExhaust."
+      "description": "Add a Hyper Beam, Orb Beam, and Bronze Armor to your hand and Upgrade them.\nExhaust."
     },
     {
       "name": "Package: Defect",
@@ -321,7 +321,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Reroute, *Preprogram, and *Time *Capacitor to your hand.\nExhaust."
+      "description": "Add a Reroute, Preprogram, and Time Capacitor to your hand.\nExhaust."
     },
     {
       "name": "Package: Defect+",
@@ -329,7 +329,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Reroute, *Preprogram, and *Time *Capacitor to your hand and Upgrade them.\nExhaust."
+      "description": "Add a Reroute, Preprogram, and Time Capacitor to your hand and Upgrade them.\nExhaust."
     },
     {
       "name": "Package: Orbwalker",
@@ -337,7 +337,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add an *Orbwalk, *Walker *Claw, and *Incinerate to your hand.\nExhaust."
+      "description": "Add an Orbwalk, Walker Claw, and Incinerate to your hand.\nExhaust."
     },
     {
       "name": "Package: Orbwalker+",
@@ -345,7 +345,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add an *Orbwalk, *Walker *Claw, and *Incinerate to your hand and Upgrade them.\nExhaust."
+      "description": "Add an Orbwalk, Walker Claw, and Incinerate to your hand and Upgrade them.\nExhaust."
     },
     {
       "name": "Package: Sentry",
@@ -353,7 +353,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Sentry *Blast and two *Sentry *Waves to your hand and reduce their costs by 1 this combat.\nExhaust."
+      "description": "Add a Sentry Blast and two Sentry Waves to your hand.\nExhaust."
     },
     {
       "name": "Package: Sentry+",
@@ -361,7 +361,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Sentry *Blast+ and two *Sentry *Waves+ to your hand and reduce their costs by 1 this combat.\nExhaust."
+      "description": "Add a Sentry Blast+ and two Sentry Waves+ to your hand and Upgrade them.\nExhaust."
     },
     {
       "name": "Package: Shapes",
@@ -369,7 +369,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Time *Bomb, *Spiker *Protocol, and *Repulsor to your hand.\nExhaust."
+      "description": "Add a Time Bomb, Spiker Protocol, and Repulsor to your hand.\nExhaust."
     },
     {
       "name": "Package: Shapes+",
@@ -377,7 +377,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Time *Bomb, *Spiker *Protocol, and *Repulsor to your hand and Upgrade them.\nExhaust."
+      "description": "Add a Time Bomb, Spiker Protocol, and Repulsor to your hand and Upgrade them.\nExhaust."
     },
     {
       "name": "Package: Spheric",
@@ -385,7 +385,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Spheric *Shield, *Harden, and *Floating *Orbs to your hand.\nExhaust."
+      "description": "Add a Spheric Shield, Harden, and Floating Orbs to your hand.\nExhaust."
     },
     {
       "name": "Package: Spheric+",
@@ -393,7 +393,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Add a *Spheric *Shield, *Harden, and *Floating *Orbs to your hand and Upgrade them.\nExhaust."
+      "description": "Add a Spheric Shield, Harden, and Floating Orbs to your hand and Upgrade them.\nExhaust."
     },
     {
       "name": "Proto-Beam",
@@ -401,7 +401,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage 2 times.\nbronze:Compile - Gain 2 Strength and lose !bauto! Dexterity."
+      "description": "Deal 8 damage 2 times.\nbronze:Encode.\nbronze:Compile - Gain 2 Strength and lose 1 Dexterity."
     },
     {
       "name": "Proto-Beam+",
@@ -409,7 +409,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage 3 times.\nbronze:Compile - Gain 3 Strength and lose !bauto! Dexterity."
+      "description": "Deal 8 damage 3 times.\nbronze:Encode.\nbronze:Compile - Gain 3 Strength and lose 1 Dexterity."
     },
     {
       "name": "Proto-Shield",
@@ -417,7 +417,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 16 Block.\nbronze:Compile - Gain 4 Plated Armor and bronze:Insert !bauto! *Dazed."
+      "description": "Gain 16 Block.\nbronze:Encode.\nbronze:Compile - Gain 4 Plated Armor and bronze:Insert 2 Dazed."
     },
     {
       "name": "Proto-Shield+",
@@ -425,7 +425,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 16 Block.\nbronze:Compile - Gain 6 Plated Armor and bronze:Insert !bauto! *Dazed."
+      "description": "Gain 16 Block.\nbronze:Encode.\nbronze:Compile - Gain 6 Plated Armor and bronze:Insert 2 Dazed."
     },
     {
       "name": "SLIME CRUSH!!!",
@@ -449,7 +449,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Weak.\nPlace a *Sentry *Blast into guardianmod:Stasis.\nExhaust."
+      "description": "Apply 1 Weak.\nPlace a Sentry Blast into guardianmod:Stasis.\nExhaust."
     },
     {
       "name": "Sentry Wave+",
@@ -457,7 +457,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Weak.\nguardianmod:Brace 2.\nPlace a *Sentry *Blast+ into guardianmod:Stasis.\nExhaust."
+      "description": "Apply 1 Weak.\nguardianmod:Brace 2.\nPlace a Sentry Blast+ into guardianmod:Stasis.\nExhaust."
     },
     {
       "name": "Shadow Guise",
@@ -497,7 +497,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 3 damage.\nbronze:Compile - Gain 3 Thorns."
+      "description": "Deal 3 damage.\nbronze:Encode.\nbronze:Compile - Gain 3 Thorns."
     },
     {
       "name": "Spike+",
@@ -505,7 +505,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 4 damage.\nbronze:Compile - Gain 4 Thorns."
+      "description": "Deal 4 damage.\nbronze:Encode.\nbronze:Compile - Gain 4 Thorns."
     },
     {
       "name": "Aged",
@@ -553,7 +553,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nexpansioncontent:Boss - Ancients.\nGain 14 Block.\nNext turn, add a *Donu *Blast with Ethereal into your hand.\nExhaust."
+      "description": "Ethereal.\nexpansioncontent:Boss - Ancients.\nGain 14 Block.\nNext turn, add a Donu Blast with Ethereal into your hand.\nExhaust."
     },
     {
       "name": "Deca Shield+",
@@ -561,7 +561,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nexpansioncontent:Boss - Ancients.\nGain 18 Block.\nNext turn, add a *Donu *Blast+ with Ethereal into your hand.\nExhaust."
+      "description": "Ethereal.\nexpansioncontent:Boss - Ancients.\nGain 18 Block.\nNext turn, add a Donu Blast+ with Ethereal into your hand.\nExhaust."
     },
     {
       "name": "Automa-Beam",
@@ -617,7 +617,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "expansioncontent:Boss - Ancients.\nDeal 9 damage twice.\nNext turn, add a *Deca *Shield into your hand.\nExhaust."
+      "description": "expansioncontent:Boss - Ancients.\nDeal 9 damage twice.\nNext turn, add a Deca Shield into your hand.\nExhaust."
     },
     {
       "name": "Donu Blast+",
@@ -625,7 +625,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "expansioncontent:Boss - Ancients.\nDeal 12 damage twice.\nNext turn, add a *Deca *Shield+ into your hand.\nExhaust."
+      "description": "expansioncontent:Boss - Ancients.\nDeal 12 damage twice.\nNext turn, add a Deca Shield+ into your hand.\nExhaust."
     },
     {
       "name": "Guardian Whirl",
@@ -649,7 +649,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "2",
-      "description": "expansioncontent:Boss - Hexaghost.\nIn 6 turns, deal 6 damage to a random enemy 6 times."
+      "description": "expansioncontent:Boss - Hexaghost.\nIn 6 turns, deal 6 damage to a random enemy 6 times.\nScales with Strength."
     },
     {
       "name": "Hexaburn+",
@@ -657,7 +657,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "2",
-      "description": "expansioncontent:Boss - Hexaghost.\nIn 4 turns, deal 6 damage to a random enemy 6 times."
+      "description": "expansioncontent:Boss - Hexaghost.\nIn 4 turns, deal 6 damage to a random enemy 6 times.\nScales with Strength."
     },
     {
       "name": "Invincible",
@@ -809,7 +809,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply !burny! hexamod:Soulburn."
+      "description": "Apply 9 hexamod:Soulburn."
     },
     {
       "name": "Sear+",
@@ -817,7 +817,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply !burny! hexamod:Soulburn."
+      "description": "Apply 15 hexamod:Soulburn."
     },
     {
       "name": "Strike",
@@ -873,7 +873,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "If the enemy has hexamod:Soulburn, apply !burny! hexamod:Soulburn.\nApply !burny! hexamod:Soulburn."
+      "description": "If the enemy has hexamod:Soulburn, apply 7 hexamod:Soulburn.\nApply 7 hexamod:Soulburn."
     },
     {
       "name": "Burning Touch+",
@@ -881,7 +881,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "If the enemy has hexamod:Soulburn, apply !burny! hexamod:Soulburn.\nApply !burny! hexamod:Soulburn."
+      "description": "If the enemy has hexamod:Soulburn, apply 11 hexamod:Soulburn.\nApply 11 hexamod:Soulburn."
     },
     {
       "name": "Fast Forward",
@@ -905,7 +905,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage.\nApply !burny! hexamod:Soulburn."
+      "description": "Deal 5 damage.\nApply 5 hexamod:Soulburn."
     },
     {
       "name": "Firestarter+",
@@ -913,7 +913,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage.\nApply !burny! hexamod:Soulburn."
+      "description": "Deal 7 damage.\nApply 7 hexamod:Soulburn."
     },
     {
       "name": "Flames from Beyond",
@@ -921,7 +921,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "Unplayable.\nEthereal, hexamod:Afterlife.\nApply !burny! hexamod:Soulburn to ALL enemies."
+      "description": "Unplayable.\nEthereal, hexamod:Afterlife.\nApply 12 hexamod:Soulburn to ALL enemies."
     },
     {
       "name": "Flames from Beyond+",
@@ -929,7 +929,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "Unplayable.\nEthereal, hexamod:Afterlife.\nApply !burny! hexamod:Soulburn to ALL enemies."
+      "description": "Unplayable.\nEthereal, hexamod:Afterlife.\nApply 18 hexamod:Soulburn to ALL enemies."
     },
     {
       "name": "Ghost Lash",
@@ -1017,7 +1017,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nGain 14 Block.\nIf this card is Exhausted, add a *Shadow *Guise into your hand."
+      "description": "Ethereal.\nGain 14 Block.\nIf this card is Exhausted, add a Shadow Guise into your hand."
     },
     {
       "name": "Nightmare Guise+",
@@ -1025,7 +1025,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nGain 18 Block.\nIf this card is Exhausted, add a *Shadow *Guise+ to your hand."
+      "description": "Ethereal.\nGain 18 Block.\nIf this card is Exhausted, add a Shadow Guise+ to your hand."
     },
     {
       "name": "Nightmare Strike",
@@ -1033,7 +1033,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Ethereal.\nDeal 16 damage.\nIf this card is Exhausted, add a *Shadow *Strike into your hand."
+      "description": "Ethereal.\nDeal 16 damage.\nIf this card is Exhausted, add a Shadow Strike into your hand."
     },
     {
       "name": "Nightmare Strike+",
@@ -1041,7 +1041,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Ethereal.\nDeal 20 damage.\nIf this card is Exhausted, add a *Shadow *Strike+ to your hand."
+      "description": "Ethereal.\nDeal 20 damage.\nIf this card is Exhausted, add a Shadow Strike+ to your hand."
     },
     {
       "name": "Searing Strike",
@@ -1049,7 +1049,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Ethereal.\nDeal 10 damage.\nApply !burny! hexamod:Soulburn.\nIf this card is Exhausted, take 6 damage."
+      "description": "Ethereal.\nDeal 10 damage.\nApply 6 hexamod:Soulburn.\nIf this card is Exhausted, take 6 damage."
     },
     {
       "name": "Searing Strike+",
@@ -1057,7 +1057,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Ethereal.\nDeal 14 damage.\nApply !burny! hexamod:Soulburn.\nIf this card is Exhausted, take 6 damage."
+      "description": "Ethereal.\nDeal 14 damage.\nApply 9 hexamod:Soulburn.\nIf this card is Exhausted, take 6 damage."
     },
     {
       "name": "Shield of Night",
@@ -1193,7 +1193,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply !burny! hexamod:Soulburn.\nRepeat for each hexamod:Ignited Ghostflame."
+      "description": "Apply 5 hexamod:Soulburn.\nRepeat for each hexamod:Ignited Ghostflame."
     },
     {
       "name": "Charged Barrage+",
@@ -1201,7 +1201,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply !burny! hexamod:Soulburn.\nRepeat for each hexamod:Ignited Ghostflame."
+      "description": "Apply 7 hexamod:Soulburn.\nRepeat for each hexamod:Ignited Ghostflame."
     },
     {
       "name": "Devil's Dance",
@@ -1225,7 +1225,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Ethereal.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, apply !burny! hexamod:Soulburn. If not, deal 10 damage."
+      "description": "Ethereal.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, apply 15 hexamod:Soulburn. If not, deal 10 damage."
     },
     {
       "name": "Dynamic Blow+",
@@ -1233,7 +1233,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Ethereal.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, apply !burny! hexamod:Soulburn. If not, deal 13 damage."
+      "description": "Ethereal.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, apply 20 hexamod:Soulburn. If not, deal 13 damage."
     },
     {
       "name": "Eerie Expedition",
@@ -1305,7 +1305,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 12 Block.\nWhenever you are attacked this turn, apply !burny! hexamod:Soulburn to the attacker."
+      "description": "Gain 12 Block.\nWhenever you are attacked this turn, apply 4 hexamod:Soulburn to the attacker."
     },
     {
       "name": "Ghostflame Wall+",
@@ -1313,7 +1313,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 16 Block.\nWhenever you are attacked this turn, apply !burny! hexamod:Soulburn to the attacker."
+      "description": "Gain 16 Block.\nWhenever you are attacked this turn, apply 6 hexamod:Soulburn to the attacker."
     },
     {
       "name": "Haunted Hand",
@@ -1369,7 +1369,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 4 damage and apply !burny! hexamod:Soulburn to a random enemy 3 times."
+      "description": "Deal 4 damage and apply 4 hexamod:Soulburn to a random enemy 3 times."
     },
     {
       "name": "Incineration+",
@@ -1377,7 +1377,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 4 damage and apply !burny! hexamod:Soulburn to a random enemy 4 times."
+      "description": "Deal 4 damage and apply 4 hexamod:Soulburn to a random enemy 4 times."
     },
     {
       "name": "Incorporeal",
@@ -1401,7 +1401,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !burny! hexamod:Soulburn.\nThe next time the target's hexamod:Soulburn detonates, it affects ALL enemies.\nExhaust."
+      "description": "Apply 5 hexamod:Soulburn.\nThe next time the target's hexamod:Soulburn detonates, it affects ALL enemies.\nExhaust."
     },
     {
       "name": "Living Bomb+",
@@ -1409,7 +1409,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !burny! hexamod:Soulburn.\nThe next time the target's hexamod:Soulburn detonates, it affects ALL enemies."
+      "description": "Apply 5 hexamod:Soulburn.\nThe next time the target's hexamod:Soulburn detonates, it affects ALL enemies."
     },
     {
       "name": "Nightmare Vision",
@@ -1497,7 +1497,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "X",
-      "description": "Deal 7 damage and apply !burny! hexamod:Soulburn to a random enemy X times.\nIf X is 3 or more, apply 1 Weak and Vulnerable to ALL enemies."
+      "description": "Deal 7 damage and apply 7 hexamod:Soulburn to a random enemy X times.\nIf X is 3 or more, apply 1 Weak and Vulnerable to ALL enemies."
     },
     {
       "name": "Rain of Embers+",
@@ -1505,7 +1505,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "X",
-      "description": "Deal 8 damage and apply !burny! hexamod:Soulburn to a random enemy X times.\nIf X is 3 or more, apply 2 Weak and Vulnerable to ALL enemies."
+      "description": "Deal 8 damage and apply 8 hexamod:Soulburn to a random enemy X times.\nIf X is 3 or more, apply 2 Weak and Vulnerable to ALL enemies."
     },
     {
       "name": "Rewind",
@@ -1553,7 +1553,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !burny! hexamod:Soulburn.\nIf the hexamod:Active Ghostflame is hexamod:Ignited: hexamod:Extinguish it and return this card to your hand."
+      "description": "Apply 6 hexamod:Soulburn.\nIf the hexamod:Active Ghostflame is hexamod:Ignited: hexamod:Extinguish it and return this card to your hand."
     },
     {
       "name": "Spectral Spark+",
@@ -1561,7 +1561,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !burny! hexamod:Soulburn.\nIf the hexamod:Active Ghostflame is hexamod:Ignited: hexamod:Extinguish it and return this card to your hand."
+      "description": "Apply 9 hexamod:Soulburn.\nIf the hexamod:Active Ghostflame is hexamod:Ignited: hexamod:Extinguish it and return this card to your hand."
     },
     {
       "name": "Speedrunning",
@@ -1689,7 +1689,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage.\nhexamod:Force-Ignite the previous, then the *Active, then the next Ghostflames."
+      "description": "Deal 7 damage.\nhexamod:Force-Ignite the previous, then the Active, then the next Ghostflames."
     },
     {
       "name": "Gifts From Beyond",
@@ -1945,7 +1945,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw 1 card.\nbronze:Compile - Next turn, draw 1 card."
+      "description": "Draw 1 card.\nbronze:Encode.\nbronze:Compile - Next turn, draw 1 card."
     },
     {
       "name": "Goto+",
@@ -1953,7 +1953,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw 2 cards.\nbronze:Compile - Next turn, draw 2 cards."
+      "description": "Draw 2 cards.\nbronze:Encode.\nbronze:Compile - Next turn, draw 2 cards."
     },
     {
       "name": "Replicate",
@@ -1961,7 +1961,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 4 damage."
+      "description": "Deal 4 damage.\nbronze:Encode, then add a copy of this into your discard pile."
     },
     {
       "name": "Replicate+",
@@ -1969,7 +1969,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 6 damage."
+      "description": "Deal 6 damage.\nbronze:Encode, then add a copy of this into your discard pile."
     },
     {
       "name": "Strike",
@@ -2033,7 +2033,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Add 1 *Wound to your hand.\nbronze:Cycle each Status in your hand, dealing 7 damage for each."
+      "description": "Add 1 Wound to your hand.\nbronze:Cycle each Status in your hand, dealing 7 damage for each."
     },
     {
       "name": "Bug Barrage+",
@@ -2041,7 +2041,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Add 2 *Wounds to your hand.\nbronze:Cycle each Status in your hand, dealing 7 damage for each."
+      "description": "Add 2 Wounds to your hand.\nbronze:Cycle each Status in your hand, dealing 7 damage for each."
     },
     {
       "name": "Buggy Mess",
@@ -2049,7 +2049,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "bronze:Insert random Status.\nGain 1 [E] ."
+      "description": "bronze:Insert random Status.\nGain 1 [E] .\nbronze:Encode."
     },
     {
       "name": "Buggy Mess+",
@@ -2057,7 +2057,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "bronze:Insert random Status.\nGain 1 [E] ."
+      "description": "bronze:Insert random Status.\nGain 1 [E] .\nbronze:Encode."
     },
     {
       "name": "Constructor",
@@ -2065,7 +2065,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 5 Block. \u03C0\nWhen bronze:Encoded, if this is the first card, increase its Block by 5."
+      "description": "Gain 5 Block. \u03C0\nWhen bronze:Encoded, if this is the first card, increase its Block by 5.\nbronze:Encode."
     },
     {
       "name": "Constructor+",
@@ -2073,7 +2073,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 7 Block. \u03C0\nWhen bronze:Encoded, if this is the first card, increase its Block by 7."
+      "description": "Gain 7 Block. \u03C0\nWhen bronze:Encoded, if this is the first card, increase its Block by 7.\nbronze:Encode."
     },
     {
       "name": "Cut Through",
@@ -2081,7 +2081,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage.\nScry 2.\nbronze:Compile - Draw !bauto! card."
+      "description": "Deal 5 damage.\nScry 2.\nbronze:Encode.\nbronze:Compile - Draw 1 card."
     },
     {
       "name": "Cut Through+",
@@ -2089,7 +2089,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage.\nScry 3.\nbronze:Compile - Draw !bauto! card."
+      "description": "Deal 7 damage.\nScry 3.\nbronze:Encode.\nbronze:Compile - Draw 1 card."
     },
     {
       "name": "Delayed Guard",
@@ -2097,7 +2097,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Next turn, gain 7 Block."
+      "description": "Next turn, gain 7 Block.\nbronze:Encode."
     },
     {
       "name": "Delayed Guard+",
@@ -2105,7 +2105,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Next turn, gain 10 Block."
+      "description": "Next turn, gain 10 Block.\nbronze:Encode."
     },
     {
       "name": "Delayed Slice",
@@ -2113,7 +2113,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 3 damage.\nbronze:Compile - ALL enemies lose 6 HP."
+      "description": "Deal 3 damage.\nbronze:Encode.\nbronze:Compile - ALL enemies lose 6 HP."
     },
     {
       "name": "Delayed Slice+",
@@ -2121,7 +2121,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 4 damage.\nbronze:Compile - ALL enemies lose 10 HP."
+      "description": "Deal 4 damage.\nbronze:Encode.\nbronze:Compile - ALL enemies lose 10 HP."
     },
     {
       "name": "Deprecate",
@@ -2129,7 +2129,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Weak to ALL enemies.\nbronze:Compile *Error - Gain Weak."
+      "description": "Apply 1 Weak to ALL enemies.\nbronze:Encode.\nbronze:Compile Error - Gain Weak."
     },
     {
       "name": "Deprecate+",
@@ -2137,7 +2137,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 2 Weak to ALL enemies.\nbronze:Compile *Error - Gain Weak."
+      "description": "Apply 2 Weak to ALL enemies.\nbronze:Encode.\nbronze:Compile Error - Gain Weak."
     },
     {
       "name": "Fine Tuning",
@@ -2161,7 +2161,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 12 Block.\nbronze:Compile - Function gains Retain."
+      "description": "Gain 12 Block.\nbronze:Encode.\nbronze:Compile - Function gains Retain."
     },
     {
       "name": "Frontload+",
@@ -2169,7 +2169,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 16 Block.\nbronze:Compile - Function gains Retain."
+      "description": "Gain 16 Block.\nbronze:Encode.\nbronze:Compile - Function gains Retain."
     },
     {
       "name": "Invalidate",
@@ -2177,7 +2177,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Vulnerable to ALL enemies.\nbronze:Compile *Error - Gain Vulnerable."
+      "description": "Apply 1 Vulnerable to ALL enemies.\nbronze:Encode.\nbronze:Compile Error - Gain Vulnerable."
     },
     {
       "name": "Invalidate+",
@@ -2185,7 +2185,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 2 Vulnerable to ALL enemies.\nbronze:Compile *Error - Gain Vulnerable."
+      "description": "Apply 2 Vulnerable to ALL enemies.\nbronze:Encode.\nbronze:Compile Error - Gain Vulnerable."
     },
     {
       "name": "Iterate",
@@ -2193,7 +2193,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 2 damage 3 times."
+      "description": "Deal 2 damage 3 times.\nbronze:Encode."
     },
     {
       "name": "Iterate+",
@@ -2201,7 +2201,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 2 damage 4 times."
+      "description": "Deal 2 damage 4 times.\nbronze:Encode."
     },
     {
       "name": "Oil Spill",
@@ -2209,7 +2209,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 4 damage and apply 4 Poison.\nbronze:Compile *Error - bronze:Insert a *Slimed."
+      "description": "Deal 4 damage and apply 4 Poison.\nbronze:Encode.\nbronze:Compile Error - bronze:Insert a Slimed."
     },
     {
       "name": "Oil Spill+",
@@ -2217,7 +2217,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage and apply 5 Poison.\nbronze:Compile *Error - bronze:Insert a *Slimed."
+      "description": "Deal 5 damage and apply 5 Poison.\nbronze:Encode.\nbronze:Compile Error - bronze:Insert a Slimed."
     },
     {
       "name": "Overheat",
@@ -2225,7 +2225,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 18 damage.\nRemove the next bronze:Compile *Error you would bronze:Encode."
+      "description": "Deal 18 damage.\nRemove the next bronze:Compile Error you would bronze:Encode."
     },
     {
       "name": "Overheat+",
@@ -2233,7 +2233,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 24 damage.\nRemove the next bronze:Compile *Error you would bronze:Encode."
+      "description": "Deal 24 damage.\nRemove the next bronze:Compile Error you would bronze:Encode."
     },
     {
       "name": "Piercing Shot",
@@ -2241,7 +2241,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage to ALL enemies."
+      "description": "Deal 6 damage to ALL enemies.\nbronze:Encode."
     },
     {
       "name": "Piercing Shot+",
@@ -2249,7 +2249,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage to ALL enemies."
+      "description": "Deal 8 damage to ALL enemies.\nbronze:Encode."
     },
     {
       "name": "Separator",
@@ -2257,7 +2257,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage. \u03C0\nWhen bronze:Encoded, if this is not in the first or last slot, increase its damage by 6."
+      "description": "Deal 6 damage. \u03C0\nWhen bronze:Encoded, if this is not in the first or last slot, increase its damage by 6.\nbronze:Encode."
     },
     {
       "name": "Separator+",
@@ -2265,7 +2265,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage. \u03C0\nWhen bronze:Encoded, if this is not in the first or last slot, increase its damage by 8."
+      "description": "Deal 8 damage. \u03C0\nWhen bronze:Encoded, if this is not in the first or last slot, increase its damage by 8.\nbronze:Encode."
     },
     {
       "name": "Sticky Shield",
@@ -2273,7 +2273,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 11 Block.\nbronze:Insert a *Slimed."
+      "description": "Gain 11 Block.\nbronze:Insert a Slimed."
     },
     {
       "name": "Sticky Shield+",
@@ -2281,7 +2281,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 14 Block.\nbronze:Insert a *Slimed."
+      "description": "Gain 14 Block.\nbronze:Insert a Slimed."
     },
     {
       "name": "Turbo",
@@ -2289,7 +2289,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain [E] [E] .\nbronze:Insert a *Void."
+      "description": "Gain [E] [E] .\nAdd a Void into your discard pile."
     },
     {
       "name": "Turbo+",
@@ -2297,7 +2297,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nGain [E] [E] .\nbronze:Insert a *Void."
+      "description": "Gain [E] [E] [E].\nAdd a Void into your discard pile."
     },
     {
       "name": "Wild Beam",
@@ -2305,7 +2305,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\nbronze:Compile *Error - bronze:Insert a *Wound."
+      "description": "Deal 10 damage.\nbronze:Encode.\nbronze:Compile Error - bronze:Insert a Wound."
     },
     {
       "name": "Wild Beam+",
@@ -2313,7 +2313,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 13 damage.\nbronze:Compile *Error - bronze:Insert a *Wound."
+      "description": "Deal 13 damage.\nbronze:Encode.\nbronze:Compile Error - bronze:Insert a Wound."
     },
     {
       "name": "Allocate",
@@ -2337,7 +2337,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Innate.\n\u00A0 Deal 7 damage.\nbronze:Compile *Error - Function gains Exhaust."
+      "description": "Innate.\n\u00A0 Deal 7 damage.\nbronze:Encode.\nbronze:Compile Error - Function gains Exhaust."
     },
     {
       "name": "Backtrace+",
@@ -2345,23 +2345,23 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Innate.\n\u00A0 Deal 10 damage.\nbronze:Compile *Error - Function gains Exhaust."
+      "description": "Innate.\n\u00A0 Deal 10 damage.\nbronze:Encode.\nbronze:Compile Error - Function gains Exhaust."
     },
     {
       "name": "Blockchain",
       "color": "The_bronze_automaton",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "0",
-      "description": "Gain 1 bronze:Blur."
+      "cost": "1",
+      "description": "Gain 1 bronze:Blur.\nbronze:Encode."
     },
     {
       "name": "Blockchain+",
       "color": "The_bronze_automaton",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "0",
-      "description": "Gain 1 bronze:Blur.\nbronze:Compile - Gain 1 bronze:Blur."
+      "cost": "1",
+      "description": "Gain 1 bronze:Blur.\nbronze:Encode.\nbronze:Compile - Gain 1 bronze:Blur."
     },
     {
       "name": "Boost",
@@ -2369,7 +2369,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 8 Block.\nbronze:Compile - Gain 2 Strength."
+      "description": "Gain 8 Block.\nbronze:Encode.\nbronze:Compile - Gain 2 Strength."
     },
     {
       "name": "Boost+",
@@ -2377,7 +2377,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 8 Block.\nbronze:Compile - Gain 3 Strength."
+      "description": "Gain 8 Block.\nbronze:Encode.\nbronze:Compile - Gain 3 Strength."
     },
     {
       "name": "Bronze Armor",
@@ -2385,7 +2385,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain !bauto! Artifact.\nbronze:Compile *Error - ALL enemies gain 2 Artifact."
+      "description": "Gain 1 Artifact.\nbronze:Encode.\nbronze:Compile Error - ALL enemies gain 2 Artifact."
     },
     {
       "name": "Bronze Armor+",
@@ -2393,7 +2393,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain !bauto! Artifact.\nbronze:Compile *Error - ALL enemies gain 1 Artifact."
+      "description": "Gain 1 Artifact.\nbronze:Encode.\nbronze:Compile Error - ALL enemies gain 1 Artifact."
     },
     {
       "name": "Bronze Orb",
@@ -2433,7 +2433,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage.\nbronze:Compile - Increase this card's damage by 1 permanently."
+      "description": "Deal 6 damage.\nbronze:Encode.\nbronze:Compile - Increase this card's damage by 1 permanently."
     },
     {
       "name": "Cultist Strike+",
@@ -2441,7 +2441,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage.\nbronze:Compile - Increase this card's damage by 1 permanently."
+      "description": "Deal 9 damage.\nbronze:Encode.\nbronze:Compile - Increase this card's damage by 1 permanently."
     },
     {
       "name": "Dark Dash",
@@ -2449,7 +2449,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Gain 8 Block.\nDeal 8 damage.\nbronze:Compile *Error - bronze:Insert a *Void."
+      "description": "Gain 8 Block.\nDeal 8 damage.\nbronze:Encode.\nbronze:Compile Error - bronze:Insert a Void."
     },
     {
       "name": "Dark Dash+",
@@ -2457,7 +2457,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Gain 10 Block.\nDeal 10 damage.\nbronze:Compile *Error - bronze:Insert a *Void."
+      "description": "Gain 10 Block.\nDeal 10 damage.\nbronze:Encode.\nbronze:Compile Error - bronze:Insert a Void."
     },
     {
       "name": "Digital Carnage",
@@ -2465,7 +2465,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 20 damage.\nbronze:Compile *Error - Function is Ethereal."
+      "description": "Deal 20 damage.\nbronze:Encode.\nbronze:Compile Error - Function is Ethereal."
     },
     {
       "name": "Digital Carnage+",
@@ -2473,7 +2473,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 28 damage.\nbronze:Compile *Error - Function is Ethereal."
+      "description": "Deal 28 damage.\nbronze:Encode.\nbronze:Compile Error - Function is Ethereal."
     },
     {
       "name": "Flail",
@@ -2481,7 +2481,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 6 damage to ALL enemies !bauto! times.\nbronze:Compile - Gain 1 Artifact."
+      "description": "Deal 6 damage to ALL enemies 2 times.\nbronze:Encode.\nbronze:Compile - Gain 1 Artifact."
     },
     {
       "name": "Flail+",
@@ -2489,7 +2489,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 7 damage to ALL enemies !bauto! times.\nbronze:Compile - Gain 2 Artifact."
+      "description": "Deal 7 damage to ALL enemies 2 times.\nbronze:Encode.\nbronze:Compile - Gain 2 Artifact."
     },
     {
       "name": "Follow Through",
@@ -2545,7 +2545,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage.\nbronze:Compile - Gain 2 Dexterity."
+      "description": "Deal 8 damage.\nbronze:Encode.\nbronze:Compile - Gain 2 Dexterity."
     },
     {
       "name": "Fortify+",
@@ -2553,7 +2553,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage.\nbronze:Compile - Gain 3 Dexterity."
+      "description": "Deal 8 damage.\nbronze:Encode.\nbronze:Compile - Gain 3 Dexterity."
     },
     {
       "name": "Get Latest",
@@ -2577,7 +2577,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of each turn, add a *Minor *Beam to your hand."
+      "description": "At the start of each turn, add a Minor Beam to your hand."
     },
     {
       "name": "Infinite Beams+",
@@ -2585,7 +2585,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of each turn, add a *Minor *Beam+ to your hand."
+      "description": "At the start of each turn, add a Minor Beam+ to your hand."
     },
     {
       "name": "Invoke",
@@ -2593,7 +2593,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain 3 Block.\nbronze:Compile - Gain [E] equal to the total cost of cards in the Sequence."
+      "description": "Gain 3 Block.\nbronze:Encode.\nbronze:Compile - Gain [E] equal to the total cost of cards in the Sequence."
     },
     {
       "name": "Invoke+",
@@ -2601,7 +2601,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain 5 Block.\nbronze:Compile - Gain [E] equal to the total cost of cards in the Sequence."
+      "description": "Gain 5 Block.\nbronze:Encode.\nbronze:Compile - Gain [E] equal to the total cost of cards in the Sequence."
     },
     {
       "name": "It's a Feature",
@@ -2625,7 +2625,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Draw 3 cards.\nAt the start of each turn, draw 1 additional card and bronze:Insert 1 *Dazed."
+      "description": "Draw 3 cards.\nAt the start of each turn, draw 1 additional card and bronze:Insert 1 Dazed."
     },
     {
       "name": "Max Output+",
@@ -2633,7 +2633,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "0",
-      "description": "Draw 3 cards.\nAt the start of each turn, draw 1 additional card and bronze:Insert 1 *Dazed."
+      "description": "Draw 3 cards.\nAt the start of each turn, draw 1 additional card and bronze:Insert 1 Dazed."
     },
     {
       "name": "Merge Conflict",
@@ -2657,7 +2657,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 12 damage.\nGain 12 Block.\nbronze:Compile *Error - Function is Unplayable."
+      "description": "Deal 12 damage.\nGain 12 Block.\nbronze:Encode.\nbronze:Compile Error - Function is Unplayable."
     },
     {
       "name": "Null Pointer+",
@@ -2665,7 +2665,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 15 damage.\nGain 15 Block.\nbronze:Compile *Error - Function is Unplayable."
+      "description": "Deal 15 damage.\nGain 15 Block.\nbronze:Encode.\nbronze:Compile Error - Function is Unplayable."
     },
     {
       "name": "Optimize",
@@ -2705,7 +2705,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain !bauto! Strength.\nbronze:Compile *Error - ALL enemies gain 2 Strength."
+      "description": "Gain 1 Strength.\nbronze:Encode.\nbronze:Compile Error - ALL enemies gain 2 Strength."
     },
     {
       "name": "Philosophize+",
@@ -2713,7 +2713,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain !bauto! Strength.\nbronze:Compile *Error - ALL enemies gain 1 Strength."
+      "description": "Gain 1 Strength.\nbronze:Encode.\nbronze:Compile Error - ALL enemies gain 1 Strength."
     },
     {
       "name": "Refactor",
@@ -2737,7 +2737,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Block.\nbronze:Compile - Heal 7 HP."
+      "description": "Gain 4 Block.\nbronze:Encode.\nbronze:Compile - Heal 7 HP."
     },
     {
       "name": "Repair+",
@@ -2745,7 +2745,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Block.\nbronze:Compile - Heal 10 HP."
+      "description": "Gain 4 Block.\nbronze:Encode.\nbronze:Compile - Heal 10 HP."
     },
     {
       "name": "Repulsor",
@@ -2760,8 +2760,8 @@
       "color": "The_bronze_automaton",
       "rarity": "Uncommon",
       "type": "Power",
-      "cost": "2",
-      "description": "Innate.\nWhen you draw the first Status or Curse card each turn, Exhaust it and draw a card."
+      "cost": "1",
+      "description": "When you draw the first Status or Curse card each turn, Exhaust it and draw a card."
     },
     {
       "name": "Return",
@@ -2785,7 +2785,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 10 Block.\nbronze:Compile *Error - Gain 2 Frail."
+      "description": "Gain 10 Block.\nbronze:Encode.\nbronze:Compile Error - Gain 2 Frail."
     },
     {
       "name": "Safeguard+",
@@ -2793,7 +2793,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 13 Block.\nbronze:Compile *Error - Gain 2 Frail."
+      "description": "Gain 13 Block.\nbronze:Encode.\nbronze:Compile Error - Gain 2 Frail."
     },
     {
       "name": "Terminator",
@@ -2801,7 +2801,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "bronze:Compile - If this is the last card in the Sequence, Function gains 'Play this again'."
+      "description": "bronze:Encode.\nbronze:Compile - If this is the last card in the Sequence, Function gains 'Play this again'."
     },
     {
       "name": "Terminator+",
@@ -2809,7 +2809,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "bronze:Compile - If this is the last card in the Sequence, Function gains 'Play this again'."
+      "description": "bronze:Encode.\nbronze:Compile - If this is the last card in the Sequence, Function gains 'Play this again'."
     },
     {
       "name": "Assembly",
@@ -2817,7 +2817,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Scry 5.\nbronze:Encode all cards with bronze:Encode discarded.\nExhaust."
+      "description": "Scry 5.\nbronze:Encode all cards with bronze:Encode discarded in selected order.\nExhaust."
     },
     {
       "name": "Assembly+",
@@ -2825,7 +2825,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Scry 8.\nbronze:Encode all cards with bronze:Encode discarded.\nExhaust."
+      "description": "Scry 8.\nbronze:Encode all cards with bronze:Encode discarded in selected order.\nExhaust."
     },
     {
       "name": "Break",
@@ -2833,7 +2833,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 15 damage.\nbronze:Compile *Error - bronze:Insert 4 random Status cards."
+      "description": "Deal 15 damage.\nbronze:Encode.\nbronze:Compile Error - bronze:Insert 4 random Status cards."
     },
     {
       "name": "Break+",
@@ -2841,7 +2841,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 18 damage.\nbronze:Compile *Error - bronze:Insert 3 random Status cards."
+      "description": "Deal 18 damage.\nbronze:Encode.\nbronze:Compile Error - bronze:Insert 3 random Status cards."
     },
     {
       "name": "Burn Out",
@@ -2849,7 +2849,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 5 damage to a random enemy for ALL of your Status cards, then Exhaust them.\nbronze:Insert 3 *Burns."
+      "description": "Deal 5 damage to a random enemy for ALL of your Status cards, then Exhaust them.\nbronze:Insert 3 Burns."
     },
     {
       "name": "Burn Out+",
@@ -2857,7 +2857,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage to a random enemy for ALL of your Status cards, then Exhaust them.\nbronze:Insert 3 *Burns."
+      "description": "Deal 8 damage to a random enemy for ALL of your Status cards, then Exhaust them.\nbronze:Insert 3 Burns."
     },
     {
       "name": "Clean Code",
@@ -2865,7 +2865,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Remove all bronze:Compile *Error effects from cards in the Sequence.\nLasts for the next 3 Functions created."
+      "description": "Remove all bronze:Compile Error effects from cards in the Sequence.\nLasts for the next 3 Functions created."
     },
     {
       "name": "Clean Code+",
@@ -2873,7 +2873,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Remove all bronze:Compile *Error effects from cards in the Sequence.\nLasts for the next 4 Functions created."
+      "description": "Remove all bronze:Compile Error effects from cards in the Sequence.\nLasts for the next 4 Functions created."
     },
     {
       "name": "Dev Tools",
@@ -2881,7 +2881,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nChoose between *Debug, *Batch, *Decompile, and *Byte *Shift.\nExhaust."
+      "description": "Retain.\nChoose between Debug, Batch, Decompile, and Byte Shift.\nExhaust."
     },
     {
       "name": "Dev Tools+",
@@ -2889,23 +2889,23 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nChoose between *Debug, *Batch, *Decompile, and *Byte *Shift."
+      "description": "Retain.\nChoose between Debug, Batch, Decompile, and Byte Shift."
     },
     {
       "name": "Early Access",
       "color": "The_bronze_automaton",
       "rarity": "Rare",
       "type": "Attack",
-      "cost": "2",
-      "description": "Deal 15 damage.\nbronze:Insert random Status.\nbronze:Compile - bronze:Insert *Beta *Build."
+      "cost": "1",
+      "description": "Deal 13 damage.\nbronze:Insert random Status.\nbronze:Encode.\nbronze:Compile - bronze:Insert Beta Build."
     },
     {
       "name": "Early Access+",
       "color": "The_bronze_automaton",
       "rarity": "Rare",
       "type": "Attack",
-      "cost": "2",
-      "description": "Innate.\n\u00A0 Deal 15 damage.\nbronze:Insert random Status.\nbronze:Compile - bronze:Insert *Beta *Build."
+      "cost": "1",
+      "description": "Innate.\n\u00A0 Deal 13 damage.\nbronze:Insert random Status.\nbronze:Encode.\nbronze:Compile - bronze:Insert Beta Build."
     },
     {
       "name": "Find and Replace",
@@ -2929,7 +2929,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "bronze:Encode X copies of *Fragment.\nGain [E] .\nExhaust."
+      "description": "bronze:Encode X copies of Fragment.\nGain [E] .\nExhaust."
     },
     {
       "name": "Format+",
@@ -2937,7 +2937,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "bronze:Encode X+1 copies of *Fragment.\nGain [E] .\nExhaust."
+      "description": "bronze:Encode X+1 copies of Fragment.\nGain [E] .\nExhaust."
     },
     {
       "name": "HYPER BEAM",
@@ -2945,7 +2945,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "6",
-      "description": "Retain.\nDeal 45 damage to ALL enemies.\nPut 5 *Void on top of your draw pile.\nWhen Retained, lower its cost by 1 this combat."
+      "description": "Retain.\nDeal 45 damage to ALL enemies.\nPut 5 Void on top of your draw pile.\nWhen Retained, lower its cost by 1 this combat."
     },
     {
       "name": "HYPER BEAM+",
@@ -2953,7 +2953,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "5",
-      "description": "Retain.\nDeal 45 damage to ALL enemies.\nPut 5 *Void on top of your draw pile.\nWhen Retained, lower its cost by 1 this combat."
+      "description": "Retain.\nDeal 45 damage to ALL enemies.\nPut 5 Void on top of your draw pile.\nWhen Retained, lower its cost by 1 this combat."
     },
     {
       "name": "Hardcode",
@@ -2961,7 +2961,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": "Fleeting.\nThe next Function you create goes into your deck permanently instead of your hand."
+      "description": "Next time you create a Function, add it to your deck.\nRemove the cards used to create it (including this)."
     },
     {
       "name": "Hardcode+",
@@ -2969,7 +2969,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "0",
-      "description": "Fleeting.\nThe next Function you create goes into your deck permanently instead of your hand."
+      "description": "Next time you create a Function, add it to your deck.\nRemove the cards used to create it (including this)."
     },
     {
       "name": "Infinite Loop",
@@ -2977,7 +2977,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage.\nbronze:Compile - Add a copy of this into your hand and increase its damage by 2."
+      "description": "Deal 6 damage.\nbronze:Encode.\nbronze:Compile - Add a copy of this into your hand and increase its damage by 2."
     },
     {
       "name": "Infinite Loop+",
@@ -2985,7 +2985,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage.\nbronze:Compile - Add a copy of this into your hand and increase its damage by 3."
+      "description": "Deal 6 damage.\nbronze:Encode.\nbronze:Compile - Add a copy of this into your hand and increase its damage by 3."
     },
     {
       "name": "Library",
@@ -3025,7 +3025,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 6 damage 2 times.\nbronze:Compile - bronze:Encode 2 copies of *Strike."
+      "description": "Deal 6 damage 2 times.\nbronze:Encode.\nbronze:Compile - bronze:Encode 2 copies of Strike."
     },
     {
       "name": "Recursive Strike+",
@@ -3033,7 +3033,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 9 damage 2 times.\nbronze:Compile - bronze:Encode 2 copies of *Strike+."
+      "description": "Deal 9 damage 2 times.\nbronze:Encode.\nbronze:Compile - bronze:Encode 2 copies of Strike+."
     },
     {
       "name": "Sentient Form",
@@ -3121,7 +3121,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Retain.\nDeal 3 damage.\nTransform all cards in hand into *Minor *Beam.\nExhaust."
+      "description": "Retain.\nDeal 3 damage.\nTransform all cards in hand into Minor Beam.\nExhaust."
     },
     {
       "name": "Virus+",
@@ -3129,7 +3129,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Retain.\nDeal 4 damage.\nTransform all cards in hand into *Minor *Beam+.\nExhaust."
+      "description": "Retain.\nDeal 4 damage.\nTransform all cards in hand into Minor Beam+.\nExhaust."
     },
     {
       "name": "Corrosive Spit",
@@ -3137,7 +3137,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop."
+      "description": "Apply 6 slimeboundmod:Goop."
     },
     {
       "name": "Corrosive Spit+",
@@ -3145,7 +3145,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop."
+      "description": "Apply 6 slimeboundmod:Goop."
     },
     {
       "name": "Defend",
@@ -3201,7 +3201,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 12 damage and !SlimeboundSelfharm! damage to yourself."
+      "description": "Deal 12 damage and 3 damage to yourself."
     },
     {
       "name": "Tackle+",
@@ -3209,7 +3209,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 16 damage and !SlimeboundSelfharm! damage to yourself."
+      "description": "Deal 16 damage and 3 damage to yourself."
     },
     {
       "name": "Combo Tackle",
@@ -3217,7 +3217,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 12 damage and !SlimeboundSelfharm! damage to yourself.\nAdd a random slimeboundmod:Tackle card to your hand. It costs 0 this turn."
+      "description": "Deal 12 damage and 3 damage to yourself.\nAdd a random slimeboundmod:Tackle card to your hand. It costs 0 this turn."
     },
     {
       "name": "Combo Tackle+",
@@ -3225,7 +3225,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 15 damage and !SlimeboundSelfharm! damage to yourself.\nAdd a random Upgraded slimeboundmod:Tackle card to your hand. It costs 0 this turn."
+      "description": "Deal 15 damage and 3 damage to yourself.\nAdd a random Upgraded slimeboundmod:Tackle card to your hand. It costs 0 this turn."
     },
     {
       "name": "Goop Spray",
@@ -3233,7 +3233,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 5 Block.\nApply !SlimeboundSlimed! slimeboundmod:Goop and 1 Weak to ALL enemies."
+      "description": "Gain 5 Block.\nApply 5 slimeboundmod:Goop and 1 Weak to ALL enemies."
     },
     {
       "name": "Goop Spray+",
@@ -3241,7 +3241,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Block.\nApply !SlimeboundSlimed! slimeboundmod:Goop and 2 Weak to ALL enemies."
+      "description": "Gain 6 Block.\nApply 6 slimeboundmod:Goop and 2 Weak to ALL enemies."
     },
     {
       "name": "Haunting Lick",
@@ -3249,7 +3249,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Vulnerable and !SlimeboundSlimed! slimeboundmod:Goop.\nExhaust."
+      "description": "Apply 1 Vulnerable and 4 slimeboundmod:Goop.\nExhaust."
     },
     {
       "name": "Haunting Lick+",
@@ -3257,7 +3257,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Vulnerable and !SlimeboundSlimed! slimeboundmod:Goop.\nDraw a card.\nExhaust."
+      "description": "Apply 1 Vulnerable and 4 slimeboundmod:Goop.\nDraw a card.\nExhaust."
     },
     {
       "name": "It Looks Tasty",
@@ -3265,7 +3265,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage. slimeboundmod:Consume - Add a *Lick to your hand."
+      "description": "Deal 8 damage. slimeboundmod:Consume - Add a Lick to your hand."
     },
     {
       "name": "It Looks Tasty+",
@@ -3273,7 +3273,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage. slimeboundmod:Consume - Add a *Lick+ to your hand."
+      "description": "Deal 10 damage. slimeboundmod:Consume - Add a Lick+ to your hand."
     },
     {
       "name": "Leech Energy",
@@ -3313,7 +3313,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 12 Block.\nApply !SlimeboundSlimed! slimeboundmod:Goop to attackers this turn."
+      "description": "Gain 12 Block.\nApply 4 slimeboundmod:Goop to attackers this turn."
     },
     {
       "name": "Living Wall+",
@@ -3321,7 +3321,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 15 Block.\nApply !SlimeboundSlimed! slimeboundmod:Goop to attackers this turn."
+      "description": "Gain 15 Block.\nApply 6 slimeboundmod:Goop to attackers this turn."
     },
     {
       "name": "Opening Tackle",
@@ -3329,7 +3329,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage and !SlimeboundSelfharm! damage to yourself. slimeboundmod:Consume - Apply 2 Vulnerable."
+      "description": "Deal 11 damage and 3 damage to yourself. slimeboundmod:Consume - Apply 2 Vulnerable."
     },
     {
       "name": "Opening Tackle+",
@@ -3337,7 +3337,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 14 damage and !SlimeboundSelfharm! damage to yourself. slimeboundmod:Consume - Apply 3 Vulnerable."
+      "description": "Deal 14 damage and 3 damage to yourself. slimeboundmod:Consume - Apply 3 Vulnerable."
     },
     {
       "name": "Prepare",
@@ -3393,7 +3393,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nGain 4 Block.\nExhaust."
+      "description": "Apply 4 slimeboundmod:Goop.\nGain 4 Block.\nExhaust."
     },
     {
       "name": "Sampling Lick+",
@@ -3401,7 +3401,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nGain 4 Block.\nDraw a card.\nExhaust."
+      "description": "Apply 4 slimeboundmod:Goop.\nGain 4 Block.\nDraw a card.\nExhaust."
     },
     {
       "name": "Schlurp",
@@ -3409,7 +3409,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Block.\nAdd 2 *Licks to your hand."
+      "description": "Gain 6 Block.\nAdd 2 Licks to your hand."
     },
     {
       "name": "Schlurp+",
@@ -3417,7 +3417,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Block.\nAdd 3 *Licks to your hand."
+      "description": "Gain 6 Block.\nAdd 3 Licks to your hand."
     },
     {
       "name": "Slime Spikes",
@@ -3441,7 +3441,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage and !SlimeboundSelfharm! damage to yourself.\nDraw 2 cards."
+      "description": "Deal 11 damage and 3 damage to yourself.\nDraw 2 cards."
     },
     {
       "name": "Spear Tackle+",
@@ -3449,7 +3449,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 13 damage and !SlimeboundSelfharm! damage to yourself.\nDraw 3 cards."
+      "description": "Deal 13 damage and 3 damage to yourself.\nDraw 3 cards."
     },
     {
       "name": "Split: Bruiser",
@@ -3553,7 +3553,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Draw a card, then Exhaust a card in your hand. Add a number of *Licks to your hand equal to it's cost.\nExhaust."
+      "description": "Draw a card, then Exhaust a card in your hand. Add a number of Licks to your hand equal to its cost.\nExhaust."
     },
     {
       "name": "Dissolve+",
@@ -3561,7 +3561,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Draw a card, then Exhaust a card in your hand. Add a number of *Licks to your hand equal to it's cost plus 1.\nExhaust."
+      "description": "Draw a card, then Exhaust a card in your hand. Add a number of Licks to your hand equal to its cost plus 1.\nExhaust."
     },
     {
       "name": "Divide & Conquer",
@@ -3585,7 +3585,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nAdd a *Lick to your hand.\nExhaust."
+      "description": "Apply 4 slimeboundmod:Goop.\nAdd a Lick to your hand.\nExhaust."
     },
     {
       "name": "Double Lick+",
@@ -3593,7 +3593,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nAdd a *Lick to your hand.\nDraw a card.\nExhaust."
+      "description": "Apply 4 slimeboundmod:Goop.\nAdd a Lick to your hand.\nDraw a card.\nExhaust."
     },
     {
       "name": "Equalize",
@@ -3617,7 +3617,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 16 damage and !SlimeboundSelfharm! damage to yourself.\nslimeboundmod:Tackles deal 3 more damage this combat."
+      "description": "Deal 16 damage and 3 damage to yourself.\nslimeboundmod:Tackles deal 3 more damage this combat."
     },
     {
       "name": "Flame Tackle+",
@@ -3625,7 +3625,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 19 damage and !SlimeboundSelfharm! damage to yourself.\nslimeboundmod:Tackles deal 4 more damage this combat."
+      "description": "Deal 19 damage and 3 damage to yourself.\nslimeboundmod:Tackles deal 4 more damage this combat."
     },
     {
       "name": "Forward Tackle",
@@ -3633,7 +3633,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 15 damage and !SlimeboundSelfharm! damage to yourself.\nslimeboundmod:Command twice."
+      "description": "Deal 15 damage and 3 damage to yourself.\nslimeboundmod:Command twice."
     },
     {
       "name": "Forward Tackle+",
@@ -3641,7 +3641,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 17 damage and !SlimeboundSelfharm! damage to yourself.\nslimeboundmod:Command three times."
+      "description": "Deal 17 damage and 3 damage to yourself.\nslimeboundmod:Command three times."
     },
     {
       "name": "Gluttony",
@@ -3649,7 +3649,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "The first time you slimeboundmod:Consume each turn, add a *Lick to your hand."
+      "description": "The first time you slimeboundmod:Consume each turn, add a Lick to your hand."
     },
     {
       "name": "Gluttony+",
@@ -3657,7 +3657,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Innate.\nThe first time you slimeboundmod:Consume each turn, add a *Lick to your hand."
+      "description": "Innate.\nThe first time you slimeboundmod:Consume each turn, add a Lick to your hand."
     },
     {
       "name": "Goop Armor",
@@ -3713,7 +3713,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage and !SlimeboundSelfharm! damage to yourself.\nReturn a random 0-cost Exhausted card to your hand."
+      "description": "Deal 10 damage and 3 damage to yourself.\nReturn a random 0-cost Exhausted card to your hand."
     },
     {
       "name": "Hungry Tackle+",
@@ -3721,7 +3721,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 14 damage and !SlimeboundSelfharm! damage to yourself.\nReturn a random 0-cost Exhausted card to your hand."
+      "description": "Deal 14 damage and 3 damage to yourself.\nReturn a random 0-cost Exhausted card to your hand."
     },
     {
       "name": "Lead By Example",
@@ -3761,7 +3761,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Weak and !SlimeboundSlimed! slimeboundmod:Goop to ALL enemies.\nExhaust."
+      "description": "Apply 1 Weak and 4 slimeboundmod:Goop to ALL enemies.\nExhaust."
     },
     {
       "name": "Mega-Lick+",
@@ -3769,7 +3769,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 1 Weak and !SlimeboundSlimed! slimeboundmod:Goop to ALL enemies.\nDraw a card.\nExhaust."
+      "description": "Apply 1 Weak and 4 slimeboundmod:Goop to ALL enemies.\nDraw a card.\nExhaust."
     },
     {
       "name": "Nibble",
@@ -3825,7 +3825,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop to a random enemy 4 times."
+      "description": "Apply 3 slimeboundmod:Goop to a random enemy 4 times."
     },
     {
       "name": "Rain of Goop+",
@@ -3833,7 +3833,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop to a random enemy 6 times."
+      "description": "Apply 3 slimeboundmod:Goop to a random enemy 6 times."
     },
     {
       "name": "Recklessness",
@@ -4017,7 +4017,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 16 damage and !SlimeboundSelfharm! damage to yourself. This gains twice the damage bonus from slimeboundmod:Goop."
+      "description": "Deal 16 damage and 3 damage to yourself. This gains twice the damage bonus from slimeboundmod:Goop."
     },
     {
       "name": "Vicious Tackle+",
@@ -4025,7 +4025,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 20 damage and !SlimeboundSelfharm! damage to yourself. This gains twice the damage bonus from slimeboundmod:Goop."
+      "description": "Deal 20 damage and 3 damage to yourself. This gains twice the damage bonus from slimeboundmod:Goop."
     },
     {
       "name": "Consult Playbook",
@@ -4065,7 +4065,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nThe next Attack used on this enemy does not remove slimeboundmod:Goop."
+      "description": "Apply 14 slimeboundmod:Goop.\nThe next Attack used on this enemy does not remove slimeboundmod:Goop."
     },
     {
       "name": "Douse in Slime+",
@@ -4073,7 +4073,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Apply !SlimeboundSlimed! slimeboundmod:Goop.\nThe next Attack used on this enemy does not remove slimeboundmod:Goop."
+      "description": "Apply 14 slimeboundmod:Goop.\nThe next Attack used on this enemy does not remove slimeboundmod:Goop."
     },
     {
       "name": "Duplicated Form",
@@ -4473,14 +4473,6 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown Character Card."
-    },
-    {
-      "name": "???",
-      "color": "Snecko_cyan",
-      "rarity": "Common",
-      "type": "Skill",
-      "cost": "",
       "description": "*Unknown Block Card."
     },
     {
@@ -4593,14 +4585,6 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
-      "description": "*Unknown Upgraded  Character Card."
-    },
-    {
-      "name": "???+",
-      "color": "Snecko_cyan",
-      "rarity": "Common",
-      "type": "Skill",
-      "cost": "",
       "description": "*Unknown Upgraded  Block Card."
     },
     {
@@ -4673,7 +4657,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 1 - 10 Block.\nMaximum Block is increased by 1 for each *Unknown card you started combat with."
+      "description": "Gain 1 - 10 Block.\nMaximum Block is increased by 1 for each Unknown card you started combat with."
     },
     {
       "name": "Dice Block+",
@@ -4681,7 +4665,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 1 - 14 Block.\nMaximum Block is increased by 1 for each *Unknown card you started combat with."
+      "description": "Gain 1 - 14 Block.\nMaximum Block is increased by 1 for each Unknown card you started combat with."
     },
     {
       "name": "Dice Crush",
@@ -4689,7 +4673,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 1 - 10 damage.\nMaximum damage is increased by 1 for each *Unknown card you started combat with."
+      "description": "Deal 1 - 10 damage.\nMaximum damage is increased by 1 for each Unknown card you started combat with."
     },
     {
       "name": "Dice Crush+",
@@ -4697,7 +4681,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 1 - 14 damage.\nMaximum damage is increased by 1 for each *Unknown card you started combat with."
+      "description": "Deal 1 - 14 damage.\nMaximum damage is increased by 1 for each Unknown card you started combat with."
     },
     {
       "name": "Iron Fang",
@@ -4705,7 +4689,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal !qqq! - 7 damage.\nGain 3 - 7 Block."
+      "description": "Deal 3 - 7 damage.\nGain 3 - 7 Block."
     },
     {
       "name": "Iron Fang+",
@@ -4713,7 +4697,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal !qqq! - 9 damage.\nGain 3 - 9 Block."
+      "description": "Deal 3 - 9 damage.\nGain 3 - 9 Block."
     },
     {
       "name": "Nope",
@@ -4753,7 +4737,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal !qqq! - 4 damage to a random enemy 2 - 4 times."
+      "description": "Deal 2 - 4 damage to a random enemy 2 - 4 times."
     },
     {
       "name": "Rain of Dice+",
@@ -4761,7 +4745,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal !qqq! - 5 damage to a random enemy 2 - 5 times."
+      "description": "Deal 2 - 5 damage to a random enemy 2 - 5 times."
     },
     {
       "name": "Snake Rake",
@@ -5084,6 +5068,70 @@
       "description": "Deal 9 - 34 damage.\nCan be Upgraded any number of times."
     },
     {
+      "name": "Dice Boulder+2",
+      "color": "Snecko_cyan",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 17 - 38 damage.\nCan be Upgraded any number of times."
+    },
+    {
+      "name": "Dice Boulder+3",
+      "color": "Snecko_cyan",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 25 - 42 damage.\nCan be Upgraded any number of times."
+    },
+    {
+      "name": "Dice Boulder+4",
+      "color": "Snecko_cyan",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 33 - 46 damage.\nCan be Upgraded any number of times."
+    },
+    {
+      "name": "Dice Boulder+5",
+      "color": "Snecko_cyan",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 41 - 50 damage.\nCan be Upgraded any number of times."
+    },
+    {
+      "name": "Dice Boulder+6",
+      "color": "Snecko_cyan",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 49 - 54 damage.\nCan be Upgraded any number of times."
+    },
+    {
+      "name": "Dice Boulder+7",
+      "color": "Snecko_cyan",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 57 - 58 damage.\nCan be Upgraded any number of times."
+    },
+    {
+      "name": "Dice Boulder+8",
+      "color": "Snecko_cyan",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 62 - 62 damage.\nCan be Upgraded any number of times."
+    },
+    {
+      "name": "Dice Boulder+9",
+      "color": "Snecko_cyan",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 66 - 66 damage.\nCan be Upgraded any number of times."
+    },
+    {
       "name": "Improvised Attack",
       "color": "Snecko_cyan",
       "rarity": "Uncommon",
@@ -5137,7 +5185,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof. Fleeting.\nChoose a card in hand which started *Unknown.\nPermanently add it to your deck, removing its *Unknown."
+      "description": "sneckomod:Snekproof. Fleeting.\nChoose a card in hand which started Unknown.\nPermanently add it to your deck, removing its Unknown."
     },
     {
       "name": "Memorize+",
@@ -5145,7 +5193,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof. Fleeting. Retain.\nChoose a card in hand which started *Unknown.\nPermanently add it to your deck, removing its *Unknown."
+      "description": "sneckomod:Snekproof. Fleeting. Retain.\nChoose a card in hand which started Unknown.\nPermanently add it to your deck, removing its Unknown."
     },
     {
       "name": "Mix It Up!",
@@ -5233,7 +5281,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "sneckomod:Snekproof.\nDeal !qqq! - 3 damage.\nGain 1 - 3 [E] .\nExhaust."
+      "description": "sneckomod:Snekproof.\nDeal 1 - 3 damage.\nGain 1 - 3 [E] .\nExhaust."
     },
     {
       "name": "Snake Sap+",
@@ -5241,7 +5289,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "sneckomod:Snekproof.\nDeal !qqq! - 4 damage.\nGain 1 - 4 [E] .\nExhaust."
+      "description": "sneckomod:Snekproof.\nDeal 1 - 4 damage.\nGain 1 - 4 [E] .\nExhaust."
     },
     {
       "name": "Snek Beam",
@@ -5441,7 +5489,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof.\nGain -10 - 30 *Gold.\nExhaust."
+      "description": "sneckomod:Snekproof.\nGain -10 - 30 Gold.\nExhaust."
     },
     {
       "name": "Glittering Gambit+",
@@ -5449,7 +5497,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "sneckomod:Snekproof.\nGain 0 - 30 *Gold.\nExhaust."
+      "description": "sneckomod:Snekproof.\nGain 0 - 30 Gold.\nExhaust."
     },
     {
       "name": "More Power!",
@@ -5457,7 +5505,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Obtain an additional Upgraded *Unknown card reward at the end of combat."
+      "description": "Obtain an additional Upgraded Unknown card reward at the end of combat."
     },
     {
       "name": "More Power!+",
@@ -5465,7 +5513,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "0",
-      "description": "Obtain an additional Upgraded *Unknown card reward at the end of combat."
+      "description": "Obtain an additional Upgraded Unknown card reward at the end of combat."
     },
     {
       "name": "Mud Shield",
@@ -5521,7 +5569,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Lose a random Relic.\nChoose to gain it back, or obtain a random Relic at the same rarity at the end of combat.\nExhaust."
+      "description": "Choose 1 of 2 Relics to lose.\nObtain a random Relic of the same rarity.\nExhaust."
     },
     {
       "name": "Transmogrify+",
@@ -5529,7 +5577,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Lose a random Relic.\nChoose to gain it back, or obtain a random Relic at the same rarity at the end of combat.\nExhaust."
+      "description": "Choose 1 of 2 Relics to lose.\nObtain a random Relic of the same rarity.\nExhaust."
     },
     {
       "name": "Unlimited Rolls",
@@ -5537,7 +5585,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of your turn, add a *Soul *Roll to your hand. It gains Ethereal and Exhaust."
+      "description": "At the start of your turn, add a Soul Roll to your hand. It gains Ethereal and Exhaust."
     },
     {
       "name": "Unlimited Rolls+",
@@ -5545,7 +5593,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Innate.\nAt the start of your turn, add a *Soul *Roll to your hand. It gains Ethereal and Exhaust."
+      "description": "Innate.\nAt the start of your turn, add a Soul Roll to your hand. It gains Ethereal and Exhaust."
     },
     {
       "name": "Defend",
@@ -5569,7 +5617,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 6 damage !cool! times.\nchamp:Fatigue 10.\n[fist_icon]   champ:Finisher"
+      "description": "Deal 6 damage 2 times.\nchamp:Fatigue 10.\n[fist_icon]   champ:Finisher"
     },
     {
       "name": "Execute+",
@@ -5577,7 +5625,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage !cool! times.\nchamp:Fatigue 10.\n[fist_icon]   champ:Finisher"
+      "description": "Deal 8 damage 2 times.\nchamp:Fatigue 10.\n[fist_icon]   champ:Finisher"
     },
     {
       "name": "Strike",
@@ -5617,7 +5665,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nGain 5 Block.\n*Berserker champ:Combo: Play this twice."
+      "description": "[crown_icon]   champ:Technique\nGain 5 Block.\nBerserker champ:Combo: Play this twice."
     },
     {
       "name": "Adrenal Armor+",
@@ -5625,7 +5673,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nGain 7 Block.\n*Berserker champ:Combo: Play this twice."
+      "description": "[crown_icon]   champ:Technique\nGain 7 Block.\nBerserker champ:Combo: Play this twice."
     },
     {
       "name": "Backstep",
@@ -5633,7 +5681,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Enter champ:Defensive.\nGain 6 Block.\n*Berserker champ:Combo: Gain Block equal to your champ:Fatigue."
+      "description": "Enter champ:Defensive.\nGain 6 Block.\nBerserker champ:Combo: Gain Block equal to your champ:Fatigue."
     },
     {
       "name": "Backstep+",
@@ -5641,7 +5689,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Enter champ:Defensive.\nGain 6 Block.\n*Berserker champ:Combo: Gain Block equal to your champ:Fatigue."
+      "description": "Enter champ:Defensive.\nGain 6 Block.\nBerserker champ:Combo: Gain Block equal to your champ:Fatigue."
     },
     {
       "name": "Berserker's Shout",
@@ -5665,7 +5713,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Requires *Defensive or *Berserker.\nGain 10 Block.\nGain 10 champ:Counter.\n[fist_icon]   champ:Finisher"
+      "description": "Requires Defensive or Berserker.\nGain 10 Block.\nGain 10 champ:Counter.\n[fist_icon]   champ:Finisher"
     },
     {
       "name": "Bring It On+",
@@ -5673,7 +5721,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Requires *Defensive or *Berserker.\nGain 13 Block.\nGain 13 champ:Counter.\n[fist_icon]   champ:Finisher"
+      "description": "Requires Defensive or Berserker.\nGain 13 Block.\nGain 13 champ:Counter.\n[fist_icon]   champ:Finisher"
     },
     {
       "name": "Chain Lash",
@@ -5697,7 +5745,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Block.\n*Defensive champ:Combo: Gain Block equal to your champ:Counter."
+      "description": "Gain 6 Block.\nDefensive champ:Combo: Gain Block equal to your champ:Counter."
     },
     {
       "name": "Circumvent+",
@@ -5705,7 +5753,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 champ:Counter.\nGain 6 Block.\n*Defensive champ:Combo: Gain Block equal to your champ:Counter."
+      "description": "Gain 4 champ:Counter.\nGain 6 Block.\nDefensive champ:Combo: Gain Block equal to your champ:Counter."
     },
     {
       "name": "Crownarang",
@@ -5761,7 +5809,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage to ALL enemies.\n*Berserker champ:Combo: Deals damage twice.\nEnter champ:Berserker."
+      "description": "Deal 5 damage to ALL enemies.\nBerserker champ:Combo: Deals damage twice.\nEnter champ:Berserker."
     },
     {
       "name": "Fan of Knives+",
@@ -5769,7 +5817,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage to ALL enemies.\n*Berserker champ:Combo: Deals damage three times.\nEnter champ:Berserker."
+      "description": "Deal 5 damage to ALL enemies.\nBerserker champ:Combo: Deals damage three times.\nEnter champ:Berserker."
     },
     {
       "name": "Flash Strike",
@@ -5777,7 +5825,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage.\n*Defensive champ:Combo: Gain 6 champ:Counter and 6 Block.\nEnter champ:Defensive."
+      "description": "Deal 6 damage.\nDefensive champ:Combo: Gain 6 champ:Counter and 6 Block.\nEnter champ:Defensive."
     },
     {
       "name": "Flash Strike+",
@@ -5785,7 +5833,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\n*Defensive champ:Combo: Gain 8 champ:Counter and 8 Block.\nEnter champ:Defensive."
+      "description": "Deal 8 damage.\nDefensive champ:Combo: Gain 8 champ:Counter and 8 Block.\nEnter champ:Defensive."
     },
     {
       "name": "Flurry of Strikes",
@@ -5809,7 +5857,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Enter champ:Berserker.\nDeal 5 damage.\n*Defensive champ:Combo: Gain [E] and 5 Block."
+      "description": "Enter champ:Berserker.\nDeal 5 damage.\nDefensive champ:Combo: Gain [E] and 5 Block."
     },
     {
       "name": "Gut Punch+",
@@ -5817,7 +5865,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Enter champ:Berserker.\nDeal 8 damage.\n*Defensive champ:Combo: Gain [E] and 8 Block."
+      "description": "Enter champ:Berserker.\nDeal 8 damage.\nDefensive champ:Combo: Gain [E] and 8 Block."
     },
     {
       "name": "Perfected Strike",
@@ -5841,7 +5889,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 14 damage.\n*Berserker champ:Combo: Apply 2 Vulnerable.\n*Defensive champ:Combo: Apply 2 Weak."
+      "description": "Deal 14 damage.\nBerserker champ:Combo: Apply 2 Vulnerable.\nDefensive champ:Combo: Apply 2 Weak."
     },
     {
       "name": "Piledriver+",
@@ -5849,7 +5897,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 18 damage.\n*Berserker champ:Combo: Apply 2 Vulnerable.\n*Defensive champ:Combo: Apply 2 Weak."
+      "description": "Deal 18 damage.\nBerserker champ:Combo: Apply 2 Vulnerable.\nDefensive champ:Combo: Apply 2 Weak."
     },
     {
       "name": "Precise Thrust",
@@ -5857,7 +5905,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage.\n*Berserker champ:Combo: Deal 7 damage.\n*Defensive champ:Combo: Gain 7 Block."
+      "description": "Deal 7 damage.\nBerserker champ:Combo: Deal 7 damage.\nDefensive champ:Combo: Gain 7 Block."
     },
     {
       "name": "Precise Thrust+",
@@ -5865,7 +5913,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage.\n*Berserker champ:Combo: Deal 9 damage.\n*Defensive champ:Combo: Gain 9 Block."
+      "description": "Deal 9 damage.\nBerserker champ:Combo: Deal 9 damage.\nDefensive champ:Combo: Gain 9 Block."
     },
     {
       "name": "Shatter",
@@ -5873,7 +5921,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\n*Berserker champ:Combo: Remove the enemy's Block before dealing damage."
+      "description": "Deal 8 damage.\nBerserker champ:Combo: Remove the enemy's Block before dealing damage."
     },
     {
       "name": "Shatter+",
@@ -5881,7 +5929,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\n*Berserker champ:Combo: Remove the enemy's Block and Artifact before dealing damage."
+      "description": "Deal 10 damage.\nBerserker champ:Combo: Remove the enemy's Block and Artifact before dealing damage."
     },
     {
       "name": "Stance Dance",
@@ -5905,7 +5953,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 10 damage to ALL enemies.\n*Defensive champ:Combo: Gain 5 champ:Counter and 5 Block for each enemy hit."
+      "description": "Deal 10 damage to ALL enemies.\nDefensive champ:Combo: Gain 5 champ:Counter and 5 Block for each enemy hit."
     },
     {
       "name": "Tornado Punch+",
@@ -5913,7 +5961,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 12 damage to ALL enemies.\n*Defensive champ:Combo: Gain 7 champ:Counter and 7 Block for each enemy hit."
+      "description": "Deal 12 damage to ALL enemies.\nDefensive champ:Combo: Gain 7 champ:Counter and 7 Block for each enemy hit."
     },
     {
       "name": "Arena Preparation",
@@ -5969,7 +6017,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage.\nHits three times if *Fatigue is 20 or higher.\n[fist_icon]   champ:Finisher"
+      "description": "Deal 9 damage.\nHits three times if Fatigue is 20 or higher.\n[fist_icon]   champ:Finisher"
     },
     {
       "name": "Crooked Strike+",
@@ -5977,7 +6025,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 12 damage.\nHits three times if *Fatigue is 20 or higher.\n[fist_icon]   champ:Finisher"
+      "description": "Deal 12 damage.\nHits three times if Fatigue is 20 or higher.\n[fist_icon]   champ:Finisher"
     },
     {
       "name": "Death Blow",
@@ -6001,7 +6049,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Enter champ:Defensive.\nchamp:Defensive *Techniques grant 2 more champ:Counter."
+      "description": "Enter champ:Defensive.\nchamp:Defensive Techniques grant 2 more champ:Counter."
     },
     {
       "name": "Defensive Style+",
@@ -6009,7 +6057,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Innate.\nEnter champ:Defensive.\nchamp:Defensive *Techniques grant 2 more champ:Counter."
+      "description": "Innate.\nEnter champ:Defensive.\nchamp:Defensive Techniques grant 2 more champ:Counter."
     },
     {
       "name": "Duel",
@@ -6033,7 +6081,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 3 damage to a random enemy 2 times.\n*Berserker champ:Combo: Play this twice. "
+      "description": "Deal 3 damage to a random enemy 2 times.\nBerserker champ:Combo: Play this twice. "
     },
     {
       "name": "Encircle+",
@@ -6041,7 +6089,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage to a random enemy 2 times.\n*Berserker champ:Combo: Play this twice. "
+      "description": "Deal 5 damage to a random enemy 2 times.\nBerserker champ:Combo: Play this twice. "
     },
     {
       "name": "Endless Rage",
@@ -6081,7 +6129,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage.\nchamp:Fatigue 5.\n*Berserker champ:Combo: This card hits an additional time this combat."
+      "description": "Deal 5 damage.\nchamp:Fatigue 5.\nBerserker champ:Combo: This card hits an additional time this combat."
     },
     {
       "name": "Enraged Bash+",
@@ -6089,7 +6137,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage 2 times.\nchamp:Fatigue 5.\n*Berserker champ:Combo: This card hits an additional time this combat."
+      "description": "Deal 5 damage 2 times.\nchamp:Fatigue 5.\nBerserker champ:Combo: This card hits an additional time this combat."
     },
     {
       "name": "Face Slap",
@@ -6097,7 +6145,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Enter champ:Berserker.\nDeal 9 damage, twice if enemy is Vulnerable.\n*Berserker champ:Combo: Apply 2 Vulnerable."
+      "description": "Enter champ:Berserker.\nDeal 9 damage, twice if enemy is Vulnerable.\nBerserker champ:Combo: Apply 2 Vulnerable."
     },
     {
       "name": "Face Slap+",
@@ -6105,7 +6153,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Enter champ:Berserker.\nDeal 11 damage, twice if enemy is Vulnerable.\n*Berserker champ:Combo: Apply 3 Vulnerable."
+      "description": "Enter champ:Berserker.\nDeal 11 damage, twice if enemy is Vulnerable.\nBerserker champ:Combo: Apply 3 Vulnerable."
     },
     {
       "name": "False Counter",
@@ -6129,7 +6177,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Requires *Defensive or *Berserker.\nEnter the Stance you aren't in.\nDraw 1 card."
+      "description": "Requires Defensive or Berserker.\nEnter the Stance you aren't in.\nDraw 1 card."
     },
     {
       "name": "Fancy Footwork+",
@@ -6137,7 +6185,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Requires *Defensive or *Berserker.\nEnter the Stance you aren't in.\nDraw 2 cards."
+      "description": "Requires Defensive or Berserker.\nEnter the Stance you aren't in.\nDraw 2 cards."
     },
     {
       "name": "Finish Him",
@@ -6257,7 +6305,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 10 Counter.\nIf your Counter is used this turn, add *Riposte to your hand."
+      "description": "Gain 10 Counter.\nIf your Counter is used this turn, add Riposte to your hand."
     },
     {
       "name": "Parry+",
@@ -6265,7 +6313,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 16 Counter.\nIf your Counter is used this turn, add *Riposte to your hand."
+      "description": "Gain 16 Counter.\nIf your Counter is used this turn, add Riposte to your hand."
     },
     {
       "name": "Preemptive Strike",
@@ -6273,7 +6321,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Requires *Defensive.\nDeal damage equal to your champ:Counter to ALL enemies.\nLose half of your champ:Counter."
+      "description": "Requires Defensive.\nDeal damage equal to your champ:Counter to ALL enemies.\nLose half of your champ:Counter."
     },
     {
       "name": "Preemptive Strike+",
@@ -6281,7 +6329,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Requires *Defensive.\nDeal damage equal to your champ:Counter to ALL enemies.\nLose half of your champ:Counter."
+      "description": "Requires Defensive.\nDeal damage equal to your champ:Counter to ALL enemies.\nLose half of your champ:Counter."
     },
     {
       "name": "Rapid Strikes",
@@ -6289,7 +6337,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 3 damage 2 times.\nDeal 3 damage an additional time for each champ:Technique *Bonus triggered this turn."
+      "description": "Deal 3 damage 2 times.\nDeal 3 damage an additional time for each champ:Technique Bonus triggered this turn."
     },
     {
       "name": "Rapid Strikes+",
@@ -6297,7 +6345,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 3 damage 3 times.\nDeal 3 damage an additional time for each champ:Technique *Bonus triggered this turn."
+      "description": "Deal 3 damage 3 times.\nDeal 3 damage an additional time for each champ:Technique Bonus triggered this turn."
     },
     {
       "name": "Reckless Leap",
@@ -6321,7 +6369,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "*Berserker champ:Combo: Gain [E] [E] , then Exhaust this.\n*Defensive champ:Combo: Draw 3 cards."
+      "description": "*Berserker champ:Combo: Gain [E] [E] , then Exhaust this.\nDefensive champ:Combo: Draw 3 cards."
     },
     {
       "name": "Refreshment+",
@@ -6329,7 +6377,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "*Berserker champ:Combo: Gain [E] [E] [E] , then Exhaust this.\n*Defensive champ:Combo: Draw 4 cards."
+      "description": "*Berserker champ:Combo: Gain [E] [E] [E] , then Exhaust this.\nDefensive champ:Combo: Draw 4 cards."
     },
     {
       "name": "Rising Strike",
@@ -6361,7 +6409,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 champ:Counter.\n*Defensive champ:Combo: Gain 6 champ:Counter for each Attack in your hand.\nEnter champ:Defensive."
+      "description": "Gain 6 champ:Counter.\nDefensive champ:Combo: Gain 6 champ:Counter for each Attack in your hand.\nEnter champ:Defensive."
     },
     {
       "name": "Shield Wall",
@@ -6401,7 +6449,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Block.\nGain 4 champ:Counter.\n*Defensive champ:Combo: Increase this card's Block and champ:Counter by !cool! this combat."
+      "description": "Gain 4 Block.\nGain 4 champ:Counter.\nDefensive champ:Combo: Increase this card's Block and champ:Counter by 2 this combat."
     },
     {
       "name": "Skillful Dodge+",
@@ -6409,7 +6457,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Block.\nGain 4 champ:Counter.\n*Defensive champ:Combo: Increase this card's Block and champ:Counter by !cool! this combat."
+      "description": "Gain 4 Block.\nGain 4 champ:Counter.\nDefensive champ:Combo: Increase this card's Block and champ:Counter by 4 this combat."
     },
     {
       "name": "Vicious Mockery",
@@ -6417,7 +6465,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "*Berserker champ:Combo: Gain 3 temporary Strength.\n*Defensive champ:Combo: Gain 3 temporary  Dexterity."
+      "description": "*Berserker champ:Combo: Gain 3 temporary Strength.\nDefensive champ:Combo: Gain 3 temporary  Dexterity."
     },
     {
       "name": "Vicious Mockery+",
@@ -6425,7 +6473,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "*Berserker champ:Combo: Gain 5 temporary Strength.\n*Defensive champ:Combo: Gain 5 temporary  Dexterity."
+      "description": "*Berserker champ:Combo: Gain 5 temporary Strength.\nDefensive champ:Combo: Gain 5 temporary  Dexterity."
     },
     {
       "name": "Cheap Shot",
@@ -6449,7 +6497,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage. *Berserker champ:Combo:\nGain [E] .\n*Defensive champ:Combo: Gain Block equal to unblocked damage dealt."
+      "description": "Deal 10 damage. Berserker champ:Combo:\nGain [E] .\nDefensive champ:Combo: Gain Block equal to unblocked damage dealt."
     },
     {
       "name": "Clobber+",
@@ -6457,7 +6505,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 13 damage. *Berserker champ:Combo:\nGain [E] .\n*Defensive champ:Combo: Gain Block equal to unblocked damage dealt."
+      "description": "Deal 13 damage. Berserker champ:Combo:\nGain [E] .\nDefensive champ:Combo: Gain Block equal to unblocked damage dealt."
     },
     {
       "name": "Dancing Master",
@@ -6545,7 +6593,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": "Whenever you use a champ:Technique *Bonus, draw a card.\nWhenever you use a champ:Finisher *Bonus, gain [E] next turn."
+      "description": "Whenever you use a champ:Technique Bonus, draw a card.\nWhenever you use a champ:Finisher Bonus, gain [E] next turn."
     },
     {
       "name": "Gladiator Form+",
@@ -6553,7 +6601,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Whenever you use a champ:Technique *Bonus, draw a card.\nWhenever you use a champ:Finisher *Bonus, gain [E] next turn."
+      "description": "Whenever you use a champ:Technique Bonus, draw a card.\nWhenever you use a champ:Finisher Bonus, gain [E] next turn."
     },
     {
       "name": "Hold Firm",
@@ -6657,7 +6705,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 9 Block.\nDeal damage equal to your Block.\nUnless *Defensive champ:Combo: You can't gain Block next turn."
+      "description": "Gain 9 Block.\nDeal damage equal to your Block.\nUnless Defensive champ:Combo: You can't gain Block next turn."
     },
     {
       "name": "Shield Throw+",
@@ -6665,7 +6713,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 13 Block.\nDeal damage equal to your Block.\nUnless *Defensive champ:Combo: You can't gain Block next turn."
+      "description": "Gain 13 Block.\nDeal damage equal to your Block.\nUnless Defensive champ:Combo: You can't gain Block next turn."
     },
     {
       "name": "Steel Edge",
@@ -6673,7 +6721,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "X",
-      "description": "*Berserker champ:Combo: Deal 9 damage X times.\n*Defensive champ:Combo: Gain 9 Block X times."
+      "description": "*Berserker champ:Combo: Deal 9 damage X times.\nDefensive champ:Combo: Gain 9 Block X times."
     },
     {
       "name": "Steel Edge+",
@@ -6681,7 +6729,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "X",
-      "description": "*Berserker champ:Combo: Deal 12 damage X times.\n*Defensive champ:Combo: Gain 12 Block X times."
+      "description": "*Berserker champ:Combo: Deal 12 damage X times.\nDefensive champ:Combo: Gain 12 Block X times."
     },
     {
       "name": "Strike of Genius",
@@ -6705,7 +6753,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage 2 times.\nUnless *Berserker champ:Combo: You can't attack next turn."
+      "description": "Deal 8 damage 2 times.\nUnless Berserker champ:Combo: You can't attack next turn."
     },
     {
       "name": "Sword Throw+",
@@ -6713,7 +6761,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage 3 times.\nUnless *Berserker champ:Combo: You can't attack next turn."
+      "description": "Deal 8 damage 3 times.\nUnless Berserker champ:Combo: You can't attack next turn."
     },
     {
       "name": "Triple Strike",
@@ -6721,7 +6769,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "[crown_icon]   champ:Technique\nDeal 6 damage.\nAdd 2 *Strikes into your hand. They cost 0 and have champ:Technique.\nExhaust."
+      "description": "[crown_icon]   champ:Technique\nDeal 6 damage.\nAdd 2 Strikes into your hand. They cost 0 and have champ:Technique.\nExhaust."
     },
     {
       "name": "Triple Strike+",
@@ -6729,7 +6777,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "[crown_icon]   champ:Technique\nDeal 9 damage.\nAdd 2 Upgraded *Strikes into your hand. They cost 0 and have champ:Technique.\nExhaust."
+      "description": "[crown_icon]   champ:Technique\nDeal 9 damage.\nAdd 2 Upgraded Strikes into your hand. They cost 0 and have champ:Technique.\nExhaust."
     },
     {
       "name": "Ultimate Stance",
@@ -6737,7 +6785,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nRequires *Defensive or *Berserker.\nEnter champ:Ultimate Stance for 1 turn."
+      "description": "[crown_icon]   champ:Technique\nRequires Defensive or Berserker.\nEnter champ:Ultimate Stance for 1 turn."
     },
     {
       "name": "Ultimate Stance+",
@@ -6745,7 +6793,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nRequires *Defensive or *Berserker.\nEnter champ:Ultimate Stance for 2 turns."
+      "description": "[crown_icon]   champ:Technique\nRequires Defensive or Berserker.\nEnter champ:Ultimate Stance for 2 turns."
     },
     {
       "name": "Curl Up",
@@ -6753,7 +6801,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 10 Block if in guardianmod:Defensive_Mode.\nOtherwise, guardianmod:Brace 10.\n[ guardianmod:Socket ]"
+      "description": "Gain 10 Block if in guardianmod:Defensive_Mode.\nOtherwise, guardianmod:Brace 10."
     },
     {
       "name": "Curl Up+",
@@ -6761,7 +6809,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 13 Block if in guardianmod:Defensive_Mode.\nOtherwise, guardianmod:Brace 13.\n[ guardianmod:Socket ]"
+      "description": "Gain 13 Block if in guardianmod:Defensive_Mode.\nOtherwise, guardianmod:Brace 13."
     },
     {
       "name": "Defend",
@@ -6801,7 +6849,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 4 damage !GuardianMulti! times.\n[ guardianmod:Socket ]\n[ guardianmod:Socket ]"
+      "description": "Deal 4 damage 2 times.\n[ guardianmod:Socket ]\n[ guardianmod:Socket ]"
     },
     {
       "name": "Twin Slam+",
@@ -6809,7 +6857,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage !GuardianMulti! times.\n[ guardianmod:Socket ]\n[ guardianmod:Socket ]"
+      "description": "Deal 6 damage 2 times.\n[ guardianmod:Socket ]\n[ guardianmod:Socket ]"
     },
     {
       "name": "Aquamarine",
@@ -6817,7 +6865,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "guardianmod:Gem.\nAdd a *Crystal *Ward to your hand."
+      "description": "guardianmod:Gem.\nAdd a Crystal Ward to your hand."
     },
     {
       "name": "Charge Core",
@@ -7025,7 +7073,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 10 Block.\nDraw 2 card if you have a card in guardianmod:Stasis."
+      "description": "Gain 10 Block.\nDraw 2 cards if you have a card in guardianmod:Stasis."
     },
     {
       "name": "Temporal Strike",
@@ -7201,7 +7249,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose a card. Place a copy of that card into guardianmod:Stasis.\nExhaust."
+      "description": "Choose a card in your hand. Place a copy of that card into guardianmod:Stasis.\nExhaust."
     },
     {
       "name": "Clone+",
@@ -7209,7 +7257,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose a card. Place a copy of that card into guardianmod:Stasis.\nguardianmod:Accelerate.\nExhaust."
+      "description": "Choose a card in your hand. Place a copy of that card into guardianmod:Stasis.\nguardianmod:Accelerate.\nExhaust."
     },
     {
       "name": "Emergency",
@@ -7249,7 +7297,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of your turn, add an *Orb *Slam to your hand."
+      "description": "At the start of your turn, add an Orb Slam to your hand."
     },
     {
       "name": "Floating Orbs+",
@@ -7257,7 +7305,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "0",
-      "description": "At the start of your turn, add an *Orb *Slam to your hand."
+      "description": "At the start of your turn, add an Orb Slam to your hand."
     },
     {
       "name": "Fragmented Gem",
@@ -7265,7 +7313,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "guardianmod:Gem.\nAdd a *Crystal *Shiv to your hand."
+      "description": "guardianmod:Gem.\nAdd a Crystal Shiv to your hand."
     },
     {
       "name": "Future Plans",
@@ -7297,7 +7345,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Must be in *Defensive *Mode.\nExit *Defensive *Mode.\nDeal 4 damage 4 times to ALL enemies."
+      "description": "Must be in Defensive Mode.\nExit Defensive Mode.\nDeal 4 damage 4 times to ALL enemies."
     },
     {
       "name": "Guardian Whirl+",
@@ -7305,7 +7353,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Must be in *Defensive *Mode.\nExit *Defensive *Mode.\nDeal 4 damage 5 times to ALL enemies."
+      "description": "Must be in Defensive Mode.\nExit Defensive Mode.\nDeal 4 damage 5 times to ALL enemies."
     },
     {
       "name": "Harden",
@@ -7313,7 +7361,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Must be in *Defensive *Mode.\nGain 12 Block and 2 Thorns."
+      "description": "Must be in Defensive Mode.\nGain 12 Block and 2 Thorns."
     },
     {
       "name": "Harden+",
@@ -7321,7 +7369,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Must be in *Defensive *Mode.\nGain 16 Block and 3 Thorns."
+      "description": "Must be in Defensive Mode.\nGain 16 Block and 3 Thorns."
     },
     {
       "name": "Multi-Beam",
@@ -7460,6 +7508,70 @@
       "description": "Deal 4 damage 5 times.\nDecrease the number of times this card hits by 1 this combat.\nCan be upgraded any number of times."
     },
     {
+      "name": "Refracted Beam+2",
+      "color": "Guardian",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage 6 times.\nDecrease the number of times this card hits by 1 this combat.\nCan be upgraded any number of times."
+    },
+    {
+      "name": "Refracted Beam+3",
+      "color": "Guardian",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage 7 times.\nDecrease the number of times this card hits by 1 this combat.\nCan be upgraded any number of times."
+    },
+    {
+      "name": "Refracted Beam+4",
+      "color": "Guardian",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage 8 times.\nDecrease the number of times this card hits by 1 this combat.\nCan be upgraded any number of times."
+    },
+    {
+      "name": "Refracted Beam+5",
+      "color": "Guardian",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage 9 times.\nDecrease the number of times this card hits by 1 this combat.\nCan be upgraded any number of times."
+    },
+    {
+      "name": "Refracted Beam+6",
+      "color": "Guardian",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage 10 times.\nDecrease the number of times this card hits by 1 this combat.\nCan be upgraded any number of times."
+    },
+    {
+      "name": "Refracted Beam+7",
+      "color": "Guardian",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage 11 times.\nDecrease the number of times this card hits by 1 this combat.\nCan be upgraded any number of times."
+    },
+    {
+      "name": "Refracted Beam+8",
+      "color": "Guardian",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage 12 times.\nDecrease the number of times this card hits by 1 this combat.\nCan be upgraded any number of times."
+    },
+    {
+      "name": "Refracted Beam+9",
+      "color": "Guardian",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 4 damage 13 times.\nDecrease the number of times this card hits by 1 this combat.\nCan be upgraded any number of times."
+    },
+    {
       "name": "Repulsor",
       "color": "Guardian",
       "rarity": "Uncommon",
@@ -7489,7 +7601,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 5 damage.\nPlace a *Sentry *Wave into guardianmod:Stasis.\nExhaust."
+      "description": "Deal 5 damage.\nPlace a Sentry Wave into guardianmod:Stasis.\nExhaust."
     },
     {
       "name": "Sentry Blast+",
@@ -7497,7 +7609,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Deal 7 damage.\nPlace a *Sentry *Wave+ into guardianmod:Stasis.\nExhaust."
+      "description": "Deal 7 damage.\nPlace a Sentry Wave+ into guardianmod:Stasis.\nExhaust."
     },
     {
       "name": "Shield Spikes",
@@ -7906,7 +8018,7 @@
       "name": "Baalor's Lordly Plate",
       "tier": "Common",
       "pool": "Guardian",
-      "description": "Whenever you guardianmod:Brace, reduce Mode Shift's counter by 1.",
+      "description": "Whenever you guardianmod:Brace, Brace 1 more.",
       "flavorText": "One can never have enough armor."
     },
     {
@@ -8295,6 +8407,13 @@
       "flavorText": "Can you take the crown?"
     },
     {
+      "name": "Paradox Artifact",
+      "tier": "Special",
+      "pool": "",
+      "description": "At the start of each turn, add a random card with Encode to your hand and give it Ethereal.",
+      "flavorText": "You've never seen a coding frenzy like this before."
+    },
+    {
       "name": "Quantum Chamber",
       "tier": "Special",
       "pool": "Guardian",
@@ -8382,7 +8501,7 @@
       "name": "Guardian Gear",
       "tier": "Boss",
       "pool": "Guardian",
-      "description": "Replaces Mode Shifter.\nBegin each combat in guardianmod:Defensive_Mode, which persists for 3 turns.",
+      "description": "Replaces Bronze Gear.\nBegin each combat in guardianmod:Defensive_Mode, which persists for 3 turns.",
       "flavorText": "Replace every 3,000 floors."
     },
     {
@@ -8719,12 +8838,6 @@
       "maxHP": "240"
     },
     {
-      "name": "Crowbot",
-      "type": "Boss",
-      "minHP": "74",
-      "maxHP": "74"
-    },
-    {
       "name": "Face Trader",
       "type": "Elite",
       "minHP": "100",
@@ -8769,8 +8882,8 @@
     {
       "name": "Merchant",
       "type": "Elite",
-      "minHP": "400",
-      "maxHP": "400"
+      "minHP": "300",
+      "maxHP": "300"
     },
     {
       "name": "Neow",
@@ -8817,59 +8930,59 @@
   ],
   "keywords": [
     {
-      "name": "Bronze:blur",
+      "name": "Blur",
       "description": "Do not lose Block at the end of the turn."
     },
     {
-      "name": "Bronze:compile",
+      "name": "Compile",
       "description": "An additional effect that triggers when this card, while in the Sequence, is combined into a Function.\nCan be a negative effect, which is referred to as an 'Error'."
     },
     {
-      "name": "Bronze:cycle",
+      "name": "Cycle",
       "description": "Discard a card, drawing a new card to replace it."
     },
     {
-      "name": "Bronze:encode",
+      "name": "Encode",
       "description": "Add the card to the Sequence.\nWhen 3 cards are in the Sequence, their effects (other than Encode) are merged into a Function with cost equal to the highest cost card in the Sequence."
     },
     {
-      "name": "Bronze:insert",
-      "description": "Add a card to your draw pile."
+      "name": "Insert",
+      "description": "Shuffle a card into your draw pile."
     },
     {
-      "name": "Champ:berserker",
+      "name": "Berserker",
       "description": "Stance.\nTechnique Bonus: Fatigue 5.\nFinisher Bonus: Lose all Fatigue and gain that much HP, preserving Strength."
     },
     {
-      "name": "Champ:combo",
+      "name": "Combo",
       "description": "Extra effect when played in the listed Stance, or if you entered that Stance this turn."
     },
     {
-      "name": "Champ:counter",
+      "name": "Counter",
       "description": "The next time you take Attack damage, deal damage back."
     },
     {
-      "name": "Champ:defensive",
+      "name": "Defensive",
       "description": "Stance.\nTechnique Bonus: Gain 5 Counter.\nFinisher Bonus: Gain 12 Block."
     },
     {
-      "name": "Champ:fatigue",
+      "name": "Fatigue",
       "description": "Lose HP and gain 1 Strength for every 10 HP lost. Regenerate Fatigued health at the end of combat."
     },
     {
-      "name": "Champ:finisher",
+      "name": "Finisher",
       "description": "After playing a Finisher, if you are in a Stance, exit it and trigger its Finisher bonus."
     },
     {
-      "name": "Champ:gladiator",
+      "name": "Gladiator",
       "description": "Stance.\nTechnique Bonus: Draw a card.\nFinisher Bonus: Next turn, draw 1 card and gain [E] . End your turn."
     },
     {
-      "name": "Champ:technique",
+      "name": "Technique",
       "description": "If you are in a Stance, trigger its Technique bonus."
     },
     {
-      "name": "Champ:ultimate",
+      "name": "Ultimate Stance",
       "description": "Stance. Counts as both Defensive and Berserker Stances.\nFinishers do not exit the Stance.\nYou can't change to any other Stance."
     },
     {
@@ -8877,215 +8990,215 @@
       "description": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
     },
     {
-      "name": "Expansioncontent:boss",
+      "name": "Boss",
       "description": "You may only play 1 Boss card in a turn."
     },
     {
-      "name": "Expansioncontent:invincible",
+      "name": "Invincible",
       "description": "You cannot lose more than a given amount of HP in a single turn.\nAt the end of any round in which Invincible prevented HP loss, remove it."
     },
     {
-      "name": "Guardianmod:accelerate",
+      "name": "Accelerate",
       "description": "Reduce the turn counter of the right-most card in Stasis by 1. If the card's turn counter is now 0, return it to your hand. It costs 0 until played."
     },
     {
-      "name": "Guardianmod:brace",
+      "name": "Brace",
       "description": "Reduce the HP loss required to trigger Mode Shift by X, triggering Mode Shift if the HP loss required is now 0."
     },
     {
-      "name": "Guardianmod:buffer",
+      "name": "Buffer",
       "description": "Prevent the next time you would lose HP."
     },
     {
-      "name": "Guardianmod:defensive mode",
+      "name": "Defensive Mode",
       "description": "Stance.\nGain 10 Block when entering Defensive Mode.\nWhile in Defensive Mode, you have 3 Thorns, gain 10 Block at the start of your turn, and your Block does not expire."
     },
     {
-      "name": "Guardianmod:gem",
+      "name": "Gem",
       "description": "Gems can be placed into Sockets in cards at a Rest Site. Cannot be Upgraded."
     },
     {
-      "name": "Guardianmod:package",
+      "name": "Package",
       "description": "0-cost Exhausting Skill that generates three cards inspired by a chosen Construct of the Spire, and reduces their cost by 1 for this combat."
     },
     {
-      "name": "Guardianmod:socket",
+      "name": "Socket",
       "description": "Gems can be placed into this Socket at a Rest Site to combine the Gem's effect with this card's effect."
     },
     {
-      "name": "Guardianmod:stasis",
+      "name": "Stasis",
       "description": "A card in Stasis gains a turn counter equal to its cost plus 1.\nTurn counter is reduced by 1 at the start of your turn.\nWhen the counter reaches 0, it is returned to your hand and costs 0 until played."
     },
     {
-      "name": "Guardianmod:tick",
+      "name": "Tick",
       "description": "This effect is triggered whenever this card's turn counter is reduced while in Stasis."
     },
     {
-      "name": "Guardianmod:volatile",
+      "name": "Volatile",
       "description": "When this card leaves Stasis, Exhaust it instead of returning it to your hand."
     },
     {
-      "name": "Hexamod:active",
+      "name": "Active",
       "description": "The Active Ghostflame can be Ignited by meeting its listed Ignition requirements."
     },
     {
-      "name": "Hexamod:advance",
+      "name": "Advance",
       "description": "Activate the next Ghostflame. If it's Ignited, Extinguish it."
     },
     {
-      "name": "Hexamod:afterlife",
+      "name": "Afterlife",
       "description": "If this card is Exhausted, its effects activate."
     },
     {
-      "name": "Hexamod:bolstering",
+      "name": "Bolstering",
       "description": "Ghostflame. Ignites when a Power is played while Active. Ignition: When Ignited, gain 4 Block and 1 Strength."
     },
     {
-      "name": "Hexamod:crushing",
+      "name": "Crushing",
       "description": "Ghostflame. Ignites when 2 Skills are played while Active. Ignition: When Ignited, deal 4 damage to a random enemy twice."
     },
     {
-      "name": "Hexamod:extinguish",
+      "name": "Extinguish",
       "description": "Allows Ghostflame to become Ignited again, resetting its Ignition requirements."
     },
     {
-      "name": "Hexamod:force-ignite",
+      "name": "Force-Ignite",
       "description": "Triggers the Ignition effect described on a Ghostflame, even if it was already Ignited."
     },
     {
-      "name": "Hexamod:ignite",
+      "name": "Ignite",
       "description": "Triggers the Ignition effect described on a Ghostflame."
     },
     {
-      "name": "Hexamod:intensity",
+      "name": "Intensity",
       "description": "Intensity increases the amount of damage, Soulburn, and Block applied by Ghostflames when Ignited."
     },
     {
-      "name": "Hexamod:retract",
+      "name": "Retract",
       "description": "Activate the previous Ghostflame. If it's Ignited, Extinguish it."
     },
     {
-      "name": "Hexamod:seal",
+      "name": "Seal",
       "description": "Can't be upgraded. If all 6 Seals have been played this combat, obtain The Broken Seal and remove the Seals from your deck."
     },
     {
-      "name": "Hexamod:searing",
+      "name": "Searing",
       "description": "Ghostflame. Ignites when 2 Attacks are played while Active. Ignition: When Ignited, apply 4 Soulburn to a random enemy."
     },
     {
-      "name": "Hexamod:soulburn",
+      "name": "Soulburn",
       "description": "After 3 turns, a Soulburned enemy loses HP, removing the Soulburn effect."
     },
     {
-      "name": "Slimeboundmod:absorb",
+      "name": "Absorb",
       "description": "Manually recombine with your leading Slime, granting you 1 Strength."
     },
     {
-      "name": "Slimeboundmod:ancient slime",
+      "name": "Ancient Slime",
       "description": "Attacks for 3 and causes you to draw 1 card each turn."
     },
     {
-      "name": "Slimeboundmod:bronze slime",
+      "name": "Bronze Slime",
       "description": "Attacks for 4 and grants you 4 Block each turn."
     },
     {
-      "name": "Slimeboundmod:bruiser slime",
+      "name": "Bruiser Slime",
       "description": "Attacks for 5 each turn."
     },
     {
-      "name": "Slimeboundmod:command",
+      "name": "Command",
       "description": "Your leading Slime attacks."
     },
     {
-      "name": "Slimeboundmod:consume",
+      "name": "Consume",
       "description": "Bonus effect which activates when an Attack is used on an enemy who has Goop."
     },
     {
-      "name": "Slimeboundmod:cultist slime",
+      "name": "Cultist Slime",
       "description": "Attacks for 6 each turn, then increases its damage by 1."
     },
     {
-      "name": "Slimeboundmod:darkling slime",
+      "name": "Darkling Slime",
       "description": "Attacks for 3 each turn. When Commanded, other Darkling Slimes also attack."
     },
     {
-      "name": "Slimeboundmod:ghostflame slime",
+      "name": "Ghostflame Slime",
       "description": "Attacks for 3 and applies 3 Soulburn each turn."
     },
     {
-      "name": "Slimeboundmod:goop",
+      "name": "Goop",
       "description": "The next attack deals 1 more damage per Goop, removing all Goop and triggering any Consume effects."
     },
     {
-      "name": "Slimeboundmod:guerilla slime",
+      "name": "Guerilla Slime",
       "description": "Attacks for 3 to ALL enemies each turn."
     },
     {
-      "name": "Slimeboundmod:insulting slime",
+      "name": "Insulting Slime",
       "description": "Attacks for 4 and applies 1 Vulnerable each turn."
     },
     {
-      "name": "Slimeboundmod:leeching slime",
+      "name": "Leeching Slime",
       "description": "Attacks for 1 and grants you 3 Block each turn."
     },
     {
-      "name": "Slimeboundmod:lick",
+      "name": "Lick",
       "description": "0-cost cards that apply Goop with a variety of secondary effects."
     },
     {
-      "name": "Slimeboundmod:mire slime",
+      "name": "Mire Slime",
       "description": "Attacks for 2 and applies 2 Goop each turn."
     },
     {
-      "name": "Slimeboundmod:morph",
+      "name": "Morph",
       "description": "Replace with a random new card of your class, regardless of type. It costs 1 less."
     },
     {
-      "name": "Slimeboundmod:potency",
+      "name": "Potency",
       "description": "Increases the damage of ALL of your Spawned Slimes."
     },
     {
-      "name": "Slimeboundmod:protector slime",
+      "name": "Protector Slime",
       "description": "Attacks for 2 and grants you 6 Block each turn."
     },
     {
-      "name": "Slimeboundmod:slow",
+      "name": "Slow",
       "description": "Receives 10% more damage per card played in a turn."
     },
     {
-      "name": "Slimeboundmod:specialist",
+      "name": "Specialist",
       "description": "A unique slime with a more powerful effect than normal slimes."
     },
     {
-      "name": "Slimeboundmod:spire boss",
+      "name": "Spire Boss",
       "description": "Powerful 0-cost cards, inspired by the bosses of the Spire."
     },
     {
-      "name": "Slimeboundmod:split",
+      "name": "Split",
       "description": "Spawn a Slime minion, who attacks at the start of each turn.\n\nIf you have no empty slots, your oldest Slime is automatically Absorbed to make room, granting you 1 Strength."
     },
     {
-      "name": "Slimeboundmod:tackle",
+      "name": "Tackle",
       "description": "High-damage Attacks that also deal a small amount of damage to you."
     },
     {
-      "name": "Slimeboundmod:time slime",
+      "name": "Time Slime",
       "description": "Attacks for 4 and applies 1 Weak each turn."
     },
     {
-      "name": "Slimeboundmod:torchhead slime",
+      "name": "Torch Head Slime",
       "description": "Attacks for 6 each turn. Gains damage from your Strength."
     },
     {
-      "name": "Sneckomod:muddle",
+      "name": "Muddle",
       "description": "Muddling a card changes its cost to between 0 and 3."
     },
     {
-      "name": "Sneckomod:offclass",
+      "name": "Offclass",
       "description": "An Offclass card is any obtainable card from a class other than your own (including Colorless cards)."
     },
     {
-      "name": "Sneckomod:snekproof",
+      "name": "Snekproof",
       "description": "Snekproof cards aren't affected by Confusion and cannot be Muddled."
     }
   ]

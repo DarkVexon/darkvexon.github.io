@@ -8,7 +8,6 @@
 | ![](creatures/TheSnecko.png) | the Snecko |
 | ![](creatures/Augmenter.png) | Augmenter |
 | ![](creatures/BlackKnight.png) | Black Knight |
-| ![](creatures/Crowbot.png) | Crowbot |
 | ![](creatures/FaceTrader.png) | Face Trader |
 | ![](creatures/ForgetfulTotem.png) | Forgetful Head |
 | ![](creatures/ChangingTotem.png) | Head of Change |
