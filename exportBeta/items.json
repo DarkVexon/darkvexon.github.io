@@ -11526,7 +11526,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Whenever you play a card this turn, gain 3 Block.",
+      "description": "Whenever you play a card this turn, gain 2 Block.",
       "mod": "Downfall"
     },
     {
@@ -11535,7 +11535,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Whenever you play a card this turn, gain 3 Block.",
+      "description": "Whenever you play a card this turn, gain 2 Block.",
       "mod": "Downfall"
     },
     {
@@ -11940,7 +11940,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage for each stack of Weakened.\n(Always hits at least once.)",
+      "description": "Deal 7 damage for each stack of Weakened.\n(Always hits at least once.)",
       "mod": "Downfall"
     },
     {
@@ -11949,7 +11949,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 10 damage for each stack of Weakened.\n(Always hits at least once.)",
+      "description": "Deal 9 damage for each stack of Weakened.\n(Always hits at least once.)",
       "mod": "Downfall"
     },
     {
@@ -14568,7 +14568,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage.\nBerserker champ:Combo: Apply 2 Vulnerable.\nDefensive champ:Combo: Apply 2 Weak.\n[fist_icon]   champ:Finisher",
+      "description": "Deal 8 damage.\nBerserker champ:Combo: Apply 2 Vulnerable.\nDefensive champ:Combo: Apply 2 Weak.",
       "mod": "Downfall"
     },
     {
@@ -14577,7 +14577,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 12 damage.\n\n[fist_icon]   champ:Finisher",
+      "description": "Deal 12 damage.\nBerserker champ:Combo: Apply 2 Vulnerable.\nDefensive champ:Combo: Apply 2 Weak.",
       "mod": "Downfall"
     },
     {
@@ -15603,7 +15603,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Place a card in your hand into guardianmod:Stasis.\nguardianmod:Brace 13.",
+      "description": "Place a card in your hand into guardianmod:Stasis.\nguardianmod:Brace 10.",
       "mod": "Downfall"
     },
     {

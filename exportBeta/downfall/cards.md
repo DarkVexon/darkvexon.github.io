@@ -279,7 +279,7 @@
 | Gremlin Dance | ![](small-card-images/Gremlin-GremlinDance.png) | ![](small-card-images/Gremlin-GremlinDancePlus.png) | Basic | Attack | 1 | Deal 6 (9) damage. Has a bonus effect based on which Gremlin you are. |
 | Strike | ![](small-card-images/Gremlin-Strike.png) | ![](small-card-images/Gremlin-StrikePlus.png) | Basic | Attack | 1 | Deal 6 (9) damage. |
 | Tag Team | ![](small-card-images/Gremlin-TagTeam.png) | ![](small-card-images/Gremlin-TagTeamPlus.png) | Basic | Skill | 0 | (Retain.)  Swap to a living Gremlin of your choice. |
-| Bubble Barrier | ![](small-card-images/Gremlin-BubbleBarrier.png) | ![](small-card-images/Gremlin-BubbleBarrierPlus.png) | Common | Skill | 1 (0) | Whenever you play a card this turn, gain 3 Block. |
+| Bubble Barrier | ![](small-card-images/Gremlin-BubbleBarrier.png) | ![](small-card-images/Gremlin-BubbleBarrierPlus.png) | Common | Skill | 1 (0) | Whenever you play a card this turn, gain 2 Block. |
 | Bulk Up | ![](small-card-images/Gremlin-BulkUp.png) | ![](small-card-images/Gremlin-BulkUpPlus.png) | Common | Skill | 1 | Gain 5 (8) Temporary HP. Swap to Fat_Gremlin. |
 | Cat Scratch | ![](small-card-images/Gremlin-CatScratch.png) | ![](small-card-images/Gremlin-CatScratchPlus.png) | Common | Attack | 1 | Deal 2 damage 3 (4) times. |
 | Change-o! | ![](small-card-images/Gremlin-Change-o!.png) | ![](small-card-images/Gremlin-Change-o!Plus.png) | Common | Skill | 1 | Gain 8 (12) Block and 1 Wiz. |
@@ -302,7 +302,7 @@
 | Aggressive Defense | ![](small-card-images/Gremlin-AggressiveDefense.png) | ![](small-card-images/Gremlin-AggressiveDefensePlus.png) | Uncommon | Attack | 1 | Deal 6 (8) damage. Whenever you gain Block this turn, targeted enemy loses 3 (5) HP. |
 | Arms Theft | ![](small-card-images/Gremlin-ArmsTheft.png) | ![](small-card-images/Gremlin-ArmsTheftPlus.png) | Uncommon | Skill | 2 | Steal 2 (3) Strength. Exhaust. |
 | Astound | ![](small-card-images/Gremlin-Astound.png) | ![](small-card-images/Gremlin-AstoundPlus.png) | Uncommon | Skill | 1 | Gain 7 (10) Block. If you have 3 or more Wiz, add 2 (Upgraded) Wards to your hand. |
-| Burly Blow | ![](small-card-images/Gremlin-BurlyBlow.png) | ![](small-card-images/Gremlin-BurlyBlowPlus.png) | Uncommon | Attack | 2 | Deal 8 (10) damage for each stack of Weakened. (Always hits at least once.) |
+| Burly Blow | ![](small-card-images/Gremlin-BurlyBlow.png) | ![](small-card-images/Gremlin-BurlyBlowPlus.png) | Uncommon | Attack | 2 | Deal 7 (9) damage for each stack of Weakened. (Always hits at least once.) |
 | Counter Strike | ![](small-card-images/Gremlin-CounterStrike.png) | ![](small-card-images/Gremlin-CounterStrikePlus.png) | Uncommon | Attack | 1 | Deal 8 (11) damage. If the enemy intends to attack, add 2 (Upgraded) Wards to your hand. |
 | Dazzle | ![](small-card-images/Gremlin-Dazzle.png) | ![](small-card-images/Gremlin-DazzlePlus.png) | Uncommon | Attack | 1 | Deal 9 (13) damage. If you have 5 or more Wiz, the enemy loses 2 Strength. Exhaust. |
 | Edible Armor | ![](small-card-images/Gremlin-EdibleArmor.png) | ![](small-card-images/Gremlin-EdibleArmorPlus.png) | Uncommon | Skill | 1 (0) | Convert your Block into Temporary HP. |
@@ -444,7 +444,7 @@
 | Flurry of Strikes | ![](small-card-images/The_champ_-FlurryofStrikes.png) | ![](small-card-images/The_champ_-FlurryofStrikesPlus.png) | Common | Attack | 1 | Deal 6 (9) damage. The next Strike you play this turn is played twice. [crown_icon]   champ:Technique  |
 | Gut Punch | ![](small-card-images/The_champ_-GutPunch.png) | ![](small-card-images/The_champ_-GutPunchPlus.png) | Common | Attack | 1 | Enter champ:Berserker. Deal 5 (8) damage. Defensive champ:Combo: Gain [E] and 5 (8) Block. |
 | Perfected Strike | ![](small-card-images/The_champ_-PerfectedStrike.png) | ![](small-card-images/The_champ_-PerfectedStrikePlus.png) | Common | Attack | 2 | Deal 14 damage. Deals 2 (3) additional damage for ALL your cards containing "Strike". [fist_icon]   champ:Finisher |
-| Piledriver | ![](small-card-images/The_champ_-Piledriver.png) | ![](small-card-images/The_champ_-PiledriverPlus.png) | Common | Attack | 2 | Deal 8 (12) damage. Berserker champ:Combo: Apply 2 Vulnerable. (not Berserker champ:Combo: Apply 2 Vulnerable.)NL Defensive champ:Combo: Apply 2 Weak. (not Defensive champ:Combo: Apply 2 Weak.) [fist_icon] champ:Finisher |
+| Piledriver | ![](small-card-images/The_champ_-Piledriver.png) | ![](small-card-images/The_champ_-PiledriverPlus.png) | Common | Attack | 2 | Deal 8 (12) damage. Berserker champ:Combo: Apply 2 Vulnerable. Defensive champ:Combo: Apply 2 Weak. |
 | Precise Thrust | ![](small-card-images/The_champ_-PreciseThrust.png) | ![](small-card-images/The_champ_-PreciseThrustPlus.png) | Common | Attack | 1 | Deal 7 (9) damage. Berserker champ:Combo: Deal 7 (9) damage. Defensive champ:Combo: Gain 7 (9) Block. |
 | Shatter | ![](small-card-images/The_champ_-Shatter.png) | ![](small-card-images/The_champ_-ShatterPlus.png) | Common | Attack | 1 | Deal 8 (10) damage. Berserker champ:Combo: Remove the enemy's Block (and Artifact) before dealing damage. |
 | Stance Dance | ![](small-card-images/The_champ_-StanceDance.png) | ![](small-card-images/The_champ_-StanceDancePlus.png) | Common | Skill | 0 | Choose a Stance to Enter. If you were already in that Stance, add (Add) a champ:Combo of that Stance into your hand. |
@@ -501,7 +501,7 @@
 | Sword Throw | ![](small-card-images/The_champ_-SwordThrow.png) | ![](small-card-images/The_champ_-SwordThrowPlus.png) | Rare | Attack | 1 | Deal 8 (11) damage 2 times. Unless Berserker champ:Combo: You can't attack next turn. |
 | Triple Strike | ![](small-card-images/The_champ_-TripleStrike.png) | ![](small-card-images/The_champ_-TripleStrikePlus.png) | Rare | Attack | 2 | Deal 6 (9) damage. Add 2 (Upgraded) Strikes into your hand. They cost 0 and have champ:Technique. Exhaust. |
 | Ultimate Stance | ![](small-card-images/The_champ_-UltimateStance.png) | ![](small-card-images/The_champ_-UltimateStancePlus.png) | Rare | Skill | 1 | Requires Defensive or Berserker. Enter champ:Ultimate Stance for 1 (!M!) turn(s). [crown_icon] champ:Technique NL |
-| Curl Up | ![](small-card-images/Guardian-CurlUp.png) | ![](small-card-images/Guardian-CurlUpPlus.png) | Basic | Skill | 1 | Place a random (not random)card from (in) your hand into guardianmod:Stasis. guardianmod:Brace 10 (13). |
+| Curl Up | ![](small-card-images/Guardian-CurlUp.png) | ![](small-card-images/Guardian-CurlUpPlus.png) | Basic | Skill | 1 | Place a random (not random)card from (in) your hand into guardianmod:Stasis. guardianmod:Brace 10. |
 | Defend | ![](small-card-images/Guardian-Defend.png) | ![](small-card-images/Guardian-DefendPlus.png) | Basic | Skill | 1 | Gain 5 (8) Block. |
 | Strike | ![](small-card-images/Guardian-Strike.png) | ![](small-card-images/Guardian-StrikePlus.png) | Basic | Attack | 1 | Deal 6 (9) damage. |
 | Twin Slam | ![](small-card-images/Guardian-TwinSlam.png) | ![](small-card-images/Guardian-TwinSlamPlus.png) | Basic | Attack | 1 | Deal 4 (6) damage 2 times. [ guardianmod:Socket ] [ guardianmod:Socket ] |

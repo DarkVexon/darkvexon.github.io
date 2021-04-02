@@ -172,9 +172,8 @@ Deals 2 (3) additional damage for ALL your cards containing "Strike".
 |[[Attack]]
 |2
 |Deal 8 (12) damage.
-Berserker champ:Combo: Apply 2 [[Vulnerable]]. (not Berserker champ:Combo: Apply 2 Vulnerable.)NL Defensive champ:Combo: Apply 2 [[Weak]].
-(not Defensive champ:Combo: Apply 2 Weak.)
-[fist_icon] [[champ:Finisher]]
+Berserker champ:Combo: Apply 2 [[Vulnerable]].
+Defensive champ:Combo: Apply 2 [[Weak]].
 |-
 |[[Precise Thrust]]
 |[[File:|thumb|289x289px]]

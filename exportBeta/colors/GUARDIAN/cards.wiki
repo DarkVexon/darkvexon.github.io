@@ -15,7 +15,7 @@
 |[[Skill]]
 |1
 |Place a random (not random)card from (in) your hand into [[guardianmod:Stasis]].
-[[guardianmod:Brace]] 10 (13).
+[[guardianmod:Brace]] 10.
 |-
 |[[Defend]]
 |[[File:|thumb|289x289px]]

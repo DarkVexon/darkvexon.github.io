@@ -1,6 +1,6 @@
 | Name | Image | Upgraded image | Rarity | Type | Cost | Description |
 | ---- | ----- | -------------- | ------ | ---- | ---- | ----------- |
-| Curl Up | ![](../../downfall/small-card-images/Guardian-CurlUp.png) | ![](../../downfall/small-card-images/Guardian-CurlUpPlus.png) | Basic | Skill | 1 | Place a random (not random)card from (in) your hand into guardianmod:Stasis. guardianmod:Brace 10 (13). |
+| Curl Up | ![](../../downfall/small-card-images/Guardian-CurlUp.png) | ![](../../downfall/small-card-images/Guardian-CurlUpPlus.png) | Basic | Skill | 1 | Place a random (not random)card from (in) your hand into guardianmod:Stasis. guardianmod:Brace 10. |
 | Defend | ![](../../downfall/small-card-images/Guardian-Defend.png) | ![](../../downfall/small-card-images/Guardian-DefendPlus.png) | Basic | Skill | 1 | Gain 5 (8) Block. |
 | Strike | ![](../../downfall/small-card-images/Guardian-Strike.png) | ![](../../downfall/small-card-images/Guardian-StrikePlus.png) | Basic | Attack | 1 | Deal 6 (9) damage. |
 | Twin Slam | ![](../../downfall/small-card-images/Guardian-TwinSlam.png) | ![](../../downfall/small-card-images/Guardian-TwinSlamPlus.png) | Basic | Attack | 1 | Deal 4 (6) damage 2 times. [ guardianmod:Socket ] [ guardianmod:Socket ] |

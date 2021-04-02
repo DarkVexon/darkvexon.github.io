@@ -44,7 +44,7 @@ Has a bonus effect based on which Gremlin you are.
 |Common
 |[[Skill]]
 |1 (0)
-|Whenever you play a card this turn, gain 3 [[Block]].
+|Whenever you play a card this turn, gain 2 [[Block]].
 |-
 |[[Bulk Up]]
 |[[File:|thumb|289x289px]]
@@ -220,7 +220,7 @@ If you have 3 or more [[Wiz]], add 2 ([[Upgraded]]) Wards to your hand.
 |Uncommon
 |[[Attack]]
 |2
-|Deal 8 (10) damage for each stack of [[Weakened]].
+|Deal 7 (9) damage for each stack of [[Weakened]].
 (Always hits at least once.)
 |-
 |[[Counter Strike]]
