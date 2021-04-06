@@ -98,5 +98,5 @@
 | ![](relics/hexamod-JarOfFuel.png) | Olexa's Shield | Shop | Hexa_ghost_purple | Swap the positions of the Bolstering Ghostflame and the first Searing Ghostflame. | Protection on-demand. |
 | ![](relics/Slimebound-SelfDamagePreventRelic.png) | Protective Gear | Shop | Slimebound | Reduce the damage you take from #yslimeboundmod:Tackle cards by #b3. | The best defense is a good offense. |
 | ![](relics/sneckomod-RareBoosterPack.png) | Rare Booster Box | Shop | Snecko_cyan | Upon pickup, obtain a #yUnknown #yRare card of each card type. | Mint condition. |
-| ![](relics/hexamod-RecyclingMachine.png) | Recycler | Shop | Hexa_ghost_purple | The first time an #yEthereal card is #yExhausted each combat, add a copy to your hand that costs #b0 until played. | One day, it shall be recycled too. |
+| ![](relics/hexamod-RecyclingMachine.png) | Recycler | Shop | Hexa_ghost_purple | The first time an non-Status and non-Curse #yEthereal card is #yExhausted each combat, add a copy to your hand that costs #b0 until played. | One day, it shall be recycled too. |
 | ![](relics/sneckomod-SleevedAce.png) | Sleeved Ace | Shop | Snecko_cyan | At the start of each combat, add a #yCheat into your hand with #yRetain. | We're all aces. |

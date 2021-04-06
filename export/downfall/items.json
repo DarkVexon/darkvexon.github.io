@@ -1,10 +1,10 @@
 {
   "mod": {
     "name": "Downfall",
-    "version": "2004",
+    "version": "9.1.0",
     "authors": ["The Downfall Collab Team"],
     "credits": "",
-    "description": "Downfall Beta 2: Champy Style",
+    "description": "Downfall is a full-featured Expansion for Slay the Spire, including a new campaign, four new heroes to play, new relics, new cards, new potions, and more. \n \n The Heart demands that this endless cycle of slaughter be finished.  Answer the call as a Villain, and see to the defense of the Spire. \n \n This mod is a combination modpack which includes the former mods known as Slimebound Mod, Guardian Mod, and Playable Snecko, along with a ton of new content, a new character, and much more.",
     "mts_version": "3.8.0",
     "sts_version": "2.0",
     "dependencies": ["basemod","stslib"],
@@ -4097,7 +4097,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 12 damage.\nslimeboundmod:Consume - Heal HP equal to the enemy's slimeboundmod:Goop.\nExhaust."
+      "description": "Deal 12 damage.\nslimeboundmod:Consume - Heal HP equal to the enemy's slimeboundmod:Goop, up to 12.\nExhaust."
     },
     {
       "name": "Leech Life+",
@@ -4105,7 +4105,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 18 damage.\nslimeboundmod:Consume - Heal HP equal to the enemy's slimeboundmod:Goop.\nExhaust."
+      "description": "Deal 18 damage.\nslimeboundmod:Consume - Heal HP equal to the enemy's slimeboundmod:Goop, up to 18.\nExhaust."
     },
     {
       "name": "Liquidate",
@@ -4697,7 +4697,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 3 - 9 damage.\nGain 3 - 9 Block."
+      "description": "Deal 3 - 11 damage.\nGain 3 - 11 Block."
     },
     {
       "name": "Nope",
@@ -7081,7 +7081,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage.\nGain [E] if you have a card in guardianmod:Stasis.\n[ guardianmod:Socket ]"
+      "description": "Deal 7 damage.\nGain [E] if you have a card in guardianmod:Stasis.\n[ guardianmod:Socket ]"
     },
     {
       "name": "Temporal Strike+",
@@ -7089,7 +7089,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\nGain [E] if you have a card in guardianmod:Stasis.\n[ guardianmod:Socket ]"
+      "description": "Deal 10 damage.\nGain [E] if you have a card in guardianmod:Stasis.\n[ guardianmod:Socket ]"
     },
     {
       "name": "Tourmaline",
@@ -8655,7 +8655,7 @@
       "name": "Recycler",
       "tier": "Shop",
       "pool": "Hexa_ghost_purple",
-      "description": "The first time an Ethereal card is Exhausted each combat, add a copy to your hand that costs 0 until played.",
+      "description": "The first time an non-Status and non-Curse Ethereal card is Exhausted each combat, add a copy to your hand that costs 0 until played.",
       "flavorText": "One day, it shall be recycled too."
     },
     {
@@ -8950,6 +8950,14 @@
       "description": "Shuffle a card into your draw pile."
     },
     {
+      "name": "Technique",
+      "description": "If you are in a Stance, trigger its Technique bonus."
+    },
+    {
+      "name": "Finisher",
+      "description": "After playing a Finisher, if you are in a Stance, exit it and trigger its Finisher bonus."
+    },
+    {
       "name": "Berserker",
       "description": "Stance.\nTechnique Bonus: Fatigue 5.\nFinisher Bonus: Lose all Fatigue and gain that much HP, preserving Strength."
     },
@@ -8970,16 +8978,8 @@
       "description": "Lose HP and gain 1 Strength for every 10 HP lost. Regenerate Fatigued health at the end of combat."
     },
     {
-      "name": "Finisher",
-      "description": "After playing a Finisher, if you are in a Stance, exit it and trigger its Finisher bonus."
-    },
-    {
       "name": "Gladiator",
       "description": "Stance.\nTechnique Bonus: Draw a card.\nFinisher Bonus: Next turn, draw 1 card and gain [E] . End your turn."
-    },
-    {
-      "name": "Technique",
-      "description": "If you are in a Stance, trigger its Technique bonus."
     },
     {
       "name": "Ultimate Stance",

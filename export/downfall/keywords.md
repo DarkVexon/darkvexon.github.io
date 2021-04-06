@@ -5,14 +5,14 @@
 | Cycle | Discard a card, drawing a new card to replace it. |
 | Encode | Add the card to the Sequence. When 3 cards are in the Sequence, their effects (other than Encode) are merged into a Function with cost equal to the highest cost card in the Sequence. |
 | Insert | Shuffle a card into your draw pile. |
+| Technique | If you are in a Stance, trigger its Technique bonus. |
+| Finisher | After playing a Finisher, if you are in a Stance, exit it and trigger its Finisher bonus. |
 | Berserker | Stance. Technique Bonus: Fatigue 5. Finisher Bonus: Lose all Fatigue and gain that much HP, preserving Strength. |
 | Combo | Extra effect when played in the listed Stance, or if you entered that Stance this turn. |
 | Counter | The next time you take Attack damage, deal damage back. |
 | Defensive | Stance. Technique Bonus: Gain 5 Counter. Finisher Bonus: Gain 12 Block. |
 | Fatigue | Lose HP and gain 1 Strength for every 10 HP lost. Regenerate Fatigued health at the end of combat. |
-| Finisher | After playing a Finisher, if you are in a Stance, exit it and trigger its Finisher bonus. |
 | Gladiator | Stance. Technique Bonus: Draw a card. Finisher Bonus: Next turn, draw 1 card and gain [E] . End your turn. |
-| Technique | If you are in a Stance, trigger its Technique bonus. |
 | Ultimate Stance | Stance. Counts as both Defensive and Berserker Stances. Finishers do not exit the Stance. You can't change to any other Stance. |
 | Downfall:fire | Only Ammo can be fired. Firing Ammo activates its effect and discards it. |
 | Boss | You may only play 1 Boss card in a turn. |

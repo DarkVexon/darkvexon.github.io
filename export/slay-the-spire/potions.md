@@ -11,6 +11,7 @@
 | ![](potions/ExplosivePotion.png) | Explosive Potion | Common | Deal 10 damage to ALL enemies. |
 | ![](potions/FearPotion.png) | Fear Potion | Common | Apply 3 Vulnerable. |
 | ![](potions/FirePotion.png) | Fire Potion | Common | Deal 20 damage. |
+| ![](potions/FirePotion.png) | Fire Potion | Common | Deal 20 damage. |
 | ![](potions/FlexPotion.png) | Flex Potion | Common | Gain 5 Strength. At the end of your turn, lose 5 Strength. |
 | ![](potions/FocusPotion.png) | Focus Potion | Common | Gain 2 Focus. |
 | ![](potions/PoisonPotion.png) | Poison Potion | Common | Apply 6 Poison. |

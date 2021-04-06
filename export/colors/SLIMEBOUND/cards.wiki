@@ -495,7 +495,7 @@ The next Attack used on this enemy does not remove [[slimeboundmod:Goop]].
 |[[Attack]]
 |2
 |Deal 12 (18) damage.
-[[slimeboundmod:Consume]] - Heal HP equal to the enemy's [[slimeboundmod:Goop]].
+[[slimeboundmod:Consume]] - Heal HP equal to the enemy's [[slimeboundmod:Goop]], up to 12 (18).
 [[Exhaust]].
 |-
 |[[Liquidate]]

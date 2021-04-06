@@ -166,8 +166,8 @@ Maximum damage is increased by 1 for each Unknown card you started combat with.
 |Common
 |[[Attack]]
 |1
-|Deal 3 - 7 (9) damage.
-Gain 3 - 7 (9) [[Block]].
+|Deal 3 - 7 (11) damage.
+Gain 3 - 7 (11) [[Block]].
 |-
 |[[Nope]]
 |[[File:|thumb|289x289px]]
