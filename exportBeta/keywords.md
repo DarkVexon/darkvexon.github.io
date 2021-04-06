@@ -108,7 +108,7 @@
 | Gremlin:gremlin wizard | Whenever you play a skill, gain 1 Wiz. |
 | Gremlin:mad gremlin | Gain 2 Temporary Strength when attacked. |
 | Gremlin:shield gremlin | Whenever you play a skill, gain 2 Block. |
-| Gremlin:sneaky gremlin | Whenever you play an attack, deal 2 damage to a random enemy. |
+| Gremlin:sneaky gremlin | Whenever you play an attack, deal 3 damage to a random enemy. |
 | Gremlin:swap | Switch places with another character. Does nothing if there is no valid target. |
 | Gremlin:wiz | When you have at least three stacks of Wiz, attacks will consume all stacks to deal 10 additional damage. |
 | Innate | Start each combat with this card in your hand. |
@@ -129,7 +129,7 @@
 | Scry | Look at the top X cards of your draw pile. You may discard any of them. |
 | Shield gremlin | Whenever you play a skill, gain 2 Block. |
 | Shiv | Shivs are 0 cost Attack cards which Exhaust. |
-| Sneaky gremlin | Whenever you play an attack, deal 2 damage to a random enemy. |
+| Sneaky gremlin | Whenever you play an attack, deal 3 damage to a random enemy. |
 | Snecko | When drawn, this card randomizes its cost. |
 | Soulbound | Cannot be removed from your deck. |
 | Stance | You can only have one stance at a time. |

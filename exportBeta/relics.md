@@ -133,6 +133,7 @@
 | ![](slay-the-spire/relics/Girya.png) | Girya | Rare |  | You can now gain #yStrength at Rest Sites (up to 3 times). | This Girya is unfathomably heavy. You could train with this to get significantly stronger. |
 | ![](downfall/relics/champ-GladiatorsBookOfMartialProwess.png) | Gladiators Manual | Rare | The_champ_gray | Whenever you play a #yTechnique, a #yCombo, a #yFinisher, and enter a #yStance in the same turn, gain #b1 #yStrength and #yDexterity. | Try everything - something will stick. |
 | ![](slay-the-spire/relics/GoldenEye.png) | Golden Eye | Rare | Purple | Whenever you #yScry, #yScry #b2 additional cards. | See into the minds of those nearby, predicting their future moves. |
+| ![](downfall/relics/Gremlin-GremlinBomb.png) | Gremlin Bomb | Rare | Gremlin | Whenever a Gremlin dies, deal #b30 damage to ALL enemies. | Gremlins have an uncanny knack for finding dangerous things. Sometimes, they even survive looting them. |
 | ![](downfall/relics/Gremlin-GremlinGravestone.png) | Gremlin Gravestone | Rare | Gremlin | Dead Gremlins can be Resurrected at Rest Sites as a Free Action. | Where do gremlins go when they die? Not bloody far enough. |
 | ![](slay-the-spire/relics/IceCream.png) | Ice Cream | Rare |  | Energy is now conserved between turns. | "Delicious!" |
 | ![](slay-the-spire/relics/IncenseBurner.png) | Incense Burner | Rare |  | Every #b6 turns, gain #b1 #yIntangible. | The smoke imbues its owner with the spirit of the burned. |
@@ -147,7 +148,6 @@
 | ![](slay-the-spire/relics/PrayerWheel.png) | Prayer Wheel | Rare |  | Normal enemies drop an additional card reward. | The wheel continues to spin, never stopping. |
 | ![](downfall/relics/Gremlin-PricklyShields.png) | Prickly Shields | Rare |  | Whenever you gain #yBlock, deal #b2 damage to a random enemy. | Gremlins use whatever scraps they can find as weapons or armor. Some serve as both. |
 | ![](downfall/relics/Guardian-SackOfGems.png) | Sack of Gems | Rare | Guardian | Upon pickup, add #b5 random #yguardianmod:Gems to your deck. | Ooh... shiny! |
-| ![](downfall/relics/Gremlin-ShortStature.png) | Short Stature | Rare | Gremlin | The first time a Gremlin would die each combat, heal it to #b50% of your Max HP instead. | It is easy to get away with mischief if you are literally beneath their notice. |
 | ![](slay-the-spire/relics/Shovel.png) | Shovel | Rare |  | You can now #yDig for relics at Rest Sites. | The Spire houses all number of relics from past civilizations and powerful adventurers lost to time. Time to go dig them up! |
 | ![](downfall/relics/champ-SignatureFinisher.png) | Signature Finisher | Rare | The_champ_gray | Upon pickup, choose a #yFinisher. This #yFinisher costs 0, can be used without a #yStance, and never causes your #yStance to be exited. | And now, it's time for my ULTIMATE MOVE! |
 | ![](downfall/relics/hexamod-Sixitude.png) | Six-Point Brand | Rare |  | Whenever you play #b6 cards, deal #b6 damage to a random enemy. | Fire, fire, fire, fire, fire, FIRE! |
@@ -226,9 +226,9 @@
 | ![](slay-the-spire/relics/EmptyCage.png) | Empty Cage | Boss |  | Upon pickup, remove #b2 cards from your deck. | "How unusual to cage that which you worship." - Ranwid |
 | ![](slay-the-spire/relics/FrozenCore.png) | Frozen Core | Boss | Blue | Replaces #bCracked #bCore. If you end your turn with any empty Orb slots, #yChannel #b1 #yFrost. | The crack in your core has been filled with a pulsating cold energy. |
 | ![](slay-the-spire/relics/FusionHammer.png) | Fusion Hammer | Boss |  | Gain [E] at the start of your turn. You can no longer #ySmith at Rest Sites. | Once wielded, the owner can never let go. |
-| ![](downfall/relics/Gremlin-GremlinBomb.png) | Gremlin Bomb | Boss | Gremlin | Whenever a Gremlin dies, deal #b40 damage to ALL enemies. | Gremlins have an uncanny knack for finding dangerous things. Sometimes, they even survive looting them. |
 | ![](downfall/relics/Gremlin-LeaderVoucher.png) | Gremlin Leader's Voucher | Boss | Gremlin | Gain [E] at the start of your turn. NL Upon pickup, #rpermanently #rlose #ra #rGremlin.Gain [E] at the start of your turn. NL Upon pickup, #rpermanently #rlose #ra #rGremlin. | IOU 1 Gremlin |
 | ![](downfall/relics/Guardian-ModeShifterPlus.png) | Guardian Gear | Boss | Guardian | Replaces #rBronze #rGear. NL Begin each combat in #yguardianmod:Defensive_Mode, which persists for #b3 turns. | Replace every 3,000 floors. |
+| ![](downfall/relics/Hecktoplasm.png) | Hecktoplasm | Boss |  | You can no longer gain #ySouls. Breaking Keys costs no #ySouls. Gain [E] at the start of your turn. | This blob of slime seems to pulse with the energy of hundreds of souls. No wonder no one wanted it. |
 | ![](slay-the-spire/relics/HolyWater.png) | Holy Water | Boss | Purple | Replaces #pPure #pWater. At the start of each combat, add #b3 #yMiracles into your hand. | Collected from a time before the Spire. |
 | ![](slay-the-spire/relics/HoveringKite.png) | Hovering Kite | Boss | Green | The first time you discard a card each turn, gain [E] . | The Kite floats around you in battle, propelled by a mysterious force. |
 | ![](downfall/relics/sneckomod-SneckoTalon.png) | Idol of Retromation | Boss |  | At the start of your turn, reduce the cost of the most expensive card in your hand by #b1 for this turn. | Often called the Idol of Reto for short. |
@@ -237,7 +237,7 @@
 | ![](downfall/relics/bronze-MakeshiftBattery.png) | Makeshift Battery | Boss |  | Gain [E] and add a random #yStatus card into your discard pile at the start of your turn. | It's an 8.99 volt. |
 | ![](slay-the-spire/relics/MarkofPain.png) | Mark of Pain | Boss | Red | Gain [R] at the start of your turn. At the start of combat, shuffle #b2 #rWounds into your draw pile. | This brand was used by the northern tribes to signify warriors who had mastered pain in battle. |
 | ![](downfall/relics/hexamod-UnbrokenSoul.png) | Mark of the Ether | Boss | Hexa_ghost_purple | Replaces [#723e6dff]Spirit[] [#723e6dff]Brand[][#723e6dff].[] NL The first time you #yIgnite a Ghostflame each turn, gain [E] . | Let’s see if we can do... better. |
-| ![](downfall/relics/Gremlin-GremlinKnobUpgrade.png) | Mob Leader's Crown | Boss | Gremlin | Replaces #rMob #rLeader's #rStaff. NL The first time you shuffle your deck each turn, gain [E] , draw #b1 card, and #ySwap to the next Gremlin. | The fancier the symbol of office, the more likely it is to be stolen. |
+| ![](downfall/relics/Gremlin-GremlinKnobUpgrade.png) | Mob Leader's Crown | Boss | Gremlin | Replaces #rMob #rLeader's #rStaff. NL The first time you shuffle your draw pile each turn, gain [E] , draw #b1 card, and #ySwap to the next Gremlin. | The fancier the symbol of office, the more likely it is to be stolen. |
 | ![](slay-the-spire/relics/NuclearBattery.png) | Nuclear Battery | Boss | Blue | At the start of each combat, #yChannel #b1 #yPlasma. | Ooooh... |
 | ![](slay-the-spire/relics/PandorasBox.png) | Pandora's Box | Boss |  | Upon pickup, #bTransform all Strike and Defend cards. | You have a bad feeling about opening this. |
 | ![](slay-the-spire/relics/PhilosophersStone.png) | Philosopher's Stone | Boss |  | Gain [E] at the start of your turn. ALL enemies start combat with #b1 #yStrength. | Raw energy emanates from the stone, empowering all nearby. |
@@ -248,6 +248,7 @@
 | ![](slay-the-spire/relics/RunicDome.png) | Runic Dome | Boss |  | Gain [E] at the start of your turn. You can no longer see enemy intents. | The runes are indecipherable. |
 | ![](slay-the-spire/relics/RunicPyramid.png) | Runic Pyramid | Boss |  | At the end of your turn, you no longer discard your hand. | The runes are indecipherable. |
 | ![](slay-the-spire/relics/SacredBark.png) | Sacred Bark | Boss |  | Double the effectiveness of potions. | A bark rumored to originate from the World tree. |
+| ![](downfall/relics/Gremlin-ShortStature.png) | Short Stature | Boss | Gremlin | The first time a Gremlin would die each combat, heal it to #b75% of your Max HP instead. | It is easy to get away with mischief if you are literally beneath their notice. |
 | ![](slay-the-spire/relics/SlaversCollar.png) | Slaver's Collar | Boss |  | During Boss and Elite combats, gain [E] at the start of your turn. | Rusty miserable chains. |
 | ![](slay-the-spire/relics/SneckoEye.png) | Snecko Eye | Boss |  | At the start of your turn, draw #b2 additional cards. Start each combat #yConfused. | An eye of a fallen snecko. Much larger than you imagined. |
 | ![](slay-the-spire/relics/Sozu.png) | Sozu | Boss |  | Gain [E] at the start of your turn. You can no longer obtain potions. | You notice that magical liquids seem to lose their properties when near this relic. |

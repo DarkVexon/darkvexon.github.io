@@ -7610,8 +7610,8 @@
       "color": "Hexa_ghost_purple",
       "rarity": "Common",
       "type": "Skill",
-      "cost": "1",
-      "description": "Ethereal. hexamod:Afterlife.\nApply 15 hexamod:Soulburn to ALL enemies.",
+      "cost": "2",
+      "description": "Ethereal. hexamod:Afterlife.\nApply 20 hexamod:Soulburn to ALL enemies.",
       "mod": "Downfall"
     },
     {
@@ -7619,8 +7619,8 @@
       "color": "Hexa_ghost_purple",
       "rarity": "Common",
       "type": "Skill",
-      "cost": "1",
-      "description": "Ethereal. hexamod:Afterlife.\nApply 20 hexamod:Soulburn to ALL enemies.",
+      "cost": "2",
+      "description": "Ethereal. hexamod:Afterlife.\nApply 28 hexamod:Soulburn to ALL enemies.",
       "mod": "Downfall"
     },
     {
@@ -7656,7 +7656,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Ethereal. hexamod:Afterlife.\nGain 15 Block.\nIf you Exhausted a card last turn, gain 1 bronze:Blur.",
+      "description": "Ethereal. hexamod:Afterlife.\nGain 10 Block.\nIf you Exhausted a card last turn, gain 1 bronze:Blur.",
       "mod": "Downfall"
     },
     {
@@ -11688,7 +11688,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 3 temporary Thorns.\nSwap to Mad_Gremlin.",
+      "description": "Gain 6 Block.\nGain 3 temporary Thorns.\nSwap to Mad_Gremlin.",
       "mod": "Downfall"
     },
     {
@@ -11697,7 +11697,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 5 temporary Thorns.\nSwap to Mad_Gremlin.",
+      "description": "Gain 8 Block.\nGain 5 temporary Thorns.\nSwap to Mad_Gremlin.",
       "mod": "Downfall"
     },
     {
@@ -11850,7 +11850,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw 3 cards. Discard all cards draw this way that are not Attacks.\nSwap to Sneaky_Gremlin.",
+      "description": "Draw 3 cards. Discard all cards drawn this way that are not Attacks.\nSwap to Sneaky_Gremlin.",
       "mod": "Downfall"
     },
     {
@@ -11859,7 +11859,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw 5 cards. Discard all cards draw this way that are not Attacks.\nSwap to Sneaky_Gremlin.",
+      "description": "Draw 5 cards. Discard all cards drawn this way that are not Attacks.\nSwap to Sneaky_Gremlin.",
       "mod": "Downfall"
     },
     {
@@ -12678,7 +12678,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "3",
-      "description": "Costs 1 less [E] for each 2 Strength you have.\nDeal 7 damage thrice.",
+      "description": "Costs 1 less [E] for every 2 Strength you have.\nDeal 7 damage three times.",
       "mod": "Downfall"
     },
     {
@@ -12687,7 +12687,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "3",
-      "description": "Costs 1 less [E] for each 2 Strength you have.\nDeal 9 damage thrice.",
+      "description": "Costs 1 less [E] for every 2 Strength you have.\nDeal 9 damage three times.",
       "mod": "Downfall"
     },
     {
@@ -17969,6 +17969,14 @@
       "mod": ""
     },
     {
+      "name": "Gremlin Bomb",
+      "tier": "Rare",
+      "pool": "Gremlin",
+      "description": "Whenever a Gremlin dies, deal 30 damage to ALL enemies.",
+      "flavorText": "Gremlins have an uncanny knack for finding dangerous things. Sometimes, they even survive looting them.",
+      "mod": "Downfall"
+    },
+    {
       "name": "Gremlin Gravestone",
       "tier": "Rare",
       "pool": "Gremlin",
@@ -18078,14 +18086,6 @@
       "pool": "Guardian",
       "description": "Upon pickup, add 5 random guardianmod:Gems to your deck.",
       "flavorText": "Ooh... shiny!",
-      "mod": "Downfall"
-    },
-    {
-      "name": "Short Stature",
-      "tier": "Rare",
-      "pool": "Gremlin",
-      "description": "The first time a Gremlin would die each combat, heal it to 50% of your Max HP instead.",
-      "flavorText": "It is easy to get away with mischief if you are literally beneath their notice.",
       "mod": "Downfall"
     },
     {
@@ -18713,14 +18713,6 @@
       "mod": ""
     },
     {
-      "name": "Gremlin Bomb",
-      "tier": "Boss",
-      "pool": "Gremlin",
-      "description": "Whenever a Gremlin dies, deal 40 damage to ALL enemies.",
-      "flavorText": "Gremlins have an uncanny knack for finding dangerous things. Sometimes, they even survive looting them.",
-      "mod": "Downfall"
-    },
-    {
       "name": "Gremlin Leader's Voucher",
       "tier": "Boss",
       "pool": "Gremlin",
@@ -18734,6 +18726,14 @@
       "pool": "Guardian",
       "description": "Replaces Bronze Gear.\nBegin each combat in guardianmod:Defensive_Mode, which persists for 3 turns.",
       "flavorText": "Replace every 3,000 floors.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Hecktoplasm",
+      "tier": "Boss",
+      "pool": "",
+      "description": "You can no longer gain Souls. Breaking Keys costs no Souls. Gain [E] at the start of your turn.",
+      "flavorText": "This blob of slime seems to pulse with the energy of hundreds of souls. No wonder no one wanted it.",
       "mod": "Downfall"
     },
     {
@@ -18804,7 +18804,7 @@
       "name": "Mob Leader's Crown",
       "tier": "Boss",
       "pool": "Gremlin",
-      "description": "Replaces Mob Leader's Staff.\nThe first time you shuffle your deck each turn, gain [E] , draw 1 card, and Swap to the next Gremlin.",
+      "description": "Replaces Mob Leader's Staff.\nThe first time you shuffle your draw pile each turn, gain [E] , draw 1 card, and Swap to the next Gremlin.",
       "flavorText": "The fancier the symbol of office, the more likely it is to be stolen.",
       "mod": "Downfall"
     },
@@ -18887,6 +18887,14 @@
       "description": "Double the effectiveness of potions.",
       "flavorText": "A bark rumored to originate from the World tree.",
       "mod": ""
+    },
+    {
+      "name": "Short Stature",
+      "tier": "Boss",
+      "pool": "Gremlin",
+      "description": "The first time a Gremlin would die each combat, heal it to 75% of your Max HP instead.",
+      "flavorText": "It is easy to get away with mischief if you are literally beneath their notice.",
+      "mod": "Downfall"
     },
     {
       "name": "Slaver's Collar",
@@ -20976,7 +20984,7 @@
     },
     {
       "name": "Gremlin:sneaky gremlin",
-      "description": "Whenever you play an attack, deal 2 damage to a random enemy.",
+      "description": "Whenever you play an attack, deal 3 damage to a random enemy.",
       "names": ["gremlin:sneaky_gremlin"],
       "mod": "Downfall"
     },
@@ -21102,7 +21110,7 @@
     },
     {
       "name": "Sneaky gremlin",
-      "description": "Whenever you play an attack, deal 2 damage to a random enemy.",
+      "description": "Whenever you play an attack, deal 3 damage to a random enemy.",
       "names": ["sneaky_gremlin"],
       "mod": "Downfall"
     },

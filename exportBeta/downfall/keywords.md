@@ -29,7 +29,7 @@
 | Gremlin:gremlin wizard | Whenever you play a skill, gain 1 Wiz. |
 | Gremlin:mad gremlin | Gain 2 Temporary Strength when attacked. |
 | Gremlin:shield gremlin | Whenever you play a skill, gain 2 Block. |
-| Gremlin:sneaky gremlin | Whenever you play an attack, deal 2 damage to a random enemy. |
+| Gremlin:sneaky gremlin | Whenever you play an attack, deal 3 damage to a random enemy. |
 | Gremlin:swap | Switch places with another character. Does nothing if there is no valid target. |
 | Gremlin:wiz | When you have at least three stacks of Wiz, attacks will consume all stacks to deal 10 additional damage. |
 | Accelerate | Reduce the turn counter of the right-most card in Stasis by 1. If the card's turn counter is now 0, return it to your hand. It costs 0 until played. |
@@ -81,7 +81,7 @@
 | Tackle | High-damage Attacks that also deal a small amount of damage to you. |
 | Time Slime | Attacks for 4 and applies 1 Weak each turn. |
 | Torch Head Slime | Attacks for 6 each turn. Gains damage from your Strength. |
-| Sneaky gremlin | Whenever you play an attack, deal 2 damage to a random enemy. |
+| Sneaky gremlin | Whenever you play an attack, deal 3 damage to a random enemy. |
 | Muddle | Muddling a card changes its cost to between 0 and 3. |
 | Offclass | An Offclass card is any obtainable card from a class other than your own (including Colorless cards). |
 | Snekproof | Snekproof cards aren't affected by Confusion and cannot be Muddled. |

@@ -110,7 +110,8 @@ Add 2 ([[Upgraded]]) Wards to your hand.
 |Common
 |[[Skill]]
 |1
-|Gain 3 (5) temporary [[Thorns]].
+|Gain 6 (8) [[Block]].
+Gain 3 (5) temporary [[Thorns]].
 [[Swap]] to [[Mad_Gremlin]].
 |-
 |[[Jeer]]
@@ -180,7 +181,7 @@ Do 5 damage otherwise.
 |Common
 |[[Skill]]
 |1
-|Draw 3 (5) cards. Discard all cards draw this way that are not Attacks.
+|Draw 3 (5) cards. Discard all cards drawn this way that are not Attacks.
 [[Swap]] to [[Sneaky_Gremlin]].
 |-
 |[[Twist The Knife]]
@@ -546,8 +547,8 @@ Whenever you would gain [[Block]] this turn, instead deal that much damage to AL
 |Rare
 |[[Attack]]
 |3
-|Costs 1 less [E] for each 2 [[Strength]] you have.
-Deal 7 (9) damage thrice.
+|Costs 1 less [E] for every 2 [[Strength]] you have.
+Deal 7 (9) damage three times.
 |-
 |[[NOB]]
 |[[File:|thumb|289x289px]]

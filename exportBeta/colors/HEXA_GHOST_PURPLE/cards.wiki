@@ -86,9 +86,9 @@ Apply 7 (9) [[hexamod:Soulburn]].
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
-|1
+|2
 |[[Ethereal]]. [[hexamod:Afterlife]].
-Apply 15 (20) [[hexamod:Soulburn]] to ALL enemies.
+Apply 20 (28) [[hexamod:Soulburn]] to ALL enemies.
 |-
 |[[Ghost Lash]]
 |[[File:|thumb|289x289px]]
@@ -105,7 +105,7 @@ If you [[Exhausted]] a card last turn, deal 8 (11) damage.
 |[[Skill]]
 |1
 |[[Ethereal]]. [[hexamod:Afterlife]].
-Gain 6 (15) [[Block]].
+Gain 6 (10) [[Block]].
 If you [[Exhausted]] a card last turn, gain 1 [[bronze:Blur]].
 |-
 |[[Haunting Echo]]

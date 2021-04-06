@@ -61,9 +61,9 @@
 | Burning Touch | ![](small-card-images/Hexa_ghost-BurningTouch.png) | ![](small-card-images/Hexa_ghost-BurningTouchPlus.png) | Common | Skill | 1 | If the enemy has hexamod:Soulburn, apply 7 (11) hexamod:Soulburn. Apply 7 (11) hexamod:Soulburn. |
 | Fast Forward | ![](small-card-images/Hexa_ghost-FastForward.png) | ![](small-card-images/Hexa_ghost-FastForwardPlus.png) | Common | Skill | 1 | Ethereal. (not Ethereal.) hexamod:Ignite the current Ghostflame. hexamod:Advance. |
 | Firestarter | ![](small-card-images/Hexa_ghost-Firestarter.png) | ![](small-card-images/Hexa_ghost-FirestarterPlus.png) | Common | Attack | 1 | Deal 7 (9) damage. Apply 7 (9) hexamod:Soulburn. |
-| Flames from Beyond | ![](small-card-images/Hexa_ghost-FlamesfromBeyond.png) | ![](small-card-images/Hexa_ghost-FlamesfromBeyondPlus.png) | Common | Skill | 1 | Ethereal. hexamod:Afterlife. Apply 15 (20) hexamod:Soulburn to ALL enemies. |
+| Flames from Beyond | ![](small-card-images/Hexa_ghost-FlamesfromBeyond.png) | ![](small-card-images/Hexa_ghost-FlamesfromBeyondPlus.png) | Common | Skill | 2 | Ethereal. hexamod:Afterlife. Apply 20 (28) hexamod:Soulburn to ALL enemies. |
 | Ghost Lash | ![](small-card-images/Hexa_ghost-GhostLash.png) | ![](small-card-images/Hexa_ghost-GhostLashPlus.png) | Common | Attack | 1 | Ethereal. hexamod:Afterlife. Deal 8 (11) damage. If you Exhausted a card last turn, deal 8 (11) damage. |
-| Ghost Shield | ![](small-card-images/Hexa_ghost-GhostShield.png) | ![](small-card-images/Hexa_ghost-GhostShieldPlus.png) | Common | Skill | 1 | Ethereal. hexamod:Afterlife. Gain 6 (15) Block. If you Exhausted a card last turn, gain 1 bronze:Blur. |
+| Ghost Shield | ![](small-card-images/Hexa_ghost-GhostShield.png) | ![](small-card-images/Hexa_ghost-GhostShieldPlus.png) | Common | Skill | 1 | Ethereal. hexamod:Afterlife. Gain 6 (10) Block. If you Exhausted a card last turn, gain 1 bronze:Blur. |
 | Haunting Echo | ![](small-card-images/Hexa_ghost-HauntingEcho.png) | ![](small-card-images/Hexa_ghost-HauntingEchoPlus.png) | Common | Attack | 1 | Deal 8 (11) damage. Return a random Exhausted Afterlife card to your discard pile. |
 | Heat Metal | ![](small-card-images/Hexa_ghost-HeatMetal.png) | ![](small-card-images/Hexa_ghost-HeatMetalPlus.png) | Common | Attack | 1 | Deal 8 (10) damage. After hexamod:Soulburn detonates on this enemy, apply 12 (18) hexamod:Soulburn. |
 | Hexaguard | ![](small-card-images/Hexa_ghost-Hexaguard.png) | ![](small-card-images/Hexa_ghost-HexaguardPlus.png) | Common | Skill | 1 | Ethereal. hexamod:Afterlife. Gain 7 (10) Block. Draw 1 card. |
@@ -288,7 +288,7 @@
 | Glimmer | ![](small-card-images/Gremlin-Glimmer.png) | ![](small-card-images/Gremlin-GlimmerPlus.png) | Common | Attack | 1 | Deal 1 (4) damage. Add 2 (Upgraded) Wards to your hand. |
 | Glitter Guard | ![](small-card-images/Gremlin-GlitterGuard.png) | ![](small-card-images/Gremlin-GlitterGuardPlus.png) | Common | Skill | 1 | Add 2 (Upgraded) Wards to your hand. Swap to Shield_Gremlin. |
 | Gremlin Arms | ![](small-card-images/Gremlin-GremlinArms.png) | ![](small-card-images/Gremlin-GremlinArmsPlus.png) | Common | Skill | 1 | Add a random assortment of 2 (3) Shivs and Wards to your hand. |
-| Irritability | ![](small-card-images/Gremlin-Irritability.png) | ![](small-card-images/Gremlin-IrritabilityPlus.png) | Common | Skill | 1 | Gain 3 (5) temporary Thorns. Swap to Mad_Gremlin. |
+| Irritability | ![](small-card-images/Gremlin-Irritability.png) | ![](small-card-images/Gremlin-IrritabilityPlus.png) | Common | Skill | 1 | Gain 6 (8) Block. Gain 3 (5) temporary Thorns. Swap to Mad_Gremlin. |
 | Jeer | ![](small-card-images/Gremlin-Jeer.png) | ![](small-card-images/Gremlin-JeerPlus.png) | Common | Attack | 1 | Deal 7 (11) damage. If the enemy has a debuff, gain 3 (4) Temporary HP. |
 | Patsy | ![](small-card-images/Gremlin-Patsy.png) | ![](small-card-images/Gremlin-PatsyPlus.png) | Common | Skill | 0 | Gain 4 (6) Block. Swap to the next Gremlin. |
 | Pinprick | ![](small-card-images/Gremlin-Pinprick.png) | ![](small-card-images/Gremlin-PinprickPlus.png) | Common | Attack | 0 | (Whenever you draw this card, add an Echo of it to your hand.)  Deal 1 damage. Draw a card. Exhaust. |
@@ -297,7 +297,7 @@
 | Pretaliation | ![](small-card-images/Gremlin-Pretaliation.png) | ![](small-card-images/Gremlin-PretaliationPlus.png) | Common | Attack | 2 | Deal 20 (27) damage if the enemy intends to attack. Do 5 damage otherwise. |
 | Tadah! | ![](small-card-images/Gremlin-Tadah!.png) | ![](small-card-images/Gremlin-Tadah!Plus.png) | Common | Skill | 1 | Add an Echo of a random Skill to your hand. (It costs 1 less.) Swap to Gremlin_Wizard. |
 | Toe Stub | ![](small-card-images/Gremlin-ToeStub.png) | ![](small-card-images/Gremlin-ToeStubPlus.png) | Common | Attack | 1 | Deal 5 (8) damage. If the enemy is Weak, apply 2 (3) Vulnerable. |
-| Tricksy | ![](small-card-images/Gremlin-Tricksy.png) | ![](small-card-images/Gremlin-TricksyPlus.png) | Common | Skill | 1 | Draw 3 (5) cards. Discard all cards draw this way that are not Attacks. Swap to Sneaky_Gremlin. |
+| Tricksy | ![](small-card-images/Gremlin-Tricksy.png) | ![](small-card-images/Gremlin-TricksyPlus.png) | Common | Skill | 1 | Draw 3 (5) cards. Discard all cards drawn this way that are not Attacks. Swap to Sneaky_Gremlin. |
 | Twist The Knife | ![](small-card-images/Gremlin-TwistTheKnife.png) | ![](small-card-images/Gremlin-TwistTheKnifePlus.png) | Common | Attack | 1 | Deal 6 (9) damage. Add 1 (Upgraded) Shiv to your hand. |
 | Aggressive Defense | ![](small-card-images/Gremlin-AggressiveDefense.png) | ![](small-card-images/Gremlin-AggressiveDefensePlus.png) | Uncommon | Attack | 1 | Deal 6 (8) damage. Whenever you gain Block this turn, targeted enemy loses 3 (5) HP. |
 | Arms Theft | ![](small-card-images/Gremlin-ArmsTheft.png) | ![](small-card-images/Gremlin-ArmsTheftPlus.png) | Uncommon | Skill | 2 | Steal 2 (3) Strength. Exhaust. |
@@ -343,7 +343,7 @@
 | Exacerbate | ![](small-card-images/Gremlin-Exacerbate.png) | ![](small-card-images/Gremlin-ExacerbatePlus.png) | Rare | Attack | 2 | Deal 8 (12) damage. Cripple the enemy. Exhaust. |
 | Fairy Dust | ![](small-card-images/Gremlin-FairyDust.png) | ![](small-card-images/Gremlin-FairyDustPlus.png) | Rare | Skill | 0 | Add 2 (3) Wards to your hand and draw 2 (3) cards. Exhaust. |
 | Flip Out | ![](small-card-images/Gremlin-FlipOut.png) | ![](small-card-images/Gremlin-FlipOutPlus.png) | Rare | Attack | 1 | Deal 6 (9) damage to ALL enemies. Whenever you would gain Block this turn, instead deal that much damage to ALL enemies. |
-| Fury | ![](small-card-images/Gremlin-Fury.png) | ![](small-card-images/Gremlin-FuryPlus.png) | Rare | Attack | 3 | Costs 1 less [E] for each 2 Strength you have. Deal 7 (9) damage thrice. |
+| Fury | ![](small-card-images/Gremlin-Fury.png) | ![](small-card-images/Gremlin-FuryPlus.png) | Rare | Attack | 3 | Costs 1 less [E] for every 2 Strength you have. Deal 7 (9) damage three times. |
 | NOB | ![](small-card-images/Gremlin-NOB.png) | ![](small-card-images/Gremlin-NOBPlus.png) | Rare | Power | 4 | Gain 20 (35) Temporary HP. Mutate into Gremlin Nob until you run out of Temporary HP. |
 | Necromancy | ![](small-card-images/Gremlin-Necromancy.png) | ![](small-card-images/Gremlin-NecromancyPlus.png) | Rare | Skill | 1 | Can only be played if you have 5 or more Wiz. Consume all Wiz to resurrect a random Gremlin with 10 (15) HP. Exhaust. |
 | Second Volley | ![](small-card-images/Gremlin-SecondVolley.png) | ![](small-card-images/Gremlin-SecondVolleyPlus.png) | Rare | Attack | 2 | Deal 6 (8) damage. Add a (an upgraded) Shiv to your hand for each card played this turn |
