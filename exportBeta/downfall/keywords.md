@@ -15,6 +15,7 @@
 | Gladiator | Stance. Technique Bonus: Draw a card. Finisher Bonus: Next turn, draw 1 card and gain [E] . End your turn. |
 | Ultimate Stance | Stance. Counts as both Defensive and Berserker Stances. Finishers do not exit the Stance. You can't change to any other Stance. |
 | Boss | You may only play 1 Boss card in a turn. |
+| Exhume | Put a card from your exhaust pile into your hand. |
 | Invincible | You cannot lose more than a given amount of HP in a single turn. At the end of any round in which Invincible prevented HP loss, remove it. |
 | Agony | Creatures in Agony deal 80% less damage with Attacks. |
 | Cripple | Crippled enemies can no longer lose Weak. At the end of their turn, they lose HP equal to their Weak. |

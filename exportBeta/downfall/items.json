@@ -577,7 +577,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "expansioncontent:Boss - Ancients.\nGain 7 Block twice. Increase this card's Block by 1.\nNext turn, Exhume Donu Blast.\nExhaust."
+      "description": "expansioncontent:Boss - Ancients.\nGain 7 Block twice. Increase this card's Block by 1.\nNext turn, expansioncontent:Exhume Donu Blast.\nExhaust."
     },
     {
       "name": "Deca Shield+",
@@ -585,7 +585,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "expansioncontent:Boss - Ancients.\nGain 9 Block twice. Increase this card's Block by 1.\nNext turn, Exhume Donu Blast+.\nExhaust."
+      "description": "expansioncontent:Boss - Ancients.\nGain 9 Block twice. Increase this card's Block by 1.\nNext turn, expansioncontent:Exhume Donu Blast+.\nExhaust."
     },
     {
       "name": "Automa-Beam",
@@ -641,7 +641,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "expansioncontent:Boss - Ancients.\nDeal 9 damage twice. Increase this card's damage by 2.\nNext turn, add a Deca Shield into your hand, or Exhume it.\nExhaust."
+      "description": "expansioncontent:Boss - Ancients.\nDeal 9 damage twice. Increase this card's damage by 2.\nNext turn, add a Deca Shield into your hand, or expansioncontent:Exhume it.\nExhaust."
     },
     {
       "name": "Donu Blast+",
@@ -649,7 +649,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "expansioncontent:Boss - Ancients.\nDeal 12 damage twice. Increase this card's damage by 2.\nNext turn, add a Deca Shield+ into your hand, or Exhume it.\nExhaust."
+      "description": "expansioncontent:Boss - Ancients.\nDeal 12 damage twice. Increase this card's damage by 2.\nNext turn, add a Deca Shield+ into your hand, or expansioncontent:Exhume it.\nExhaust."
     },
     {
       "name": "Guardian Whirl",
@@ -10368,6 +10368,10 @@
     {
       "name": "Boss",
       "description": "You may only play 1 Boss card in a turn."
+    },
+    {
+      "name": "Exhume",
+      "description": "Put a card from your exhaust pile into your hand."
     },
     {
       "name": "Invincible",
