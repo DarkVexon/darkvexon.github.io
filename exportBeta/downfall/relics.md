@@ -14,7 +14,7 @@
 | ![](relics/champ-DefensiveTrainingManual.png) | Defensive Thesis | Common | The_champ_gray | Defensive Stance's #yFinisher #yBonus grants #b8 more #yBlock. | Pro tip: Don't get hit. |
 | ![](relics/champ-FightingForDummies.png) | Fighting for Dummies | Common | The_champ_gray | If you end your turn while in no #yStance, gain #b6 #yBlock. | Step 1. Defeat the enemy |
 | ![](relics/Gremlin-FragmentationGrenade.png) | Fragmentation Grenade | Common | Gremlin | Damage dealt to random enemies is increased by #b3. | Nobody dares to ask where the Gremlin got it from. |
-| ![](relics/Slimebound-StickyStick.png) | Gelatinous Cube | Common |  | Whenever you draw a #rCurse or #yStatus card, draw #b1 card. | Hey, it stuck to your body. |
+| ![](relics/Slimebound-StickyStick.png) | Gelatinous Cube | Common |  | Whenever you draw a #yStatus card, draw #b1 card. | Hey, it stuck to your body. |
 | ![](relics/Slimebound-AggressiveSlimeRelic.png) | Goop Dweller | Common | Slimebound | At the start of combat, #yslimeboundmod:Split into a #yslimeboundmod:Bruiser Slime. | He followed me home. Can I keep it? |
 | ![](relics/sneckomod-LoadedDie.png) | Loaded Die | Common | Snecko_cyan | Cards that choose random numbers have +1 minimum. | Cheese-stuffed. |
 | ![](relics/Guardian-PickAxe.png) | Pick of Rhapsody | Common | Guardian | You can now #gMine for #b2 #yguardianmod:Gems at Rest Sites (up to #b3 times). | With as many gemstones that litter the Spire, it is hard to imagine anyone so unlucky to have needed this Pick to aid them. |

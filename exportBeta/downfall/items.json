@@ -569,7 +569,7 @@
       "rarity": "Curse",
       "type": "Curse",
       "cost": "",
-      "description": "Unplayable.\nWhen drawn, fill your hand with Echoes of this card."
+      "description": "Unplayable.\nWhen drawn, if it is your turn, fill your hand with Echoes of this card."
     },
     {
       "name": "Deca Shield",
@@ -577,7 +577,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nexpansioncontent:Boss - Ancients.\nGain 14 Block.\nNext turn, add a Donu Blast with Ethereal into your hand.\nExhaust."
+      "description": "expansioncontent:Boss - Ancients.\nGain 7 Block twice. Increase this card's Block by 1.\nNext turn, Exhume Donu Blast.\nExhaust."
     },
     {
       "name": "Deca Shield+",
@@ -585,7 +585,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nexpansioncontent:Boss - Ancients.\nGain 18 Block.\nNext turn, add a Donu Blast+ with Ethereal into your hand.\nExhaust."
+      "description": "expansioncontent:Boss - Ancients.\nGain 9 Block twice. Increase this card's Block by 1.\nNext turn, Exhume Donu Blast+.\nExhaust."
     },
     {
       "name": "Automa-Beam",
@@ -641,7 +641,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "expansioncontent:Boss - Ancients.\nDeal 9 damage twice.\nNext turn, add a Deca Shield into your hand.\nExhaust."
+      "description": "expansioncontent:Boss - Ancients.\nDeal 9 damage twice. Increase this card's damage by 2.\nNext turn, add a Deca Shield into your hand, or Exhume it.\nExhaust."
     },
     {
       "name": "Donu Blast+",
@@ -649,7 +649,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "expansioncontent:Boss - Ancients.\nDeal 12 damage twice.\nNext turn, add a Deca Shield+ into your hand.\nExhaust."
+      "description": "expansioncontent:Boss - Ancients.\nDeal 12 damage twice. Increase this card's damage by 2.\nNext turn, add a Deca Shield+ into your hand, or Exhume it.\nExhaust."
     },
     {
       "name": "Guardian Whirl",
@@ -4233,7 +4233,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Next turn, gain [E] [E] [E] and 3 Strength, and add SLIME CRUSH to your hand."
+      "description": "Next turn, gain [E] [E] [E] and 3 Strength, and add SLIME CRUSH to your hand.\nExhaust."
     },
     {
       "name": "Prepare: Crush+",
@@ -4241,7 +4241,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Next turn, gain [E] [E] [E] [E] and 3 Strength, and add SLIME CRUSH+ to your hand."
+      "description": "Next turn, gain [E] [E] [E] [E] and 3 Strength, and add SLIME CRUSH+ to your hand.\nExhaust."
     },
     {
       "name": "Rally the Troops",
@@ -4409,7 +4409,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "0",
-      "description": "Swap to a living Gremlin of your choice."
+      "description": "gremlin:Swap to a living Gremlin of your choice."
     },
     {
       "name": "Tag Team+",
@@ -4417,7 +4417,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nSwap to a living Gremlin of your choice."
+      "description": "Retain.\ngremlin:Swap to a living Gremlin of your choice."
     },
     {
       "name": "Bubble Barrier",
@@ -4441,7 +4441,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 5 Temporary HP.\nSwap to Fat_Gremlin."
+      "description": "Gain 5 Temporary HP.\ngremlin:Swap to gremlin:Fat_Gremlin."
     },
     {
       "name": "Bulk Up+",
@@ -4449,7 +4449,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 8 Temporary HP.\nSwap to Fat_Gremlin."
+      "description": "Gain 8 Temporary HP.\ngremlin:Swap to gremlin:Fat_Gremlin."
     },
     {
       "name": "Cat Scratch",
@@ -4473,7 +4473,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 8 Block and 1 Wiz."
+      "description": "Gain 8 Block and 1 gremlin:Wiz."
     },
     {
       "name": "Change-o!+",
@@ -4481,7 +4481,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 12 Block and 1 Wiz."
+      "description": "Gain 12 Block and 1 gremlin:Wiz."
     },
     {
       "name": "Dagger Dance",
@@ -4537,7 +4537,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Add 2 Wards to your hand.\nSwap to Shield_Gremlin."
+      "description": "Add 2 Wards to your hand.\ngremlin:Swap to gremlin:Shield_Gremlin."
     },
     {
       "name": "Glitter Guard+",
@@ -4545,7 +4545,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Add 2 Upgraded Wards to your hand.\nSwap to Shield_Gremlin."
+      "description": "Add 2 Upgraded Wards to your hand.\ngremlin:Swap to gremlin:Shield_Gremlin."
     },
     {
       "name": "Gremlin Arms",
@@ -4569,7 +4569,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Block.\nGain 3 temporary Thorns.\nSwap to Mad_Gremlin."
+      "description": "Gain 6 Block.\nGain 3 Temporary Thorns.\ngremlin:Swap to gremlin:Mad_Gremlin."
     },
     {
       "name": "Irritability+",
@@ -4577,7 +4577,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 8 Block.\nGain 5 temporary Thorns.\nSwap to Mad_Gremlin."
+      "description": "Gain 8 Block.\nGain 5 Temporary Thorns.\ngremlin:Swap to gremlin:Mad_Gremlin."
     },
     {
       "name": "Jeer",
@@ -4601,7 +4601,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain 4 Block.\nSwap to the next Gremlin."
+      "description": "Gain 4 Block.\ngremlin:Swap to the next Gremlin."
     },
     {
       "name": "Patsy+",
@@ -4609,7 +4609,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Gain 6 Block.\nSwap to the next Gremlin."
+      "description": "Gain 6 Block.\ngremlin:Swap to the next Gremlin."
     },
     {
       "name": "Pinprick",
@@ -4625,7 +4625,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "0",
-      "description": "Whenever you draw this card, add an Echo of it to your hand.\nDeal 1 damage.\nDraw a card.\nExhaust."
+      "description": "Whenever you draw this card, add an gremlin:Echo of it to your hand.\nDeal 1 damage.\nDraw a card.\nExhaust."
     },
     {
       "name": "Pour Salt",
@@ -4633,7 +4633,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 4 damage. If the enemy is Weak, add 2 Shivs to your hand."
+      "description": "Deal 6 damage. If the enemy is Weak, add 2 Shivs to your hand."
     },
     {
       "name": "Pour Salt+",
@@ -4641,7 +4641,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage. If the enemy is Weak, add 3 Shivs to your hand."
+      "description": "Deal 8 damage. If the enemy is Weak, add 3 Shivs to your hand."
     },
     {
       "name": "Presto!",
@@ -4649,7 +4649,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage. Gain 1 Wiz."
+      "description": "Deal 7 damage. Gain 1 gremlin:Wiz."
     },
     {
       "name": "Presto!+",
@@ -4657,7 +4657,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 12 damage. Gain 1 Wiz."
+      "description": "Deal 12 damage. Gain 1 gremlin:Wiz."
     },
     {
       "name": "Pretaliation",
@@ -4681,7 +4681,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Add an Echo of a random Skill to your hand.\nSwap to Gremlin_Wizard."
+      "description": "Add an gremlin:Echo of a random Skill to your hand. It costs 1 less.\ngremlin:Swap to gremlin:Gremlin_Wizard."
     },
     {
       "name": "Tadah!+",
@@ -4689,7 +4689,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Add an Echo of a random Skill to your hand. It costs 1 less.\nSwap to Gremlin_Wizard."
+      "description": "Add an gremlin:Echo of a random, Upgraded Skill to your hand.\nIt costs 1 less.\ngremlin:Swap to gremlin:Gremlin_Wizard."
     },
     {
       "name": "Toe Stub",
@@ -4713,7 +4713,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw 3 cards. Discard all cards drawn this way that are not Attacks.\nSwap to Sneaky_Gremlin."
+      "description": "Draw 3 cards. Discard all cards drawn this way that are not Attacks.\ngremlin:Swap to gremlin:Sneaky_Gremlin."
     },
     {
       "name": "Tricksy+",
@@ -4721,7 +4721,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw 5 cards. Discard all cards drawn this way that are not Attacks.\nSwap to Sneaky_Gremlin."
+      "description": "Draw 5 cards. Discard all cards drawn this way that are not Attacks.\ngremlin:Swap to gremlin:Sneaky_Gremlin."
     },
     {
       "name": "Twist The Knife",
@@ -4777,7 +4777,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 7 Block.\nIf you have 3 or more Wiz, add 2 Wards to your hand."
+      "description": "Gain 7 Block.\nIf you have 3 or more gremlin:Wiz, add 2 Wards to your hand."
     },
     {
       "name": "Astound+",
@@ -4785,7 +4785,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 10 Block.\nIf you have 3 or more Wiz, add 2 Upgraded Wards to your hand."
+      "description": "Gain 10 Block.\nIf you have 3 or more gremlin:Wiz, add 2 Upgraded Wards to your hand."
     },
     {
       "name": "Burly Blow",
@@ -4825,7 +4825,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage.\nIf you have 5 or more Wiz, the enemy loses 2 Strength.\nExhaust."
+      "description": "Deal 9 damage.\nIf you have 3 or more gremlin:Wiz, the enemy loses 2 Strength.\nExhaust."
     },
     {
       "name": "Dazzle+",
@@ -4833,7 +4833,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 13 damage.\nIf you have 5 or more Wiz, the enemy loses 2 Strength.\nExhaust."
+      "description": "Deal 13 damage.\nIf you have 3 or more gremlin:Wiz, the enemy loses 2 Strength.\nExhaust."
     },
     {
       "name": "Edible Armor",
@@ -4857,7 +4857,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Whenever you Swap, draw a card."
+      "description": "Whenever you gremlin:Swap, draw a card."
     },
     {
       "name": "Enthusiasm+",
@@ -4865,7 +4865,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "0",
-      "description": "Whenever you Swap, draw a card."
+      "description": "Whenever you gremlin:Swap, draw a card."
     },
     {
       "name": "Fan Of Knives",
@@ -4873,7 +4873,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 4 damage.\nAdd 1 Shiv to your hand for each stack of Wiz you have."
+      "description": "Deal 4 damage.\nAdd 1 Shiv to your hand for each stack of gremlin:Wiz you have."
     },
     {
       "name": "Fan Of Knives+",
@@ -4881,7 +4881,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage.\nAdd 1 Upgraded Shiv to your hand for each stack of Wiz you have."
+      "description": "Deal 5 damage.\nAdd 1 Upgraded Shiv to your hand for each stack of gremlin:Wiz you have."
     },
     {
       "name": "Feel The Audience",
@@ -4889,7 +4889,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage to ALL enemies.\nGain 1 Wiz for each one that intends to attack."
+      "description": "Deal 8 damage to ALL enemies.\nGain 1 gremlin:Wiz for each one that intends to attack."
     },
     {
       "name": "Feel The Audience+",
@@ -4897,7 +4897,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage to ALL enemies.\nGain 1 Wiz for each one that intends to attack."
+      "description": "Deal 11 damage to ALL enemies.\nGain 1 gremlin:Wiz for each one that intends to attack."
     },
     {
       "name": "Flurry",
@@ -5017,7 +5017,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 13 damage to ALL enemies.\nThis attack does not consume Wiz."
+      "description": "Deal 13 damage to ALL enemies.\nThis attack does not consume gremlin:Wiz."
     },
     {
       "name": "Kablamo!+",
@@ -5025,7 +5025,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 17 damage to ALL enemies.\nThis attack does not consume Wiz."
+      "description": "Deal 17 damage to ALL enemies.\nThis attack does not consume gremlin:Wiz."
     },
     {
       "name": "Makeshift Armor",
@@ -5065,7 +5065,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "Unplayable.\nWhenever you Swap while this card is in your hand, gain [E]"
+      "description": "Unplayable.\nWhenever you gremlin:Swap while this card is in your hand, gain [E]"
     },
     {
       "name": "Party Stick+",
@@ -5073,7 +5073,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "Unplayable.\nWhenever you Swap while this card is in your hand, gain [E] [E]"
+      "description": "Unplayable.\nWhenever you gremlin:Swap while this card is in your hand, gain [E] [E]"
     },
     {
       "name": "Pickpocket",
@@ -5193,7 +5193,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Swap to the next Gremlin.\nFetch a Basic card from your draw pile. It costs 0 this turn."
+      "description": "gremlin:Swap to the next Gremlin.\nFetch a Basic card from your draw pile. It costs 0 this turn."
     },
     {
       "name": "Rhythm+",
@@ -5201,7 +5201,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Swap to the next Gremlin.\nFetch a Basic card from your draw pile. It costs 0 this turn."
+      "description": "gremlin:Swap to the next Gremlin.\nFetch a Basic card from your draw pile. It costs 0 this turn."
     },
     {
       "name": "Scatter!",
@@ -5209,7 +5209,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "The next time you would lose HP, instead Swap into a random Gremlin.\nExhaust"
+      "description": "The next time you would lose HP, instead gremlin:Swap to a random Gremlin.\nExhaust"
     },
     {
       "name": "Scatter!+",
@@ -5217,7 +5217,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "The next time you would lose HP, instead Swap into a random Gremlin.\nExhaust"
+      "description": "The next time you would lose HP, instead gremlin:Swap to a random Gremlin.\nExhaust"
     },
     {
       "name": "Shank Stone",
@@ -5273,7 +5273,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 6 Block.\nDeal 6 damage.\nBlock is affected by Wiz."
+      "description": "Gain 6 Block.\nDeal 6 damage.\nBlock is affected by gremlin:Wiz."
     },
     {
       "name": "Stupend+",
@@ -5281,7 +5281,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 8 Block.\nDeal 8 damage.\nBlock is affected by Wiz."
+      "description": "Gain 8 Block.\nDeal 8 damage.\nBlock is affected by gremlin:Wiz."
     },
     {
       "name": "Whiz",
@@ -5289,7 +5289,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 1 Wiz. Next turn, add 1 Bang to your hand.\nExhaust."
+      "description": "Gain 1 gremlin:Wiz. Next turn, add Bang to your hand.\nExhaust."
     },
     {
       "name": "Whiz+",
@@ -5297,7 +5297,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 2 Wiz. Next turn, add 1 Upgraded Bang to your hand.\nExhaust."
+      "description": "Gain 2 gremlin:Wiz. Next turn, add an Upgraded Bang to your hand.\nExhaust."
     },
     {
       "name": "Wizardry",
@@ -5305,7 +5305,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of your turn, gain 1 Wiz."
+      "description": "At the start of your turn, gain 1 gremlin:Wiz."
     },
     {
       "name": "Wizardry+",
@@ -5313,7 +5313,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Innate.\nAt the start of your turn, gain 1 Wiz."
+      "description": "Innate.\nAt the start of your turn, gain 1 gremlin:Wiz."
     },
     {
       "name": "Broken Shin",
@@ -5321,7 +5321,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply Agony for every 4 stacks of Weak the target has."
+      "description": "Apply gremlin:Agony for every 4 stacks of Weak the target has."
     },
     {
       "name": "Broken Shin+",
@@ -5329,7 +5329,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply Agony for every 3 stacks of Weak the target has."
+      "description": "Apply gremlin:Agony for every 3 stacks of Weak the target has."
     },
     {
       "name": "Conga Line",
@@ -5337,7 +5337,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of your turn, gain [E] and Swap to the next Gremlin."
+      "description": "At the start of your turn, gain [E] and gremlin:Swap to the next Gremlin."
     },
     {
       "name": "Conga Line+",
@@ -5345,7 +5345,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Innate.\nAt the start of your turn, gain [E] and Swap to the next Gremlin."
+      "description": "Innate.\nAt the start of your turn, gain [E] and gremlin:Swap to the next Gremlin."
     },
     {
       "name": "Duplicate",
@@ -5353,7 +5353,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Make 2 Echoes of an Attack in your hand. They cost 1 less. Exhaust."
+      "description": "Make 2 gremlin:Echoes of an Attack in your hand. They cost 1 less. Exhaust."
     },
     {
       "name": "Duplicate+",
@@ -5361,7 +5361,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Make 2 Echoes of an Attack in your hand. They cost 1 less."
+      "description": "Make 2 gremlin:Echoes of an Attack in your hand. They cost 1 less."
     },
     {
       "name": "Encore",
@@ -5369,7 +5369,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Gain 3 Wiz.\nWhenever you consume Wiz, deal 5 damage to ALL enemies."
+      "description": "Gain 3 gremlin:Wiz.\nWhenever you consume gremlin:Wiz, deal 5 damage to ALL enemies."
     },
     {
       "name": "Encore+",
@@ -5377,7 +5377,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Gain 3 Wiz.\nWhenever you consume Wiz, deal 7 damage to ALL enemies."
+      "description": "Gain 3 gremlin:Wiz.\nWhenever you consume gremlin:Wiz, deal 7 damage to ALL enemies."
     },
     {
       "name": "Erupt",
@@ -5401,7 +5401,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage. Cripple the enemy.\nExhaust."
+      "description": "Deal 8 damage. gremlin:Cripple the enemy.\nExhaust."
     },
     {
       "name": "Exacerbate+",
@@ -5409,7 +5409,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 12 damage. Cripple the enemy.\nExhaust."
+      "description": "Deal 12 damage. gremlin:Cripple the enemy.\nExhaust."
     },
     {
       "name": "Fairy Dust",
@@ -5481,7 +5481,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Can only be played if you have 5 or more Wiz.\nConsume all Wiz to resurrect a random Gremlin with 10 HP. Exhaust."
+      "description": "Can only be played if you have 3 or more gremlin:Wiz.\nConsume all gremlin:Wiz to resurrect a random Gremlin with 10 HP. Exhaust."
     },
     {
       "name": "Necromancy+",
@@ -5489,7 +5489,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Can only be played if you have 5 or more Wiz.\nConsume all Wiz to resurrect a random Gremlin with 15 HP. Exhaust."
+      "description": "Can only be played if you have 3 or more gremlin:Wiz.\nConsume all gremlin:Wiz to resurrect a random Gremlin with 15 HP. Exhaust."
     },
     {
       "name": "Second Volley",
@@ -5505,7 +5505,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage. Add an upgraded Shiv to your hand for each card played this turn"
+      "description": "Deal 8 damage. Add an Upgraded Shiv to your hand for each card played this turn"
     },
     {
       "name": "Shadow Shiv",
@@ -5513,7 +5513,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "3",
-      "description": "Whenever you play an Attack that doesn't exhaust, add a Shiv to your hand."
+      "description": "Whenever you play an Attack that doesn't Exhaust, add a Shiv to your hand."
     },
     {
       "name": "Shadow Shiv+",
@@ -5521,7 +5521,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Whenever you play an Attack that doesn't exhaust, add a Shiv to your hand."
+      "description": "Whenever you play an Attack that doesn't Exhaust, add a Shiv to your hand."
     },
     {
       "name": "Show Stopper",
@@ -5529,7 +5529,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "0",
-      "description": "Can only be played if you have exactly 10 Wiz.\nDeal 0 damage to ALL enemies 5 times."
+      "description": "Can only be played if you have exactly 7 gremlin:Wiz.\nDeal 0 damage to ALL enemies 5 times."
     },
     {
       "name": "Show Stopper+",
@@ -5537,7 +5537,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "0",
-      "description": "Can only be played if you have exactly 10 Wiz.\nDeal 2 damage to ALL enemies 5 times."
+      "description": "Can only be played if you have exactly 7 gremlin:Wiz.\nDeal 2 damage to ALL enemies 5 times."
     },
     {
       "name": "Target Wounds",
@@ -7113,7 +7113,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 14 damage.\nDeals 2 additional damage for ALL your cards containing \"Strike\".\n[fist_icon]   champ:Finisher"
+      "description": "Deal 8 damage.\nDeals 2 additional damage for ALL your cards containing \"Strike\"."
     },
     {
       "name": "Perfected Strike+",
@@ -7121,7 +7121,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 14 damage.\nDeals 3 additional damage for ALL your cards containing \"Strike\".\n[fist_icon]   champ:Finisher"
+      "description": "Deal 8 damage.\nDeals 3 additional damage for ALL your cards containing \"Strike\"."
     },
     {
       "name": "Piledriver",
@@ -8585,7 +8585,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Requires 20 or more Block.\nDeal 4 damage 4 times to ALL enemies."
+      "description": "Requires 20 or more Block.\nDeal 4 damage to ALL enemies 4 times."
     },
     {
       "name": "Guardian Whirl+",
@@ -8593,7 +8593,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Requires 20 or more Block.\nDeal 4 damage 5 times to ALL enemies."
+      "description": "Requires 20 or more Block.\nDeal 4 damage to ALL enemies 5 times."
     },
     {
       "name": "Harden",
@@ -8601,7 +8601,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Requires 20 or more Block.\nBrace 12 and gain 2 Thorns."
+      "description": "Requires 20 or more Block.\nguardianmod:Brace 10 and gain 2 Thorns."
     },
     {
       "name": "Harden+",
@@ -8609,7 +8609,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Requires 20 or more Block.\nBrace 16 and gain 3 Thorns."
+      "description": "Requires 20 or more Block.\nguardianmod:Brace 14 and gain 3 Thorns."
     },
     {
       "name": "Multi-Beam",
@@ -9307,7 +9307,7 @@
       "name": "Gelatinous Cube",
       "tier": "Common",
       "pool": "",
-      "description": "Whenever you draw a Curse or Status card, draw 1 card.",
+      "description": "Whenever you draw a Status card, draw 1 card.",
       "flavorText": "Hey, it stuck to your body."
     },
     {
@@ -10310,10 +10310,6 @@
   ],
   "keywords": [
     {
-      "name": "Agony",
-      "description": "Creatures in Agony deal 80% less damage with Attacks."
-    },
-    {
       "name": "Blur",
       "description": "Do not lose Block at the end of the turn."
     },
@@ -10370,18 +10366,6 @@
       "description": "Stance. Counts as both Defensive and Berserker Stances.\nFinishers do not exit the Stance.\nYou can't change to any other Stance."
     },
     {
-      "name": "Cripple",
-      "description": "Crippled enemies can no longer lose Weak. At the end of their turn, they lose HP equal to their Weak."
-    },
-    {
-      "name": "Downfall:fire",
-      "description": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
-    },
-    {
-      "name": "Echo",
-      "description": "Echoes are copies of cards with Ethereal and Exhaust."
-    },
-    {
       "name": "Boss",
       "description": "You may only play 1 Boss card in a turn."
     },
@@ -10390,51 +10374,47 @@
       "description": "You cannot lose more than a given amount of HP in a single turn.\nAt the end of any round in which Invincible prevented HP loss, remove it."
     },
     {
-      "name": "Fat gremlin",
-      "description": "Whenever you play an attack, apply 1 Weak to all targets."
-    },
-    {
-      "name": "Gremlin wizard",
-      "description": "Whenever you play a skill, gain 1 Wiz."
-    },
-    {
-      "name": "Gremlin:agony",
+      "name": "Agony",
       "description": "Creatures in Agony deal 80% less damage with Attacks."
     },
     {
-      "name": "Gremlin:cripple",
+      "name": "Cripple",
       "description": "Crippled enemies can no longer lose Weak. At the end of their turn, they lose HP equal to their Weak."
     },
     {
-      "name": "Gremlin:echo",
+      "name": "Echo",
       "description": "Echoes are copies of cards with Ethereal and Exhaust."
     },
     {
-      "name": "Gremlin:fat gremlin",
+      "name": "Echoes",
+      "description": "Echoes are copies of cards with Ethereal and Exhaust."
+    },
+    {
+      "name": "Fat Gremlin",
       "description": "Whenever you play an attack, apply 1 Weak to all targets."
     },
     {
-      "name": "Gremlin:gremlin wizard",
+      "name": "Gremlin Wizard",
       "description": "Whenever you play a skill, gain 1 Wiz."
     },
     {
-      "name": "Gremlin:mad gremlin",
+      "name": "Mad Gremlin",
       "description": "Gain 2 Temporary Strength when attacked."
     },
     {
-      "name": "Gremlin:shield gremlin",
+      "name": "Shield Gremlin",
       "description": "Whenever you play a skill, gain 2 Block."
     },
     {
-      "name": "Gremlin:sneaky gremlin",
+      "name": "Sneaky Gremlin",
       "description": "Whenever you play an attack, deal 3 damage to a random enemy."
     },
     {
-      "name": "Gremlin:swap",
+      "name": "Swap",
       "description": "Switch places with another character. Does nothing if there is no valid target."
     },
     {
-      "name": "Gremlin:wiz",
+      "name": "Wiz",
       "description": "When you have at least three stacks of Wiz, attacks will consume all stacks to deal 10 additional damage."
     },
     {
@@ -10524,14 +10504,6 @@
     {
       "name": "Soulburn",
       "description": "After 3 turns, a Soulburned enemy loses HP, removing the Soulburn effect."
-    },
-    {
-      "name": "Mad gremlin",
-      "description": "Gain 2 Temporary Strength when attacked."
-    },
-    {
-      "name": "Shield gremlin",
-      "description": "Whenever you play a skill, gain 2 Block."
     },
     {
       "name": "Absorb",
@@ -10634,10 +10606,6 @@
       "description": "Attacks for 6 each turn. Gains damage from your Strength."
     },
     {
-      "name": "Sneaky gremlin",
-      "description": "Whenever you play an attack, deal 3 damage to a random enemy."
-    },
-    {
       "name": "Muddle",
       "description": "Muddling a card changes its cost to between 0 and 3."
     },
@@ -10648,14 +10616,6 @@
     {
       "name": "Snekproof",
       "description": "Snekproof cards aren't affected by Confusion and cannot be Muddled."
-    },
-    {
-      "name": "Swap",
-      "description": "Switch places with another character. Does nothing if there is no valid target."
-    },
-    {
-      "name": "Wiz",
-      "description": "When you have at least three stacks of Wiz, attacks will consume all stacks to deal 10 additional damage."
     }
   ]
 }

@@ -1,6 +1,5 @@
 | Name | Description |
 | ---- | ----------- |
-| Agony | Creatures in Agony deal 80% less damage with Attacks. |
 | Blur | Do not lose Block at the end of the turn. |
 | Compile | An additional effect that triggers when this card, while in the Sequence, is combined into a Function. Can be a negative effect, which is referred to as an 'Error'. |
 | Cycle | Discard a card, drawing a new card to replace it. |
@@ -15,23 +14,19 @@
 | Fatigue | Lose HP. Restore Fatigued HP at the end of combat. |
 | Gladiator | Stance. Technique Bonus: Draw a card. Finisher Bonus: Next turn, draw 1 card and gain [E] . End your turn. |
 | Ultimate Stance | Stance. Counts as both Defensive and Berserker Stances. Finishers do not exit the Stance. You can't change to any other Stance. |
-| Cripple | Crippled enemies can no longer lose Weak. At the end of their turn, they lose HP equal to their Weak. |
-| Downfall:fire | Only Ammo can be fired. Firing Ammo activates its effect and discards it. |
-| Echo | Echoes are copies of cards with Ethereal and Exhaust. |
 | Boss | You may only play 1 Boss card in a turn. |
 | Invincible | You cannot lose more than a given amount of HP in a single turn. At the end of any round in which Invincible prevented HP loss, remove it. |
-| Fat gremlin | Whenever you play an attack, apply 1 Weak to all targets. |
-| Gremlin wizard | Whenever you play a skill, gain 1 Wiz. |
-| Gremlin:agony | Creatures in Agony deal 80% less damage with Attacks. |
-| Gremlin:cripple | Crippled enemies can no longer lose Weak. At the end of their turn, they lose HP equal to their Weak. |
-| Gremlin:echo | Echoes are copies of cards with Ethereal and Exhaust. |
-| Gremlin:fat gremlin | Whenever you play an attack, apply 1 Weak to all targets. |
-| Gremlin:gremlin wizard | Whenever you play a skill, gain 1 Wiz. |
-| Gremlin:mad gremlin | Gain 2 Temporary Strength when attacked. |
-| Gremlin:shield gremlin | Whenever you play a skill, gain 2 Block. |
-| Gremlin:sneaky gremlin | Whenever you play an attack, deal 3 damage to a random enemy. |
-| Gremlin:swap | Switch places with another character. Does nothing if there is no valid target. |
-| Gremlin:wiz | When you have at least three stacks of Wiz, attacks will consume all stacks to deal 10 additional damage. |
+| Agony | Creatures in Agony deal 80% less damage with Attacks. |
+| Cripple | Crippled enemies can no longer lose Weak. At the end of their turn, they lose HP equal to their Weak. |
+| Echo | Echoes are copies of cards with Ethereal and Exhaust. |
+| Echoes | Echoes are copies of cards with Ethereal and Exhaust. |
+| Fat Gremlin | Whenever you play an attack, apply 1 Weak to all targets. |
+| Gremlin Wizard | Whenever you play a skill, gain 1 Wiz. |
+| Mad Gremlin | Gain 2 Temporary Strength when attacked. |
+| Shield Gremlin | Whenever you play a skill, gain 2 Block. |
+| Sneaky Gremlin | Whenever you play an attack, deal 3 damage to a random enemy. |
+| Swap | Switch places with another character. Does nothing if there is no valid target. |
+| Wiz | When you have at least three stacks of Wiz, attacks will consume all stacks to deal 10 additional damage. |
 | Accelerate | Reduce the turn counter of the right-most card in Stasis by 1. If the card's turn counter is now 0, return it to your hand. It costs 0 until played. |
 | Brace | Reduce the HP loss required to trigger Mode Shift by X, triggering Mode Shift if the HP loss required is now 0. |
 | Buffer | Prevent the next time you would lose HP. |
@@ -54,8 +49,6 @@
 | Seal | If all 6 Seals have been played this combat, obtain The Broken Seal and remove the Seals from your deck. |
 | Searing | Ghostflame. Ignites when 2 Attacks are played while Active. Ignition: When Ignited, apply 4 Soulburn to a random enemy. |
 | Soulburn | After 3 turns, a Soulburned enemy loses HP, removing the Soulburn effect. |
-| Mad gremlin | Gain 2 Temporary Strength when attacked. |
-| Shield gremlin | Whenever you play a skill, gain 2 Block. |
 | Absorb | Manually recombine with your leading Slime, granting you 1 Strength. |
 | Ancient Slime | Attacks for 3 and causes you to draw 1 card each turn. |
 | Bronze Slime | Attacks for 4 and grants you 4 Block each turn. |
@@ -81,9 +74,6 @@
 | Tackle | High-damage Attacks that also deal a small amount of damage to you. |
 | Time Slime | Attacks for 4 and applies 1 Weak each turn. |
 | Torch Head Slime | Attacks for 6 each turn. Gains damage from your Strength. |
-| Sneaky gremlin | Whenever you play an attack, deal 3 damage to a random enemy. |
 | Muddle | Muddling a card changes its cost to between 0 and 3. |
 | Offclass | An Offclass card is any obtainable card from a class other than your own (including Colorless cards). |
 | Snekproof | Snekproof cards aren't affected by Confusion and cannot be Muddled. |
-| Swap | Switch places with another character. Does nothing if there is no valid target. |
-| Wiz | When you have at least three stacks of Wiz, attacks will consume all stacks to deal 10 additional damage. |
