@@ -14,10 +14,9 @@
 |Special
 |[[Skill]]
 |2
-|[[Ethereal]].
-[[expansioncontent:Boss]] - Ancients.
-Gain 14 (18) [[Block]].
-Next turn, add a Donu Blast (*Blast+) with [[Ethereal]] into your hand.
+|[[expansioncontent:Boss]] - Ancients.
+Gain 7 (9) [[Block]] twice. Increase this card's [[Block]] by 1.
+Next turn, [[expansioncontent:Exhume]] Donu Blast (*Blast+).
 [[Exhaust]].
 |-
 |[[Automa-Beam]]
@@ -54,8 +53,8 @@ Gain 1 [[Strength]]) for every 12th card you play.
 |[[Attack]]
 |2
 |[[expansioncontent:Boss]] - Ancients.
-Deal 9 (12) damage twice.
-Next turn, add a Deca Shield (*Shield+) into your hand.
+Deal 9 (12) damage twice. Increase this card's damage by 2.
+Next turn, add a Deca Shield (*Shield+) into your hand, or [[expansioncontent:Exhume]] it.
 [[Exhaust]].
 |-
 |[[Guardian Whirl]]

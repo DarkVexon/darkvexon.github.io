@@ -326,7 +326,7 @@ At the end of your turn, [[guardianmod:Brace]] 3.
 |[[Attack]]
 |1
 |Requires 20 or more [[Block]].
-Deal 4 damage 4 (5) times to ALL enemies.
+Deal 4 damage to ALL enemies 4 (5) times.
 |-
 |[[Harden]]
 |[[File:|thumb|289x289px]]
@@ -334,7 +334,7 @@ Deal 4 damage 4 (5) times to ALL enemies.
 |[[Skill]]
 |1
 |Requires 20 or more [[Block]].
-Brace 12 (16) and gain 2 (3) [[Thorns]].
+[[guardianmod:Brace]] 10 (14) and gain 2 (3) [[Thorns]].
 |-
 |[[Multi-Beam]]
 |[[File:|thumb|289x289px]]

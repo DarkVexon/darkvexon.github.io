@@ -162,9 +162,8 @@ Defensive champ:Combo: Gain [E] and 5 (8) [[Block]].
 |Common
 |[[Attack]]
 |2
-|Deal 14 damage.
+|Deal 8 damage.
 Deals 2 (3) additional damage for ALL your cards containing "Strike".
-[fist_icon] [[champ:Finisher]]
 |-
 |[[Piledriver]]
 |[[File:|thumb|289x289px]]

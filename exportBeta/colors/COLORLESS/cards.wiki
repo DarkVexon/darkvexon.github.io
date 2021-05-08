@@ -364,7 +364,7 @@ Gain 12 (16) [[Block]].
 |2
 |[[Ethereal]].
 Gain 14 (18) [[Block]].
-Return Nightmare Guise from your [[exhaust]] pile to your discard pile.
+[[expansioncontent:Reclaim]] Nightmare Guise.
 [[Exhaust]].
 |-
 |[[Shadow Strike]]
@@ -374,7 +374,7 @@ Return Nightmare Guise from your [[exhaust]] pile to your discard pile.
 |2
 |[[Ethereal]].
 Deal 16 (20) damage.
-Return Nightmare Strike from your [[exhaust]] pile to your discard pile.
+[[expansioncontent:Reclaim]] Nightmare Strike.
 [[Exhaust]].
 |-
 |[[Shiv]]

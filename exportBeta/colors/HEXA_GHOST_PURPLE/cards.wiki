@@ -114,7 +114,7 @@ If you [[Exhausted]] a card last turn, gain 1 [[bronze:Blur]].
 |[[Attack]]
 |1
 |Deal 8 (11) damage.
-Return a random [[Exhausted]] Afterlife card to your discard pile.
+[[expansioncontent:Reclaim]] a random Afterlife card.
 |-
 |[[Heat Metal]]
 |[[File:|thumb|289x289px]]
@@ -339,7 +339,7 @@ If this card is [[Exhausted]], add a Shadow Strike into (*Strike+ to) your hand.
 |Uncommon
 |[[Skill]]
 |0
-|Put an (2) [[Ethereal]] card(s) from your [[exhaust]] pile into your hand.
+|[[expansioncontent:Exhume]] an (2) [[Ethereal]] card(s).
 [[Exhaust]].
 |-
 |[[Phantom Fireball]]
@@ -484,7 +484,7 @@ At the end of combat, [[Upgrade]] a random card in your deck.
 |Rare
 |[[Power]]
 |2 (1)
-|At the start of your turn, return a random [[Exhausted]] Afterlife card to your discard pile.
+|At the start of your turn, [[expansioncontent:Reclaim]] a random Afterlife card.
 |-
 |[[Here and Now]]
 |[[File:|thumb|289x289px]]
