@@ -6216,7 +6216,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nGain 14 Block.\nReturn Nightmare Guise from your exhaust pile to your discard pile.\nExhaust.",
+      "description": "Ethereal.\nGain 14 Block.\nexpansioncontent:Reclaim Nightmare Guise.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -6225,7 +6225,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nGain 18 Block.\nReturn Nightmare Guise from your exhaust pile to your discard pile.\nExhaust.",
+      "description": "Ethereal.\nGain 18 Block.\nexpansioncontent:Reclaim Nightmare Guise.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -6234,7 +6234,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "2",
-      "description": "Ethereal.\nDeal 16 damage.\nReturn Nightmare Strike from your exhaust pile to your discard pile.\nExhaust.",
+      "description": "Ethereal.\nDeal 16 damage.\nexpansioncontent:Reclaim Nightmare Strike.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -6243,7 +6243,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "2",
-      "description": "Ethereal.\nDeal 20 damage.\nReturn Nightmare Strike from your exhaust pile to your discard pile.\nExhaust.",
+      "description": "Ethereal.\nDeal 20 damage.\nexpansioncontent:Reclaim Nightmare Strike.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -7665,7 +7665,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\nReturn a random Exhausted Afterlife card to your discard pile.",
+      "description": "Deal 8 damage.\nexpansioncontent:Reclaim a random Afterlife card.",
       "mod": "Downfall"
     },
     {
@@ -7674,7 +7674,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage.\nReturn a random Exhausted Afterlife card to your discard pile.",
+      "description": "Deal 11 damage.\nexpansioncontent:Reclaim a random Afterlife card.",
       "mod": "Downfall"
     },
     {
@@ -8151,7 +8151,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Put an Ethereal card from your exhaust pile into your hand.\nExhaust.",
+      "description": "expansioncontent:Exhume an Ethereal card.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -8160,7 +8160,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Put 2 Ethereal cards from your exhaust pile into your hand.\nExhaust.",
+      "description": "expansioncontent:Exhume 2 Ethereal cards.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -8475,7 +8475,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "At the start of your turn, return a random Exhausted Afterlife card to your discard pile.",
+      "description": "At the start of your turn, expansioncontent:Reclaim a random Afterlife card.",
       "mod": "Downfall"
     },
     {
@@ -8484,7 +8484,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of your turn, return a random Exhausted Afterlife card to your discard pile.",
+      "description": "At the start of your turn, expansioncontent:Reclaim a random Afterlife card.",
       "mod": "Downfall"
     },
     {
@@ -10896,7 +10896,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 8 Block.\nReturn a random 0-cost Exhausted card to your hand.",
+      "description": "Gain 8 Block.\nexpansioncontent:Exhume a random 0-cost card.",
       "mod": "Downfall"
     },
     {
@@ -10905,7 +10905,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 11 Block.\nReturn a random 0-cost Exhausted card to your hand.",
+      "description": "Gain 11 Block.\nexpansioncontent:Exhume a random 0-cost card.",
       "mod": "Downfall"
     },
     {
@@ -11346,7 +11346,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of your turn, return a random Exhausted 0-cost card to your hand.",
+      "description": "At the start of your turn, expansioncontent:Exhume a random 0-cost card.",
       "mod": "Downfall"
     },
     {
@@ -11355,7 +11355,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Innate.\nAt the start of your turn, return a random Exhausted 0-cost card to your hand.",
+      "description": "Innate.\nAt the start of your turn, expansioncontent:Exhume a random 0-cost card.",
       "mod": "Downfall"
     },
     {
@@ -11436,7 +11436,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Return all 0-cost Exhausted cards to your hand.\nExhaust.",
+      "description": "expansioncontent:Exhume all 0-cost Exhausted cards.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -11445,7 +11445,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Return all 0-cost Exhausted cards to your hand.\nExhaust.",
+      "description": "expansioncontent:Exhume all 0-cost Exhausted cards.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -20668,6 +20668,12 @@
       "name": "Protector Slime",
       "description": "Attacks for 2 and grants you 6 Block each turn.",
       "names": ["slimeboundmod:protector_slime"],
+      "mod": "Downfall"
+    },
+    {
+      "name": "Reclaim",
+      "description": "Put a card from your exhaust pile into your discard pile.",
+      "names": [],
       "mod": "Downfall"
     },
     {

@@ -56,6 +56,7 @@
 | Package | 0-cost Exhausting Skill that generates three cards inspired by a chosen Construct of the Spire, and reduces their cost by 1 for this combat. |
 | Potency | Increases the damage of ALL of your Spawned Slimes. |
 | Protector Slime | Attacks for 2 and grants you 6 Block each turn. |
+| Reclaim | Put a card from your exhaust pile into your discard pile. |
 | Retract | Move to the previous Ghostflame. Moving onto a Ghostflame Extinguishes it. |
 | Seal | If all 6 Seals have been played this combat, obtain The Broken Seal and remove the Seals from your deck. |
 | Searing | Ghostflame. Ignites when 2 Attacks are played while Active. Ignition: When Ignited, apply 4 Soulburn to a random enemy. |
