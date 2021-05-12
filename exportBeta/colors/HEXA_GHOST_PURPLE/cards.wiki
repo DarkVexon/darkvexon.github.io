@@ -64,6 +64,13 @@ Apply 10 (16) [[hexamod:Soulburn]].
 |If the enemy has [[hexamod:Soulburn]], apply 7 (11) [[hexamod:Soulburn]].
 Apply 7 (11) [[hexamod:Soulburn]].
 |-
+|[[Divider]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 4 (6) damage for each [[hexamod:Ignited]] Ghostflame.
+|-
 |[[Fast Forward]]
 |[[File:|thumb|289x289px]]
 |Common
@@ -114,7 +121,7 @@ If you [[Exhausted]] a card last turn, gain 1 [[bronze:Blur]].
 |[[Attack]]
 |1
 |Deal 8 (11) damage.
-[[expansioncontent:Reclaim]] a random Afterlife card.
+If the [[hexamod:Active]] Ghostflame is [[hexamod:Ignited]], [[hexamod:Ignite]] it again.
 |-
 |[[Heat Metal]]
 |[[File:|thumb|289x289px]]
@@ -156,6 +163,14 @@ Deal 8 (11) damage to ALL enemies.
 |1
 |Gain 6 (9) [[Block]].
 For each [[hexamod:Ignited]] Ghostflame, [[Upgrade]] a random card in your hand.
+|-
+|[[Strike From Beyond]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 4 (6) damage twice.
+[[expansioncontent:Reclaim]] a random Afterlife card.
 |-
 |[[Sword of Night]]
 |[[File:|thumb|289x289px]]
@@ -245,6 +260,15 @@ It costs 0 this turn.
 |1
 |[[Ethereal]] (not Ethereal)[[hexamod:Seal]].
 At the end of combat, heal 7 HP.
+|-
+|[[Floatwork]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Power]]
+|1
+|([[Innate]].)
+ [[Ethereal]]. [[hexamod:Afterlife]].
+Gain 1 [[Dexterity]].
 |-
 |[[Fourth Seal]]
 |[[File:|thumb|289x289px]]
@@ -516,6 +540,15 @@ At the end of combat, [[Upgrade]] a random card in your deck.
 |[[Power]]
 |2
 |Whenever you play an Afterlife card, deal 6 (9) damage to a random enemy.
+|-
+|[[Premonition]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|1 (0)
+|Choose a card in your hand.
+Play the chosen card and [[Exhaust]] it.
+[[Exhaust]].
 |-
 |[[Searing Wound]]
 |[[File:|thumb|289x289px]]

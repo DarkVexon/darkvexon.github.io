@@ -465,7 +465,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nGain 14 Block.\nReturn Nightmare Guise from your exhaust pile to your discard pile.\nExhaust."
+      "description": "Ethereal.\nGain 14 Block.\nexpansioncontent:Reclaim Nightmare Guise.\nExhaust."
     },
     {
       "name": "Shadow Guise+",
@@ -473,7 +473,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nGain 18 Block.\nReturn Nightmare Guise from your exhaust pile to your discard pile.\nExhaust."
+      "description": "Ethereal.\nGain 18 Block.\nexpansioncontent:Reclaim Nightmare Guise.\nExhaust."
     },
     {
       "name": "Shadow Strike",
@@ -481,7 +481,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "2",
-      "description": "Ethereal.\nDeal 16 damage.\nReturn Nightmare Strike from your exhaust pile to your discard pile.\nExhaust."
+      "description": "Ethereal.\nDeal 16 damage.\nexpansioncontent:Reclaim Nightmare Strike.\nExhaust."
     },
     {
       "name": "Shadow Strike+",
@@ -489,7 +489,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "2",
-      "description": "Ethereal.\nDeal 20 damage.\nReturn Nightmare Strike from your exhaust pile to your discard pile.\nExhaust."
+      "description": "Ethereal.\nDeal 20 damage.\nexpansioncontent:Reclaim Nightmare Strike.\nExhaust."
     },
     {
       "name": "Spike",
@@ -908,6 +908,22 @@
       "description": "If the enemy has hexamod:Soulburn, apply 11 hexamod:Soulburn.\nApply 11 hexamod:Soulburn."
     },
     {
+      "name": "Divider",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage for each hexamod:Ignited Ghostflame."
+    },
+    {
+      "name": "Divider+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage for each hexamod:Ignited Ghostflame."
+    },
+    {
       "name": "Fast Forward",
       "color": "Hexa_ghost_purple",
       "rarity": "Common",
@@ -993,7 +1009,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\nReturn a random Exhausted Afterlife card to your discard pile."
+      "description": "Deal 8 damage.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, hexamod:Ignite it again."
     },
     {
       "name": "Haunting Echo+",
@@ -1001,7 +1017,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage.\nReturn a random Exhausted Afterlife card to your discard pile."
+      "description": "Deal 11 damage.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, hexamod:Ignite it again."
     },
     {
       "name": "Heat Metal",
@@ -1082,6 +1098,22 @@
       "type": "Skill",
       "cost": "1",
       "description": "Gain 9 Block.\nFor each hexamod:Ignited Ghostflame, Upgrade a random card in your hand."
+    },
+    {
+      "name": "Strike From Beyond",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage twice.\nexpansioncontent:Reclaim a random Afterlife card."
+    },
+    {
+      "name": "Strike From Beyond+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage twice.\nexpansioncontent:Reclaim a random Afterlife card."
     },
     {
       "name": "Sword of Night",
@@ -1260,6 +1292,22 @@
       "description": "hexamod:Seal.\nAt the end of combat, heal 7 HP."
     },
     {
+      "name": "Floatwork",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Ethereal. hexamod:Afterlife.\nGain 1 Dexterity."
+    },
+    {
+      "name": "Floatwork+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nEthereal. hexamod:Afterlife.\nGain 1 Dexterity."
+    },
+    {
       "name": "Fourth Seal",
       "color": "Hexa_ghost_purple",
       "rarity": "Uncommon",
@@ -1425,7 +1473,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Put an Ethereal card from your exhaust pile into your hand.\nExhaust."
+      "description": "expansioncontent:Exhume an Ethereal card.\nExhaust."
     },
     {
       "name": "Nightmare Vision+",
@@ -1433,7 +1481,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Put 2 Ethereal cards from your exhaust pile into your hand.\nExhaust."
+      "description": "expansioncontent:Exhume 2 Ethereal cards.\nExhaust."
     },
     {
       "name": "Phantom Fireball",
@@ -1713,7 +1761,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "At the start of your turn, return a random Exhausted Afterlife card to your discard pile."
+      "description": "At the start of your turn, expansioncontent:Reclaim a random Afterlife card."
     },
     {
       "name": "Gifts From Beyond+",
@@ -1721,7 +1769,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of your turn, return a random Exhausted Afterlife card to your discard pile."
+      "description": "At the start of your turn, expansioncontent:Reclaim a random Afterlife card."
     },
     {
       "name": "Here and Now",
@@ -1786,6 +1834,22 @@
       "type": "Power",
       "cost": "2",
       "description": "Whenever you play an Afterlife card, deal 9 damage to a random enemy."
+    },
+    {
+      "name": "Premonition",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Choose a card in your hand.\nPlay the chosen card and Exhaust it.\nExhaust."
+    },
+    {
+      "name": "Premonition+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Choose a card in your hand.\nPlay the chosen card and Exhaust it.\nExhaust."
     },
     {
       "name": "Searing Wound",
@@ -2921,7 +2985,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Ethereal.\nPut a card from your draw or discard pile into your hand.\nAdd a Dazed where it was.\nExhaust."
+      "description": "Ethereal.\nFetch a card from your draw or discard pile.\nAdd a Dazed where it was.\nExhaust."
     },
     {
       "name": "Find and Replace+",
@@ -2929,7 +2993,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nPut a card from your draw or discard pile into your hand.\nAdd a Dazed where it was.\nExhaust."
+      "description": "Retain.\nFetch a card from your draw or discard pile.\nAdd a Dazed where it was.\nExhaust."
     },
     {
       "name": "Format",
@@ -3721,7 +3785,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage and 3 damage to yourself.\nReturn a random 0-cost Exhausted card to your hand."
+      "description": "Deal 10 damage and 3 damage to yourself.\nexpansioncontent:Exhume a random 0-cost card."
     },
     {
       "name": "Hungry Tackle+",
@@ -3729,7 +3793,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 14 damage and 3 damage to yourself.\nReturn a random 0-cost Exhausted card to your hand."
+      "description": "Deal 14 damage and 3 damage to yourself.\nexpansioncontent:Exhume a random 0-cost card."
     },
     {
       "name": "Lead By Example",
@@ -3865,7 +3929,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 8 Block.\nReturn a random 0-cost Exhausted card to your hand."
+      "description": "Gain 8 Block.\nexpansioncontent:Exhume a random 0-cost card."
     },
     {
       "name": "Recollect+",
@@ -3873,7 +3937,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 11 Block.\nReturn a random 0-cost Exhausted card to your hand."
+      "description": "Gain 11 Block.\nexpansioncontent:Exhume a random 0-cost card."
     },
     {
       "name": "Replication",
@@ -4265,7 +4329,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of your turn, return a random Exhausted 0-cost card to your hand."
+      "description": "At the start of your turn, expansioncontent:Exhume a random 0-cost card."
     },
     {
       "name": "Recycling+",
@@ -4273,7 +4337,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Innate.\nAt the start of your turn, return a random Exhausted 0-cost card to your hand."
+      "description": "Innate.\nAt the start of your turn, expansioncontent:Exhume a random 0-cost card."
     },
     {
       "name": "Reformation",
@@ -4345,7 +4409,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Return all 0-cost Exhausted cards to your hand.\nExhaust."
+      "description": "expansioncontent:Exhume all 0-cost cards.\nExhaust."
     },
     {
       "name": "Waste Not+",
@@ -4353,7 +4417,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Return all 0-cost Exhausted cards to your hand.\nExhaust."
+      "description": "expansioncontent:Exhume all 0-cost cards.\nExhaust."
     },
     {
       "name": "Defend",
@@ -7705,7 +7769,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Choose a Stance to Enter.\nFetch a champ:Finisher.\nExhaust."
+      "description": "Choose a Stance to Enter.\nFetch a champ:Finisher from your draw pile.\nExhaust."
     },
     {
       "name": "Wind Up+",
@@ -7713,7 +7777,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Choose a Stance to Enter.\nFetch a champ:Finisher."
+      "description": "Choose a Stance to Enter.\nFetch a champ:Finisher from your draw pile."
     },
     {
       "name": "Cheap Shot",
@@ -9944,7 +10008,7 @@
       "name": "Berserker's Guide",
       "tier": "Shop",
       "pool": "The_champ_gray",
-      "description": "Prevent the first 10 HP you lose on your turn each combat.",
+      "description": "At the start of your turn, gain 3 Vigor.",
       "flavorText": "The text is illegible."
     },
     {
@@ -10376,6 +10440,10 @@
     {
       "name": "Invincible",
       "description": "You cannot lose more than a given amount of HP in a single turn.\nAt the end of any round in which Invincible prevented HP loss, remove it."
+    },
+    {
+      "name": "Reclaim",
+      "description": "Put a card from your exhaust pile into your discard pile."
     },
     {
       "name": "Agony",

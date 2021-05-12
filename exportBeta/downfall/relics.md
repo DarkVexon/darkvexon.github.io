@@ -105,7 +105,7 @@
 | ![](relics/Guardian-StasisSlotReductionRelic.png) | Wander Bots | Boss | Guardian | On pickup, lose #b2 #yguardianmod:Stasis slots. NL Gain [E] at the start of your turn. | These drones find the most wonderful salvage, but require processing power to maintain. |
 | ![](relics/hexamod-IceCube.png) | Xanatos's Icy Charm | Boss | Hexa_ghost_purple | Gain [E] at the start of your turn. #yhexamod:Soulburn takes #b4 turns to activate. | I feel... cold. |
 | ![](relics/champ-Barbells.png) | Barbell | Shop |  | Whenever you enter a Rest Site, if you have at least #b10 non-Upgraded cards in your deck, #yUpgrade one at random. | 1000 reps? Psh. I can do 1001. |
-| ![](relics/champ-BerserkersGuideToSlaughter.png) | Berserker's Guide | Shop | The_champ_gray | Prevent the first #b10 HP you lose on your turn each combat. | The text is illegible. |
+| ![](relics/champ-BerserkersGuideToSlaughter.png) | Berserker's Guide | Shop | The_champ_gray | At the start of your turn, gain #b3 Vigor. | The text is illegible. |
 | ![](relics/Guardian-BottledAnomaly.png) | Bottled Anomaly | Shop |  | Upon pickup, choose a card. At the start of each combat, remove it from your draw pile. At the start of turn #b3, add it into your hand. It costs #b0. | Swirling and swirling and finally breaking. |
 | ![](relics/Guardian-BottledStasis.png) | Bottled Black Hole | Shop | Guardian | Upon pickup, choose a card. Start each combat with this card in #yguardianmod:Stasis. | Somewhere, something incredible is waiting to be known. |
 | ![](relics/Guardian-StasisUpgradeRelic.png) | Cryo Chamber | Shop | Guardian | Gain #b1 #yguardianmod:Stasis slot. When a card enters #yguardianmod:Stasis, #yUpgrade it. | Things always seem better coming out than they did going in. |

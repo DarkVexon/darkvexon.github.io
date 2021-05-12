@@ -305,7 +305,7 @@ Gain 4 (5) [[Block]].
 |[[Attack]]
 |1
 |Deal 10 (14) damage and 3 damage to yourself.
-Return a random 0-cost [[Exhausted]] card to your hand.
+[[expansioncontent:Exhume]] a random 0-cost card.
 |-
 |[[Lead By Example]]
 |[[File:|thumb|289x289px]]
@@ -620,6 +620,6 @@ Gain 5 [[Block]] X (X+1) times.
 |Rare
 |[[Skill]]
 |3 (2)
-|[[expansioncontent:Exhume]] all 0-cost [[Exhausted]] cards.
+|[[expansioncontent:Exhume]] all 0-cost cards.
 [[Exhaust]].
 |-

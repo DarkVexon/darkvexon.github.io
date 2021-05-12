@@ -488,7 +488,7 @@ Defensive champ:Combo: Gain 3 (5) temporary [[Dexterity]].
 |[[Skill]]
 |0
 |Choose a [[Stance]] to Enter.
-[[Fetch]] a [[champ:Finisher]].
+[[Fetch]] a [[champ:Finisher]] from your draw pile.
 [[Exhaust]]. (not
 Exhaust.)
 |-

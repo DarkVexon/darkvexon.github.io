@@ -7570,6 +7570,24 @@
       "mod": "Downfall"
     },
     {
+      "name": "Divider",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage for each hexamod:Ignited Ghostflame.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Divider+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage for each hexamod:Ignited Ghostflame.",
+      "mod": "Downfall"
+    },
+    {
       "name": "Fast Forward",
       "color": "Hexa_ghost_purple",
       "rarity": "Common",
@@ -7665,7 +7683,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\nexpansioncontent:Reclaim a random Afterlife card.",
+      "description": "Deal 8 damage.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, hexamod:Ignite it again.",
       "mod": "Downfall"
     },
     {
@@ -7674,7 +7692,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage.\nexpansioncontent:Reclaim a random Afterlife card.",
+      "description": "Deal 11 damage.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, hexamod:Ignite it again.",
       "mod": "Downfall"
     },
     {
@@ -7765,6 +7783,24 @@
       "type": "Skill",
       "cost": "1",
       "description": "Gain 9 Block.\nFor each hexamod:Ignited Ghostflame, Upgrade a random card in your hand.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Strike From Beyond",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage twice.\nexpansioncontent:Reclaim a random Afterlife card.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Strike From Beyond+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage twice.\nexpansioncontent:Reclaim a random Afterlife card.",
       "mod": "Downfall"
     },
     {
@@ -7963,6 +7999,24 @@
       "type": "Power",
       "cost": "1",
       "description": "hexamod:Seal.\nAt the end of combat, heal 7 HP.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Floatwork",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Ethereal. hexamod:Afterlife.\nGain 1 Dexterity.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Floatwork+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nEthereal. hexamod:Afterlife.\nGain 1 Dexterity.",
       "mod": "Downfall"
     },
     {
@@ -8557,6 +8611,24 @@
       "type": "Power",
       "cost": "2",
       "description": "Whenever you play an Afterlife card, deal 9 damage to a random enemy.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Premonition",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Choose a card in your hand.\nPlay the chosen card and Exhaust it.\nExhaust.",
+      "mod": "Downfall"
+    },
+    {
+      "name": "Premonition+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Choose a card in your hand.\nPlay the chosen card and Exhaust it.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -9834,7 +9906,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Ethereal.\nPut a card from your draw or discard pile into your hand.\nAdd a Dazed where it was.\nExhaust.",
+      "description": "Ethereal.\nFetch a card from your draw or discard pile.\nAdd a Dazed where it was.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -9843,7 +9915,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nPut a card from your draw or discard pile into your hand.\nAdd a Dazed where it was.\nExhaust.",
+      "description": "Retain.\nFetch a card from your draw or discard pile.\nAdd a Dazed where it was.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -10734,7 +10806,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage and 3 damage to yourself.\nReturn a random 0-cost Exhausted card to your hand.",
+      "description": "Deal 10 damage and 3 damage to yourself.\nexpansioncontent:Exhume a random 0-cost card.",
       "mod": "Downfall"
     },
     {
@@ -10743,7 +10815,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 14 damage and 3 damage to yourself.\nReturn a random 0-cost Exhausted card to your hand.",
+      "description": "Deal 14 damage and 3 damage to yourself.\nexpansioncontent:Exhume a random 0-cost card.",
       "mod": "Downfall"
     },
     {
@@ -11436,7 +11508,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "expansioncontent:Exhume all 0-cost Exhausted cards.\nExhaust.",
+      "description": "expansioncontent:Exhume all 0-cost cards.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -11445,7 +11517,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "expansioncontent:Exhume all 0-cost Exhausted cards.\nExhaust.",
+      "description": "expansioncontent:Exhume all 0-cost cards.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -15216,7 +15288,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Choose a Stance to Enter.\nFetch a champ:Finisher.\nExhaust.",
+      "description": "Choose a Stance to Enter.\nFetch a champ:Finisher from your draw pile.\nExhaust.",
       "mod": "Downfall"
     },
     {
@@ -15225,7 +15297,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Choose a Stance to Enter.\nFetch a champ:Finisher.",
+      "description": "Choose a Stance to Enter.\nFetch a champ:Finisher from your draw pile.",
       "mod": "Downfall"
     },
     {
@@ -19012,7 +19084,7 @@
       "name": "Berserker's Guide",
       "tier": "Shop",
       "pool": "The_champ_gray",
-      "description": "Prevent the first 10 HP you lose on your turn each combat.",
+      "description": "At the start of your turn, gain 3 Vigor.",
       "flavorText": "The text is illegible.",
       "mod": "Downfall"
     },

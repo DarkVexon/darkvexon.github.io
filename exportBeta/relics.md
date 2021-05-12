@@ -263,7 +263,7 @@
 | ![](slay-the-spire/relics/WristBlade.png) | Wrist Blade | Boss | Green | #yAttacks that cost #b0 deal #b4 additional damage. | Handy for assassinations. |
 | ![](downfall/relics/hexamod-IceCube.png) | Xanatos's Icy Charm | Boss | Hexa_ghost_purple | Gain [E] at the start of your turn. #yhexamod:Soulburn takes #b4 turns to activate. | I feel... cold. |
 | ![](downfall/relics/champ-Barbells.png) | Barbell | Shop |  | Whenever you enter a Rest Site, if you have at least #b10 non-Upgraded cards in your deck, #yUpgrade one at random. | 1000 reps? Psh. I can do 1001. |
-| ![](downfall/relics/champ-BerserkersGuideToSlaughter.png) | Berserker's Guide | Shop | The_champ_gray | Prevent the first #b10 HP you lose on your turn each combat. | The text is illegible. |
+| ![](downfall/relics/champ-BerserkersGuideToSlaughter.png) | Berserker's Guide | Shop | The_champ_gray | At the start of your turn, gain #b3 Vigor. | The text is illegible. |
 | ![](downfall/relics/Guardian-BottledAnomaly.png) | Bottled Anomaly | Shop |  | Upon pickup, choose a card. At the start of each combat, remove it from your draw pile. At the start of turn #b3, add it into your hand. It costs #b0. | Swirling and swirling and finally breaking. |
 | ![](downfall/relics/Guardian-BottledStasis.png) | Bottled Black Hole | Shop | Guardian | Upon pickup, choose a card. Start each combat with this card in #yguardianmod:Stasis. | Somewhere, something incredible is waiting to be known. |
 | ![](slay-the-spire/relics/Brimstone.png) | Brimstone | Shop | Red | At the start of your turn, gain #b2 #yStrength and ALL enemies gain #b1 #yStrength. | Emanates an infernal heat. |

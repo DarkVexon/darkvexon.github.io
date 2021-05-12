@@ -17,6 +17,7 @@
 | Boss | You may only play 1 Boss card in a turn. |
 | Exhume | Put a card from your exhaust pile into your hand. |
 | Invincible | You cannot lose more than a given amount of HP in a single turn. At the end of any round in which Invincible prevented HP loss, remove it. |
+| Reclaim | Put a card from your exhaust pile into your discard pile. |
 | Agony | Creatures in Agony deal 80% less damage with Attacks. |
 | Cripple | Crippled enemies can no longer lose Weak. At the end of their turn, they lose HP equal to their Weak. |
 | Echo | Echoes are copies of cards with Ethereal and Exhaust. |

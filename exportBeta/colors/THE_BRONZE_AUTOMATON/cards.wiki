@@ -556,7 +556,7 @@ Exhaust.)
 |[[Skill]]
 |0
 |[[Ethereal]] ([[Retain]]).
-Put a card from your draw or discard pile into your hand.
+[[Fetch]] a card from your draw or discard pile.
 Add a [[Dazed]] where it was.
 [[Exhaust]].
 |-
