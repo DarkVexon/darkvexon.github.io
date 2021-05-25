@@ -305,7 +305,7 @@ Gain 4 (5) [[Block]].
 |[[Attack]]
 |1
 |Deal 10 (14) damage and 3 damage to yourself.
-Return a random 0-cost [[Exhausted]] card to your hand.
+[[expansioncontent:Exhume]] a random 0-cost card.
 |-
 |[[Lead By Example]]
 |[[File:|thumb|289x289px]]
@@ -373,7 +373,7 @@ Add a random ([[Upgraded]]) 0-cost card to your hand.
 |[[Skill]]
 |1
 |Gain 8 (11) [[Block]].
-Return a random 0-cost [[Exhausted]] card to your hand.
+[[expansioncontent:Exhume]] a random 0-cost card.
 |-
 |[[Replication]]
 |[[File:|thumb|289x289px]]
@@ -495,7 +495,7 @@ The next Attack used on this enemy does not remove [[slimeboundmod:Goop]].
 |[[Attack]]
 |2
 |Deal 12 (18) damage.
-[[slimeboundmod:Consume]] - Heal HP equal to the enemy's [[slimeboundmod:Goop]], up to 12 (18).
+[[slimeboundmod:Consume]] - Heal HP equal to the enemy's [[slimeboundmod:Goop]], up to 18 (24).
 [[Exhaust]].
 |-
 |[[Liquidate]]
@@ -563,8 +563,9 @@ Split into a random [[slimeboundmod:Specialist]] Slime for each [[slimeboundmod:
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|3 (2)
-|Next turn, gain [E] [E] [E] and 3 [[Strength]], and add Slime Crush to your hand.
+|2
+|Next turn, gain [E] [E] [E] ([E]) and 3 [[Strength]], and add SLIME CRUSH (CRUSH+) to your hand.
+[[Exhaust]].
 |-
 |[[Rally the Troops]]
 |[[File:|thumb|289x289px]]
@@ -580,7 +581,7 @@ The next 2 (3) cards played this turn trigger a [[slimeboundmod:Command]].
 |[[Power]]
 |1
 |([[Innate]].)
- At the start of your turn, return a random [[Exhausted]] 0-cost card to your hand.
+ At the start of your turn, [[expansioncontent:Exhume]] a random 0-cost card.
 |-
 |[[Reformation]]
 |[[File:|thumb|289x289px]]
@@ -619,6 +620,6 @@ Gain 5 [[Block]] X (X+1) times.
 |Rare
 |[[Skill]]
 |3 (2)
-|Return all 0-cost [[Exhausted]] cards to your hand.
+|[[expansioncontent:Exhume]] all 0-cost cards.
 [[Exhaust]].
 |-

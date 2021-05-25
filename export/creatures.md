@@ -1,5 +1,6 @@
 | Image | Name |
 | ----- | ---- |
+| ![](downfall/creatures/GremlinCharacter.png) | The Gremlins |
 | ![](downfall/creatures/GuardianCharacter.png) | The Guardian |
 | ![](downfall/creatures/SlimeboundCharacter.png) | The Slime Boss |
 | ![](downfall/creatures/AutomatonChar.png) | the Automaton |

@@ -129,9 +129,9 @@ Gain 5 (7) [[Block]]
 |Special
 |[[Skill]]
 |1
-|[[bronze:Insert]] a Burn.
+|Apply 15 (20) [[hexamod:Soulburn]] to ALL enemies.
 [[bronze:Encode]].
-[[bronze:Compile]] - ALL enemies lose 15 (20) HP.
+[[bronze:Compile]] Error - [[bronze:Insert]] 2 Burn.
 |-
 |[[Expunger]]
 |[[File:|thumb|289x289px]]
@@ -335,7 +335,7 @@ If [[Fatal]], permanently increase this card's damage by 3 (5).
 |[[Attack]]
 |4
 |[[Ethereal]].
-Deal 35 (45) damage.
+Deal 35 (40) damage (to ALL enemies).
 [[Exhaust]].
 |-
 |[[Safety]]
@@ -361,16 +361,20 @@ Gain 12 (16) [[Block]].
 |[[File:|thumb|289x289px]]
 |Special
 |[[Skill]]
-|1
-|Gain 14 (18) [[Block]].
+|2
+|[[Ethereal]].
+Gain 14 (18) [[Block]].
+[[expansioncontent:Reclaim]] Nightmare Guise.
 [[Exhaust]].
 |-
 |[[Shadow Strike]]
 |[[File:|thumb|289x289px]]
 |Special
 |[[Attack]]
-|1
-|Deal 16 (20) damage.
+|2
+|[[Ethereal]].
+Deal 16 (20) damage.
+[[expansioncontent:Reclaim]] Nightmare Strike.
 [[Exhaust]].
 |-
 |[[Shiv]]
@@ -406,6 +410,14 @@ Deal 12 (16) damage.
 |0
 |[[Retain]].
 Deal 20 (30) damage.
+[[Exhaust]].
+|-
+|[[Ward]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|Gain 3 (5) [[Block]].
 [[Exhaust]].
 |-
 |[[Burn]]

@@ -129,6 +129,13 @@ Apply 0 (1) - 2 [[Vulnerable]].
 |Common
 |[[Skill]]
 |
+|*Unknown ([[Upgraded]]) Character Card.
+|-
+|[[???]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|
 |*Unknown ([[Upgraded]]) Draw Card.
 |-
 |[[???]]

@@ -14,8 +14,8 @@
 |Basic
 |[[Skill]]
 |1
-|Gain 10 (13) [[Block]] if in [[guardianmod:Defensive_Mode]].
-Otherwise, [[guardianmod:Brace]] 10 (13).
+|Place a random (not random)card from (in) your hand into [[guardianmod:Stasis]].
+[[guardianmod:Brace]] 10.
 |-
 |[[Defend]]
 |[[File:|thumb|289x289px]]
@@ -238,7 +238,7 @@ Add a random Power card to your hand. (It costs 1 less this combat.)
 |[[Power]]
 |1
 |Gain 5 (8) [[Block]] at the end of each turn while in [[guardianmod:Defensive_Mode]].
-[[guardianmod:Brace]] 10.
+At the start of your turn, [[guardianmod:Brace]] 3.
 |-
 |[[Body Slam]]
 |[[File:|thumb|289x289px]]
@@ -289,7 +289,7 @@ Exhaust.)
 |[[Power]]
 |1
 |While in [[guardianmod:Defensive_Mode]], raise your [[Dexterity]] by 3 (5).
-[[guardianmod:Brace]] 10.
+At the start of your turn, [[guardianmod:Brace]] 3.
 |-
 |[[Floating Orbs]]
 |[[File:|thumb|289x289px]]
@@ -325,17 +325,16 @@ Exhaust.)
 |Uncommon
 |[[Attack]]
 |1
-|Must be in Defensive Mode.
-Exit Defensive Mode.
-Deal 4 damage 4 (5) times to ALL enemies.
+|Requires 20 or more [[Block]].
+Deal 4 damage to ALL enemies 4 (5) times.
 |-
 |[[Harden]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |1
-|Must be in Defensive Mode.
-Gain 12 (16) [[Block]] and 2 (3) [[Thorns]].
+|Requires 20 or more [[Block]].
+[[guardianmod:Brace]] 10 (14) and gain 2 (3) [[Thorns]].
 |-
 |[[Multi-Beam]]
 |[[File:|thumb|289x289px]]
@@ -454,7 +453,7 @@ Gain 4 (6) temporary [[Thorns]] if in [[guardianmod:Defensive_Mode]]. Otherwise,
 |[[Power]]
 |1
 |Gain 4 (6) [[Thorns]] while in [[guardianmod:Defensive_Mode]].
-[[guardianmod:Brace]] 10.
+At the start of your turn, [[guardianmod:Brace]] 3.
 |-
 |[[Time Bomb]]
 |[[File:|thumb|289x289px]]
@@ -486,7 +485,7 @@ When this card would leave [[guardianmod:Stasis]], deal 22 (30) damage to ALL en
 |[[Attack]]
 |2
 |Deal 10 damage.
-Perform the following 2 (3) times:
+NL Perform 2 (3) times:
 [ [[guardianmod:Socket]] ]
 [ [[guardianmod:Socket]] ]
 |-
@@ -581,7 +580,7 @@ Skip your next turn.
 |[[Power]]
 |1
 |While in [[guardianmod:Defensive_Mode]], raise your [[Strength]] by 2 (3).
-[[guardianmod:Brace]] 10.
+At the start of your turn, [[guardianmod:Brace]] 5.
 |-
 |[[Speed Boost]]
 |[[File:|thumb|289x289px]]

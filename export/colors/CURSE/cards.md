@@ -17,5 +17,6 @@
 | Pain | ![](../../slay-the-spire/small-card-images/Curse-Pain.png) | ![]() | Curse | Curse |  | Unplayable. While in hand, lose 1 HP whenever you play another card. |
 | Parasite | ![](../../slay-the-spire/small-card-images/Curse-Parasite.png) | ![]() | Curse | Curse |  | Unplayable. If transformed or removed from your deck, lose 3 Max HP. |
 | Regret | ![](../../slay-the-spire/small-card-images/Curse-Regret.png) | ![]() | Curse | Curse |  | Unplayable. At the end of your turn, lose HP equal to the number of cards in your hand. |
+| Scatterbrained | ![](../../downfall/small-card-images/Curse-Scatterbrained.png) | ![]() | Curse | Curse |  | Unplayable. When drawn, if it is your turn, fill your hand with Echoes of this card. |
 | Shame | ![](../../slay-the-spire/small-card-images/Curse-Shame.png) | ![]() | Curse | Curse |  | Unplayable. At the end of your turn, gain 1 Frail. |
 | Writhe | ![](../../slay-the-spire/small-card-images/Curse-Writhe.png) | ![]() | Curse | Curse |  | Unplayable. Innate. |

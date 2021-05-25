@@ -16,6 +16,7 @@
 | ??? | ![](../../downfall/small-card-images/Snecko_cya-.png) | ![](../../downfall/small-card-images/Snecko_cya-Plus.png) | Common | Skill |  | *Unknown (Upgraded) Character Card. |
 | ??? | ![](../../downfall/small-card-images/Snecko_cya-.png) | ![](../../downfall/small-card-images/Snecko_cya-Plus.png) | Common | Skill |  | *Unknown (Upgraded) Common Skill Card. |
 | ??? | ![](../../downfall/small-card-images/Snecko_cya-.png) | ![](../../downfall/small-card-images/Snecko_cya-Plus.png) | Common | Skill |  | *Unknown (Upgraded) 1 Cost Card. |
+| ??? | ![](../../downfall/small-card-images/Snecko_cya-.png) | ![](../../downfall/small-card-images/Snecko_cya-Plus.png) | Common | Skill |  | *Unknown (Upgraded) Character Card. |
 | ??? | ![](../../downfall/small-card-images/Snecko_cya-.png) | ![](../../downfall/small-card-images/Snecko_cya-Plus.png) | Common | Skill |  | *Unknown (Upgraded) Draw Card. |
 | ??? | ![](../../downfall/small-card-images/Snecko_cya-.png) | ![](../../downfall/small-card-images/Snecko_cya-Plus.png) | Common | Skill |  | *Unknown (Upgraded) Character Card. |
 | ??? | ![](../../downfall/small-card-images/Snecko_cya-.png) | ![](../../downfall/small-card-images/Snecko_cya-Plus.png) | Common | Skill |  | *Unknown (Upgraded) Character Card. |

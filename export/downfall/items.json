@@ -161,7 +161,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "1",
-      "description": "bronze:Insert a Burn.\nbronze:Encode.\nbronze:Compile - ALL enemies lose 15 HP."
+      "description": "Apply 15 hexamod:Soulburn to ALL enemies.\nbronze:Encode.\nbronze:Compile Error - bronze:Insert 2 Burn."
     },
     {
       "name": "Explode+",
@@ -169,7 +169,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "1",
-      "description": "bronze:Insert a Burn.\nbronze:Encode.\nbronze:Compile - ALL enemies lose 20 HP."
+      "description": "Apply 20 hexamod:Soulburn to ALL enemies.\nbronze:Encode.\nbronze:Compile Error - bronze:Insert 2 Burn."
     },
     {
       "name": "Finishing Strike",
@@ -441,7 +441,7 @@
       "rarity": "Special",
       "type": "Attack",
       "cost": "4",
-      "description": "Ethereal.\nDeal 45 damage.\nExhaust."
+      "description": "Ethereal.\nDeal 40 damage to ALL enemies.\nExhaust."
     },
     {
       "name": "Sentry Wave",
@@ -464,32 +464,32 @@
       "color": "Colorless",
       "rarity": "Special",
       "type": "Skill",
-      "cost": "1",
-      "description": "Gain 14 Block.\nExhaust."
+      "cost": "2",
+      "description": "Ethereal.\nGain 14 Block.\nexpansioncontent:Reclaim Nightmare Guise.\nExhaust."
     },
     {
       "name": "Shadow Guise+",
       "color": "Colorless",
       "rarity": "Special",
       "type": "Skill",
-      "cost": "1",
-      "description": "Gain 18 Block.\nExhaust."
+      "cost": "2",
+      "description": "Ethereal.\nGain 18 Block.\nexpansioncontent:Reclaim Nightmare Guise.\nExhaust."
     },
     {
       "name": "Shadow Strike",
       "color": "Colorless",
       "rarity": "Special",
       "type": "Attack",
-      "cost": "1",
-      "description": "Deal 16 damage.\nExhaust."
+      "cost": "2",
+      "description": "Ethereal.\nDeal 16 damage.\nexpansioncontent:Reclaim Nightmare Strike.\nExhaust."
     },
     {
       "name": "Shadow Strike+",
       "color": "Colorless",
       "rarity": "Special",
       "type": "Attack",
-      "cost": "1",
-      "description": "Deal 20 damage.\nExhaust."
+      "cost": "2",
+      "description": "Ethereal.\nDeal 20 damage.\nexpansioncontent:Reclaim Nightmare Strike.\nExhaust."
     },
     {
       "name": "Spike",
@@ -506,6 +506,22 @@
       "type": "Attack",
       "cost": "1",
       "description": "Deal 4 damage.\nbronze:Encode.\nbronze:Compile - Gain 4 Thorns."
+    },
+    {
+      "name": "Ward",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 3 Block.\nExhaust."
+    },
+    {
+      "name": "Ward+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 5 Block.\nExhaust."
     },
     {
       "name": "Aged",
@@ -548,12 +564,20 @@
       "description": "Add a Slimed Status to your hand.\nExhaust."
     },
     {
+      "name": "Scatterbrained",
+      "color": "Curse",
+      "rarity": "Curse",
+      "type": "Curse",
+      "cost": "",
+      "description": "Unplayable.\nWhen drawn, if it is your turn, fill your hand with Echoes of this card."
+    },
+    {
       "name": "Deca Shield",
       "color": "Boss",
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nexpansioncontent:Boss - Ancients.\nGain 14 Block.\nNext turn, add a Donu Blast with Ethereal into your hand.\nExhaust."
+      "description": "expansioncontent:Boss - Ancients.\nGain 7 Block twice. Increase this card's Block by 1.\nNext turn, expansioncontent:Exhume Donu Blast.\nExhaust."
     },
     {
       "name": "Deca Shield+",
@@ -561,7 +585,7 @@
       "rarity": "Special",
       "type": "Skill",
       "cost": "2",
-      "description": "Ethereal.\nexpansioncontent:Boss - Ancients.\nGain 18 Block.\nNext turn, add a Donu Blast+ with Ethereal into your hand.\nExhaust."
+      "description": "expansioncontent:Boss - Ancients.\nGain 9 Block twice. Increase this card's Block by 1.\nNext turn, expansioncontent:Exhume Donu Blast+.\nExhaust."
     },
     {
       "name": "Automa-Beam",
@@ -617,7 +641,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "expansioncontent:Boss - Ancients.\nDeal 9 damage twice.\nNext turn, add a Deca Shield into your hand.\nExhaust."
+      "description": "expansioncontent:Boss - Ancients.\nDeal 9 damage twice. Increase this card's damage by 2.\nNext turn, add a Deca Shield into your hand, or expansioncontent:Exhume it.\nExhaust."
     },
     {
       "name": "Donu Blast+",
@@ -625,7 +649,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "expansioncontent:Boss - Ancients.\nDeal 12 damage twice.\nNext turn, add a Deca Shield+ into your hand.\nExhaust."
+      "description": "expansioncontent:Boss - Ancients.\nDeal 12 damage twice. Increase this card's damage by 2.\nNext turn, add a Deca Shield+ into your hand, or expansioncontent:Exhume it.\nExhaust."
     },
     {
       "name": "Guardian Whirl",
@@ -705,7 +729,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "expansioncontent:Boss - Slime.\nGain 15 Block.\nOn your next turn, gain [E] [E] [E] and add SLIME CRUSH to your hand.\nExhaust."
+      "description": "expansioncontent:Boss - Slime.\nGain 15 Block.\nOn your next turn, gain [E] [E] [E] and add SLIME CRUSH+ to your hand.\nExhaust."
     },
     {
       "name": "YOU ARE MINE!",
@@ -793,7 +817,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "0",
-      "description": "Ethereal.\nDraw a card.\nhexamod:Advance."
+      "description": "Draw a card.\nhexamod:Advance."
     },
     {
       "name": "Float+",
@@ -801,7 +825,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "0",
-      "description": "Ethereal.\nDraw a card.\nYou may choose to\nhexamod:Retract or hexamod:Advance."
+      "description": "Draw a card.\nYou may choose to\nhexamod:Retract or hexamod:Advance."
     },
     {
       "name": "Sear",
@@ -809,7 +833,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 9 hexamod:Soulburn."
+      "description": "Ethereal. hexamod:Afterlife.\nApply 10 hexamod:Soulburn."
     },
     {
       "name": "Sear+",
@@ -817,7 +841,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 15 hexamod:Soulburn."
+      "description": "Ethereal. hexamod:Afterlife.\nApply 16 hexamod:Soulburn."
     },
     {
       "name": "Strike",
@@ -884,12 +908,28 @@
       "description": "If the enemy has hexamod:Soulburn, apply 11 hexamod:Soulburn.\nApply 11 hexamod:Soulburn."
     },
     {
+      "name": "Divider",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage for each hexamod:Ignited Ghostflame."
+    },
+    {
+      "name": "Divider+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage for each hexamod:Ignited Ghostflame."
+    },
+    {
       "name": "Fast Forward",
       "color": "Hexa_ghost_purple",
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Ethereal.\nhexamod:Force-Ignite the hexamod:Active Ghostflame.\nhexamod:Advance."
+      "description": "Ethereal.\nhexamod:Ignite the current Ghostflame.\nhexamod:Advance."
     },
     {
       "name": "Fast Forward+",
@@ -897,7 +937,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "hexamod:Force-Ignite the hexamod:Active Ghostflame.\nhexamod:Advance."
+      "description": "hexamod:Ignite the current Ghostflame.\nhexamod:Advance."
     },
     {
       "name": "Firestarter",
@@ -905,7 +945,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage.\nApply 5 hexamod:Soulburn."
+      "description": "Deal 7 damage.\nApply 7 hexamod:Soulburn."
     },
     {
       "name": "Firestarter+",
@@ -913,23 +953,23 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage.\nApply 7 hexamod:Soulburn."
+      "description": "Deal 9 damage.\nApply 9 hexamod:Soulburn."
     },
     {
       "name": "Flames from Beyond",
       "color": "Hexa_ghost_purple",
       "rarity": "Common",
       "type": "Skill",
-      "cost": "",
-      "description": "Unplayable.\nEthereal, hexamod:Afterlife.\nApply 12 hexamod:Soulburn to ALL enemies."
+      "cost": "2",
+      "description": "Ethereal. hexamod:Afterlife.\nApply 18 hexamod:Soulburn to ALL enemies."
     },
     {
       "name": "Flames from Beyond+",
       "color": "Hexa_ghost_purple",
       "rarity": "Common",
       "type": "Skill",
-      "cost": "",
-      "description": "Unplayable.\nEthereal, hexamod:Afterlife.\nApply 18 hexamod:Soulburn to ALL enemies."
+      "cost": "2",
+      "description": "Ethereal. hexamod:Afterlife.\nApply 24 hexamod:Soulburn to ALL enemies."
     },
     {
       "name": "Ghost Lash",
@@ -937,7 +977,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Ethereal.\nDeal 8 damage.\nIf your hand contains another Ethereal card, deal 8 damage."
+      "description": "Ethereal. hexamod:Afterlife.\nDeal 8 damage.\nIf you Exhausted a card last turn, deal 8 damage."
     },
     {
       "name": "Ghost Lash+",
@@ -945,7 +985,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Ethereal.\nDeal 11 damage.\nIf your hand contains another Ethereal card, deal 11 damage."
+      "description": "Ethereal. hexamod:Afterlife.\nDeal 11 damage.\nIf you Exhausted a card last turn, deal 11 damage."
     },
     {
       "name": "Ghost Shield",
@@ -953,7 +993,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Ethereal.\nGain 6 Block.\nIf your hand contains another Ethereal card, gain 6 Block."
+      "description": "Ethereal. hexamod:Afterlife.\nGain 6 Block.\nIf you Exhausted a card last turn, gain 1 bronze:Blur."
     },
     {
       "name": "Ghost Shield+",
@@ -961,23 +1001,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Ethereal.\nGain 8 Block.\nIf your hand contains another Ethereal card, gain 8 Block."
-    },
-    {
-      "name": "Haunting Echo",
-      "color": "Hexa_ghost_purple",
-      "rarity": "Common",
-      "type": "Attack",
-      "cost": "1",
-      "description": "Deal 8 damage.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, hexamod:Force-Ignite it."
-    },
-    {
-      "name": "Haunting Echo+",
-      "color": "Hexa_ghost_purple",
-      "rarity": "Common",
-      "type": "Attack",
-      "cost": "1",
-      "description": "Deal 11 damage.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, hexamod:Force-Ignite it."
+      "description": "Ethereal. hexamod:Afterlife.\nGain 10 Block.\nIf you Exhausted a card last turn, gain 1 bronze:Blur."
     },
     {
       "name": "Heat Metal",
@@ -1012,60 +1036,12 @@
       "description": "Ethereal. hexamod:Afterlife.\nGain 10 Block.\nDraw 1 card."
     },
     {
-      "name": "Nightmare Guise",
-      "color": "Hexa_ghost_purple",
-      "rarity": "Common",
-      "type": "Skill",
-      "cost": "2",
-      "description": "Ethereal.\nGain 14 Block.\nIf this card is Exhausted, add a Shadow Guise into your hand."
-    },
-    {
-      "name": "Nightmare Guise+",
-      "color": "Hexa_ghost_purple",
-      "rarity": "Common",
-      "type": "Skill",
-      "cost": "2",
-      "description": "Ethereal.\nGain 18 Block.\nIf this card is Exhausted, add a Shadow Guise+ to your hand."
-    },
-    {
-      "name": "Nightmare Strike",
-      "color": "Hexa_ghost_purple",
-      "rarity": "Common",
-      "type": "Attack",
-      "cost": "2",
-      "description": "Ethereal.\nDeal 16 damage.\nIf this card is Exhausted, add a Shadow Strike into your hand."
-    },
-    {
-      "name": "Nightmare Strike+",
-      "color": "Hexa_ghost_purple",
-      "rarity": "Common",
-      "type": "Attack",
-      "cost": "2",
-      "description": "Ethereal.\nDeal 20 damage.\nIf this card is Exhausted, add a Shadow Strike+ to your hand."
-    },
-    {
-      "name": "Searing Strike",
-      "color": "Hexa_ghost_purple",
-      "rarity": "Common",
-      "type": "Attack",
-      "cost": "1",
-      "description": "Ethereal.\nDeal 10 damage.\nApply 6 hexamod:Soulburn.\nIf this card is Exhausted, take 6 damage."
-    },
-    {
-      "name": "Searing Strike+",
-      "color": "Hexa_ghost_purple",
-      "rarity": "Common",
-      "type": "Attack",
-      "cost": "1",
-      "description": "Ethereal.\nDeal 14 damage.\nApply 9 hexamod:Soulburn.\nIf this card is Exhausted, take 6 damage."
-    },
-    {
       "name": "Shield of Night",
       "color": "Hexa_ghost_purple",
       "rarity": "Common",
       "type": "Skill",
       "cost": "2",
-      "description": "If the hexamod:Active Ghostflame is not hexamod:Ignited, gain [E] .\nGain 12 Block."
+      "description": "If the current Ghostflame is not hexamod:Ignited, gain [E] .\nGain 12 Block."
     },
     {
       "name": "Shield of Night+",
@@ -1073,7 +1049,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "2",
-      "description": "If the hexamod:Active Ghostflame is not hexamod:Ignited, gain [E] .\nGain 16 Block."
+      "description": "If the current Ghostflame is not hexamod:Ignited, gain [E] .\nGain 16 Block."
     },
     {
       "name": "Specter's Wail",
@@ -1097,7 +1073,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 5 Block.\nFor each hexamod:Ignited Ghostflame, Upgrade a random card in your hand."
+      "description": "Gain 6 Block.\nFor each hexamod:Ignited Ghostflame, Upgrade a random card in your hand."
     },
     {
       "name": "Stoke the Fire+",
@@ -1105,7 +1081,23 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 8 Block.\nFor each hexamod:Ignited Ghostflame, Upgrade a random card in your hand."
+      "description": "Gain 9 Block.\nFor each hexamod:Ignited Ghostflame, Upgrade a random card in your hand."
+    },
+    {
+      "name": "Strike From Beyond",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage twice.\nexpansioncontent:Reclaim a random Afterlife card."
+    },
+    {
+      "name": "Strike From Beyond+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage twice.\nexpansioncontent:Reclaim a random Afterlife card."
     },
     {
       "name": "Sword of Night",
@@ -1113,7 +1105,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "If the hexamod:Active Ghostflame is not hexamod:Ignited, gain [E] .\nDeal 14 damage."
+      "description": "If the current Ghostflame is not hexamod:Ignited, gain [E] .\nDeal 14 damage."
     },
     {
       "name": "Sword of Night+",
@@ -1121,7 +1113,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "If the hexamod:Active Ghostflame is not hexamod:Ignited, gain [E] .\nDeal 18 damage."
+      "description": "If the current Ghostflame is not hexamod:Ignited, gain [E] .\nDeal 18 damage."
     },
     {
       "name": "Thermal Transfer",
@@ -1145,7 +1137,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "hexamod:Force-Ignite the hexamod:Active Ghostflame.\nDo not hexamod:Advance at the end of this turn."
+      "description": "hexamod:Ignite the current Ghostflame.\nDo not hexamod:Advance at the end of this turn."
     },
     {
       "name": "Again!+",
@@ -1153,7 +1145,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "hexamod:Force-Ignite the hexamod:Active Ghostflame.\nDo not hexamod:Advance at the end of this turn."
+      "description": "hexamod:Ignite the current Ghostflame.\nDo not hexamod:Advance at the end of this turn."
     },
     {
       "name": "Bright Ritual",
@@ -1177,7 +1169,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "hexamod:Force-Ignite the previous Ghostflame."
+      "description": "hexamod:Ignite the previous Ghostflame."
     },
     {
       "name": "Catch Up+",
@@ -1185,7 +1177,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "hexamod:Force-Ignite the previous Ghostflame."
+      "description": "hexamod:Ignite the previous Ghostflame."
     },
     {
       "name": "Charged Barrage",
@@ -1208,7 +1200,7 @@
       "color": "Hexa_ghost_purple",
       "rarity": "Uncommon",
       "type": "Power",
-      "cost": "1",
+      "cost": "2",
       "description": "The first time you hexamod:Retract each turn, gain [E] and draw 1 card.\nhexamod:Retract."
     },
     {
@@ -1216,24 +1208,8 @@
       "color": "Hexa_ghost_purple",
       "rarity": "Uncommon",
       "type": "Power",
-      "cost": "1",
+      "cost": "2",
       "description": "Innate.\nThe first time you hexamod:Retract each turn, gain [E] and draw 1 card.\nhexamod:Retract."
-    },
-    {
-      "name": "Dynamic Blow",
-      "color": "Hexa_ghost_purple",
-      "rarity": "Uncommon",
-      "type": "Attack",
-      "cost": "1",
-      "description": "Ethereal.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, apply 15 hexamod:Soulburn. If not, deal 10 damage."
-    },
-    {
-      "name": "Dynamic Blow+",
-      "color": "Hexa_ghost_purple",
-      "rarity": "Uncommon",
-      "type": "Attack",
-      "cost": "1",
-      "description": "Ethereal.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, apply 20 hexamod:Soulburn. If not, deal 13 damage."
     },
     {
       "name": "Eerie Expedition",
@@ -1292,12 +1268,44 @@
       "description": "Ethereal hexamod:Seal.\nAt the end of combat, heal 7 HP."
     },
     {
+      "name": "First Seal+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "hexamod:Seal.\nAt the end of combat, heal 7 HP."
+    },
+    {
+      "name": "Floatwork",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Ethereal. hexamod:Afterlife.\nGain 1 Dexterity."
+    },
+    {
+      "name": "Floatwork+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nEthereal. hexamod:Afterlife.\nGain 1 Dexterity."
+    },
+    {
       "name": "Fourth Seal",
       "color": "Hexa_ghost_purple",
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
       "description": "Ethereal hexamod:Seal.\nAt the end of combat, gain an additional Potion reward."
+    },
+    {
+      "name": "Fourth Seal+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "hexamod:Seal.\nAt the end of combat, gain an additional Potion reward."
     },
     {
       "name": "Ghostflame Wall",
@@ -1321,7 +1329,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Ethereal.\nDraw 2 cards.\nAll cards in your hand become Ethereal.\nExhaust."
+      "description": "Ethereal. hexamod:Afterlife.\nDraw 2 cards.\nAll cards in your hand become Ethereal.\nExhaust."
     },
     {
       "name": "Haunted Hand+",
@@ -1329,7 +1337,23 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Ethereal.\nDraw 3 cards.\nAll cards in your hand become Ethereal.\nExhaust."
+      "description": "Ethereal. hexamod:Afterlife.\nDraw 3 cards.\nAll cards in your hand become Ethereal.\nExhaust."
+    },
+    {
+      "name": "Haunting Echo",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, hexamod:Ignite it again."
+    },
+    {
+      "name": "Haunting Echo+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 11 damage.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, hexamod:Ignite it again."
     },
     {
       "name": "Heat Crush",
@@ -1412,12 +1436,44 @@
       "description": "Apply 5 hexamod:Soulburn.\nThe next time the target's hexamod:Soulburn detonates, it affects ALL enemies."
     },
     {
+      "name": "Nightmare Guise",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Ethereal.\nGain 9 Block.\nIf this card is Exhausted, add a Shadow Guise into your hand."
+    },
+    {
+      "name": "Nightmare Guise+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Ethereal.\nGain 13 Block.\nIf this card is Exhausted, add a Shadow Guise+ to your hand."
+    },
+    {
+      "name": "Nightmare Strike",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Ethereal.\nDeal 10 damage.\nIf this card is Exhausted, add a Shadow Strike into your hand."
+    },
+    {
+      "name": "Nightmare Strike+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Ethereal.\nDeal 14 damage.\nIf this card is Exhausted, add a Shadow Strike+ to your hand."
+    },
+    {
       "name": "Nightmare Vision",
       "color": "Hexa_ghost_purple",
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Put an Ethereal card from your exhaust pile into your hand.\nExhaust."
+      "description": "expansioncontent:Exhume an Ethereal card.\nExhaust."
     },
     {
       "name": "Nightmare Vision+",
@@ -1425,23 +1481,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Put 2 Ethereal cards from your exhaust pile into your hand.\nExhaust."
-    },
-    {
-      "name": "Phantom Cloak",
-      "color": "Hexa_ghost_purple",
-      "rarity": "Uncommon",
-      "type": "Power",
-      "cost": "1",
-      "description": "Ethereal.\nGain 2 Dexterity and lose 1 Strength."
-    },
-    {
-      "name": "Phantom Cloak+",
-      "color": "Hexa_ghost_purple",
-      "rarity": "Uncommon",
-      "type": "Power",
-      "cost": "1",
-      "description": "Ethereal.\nGain 3 Dexterity and lose 1 Strength."
+      "description": "expansioncontent:Exhume 2 Ethereal cards.\nExhaust."
     },
     {
       "name": "Phantom Fireball",
@@ -1464,16 +1504,16 @@
       "color": "Hexa_ghost_purple",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "",
-      "description": "Unplayable.\nEthereal. hexamod:Afterlife.\nGain [E] and draw 1 card next turn."
+      "cost": "1",
+      "description": "Ethereal. hexamod:Afterlife.\nGain [E] and draw 1 card next turn."
     },
     {
       "name": "Power from Beyond+",
       "color": "Hexa_ghost_purple",
       "rarity": "Uncommon",
       "type": "Skill",
-      "cost": "",
-      "description": "Unplayable.\nEthereal. hexamod:Afterlife.\nGain [E] and draw 2 cards next turn."
+      "cost": "1",
+      "description": "Ethereal. hexamod:Afterlife.\nGain [E] and draw 2 cards next turn."
     },
     {
       "name": "Radiant Flame",
@@ -1532,12 +1572,20 @@
       "description": "Ethereal hexamod:Seal.\nAt the end of combat, gain 8 additional Gold."
     },
     {
+      "name": "Second Seal+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "hexamod:Seal.\nAt the end of combat, gain 8 additional Gold."
+    },
+    {
       "name": "Skip a Beat",
       "color": "Hexa_ghost_purple",
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "hexamod:Force-Ignite the next Ghostflame.\nExhaust."
+      "description": "hexamod:Ignite the next Ghostflame.\nExhaust."
     },
     {
       "name": "Skip a Beat+",
@@ -1545,7 +1593,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "hexamod:Force-Ignite the next Ghostflame.\nExhaust."
+      "description": "hexamod:Ignite the next Ghostflame.\nExhaust."
     },
     {
       "name": "Spectral Spark",
@@ -1553,7 +1601,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 6 hexamod:Soulburn.\nIf the hexamod:Active Ghostflame is hexamod:Ignited: hexamod:Extinguish it and return this card to your hand."
+      "description": "Apply 6 hexamod:Soulburn.\nIf the current Ghostflame is hexamod:Ignited: hexamod:Extinguish it and return this card to your hand."
     },
     {
       "name": "Spectral Spark+",
@@ -1561,7 +1609,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "Apply 9 hexamod:Soulburn.\nIf the hexamod:Active Ghostflame is hexamod:Ignited: hexamod:Extinguish it and return this card to your hand."
+      "description": "Apply 9 hexamod:Soulburn.\nIf the current Ghostflame is hexamod:Ignited: hexamod:Extinguish it and return this card to your hand."
     },
     {
       "name": "Speedrunning",
@@ -1585,7 +1633,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, hexamod:Advance.\nIf not, hexamod:Ignite it."
+      "description": "Deal 8 damage.\nDraw 1 card for each hexamod:Ignited Ghostflame."
     },
     {
       "name": "Step Through+",
@@ -1593,7 +1641,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage.\nIf the hexamod:Active Ghostflame is hexamod:Ignited, hexamod:Advance.\nIf not, hexamod:Ignite it."
+      "description": "Deal 11 damage.\nDraw 1 card for each hexamod:Ignited Ghostflame."
     },
     {
       "name": "Third Seal",
@@ -1602,6 +1650,14 @@
       "type": "Power",
       "cost": "1",
       "description": "Ethereal hexamod:Seal.\nAt the end of combat, gain an additional card reward."
+    },
+    {
+      "name": "Third Seal+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "hexamod:Seal.\nAt the end of combat, gain an additional card reward."
     },
     {
       "name": "Worthy Sacrifice",
@@ -1620,28 +1676,12 @@
       "description": "Choose an Attack or Skill to Exhaust.\nAdd a random card of the opposite type into your hand.\nIt costs 1 less."
     },
     {
-      "name": "Apocalypse Now",
-      "color": "Hexa_ghost_purple",
-      "rarity": "Rare",
-      "type": "Skill",
-      "cost": "0",
-      "description": "Ethereal.\nGain [E] [E] .\nThe Inferno Ghostflame becomes hexamod:Active.\nExhaust."
-    },
-    {
-      "name": "Apocalypse Now+",
-      "color": "Hexa_ghost_purple",
-      "rarity": "Rare",
-      "type": "Skill",
-      "cost": "0",
-      "description": "Ethereal.\nGain [E] [E] [E] .\nThe Inferno Ghostflame becomes hexamod:Active.\nExhaust."
-    },
-    {
       "name": "Bad Omen",
       "color": "Hexa_ghost_purple",
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Ethereal.\nReplace the hexamod:Active Ghostflame with a hexamod:Crushing or hexamod:Bolstering one.\nExhaust."
+      "description": "Ethereal.\nReplace the current Ghostflame with a hexamod:Crushing or hexamod:Bolstering one.\nExhaust."
     },
     {
       "name": "Bad Omen+",
@@ -1649,7 +1689,23 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Retain.\nReplace the hexamod:Active Ghostflame with a hexamod:Crushing or hexamod:Bolstering one.\nExhaust."
+      "description": "Retain.\nReplace the current Ghostflame with a hexamod:Crushing or hexamod:Bolstering one.\nExhaust."
+    },
+    {
+      "name": "Burning Question",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Ethereal.\nGain 10 Block. Increase this card's damage by 8.\nWhen this card is Exhausted, deal 10 damage to ALL enemies."
+    },
+    {
+      "name": "Burning Question+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Ethereal.\nGain 12 Block. Increase this card's damage by 10.\nWhen this card is Exhausted, deal 12 damage to ALL enemies."
     },
     {
       "name": "Doomsday",
@@ -1676,12 +1732,20 @@
       "description": "Ethereal hexamod:Seal.\nAt the end of combat, Upgrade a random card in your deck."
     },
     {
+      "name": "Fifth Seal+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "hexamod:Seal.\nAt the end of combat, Upgrade a random card in your deck."
+    },
+    {
       "name": "Forked Flame",
       "color": "Hexa_ghost_purple",
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage.\nhexamod:Force-Ignite the previous, then the next Ghostflames."
+      "description": "Deal 7 damage.\nhexamod:Ignite the previous, then the next Ghostflames."
     },
     {
       "name": "Forked Flame+",
@@ -1689,23 +1753,23 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage.\nhexamod:Force-Ignite the previous, then the Active, then the next Ghostflames."
+      "description": "Deal 7 damage.\nhexamod:Ignite the previous, then the current, then the next Ghostflames."
     },
     {
       "name": "Gifts From Beyond",
       "color": "Hexa_ghost_purple",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "",
-      "description": "Unplayable.\nEthereal. hexamod:Afterlife.\nWhenever an Ethereal card is Exhausted, gain [E] next turn."
+      "cost": "2",
+      "description": "At the start of your turn, expansioncontent:Reclaim a random Afterlife card."
     },
     {
       "name": "Gifts From Beyond+",
       "color": "Hexa_ghost_purple",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "",
-      "description": "Unplayable.\nEthereal. hexamod:Afterlife.\nWhenever an Ethereal card is Exhausted, gain [E] and draw 1 card next turn."
+      "cost": "1",
+      "description": "At the start of your turn, expansioncontent:Reclaim a random Afterlife card."
     },
     {
       "name": "Here and Now",
@@ -1753,7 +1817,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Retain.\nhexamod:Ignite the hexamod:Active Ghostflame.\nhexamod:Ignite the Inferno Ghostflame.\nExhaust."
+      "description": "Retain.\nhexamod:Ignite the current Ghostflame.\nhexamod:Ignite the Inferno Ghostflame.\nExhaust."
     },
     {
       "name": "Poltergeist",
@@ -1761,7 +1825,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Ethereal.\nWhenever you play an Ethereal card, deal 4 damage to a random enemy."
+      "description": "Whenever you play an Afterlife card, deal 6 damage to a random enemy."
     },
     {
       "name": "Poltergeist+",
@@ -1769,7 +1833,23 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "Ethereal.\nWhenever you play an Ethereal card, deal 6 damage to a random enemy."
+      "description": "Whenever you play an Afterlife card, deal 9 damage to a random enemy."
+    },
+    {
+      "name": "Premonition",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Choose a card in your hand.\nPlay the chosen card and Exhaust it.\nExhaust."
+    },
+    {
+      "name": "Premonition+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Choose a card in your hand.\nPlay the chosen card and Exhaust it.\nExhaust."
     },
     {
       "name": "Searing Wound",
@@ -1794,6 +1874,14 @@
       "type": "Power",
       "cost": "3",
       "description": "Ethereal hexamod:Seal.\nAt the end of combat, gain an additional non-Sixth Seal card reward."
+    },
+    {
+      "name": "Sixth Seal+",
+      "color": "Hexa_ghost_purple",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "3",
+      "description": "hexamod:Seal.\nAt the end of combat, gain an additional non-Sixth Seal card reward."
     },
     {
       "name": "Time Warp",
@@ -1849,7 +1937,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Gain 5 hexamod:Intensity.\nLose it in X+1 turns.\nExhaust."
+      "description": "Gain 6 hexamod:Intensity.\nLose it in X+1 turns.\nExhaust."
     },
     {
       "name": "Turn It Up+",
@@ -1857,7 +1945,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "X",
-      "description": "Gain 5 hexamod:Intensity.\nLose it in X+2 turns.\nExhaust."
+      "description": "Gain 6 hexamod:Intensity.\nLose it in X+1 turns.\nGain [E] .\nExhaust."
     },
     {
       "name": "Unleash Spirits",
@@ -1865,7 +1953,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 5 damage to a random enemy.\nRepeat for each Ethereal card in your exhaust pile.\nExhaust."
+      "description": "Deal 6 damage to a random enemy.\nRepeat for each Ethereal card in your exhaust pile.\nExhaust."
     },
     {
       "name": "Unleash Spirits+",
@@ -1873,7 +1961,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 7 damage to a random enemy.\nRepeat for each Ethereal card in your exhaust pile.\nExhaust."
+      "description": "Deal 8 damage to a random enemy.\nRepeat for each Ethereal card in your exhaust pile.\nExhaust."
     },
     {
       "name": "Unlimited Power",
@@ -1881,7 +1969,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "5",
-      "description": "hexamod:Force-Ignite all Ghostflames in order.\nExhaust."
+      "description": "hexamod:Ignite all Ghostflames in order.\nExhaust."
     },
     {
       "name": "Unlimited Power+",
@@ -1889,7 +1977,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "4",
-      "description": "hexamod:Force-Ignite all Ghostflames in order.\nExhaust."
+      "description": "hexamod:Ignite all Ghostflames in order.\nExhaust."
     },
     {
       "name": "Volcano Visage",
@@ -1897,7 +1985,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Ethereal.\nAt the start of your turn, apply 4 hexamod:Soulburn to ALL enemies."
+      "description": "At the start of your turn, apply 4 hexamod:Soulburn to ALL enemies."
     },
     {
       "name": "Volcano Visage+",
@@ -1905,23 +1993,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Ethereal.\nAt the start of your turn, apply 6 hexamod:Soulburn to ALL enemies."
-    },
-    {
-      "name": "Wildfire Weapon",
-      "color": "Hexa_ghost_purple",
-      "rarity": "Rare",
-      "type": "Power",
-      "cost": "1",
-      "description": "Whenever an Attack deals unblocked damage, apply 3 hexamod:Soulburn."
-    },
-    {
-      "name": "Wildfire Weapon+",
-      "color": "Hexa_ghost_purple",
-      "rarity": "Rare",
-      "type": "Power",
-      "cost": "1",
-      "description": "Whenever an Attack deals unblocked damage, apply 4 hexamod:Soulburn."
+      "description": "At the start of your turn, apply 6 hexamod:Soulburn to ALL enemies."
     },
     {
       "name": "Defend",
@@ -2913,7 +2985,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Ethereal.\nPut a card from your draw or discard pile into your hand.\nAdd a Dazed where it was.\nExhaust."
+      "description": "Ethereal.\nFetch a card from your draw or discard pile.\nAdd a Dazed where it was.\nExhaust."
     },
     {
       "name": "Find and Replace+",
@@ -2921,7 +2993,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Retain.\nPut a card from your draw or discard pile into your hand.\nAdd a Dazed where it was.\nExhaust."
+      "description": "Retain.\nFetch a card from your draw or discard pile.\nAdd a Dazed where it was.\nExhaust."
     },
     {
       "name": "Format",
@@ -3713,7 +3785,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage and 3 damage to yourself.\nReturn a random 0-cost Exhausted card to your hand."
+      "description": "Deal 10 damage and 3 damage to yourself.\nexpansioncontent:Exhume a random 0-cost card."
     },
     {
       "name": "Hungry Tackle+",
@@ -3721,7 +3793,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 14 damage and 3 damage to yourself.\nReturn a random 0-cost Exhausted card to your hand."
+      "description": "Deal 14 damage and 3 damage to yourself.\nexpansioncontent:Exhume a random 0-cost card."
     },
     {
       "name": "Lead By Example",
@@ -3857,7 +3929,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 8 Block.\nReturn a random 0-cost Exhausted card to your hand."
+      "description": "Gain 8 Block.\nexpansioncontent:Exhume a random 0-cost card."
     },
     {
       "name": "Recollect+",
@@ -3865,7 +3937,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 11 Block.\nReturn a random 0-cost Exhausted card to your hand."
+      "description": "Gain 11 Block.\nexpansioncontent:Exhume a random 0-cost card."
     },
     {
       "name": "Replication",
@@ -4097,7 +4169,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 12 damage.\nslimeboundmod:Consume - Heal HP equal to the enemy's slimeboundmod:Goop, up to 12.\nExhaust."
+      "description": "Deal 12 damage.\nslimeboundmod:Consume - Heal HP equal to the enemy's slimeboundmod:Goop, up to 18.\nExhaust."
     },
     {
       "name": "Leech Life+",
@@ -4105,7 +4177,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 18 damage.\nslimeboundmod:Consume - Heal HP equal to the enemy's slimeboundmod:Goop, up to 18.\nExhaust."
+      "description": "Deal 18 damage.\nslimeboundmod:Consume - Heal HP equal to the enemy's slimeboundmod:Goop, up to 24.\nExhaust."
     },
     {
       "name": "Liquidate",
@@ -4224,8 +4296,8 @@
       "color": "Slimebound",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "3",
-      "description": "Next turn, gain [E] [E] [E] and 3 Strength, and add Slime Crush to your hand."
+      "cost": "2",
+      "description": "Next turn, gain [E] [E] [E] and 3 Strength, and add SLIME CRUSH to your hand.\nExhaust."
     },
     {
       "name": "Prepare: Crush+",
@@ -4233,7 +4305,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Next turn, gain [E] [E] [E] and 3 Strength, and add Slime Crush to your hand."
+      "description": "Next turn, gain [E] [E] [E] [E] and 3 Strength, and add SLIME CRUSH+ to your hand.\nExhaust."
     },
     {
       "name": "Rally the Troops",
@@ -4257,7 +4329,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of your turn, return a random Exhausted 0-cost card to your hand."
+      "description": "At the start of your turn, expansioncontent:Exhume a random 0-cost card."
     },
     {
       "name": "Recycling+",
@@ -4265,7 +4337,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "Innate.\nAt the start of your turn, return a random Exhausted 0-cost card to your hand."
+      "description": "Innate.\nAt the start of your turn, expansioncontent:Exhume a random 0-cost card."
     },
     {
       "name": "Reformation",
@@ -4337,7 +4409,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "3",
-      "description": "Return all 0-cost Exhausted cards to your hand.\nExhaust."
+      "description": "expansioncontent:Exhume all 0-cost cards.\nExhaust."
     },
     {
       "name": "Waste Not+",
@@ -4345,7 +4417,1223 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "2",
-      "description": "Return all 0-cost Exhausted cards to your hand.\nExhaust."
+      "description": "expansioncontent:Exhume all 0-cost cards.\nExhaust."
+    },
+    {
+      "name": "Defend",
+      "color": "Gremlin",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 5 Block."
+    },
+    {
+      "name": "Defend+",
+      "color": "Gremlin",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block."
+    },
+    {
+      "name": "Gremlin Dance",
+      "color": "Gremlin",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage.\nHas a bonus effect based on which Gremlin you are."
+    },
+    {
+      "name": "Gremlin Dance+",
+      "color": "Gremlin",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.\nHas a bonus effect based on which Gremlin you are."
+    },
+    {
+      "name": "Strike",
+      "color": "Gremlin",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage."
+    },
+    {
+      "name": "Strike+",
+      "color": "Gremlin",
+      "rarity": "Basic",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage."
+    },
+    {
+      "name": "Tag Team",
+      "color": "Gremlin",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "0",
+      "description": "gremlin:Swap to a living Gremlin of your choice."
+    },
+    {
+      "name": "Tag Team+",
+      "color": "Gremlin",
+      "rarity": "Basic",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Retain.\ngremlin:Swap to a living Gremlin of your choice."
+    },
+    {
+      "name": "Bubble Barrier",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Whenever you play a card this turn, gain 2 Block."
+    },
+    {
+      "name": "Bubble Barrier+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Whenever you play a card this turn, gain 2 Block."
+    },
+    {
+      "name": "Bulk Up",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 5 Temporary HP.\ngremlin:Swap to gremlin:Fat_Gremlin."
+    },
+    {
+      "name": "Bulk Up+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Temporary HP.\ngremlin:Swap to gremlin:Fat_Gremlin."
+    },
+    {
+      "name": "Cat Scratch",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 2 damage 3 times."
+    },
+    {
+      "name": "Cat Scratch+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 2 damage 4 times."
+    },
+    {
+      "name": "Change-o!",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block and 1 gremlin:Wiz."
+    },
+    {
+      "name": "Change-o!+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 11 Block and 2 gremlin:Wiz."
+    },
+    {
+      "name": "Dagger Dance",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 3 damage to ALL enemies 2 times."
+    },
+    {
+      "name": "Dagger Dance+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 3 damage to ALL enemies 3 times."
+    },
+    {
+      "name": "Flex",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 2 Temporary Strength."
+    },
+    {
+      "name": "Flex+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 4 Temporary Strength."
+    },
+    {
+      "name": "Glimmer",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 1 damage.\nAdd 2 Wards to your hand."
+    },
+    {
+      "name": "Glimmer+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage.\nAdd 2 Upgraded Wards to your hand."
+    },
+    {
+      "name": "Glitter Guard",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Add 2 Wards to your hand.\ngremlin:Swap to gremlin:Shield_Gremlin."
+    },
+    {
+      "name": "Glitter Guard+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Add 2 Upgraded Wards to your hand.\ngremlin:Swap to gremlin:Shield_Gremlin."
+    },
+    {
+      "name": "Gremlin Arms",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Add a random assortment of 2 Shivs and Wards to your hand."
+    },
+    {
+      "name": "Gremlin Arms+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Add a random assortment of 3 Shivs and Wards to your hand."
+    },
+    {
+      "name": "Irritability",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 6 Block.\nGain 3 Temporary Thorns.\ngremlin:Swap to gremlin:Mad_Gremlin."
+    },
+    {
+      "name": "Irritability+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 8 Block.\nGain 5 Temporary Thorns.\ngremlin:Swap to gremlin:Mad_Gremlin."
+    },
+    {
+      "name": "Jeer",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage. If the enemy has a debuff, gain 2 Temporary HP."
+    },
+    {
+      "name": "Jeer+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 11 damage. If the enemy has a debuff, gain 4 Temporary HP."
+    },
+    {
+      "name": "Patsy",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 4 Block.\ngremlin:Swap to the next Gremlin."
+    },
+    {
+      "name": "Patsy+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 6 Block.\ngremlin:Swap to the next Gremlin."
+    },
+    {
+      "name": "Pinprick",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 1 damage.\nDraw a card.\nExhaust."
+    },
+    {
+      "name": "Pinprick+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Whenever you draw this card, add an gremlin:Echo of it to your hand.\nDeal 1 damage.\nDraw a card.\nExhaust."
+    },
+    {
+      "name": "Pour Salt",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage. If the enemy is Weak, remove a stack to add 2 Shivs to your hand."
+    },
+    {
+      "name": "Pour Salt+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage. If the enemy is Weak, remove a stack to add 3 Shivs to your hand."
+    },
+    {
+      "name": "Presto!",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 7 damage. Gain 1 gremlin:Wiz."
+    },
+    {
+      "name": "Presto!+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 11 damage. Gain 2 gremlin:Wiz."
+    },
+    {
+      "name": "Pretaliation",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 20 damage if the enemy intends to attack.\nDo 5 damage otherwise."
+    },
+    {
+      "name": "Pretaliation+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 27 damage if the enemy intends to attack.\nDo 5 damage otherwise."
+    },
+    {
+      "name": "Tadah!",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Add an gremlin:Echo of a random Skill to your hand. It costs 1 less.\ngremlin:Swap to gremlin:Gremlin_Wizard."
+    },
+    {
+      "name": "Tadah!+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Add an gremlin:Echo of a random, Upgraded Skill to your hand.\nIt costs 1 less.\ngremlin:Swap to gremlin:Gremlin_Wizard."
+    },
+    {
+      "name": "Toe Stub",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 5 damage. If the enemy is Weak, apply 2 Vulnerable."
+    },
+    {
+      "name": "Toe Stub+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage. If the enemy is Weak, apply 3 Vulnerable."
+    },
+    {
+      "name": "Tricksy",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Draw 4 cards. Discard all cards drawn this way that are not Attacks.\ngremlin:Swap to gremlin:Sneaky_Gremlin."
+    },
+    {
+      "name": "Tricksy+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Draw 6 cards. Discard all cards drawn this way that are not Attacks.\ngremlin:Swap to gremlin:Sneaky_Gremlin."
+    },
+    {
+      "name": "Twist The Knife",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage.\nAdd 1 Shiv to your hand."
+    },
+    {
+      "name": "Twist The Knife+",
+      "color": "Gremlin",
+      "rarity": "Common",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.\nAdd 1 Upgraded Shiv to your hand."
+    },
+    {
+      "name": "Aggressive Defense",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage.\nWhenever you gain Block this turn, targeted enemy loses 3 HP."
+    },
+    {
+      "name": "Aggressive Defense+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage.\nWhenever you gain Block this turn, targeted enemy loses 5 HP."
+    },
+    {
+      "name": "Arms Theft",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Steal 2 Strength.\nExhaust."
+    },
+    {
+      "name": "Arms Theft+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Steal 3 Strength.\nExhaust."
+    },
+    {
+      "name": "Astound",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 3 Block.\nIf you have 3 or more gremlin:Wiz, add 2 Wards to your hand."
+    },
+    {
+      "name": "Astound+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 5 Block.\nIf you have 3 or more gremlin:Wiz, add 2 Upgraded Wards to your hand."
+    },
+    {
+      "name": "Burly Blow",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 5 damage for each stack of Weakened.\n(Always hits at least once.)"
+    },
+    {
+      "name": "Burly Blow+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 7 damage for each stack of Weakened.\n(Always hits at least once.)"
+    },
+    {
+      "name": "Counter Strike",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage. If the enemy intends to attack, add 2 Wards to your hand."
+    },
+    {
+      "name": "Counter Strike+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 11 damage. If the enemy intends to attack, add 2 Upgraded Wards to your hand."
+    },
+    {
+      "name": "Dazzle",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.\nIf you have 3 or more gremlin:Wiz, steal 2 Strength.\nExhaust."
+    },
+    {
+      "name": "Dazzle+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 13 damage.\nIf you have 3 or more gremlin:Wiz, steal 2 Strength.\nExhaust."
+    },
+    {
+      "name": "Edible Armor",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Convert your Block into Temporary HP."
+    },
+    {
+      "name": "Edible Armor+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Convert your Block into Temporary HP."
+    },
+    {
+      "name": "Enthusiasm",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you gremlin:Swap, draw a card."
+    },
+    {
+      "name": "Enthusiasm+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "0",
+      "description": "Whenever you gremlin:Swap, draw a card."
+    },
+    {
+      "name": "Feel The Audience",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage to ALL enemies.\nGain 1 gremlin:Wiz for each one that intends to attack."
+    },
+    {
+      "name": "Feel The Audience+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 11 damage to ALL enemies.\nGain 1 gremlin:Wiz for each one that intends to attack."
+    },
+    {
+      "name": "Flurry",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 3 damage for each card played this turn.\nExhaust."
+    },
+    {
+      "name": "Flurry+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 3 damage for each card played this turn.\nExhaust."
+    },
+    {
+      "name": "Follow Through",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage.\nGain 1 Temporary Strength."
+    },
+    {
+      "name": "Follow Through+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 11 damage.\nGain 2 Temporary Strength."
+    },
+    {
+      "name": "Gremlin Offensive",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 6 damage.\nAdd a Gremlin Offensive to your hand.\nExhaust."
+    },
+    {
+      "name": "Gremlin Offensive+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 9 damage.\nAdd an Upgraded Gremlin Offensive to your hand.\nExhaust."
+    },
+    {
+      "name": "Gremlin Toss",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal damage equal to your current Block and Temporary HP."
+    },
+    {
+      "name": "Gremlin Toss+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Gain 4 Temporary HP.\nDeal damage equal to your current Block and Temporary HP."
+    },
+    {
+      "name": "Heckle",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "3",
+      "description": "Whenever you apply a debuff to an enemy, gain 2 Temporary HP."
+    },
+    {
+      "name": "Heckle+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "2",
+      "description": "Whenever you apply a debuff to an enemy, gain 2 Temporary HP."
+    },
+    {
+      "name": "Infinite Blocks",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the start of your turn, add a Ward to your hand."
+    },
+    {
+      "name": "Infinite Blocks+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nAt the start of your turn, add a Ward to your hand."
+    },
+    {
+      "name": "Irksome Blow",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 1 damage.\nIrksome Blow is affected by Strength 4 times."
+    },
+    {
+      "name": "Irksome Blow+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 1 damage.\nIrksome Blow is affected by Strength 6 times."
+    },
+    {
+      "name": "Kablamo!",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 13 damage to ALL enemies.\nThis attack does not consume gremlin:Wiz."
+    },
+    {
+      "name": "Kablamo!+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 17 damage to ALL enemies.\nThis attack does not consume gremlin:Wiz."
+    },
+    {
+      "name": "Makeshift Armor",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Every time you play 7 attacks, gain 1 Artifact."
+    },
+    {
+      "name": "Makeshift Armor+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 1 Artifact.\nEvery time you play 7 attacks, gain 1 Artifact."
+    },
+    {
+      "name": "Mockery",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 1 Weak.\nIf the enemy has 3 or more Weak, gain 10 Block."
+    },
+    {
+      "name": "Mockery+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Apply 2 Weak.\nIf the enemy has 3 or more Weak, gain 14 Block."
+    },
+    {
+      "name": "Party Stick",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Unplayable.\nWhenever you gremlin:Swap while this card is in your hand, gain [E]"
+    },
+    {
+      "name": "Party Stick+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Unplayable.\nWhenever you gremlin:Swap while this card is in your hand, gain [E] [E]"
+    },
+    {
+      "name": "Pickpocket",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Steal all Artifact.\nDeal 9 damage.\nExhaust."
+    },
+    {
+      "name": "Pickpocket+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Steal all Artifact.\nDeal 13 damage.\nExhaust."
+    },
+    {
+      "name": "Pin Needle",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 8 damage.\nShuffle 2 Pinpricks into your draw pile.\nExhaust."
+    },
+    {
+      "name": "Pin Needle+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 11 damage.\nShuffle 2 Upgraded Pinpricks into your draw pile.\nExhaust."
+    },
+    {
+      "name": "Polish",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Shivs deal 2 additional damage.\nWards grant 2 additional Block."
+    },
+    {
+      "name": "Polish+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Shivs deal 3 additional damage.\nWards grant 3 additional Block."
+    },
+    {
+      "name": "Proper Tools",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 6 damage. If the enemy intends to attack, add 3 Wards to your hand. Otherwise, add 3 Shivs to your hand."
+    },
+    {
+      "name": "Proper Tools+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 10 damage. If the enemy intends to attack, add 3 Wards to your hand. Otherwise, add 3 Shivs to your hand."
+    },
+    {
+      "name": "Rage Break",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Double your Strength.\nExhaust."
+    },
+    {
+      "name": "Rage Break+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Double your Strength."
+    },
+    {
+      "name": "Raid",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Draw a card for each living Gremlin.\nDiscard 2 cards."
+    },
+    {
+      "name": "Raid+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Draw a card for each living Gremlin.\nDiscard 1 card."
+    },
+    {
+      "name": "Revel",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "3",
+      "description": "Gain [E] for each living Gremlin."
+    },
+    {
+      "name": "Revel+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Gain [E] for each living Gremlin."
+    },
+    {
+      "name": "Rhythm",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "gremlin:Swap to the next Gremlin.\nFetch a Basic card from your draw pile. It costs 0 this turn."
+    },
+    {
+      "name": "Rhythm+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "gremlin:Swap to the next Gremlin.\nFetch a Basic card from your draw pile. It costs 0 this turn."
+    },
+    {
+      "name": "Scatter!",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "The next time you would lose HP, instead gremlin:Swap to a random Gremlin.\nExhaust"
+    },
+    {
+      "name": "Scatter!+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "The next time you would lose HP, instead gremlin:Swap to a random Gremlin.\nExhaust"
+    },
+    {
+      "name": "Shank Stone",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Unplayable.\nWhenever you draw this card, add 2 Shivs to your hand."
+    },
+    {
+      "name": "Shank Stone+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "",
+      "description": "Unplayable.\nWhenever you draw this card, add 3 Shivs to your hand."
+    },
+    {
+      "name": "Sharpen Blades",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Reduce the cost of all Attacks in your hand to 0 this turn."
+    },
+    {
+      "name": "Sharpen Blades+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Draw a card.\nReduce the cost of all Attacks in your hand to 0 this turn."
+    },
+    {
+      "name": "Show of Hands",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 2 Block for every card in your hand."
+    },
+    {
+      "name": "Show of Hands+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Draw a card.\nGain 2 Block for every card in your hand."
+    },
+    {
+      "name": "Sleeve Of Aces",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 4 damage.\nAdd 1 Shiv to your hand for each stack of gremlin:Wiz you have."
+    },
+    {
+      "name": "Sleeve Of Aces+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 5 damage.\nAdd 1 Upgraded Shiv to your hand for each stack of gremlin:Wiz you have."
+    },
+    {
+      "name": "Stupend",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Gain 6 Block.\nDeal 6 damage.\nBlock is affected by gremlin:Wiz."
+    },
+    {
+      "name": "Stupend+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Gain 8 Block.\nDeal 8 damage.\nBlock is affected by gremlin:Wiz."
+    },
+    {
+      "name": "Whiz",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 1 gremlin:Wiz. Next turn, add Bang to your hand.\nExhaust."
+    },
+    {
+      "name": "Whiz+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 2 gremlin:Wiz. Next turn, add an Upgraded Bang to your hand.\nExhaust."
+    },
+    {
+      "name": "Wizardry",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the start of your turn, gain 1 gremlin:Wiz."
+    },
+    {
+      "name": "Wizardry+",
+      "color": "Gremlin",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nAt the start of your turn, gain 1 gremlin:Wiz."
+    },
+    {
+      "name": "Broken Shin",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Apply gremlin:Agony for every 4 stacks of Weak the target has.\nExhaust."
+    },
+    {
+      "name": "Broken Shin+",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Apply gremlin:Agony for every 3 stacks of Weak the target has.\nExhaust."
+    },
+    {
+      "name": "Conga Line",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "At the start of your turn, gain [E] and gremlin:Swap to the next Gremlin."
+    },
+    {
+      "name": "Conga Line+",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nAt the start of your turn, gain [E] and gremlin:Swap to the next Gremlin."
+    },
+    {
+      "name": "Duplicate",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Make 2 gremlin:Echoes of an Attack in your hand. They cost 1 less. Exhaust."
+    },
+    {
+      "name": "Duplicate+",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "2",
+      "description": "Make 2 gremlin:Echoes of an Attack in your hand. They cost 1 less."
+    },
+    {
+      "name": "Encore",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 3 gremlin:Wiz.\nWhenever you consume gremlin:Wiz, deal 5 damage to ALL enemies."
+    },
+    {
+      "name": "Encore+",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Gain 3 gremlin:Wiz.\nWhenever you consume gremlin:Wiz, deal 7 damage to ALL enemies."
+    },
+    {
+      "name": "Erupt",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 6 Temporary Strength.\nExhaust."
+    },
+    {
+      "name": "Erupt+",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Gain 9 Temporary Strength.\nExhaust."
+    },
+    {
+      "name": "Exacerbate",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 8 damage. gremlin:Cripple the enemy.\nExhaust."
+    },
+    {
+      "name": "Exacerbate+",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 12 damage. gremlin:Cripple the enemy.\nExhaust."
+    },
+    {
+      "name": "Fairy Dust",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Add 2 Wards to your hand and draw 2 cards.\nExhaust."
+    },
+    {
+      "name": "Fairy Dust+",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Add 3 Wards to your hand and draw 3 cards.\nExhaust."
+    },
+    {
+      "name": "Flip Out",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 10 damage to ALL enemies.\nWhenever you would gain Block this turn, instead deal that much damage to ALL enemies."
+    },
+    {
+      "name": "Flip Out+",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "1",
+      "description": "Deal 13 damage to ALL enemies.\nWhenever you would gain Block this turn, instead deal that much damage to ALL enemies."
+    },
+    {
+      "name": "Fury",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Costs 1 less [E] for every 2 Strength you have.\nDeal 7 damage three times."
+    },
+    {
+      "name": "Fury+",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "3",
+      "description": "Costs 1 less [E] for every 2 Strength you have.\nDeal 9 damage three times."
+    },
+    {
+      "name": "NOB",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "4",
+      "description": "Gain 20 Temporary HP.\nMutate into Gremlin Nob until you run out of Temporary HP."
+    },
+    {
+      "name": "NOB+",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "4",
+      "description": "Gain 35 Temporary HP.\nMutate into Gremlin Nob until you run out of Temporary HP."
+    },
+    {
+      "name": "Necromancy",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Can only be played if you have 3 or more gremlin:Wiz.\nConsume all gremlin:Wiz to resurrect a random Gremlin with 10 HP. Exhaust."
+    },
+    {
+      "name": "Necromancy+",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Skill",
+      "cost": "1",
+      "description": "Can only be played if you have 3 or more gremlin:Wiz.\nConsume all gremlin:Wiz to resurrect a random Gremlin with 15 HP. Exhaust."
+    },
+    {
+      "name": "Second Volley",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 6 damage. Add a Shiv to your hand for each card played this turn"
+    },
+    {
+      "name": "Second Volley+",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "2",
+      "description": "Deal 8 damage. Add an Upgraded Shiv to your hand for each card played this turn"
+    },
+    {
+      "name": "Shadow Shiv",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "3",
+      "description": "Whenever you play an Attack that doesn't Exhaust, add a Shiv to your hand."
+    },
+    {
+      "name": "Shadow Shiv+",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "Whenever you play an Attack that doesn't Exhaust, add a Shiv to your hand."
+    },
+    {
+      "name": "Show Stopper",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Can only be played if you have exactly 7 gremlin:Wiz.\nDeal 0 damage to ALL enemies 5 times."
+    },
+    {
+      "name": "Show Stopper+",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Can only be played if you have exactly 7 gremlin:Wiz.\nDeal 2 damage to ALL enemies 5 times."
+    },
+    {
+      "name": "Target Wounds",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Deal 3 additional damage to Weakened enemies."
+    },
+    {
+      "name": "Target Wounds+",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "Deal 5 additional damage to Weakened enemies."
+    },
+    {
+      "name": "Unforgiving",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "2",
+      "description": "You cannot lose Strength."
+    },
+    {
+      "name": "Unforgiving+",
+      "color": "Gremlin",
+      "rarity": "Rare",
+      "type": "Power",
+      "cost": "1",
+      "description": "You cannot lose Strength."
     },
     {
       "name": "???",
@@ -4521,6 +5809,14 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "",
+      "description": "*Unknown Character Card."
+    },
+    {
+      "name": "???",
+      "color": "Snecko_cyan",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "",
       "description": "*Unknown Draw Card."
     },
     {
@@ -4626,6 +5922,14 @@
       "type": "Skill",
       "cost": "",
       "description": "*Unknown Upgraded  1 Cost Card."
+    },
+    {
+      "name": "???+",
+      "color": "Snecko_cyan",
+      "rarity": "Common",
+      "type": "Skill",
+      "cost": "",
+      "description": "*Unknown Upgraded  Character Card."
     },
     {
       "name": "???+",
@@ -5617,7 +6921,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 6 damage 2 times.\nchamp:Fatigue 10.\n[fist_icon]   champ:Finisher"
+      "description": "Deal 6 damage 2 times.\n[fist_icon]   champ:Finisher"
     },
     {
       "name": "Execute+",
@@ -5625,7 +6929,7 @@
       "rarity": "Basic",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage 2 times.\nchamp:Fatigue 10.\n[fist_icon]   champ:Finisher"
+      "description": "Deal 8 damage 2 times.\n[fist_icon]   champ:Finisher"
     },
     {
       "name": "Strike",
@@ -5649,7 +6953,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nApply 1 Weak to ALL enemies.\nEnter a random Stance."
+      "description": "Apply 1 Weak to ALL enemies.\nEnter a random Stance.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Taunt+",
@@ -5657,7 +6961,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nApply 1 Weak to ALL enemies.\nChoose a Stance to Enter."
+      "description": "Apply 1 Weak to ALL enemies.\nChoose a Stance to Enter.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Adrenal Armor",
@@ -5665,7 +6969,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nGain 5 Block.\nBerserker champ:Combo: Play this twice."
+      "description": "Gain 5 Block.\nBerserker champ:Combo: Play this twice.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Adrenal Armor+",
@@ -5673,7 +6977,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nGain 7 Block.\nBerserker champ:Combo: Play this twice."
+      "description": "Gain 7 Block.\nBerserker champ:Combo: Play this twice.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Backstep",
@@ -5681,7 +6985,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Enter champ:Defensive.\nGain 6 Block.\nBerserker champ:Combo: Gain Block equal to your champ:Fatigue."
+      "description": "Enter champ:Defensive.\nGain 6 Block.\nBerserker champ:Combo: Gain Block equal to your Vigor."
     },
     {
       "name": "Backstep+",
@@ -5689,7 +6993,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "Enter champ:Defensive.\nGain 6 Block.\nBerserker champ:Combo: Gain Block equal to your champ:Fatigue."
+      "description": "Enter champ:Defensive.\nGain 6 Block.\nBerserker champ:Combo: Gain Block equal to your Vigor."
     },
     {
       "name": "Berserker's Shout",
@@ -5697,7 +7001,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nEnter champ:Berserker.\nchamp:Fatigue 5."
+      "description": "Enter champ:Berserker.\nGain 5 Vigor.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Berserker's Shout+",
@@ -5705,7 +7009,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nEnter champ:Berserker.\nchamp:Fatigue 5.\nDraw a card."
+      "description": "Enter champ:Berserker.\nGain 5 Vigor.\nDraw a card.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Bring It On",
@@ -5713,7 +7017,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Requires Defensive or Berserker.\nGain 10 Block.\nGain 10 champ:Counter.\n[fist_icon]   champ:Finisher"
+      "description": "Gain 10 Block.\nGain 10 champ:Counter.\n[fist_icon]   champ:Finisher"
     },
     {
       "name": "Bring It On+",
@@ -5721,7 +7025,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Requires Defensive or Berserker.\nGain 13 Block.\nGain 13 champ:Counter.\n[fist_icon]   champ:Finisher"
+      "description": "Gain 13 Block.\nGain 13 champ:Counter.\n[fist_icon]   champ:Finisher"
     },
     {
       "name": "Chain Lash",
@@ -5729,7 +7033,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nRepeat this effect 2 times."
+      "description": "Repeat this effect 2 times.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Chain Lash+",
@@ -5737,7 +7041,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nRepeat this effect 3 times."
+      "description": "Repeat this effect 3 times.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Circumvent",
@@ -5761,7 +7065,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 7 damage.\nIf this doesn't cost 0, return it to your hand next turn.\nIt costs 0 until played."
+      "description": "Deal 7 damage.\nIf this doesn't cost 0, return it to your hand next turn. It costs 0 until played."
     },
     {
       "name": "Crownarang+",
@@ -5769,7 +7073,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 10 damage.\nIf this doesn't cost 0, return it to your hand next turn.\nIt costs 0 until played."
+      "description": "Deal 10 damage.\nIf this doesn't cost 0, return it to your hand next turn. It costs 0 until played."
     },
     {
       "name": "Defensive Shout",
@@ -5777,7 +7081,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nEnter champ:Defensive.\nGain 5 champ:Counter."
+      "description": "Enter champ:Defensive.\nGain 5 champ:Counter.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Defensive Shout+",
@@ -5785,7 +7089,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nEnter champ:Defensive.\nGain 5 champ:Counter.\nDraw a card."
+      "description": "Enter champ:Defensive.\nGain 5 champ:Counter.\nDraw a card.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "En Garde",
@@ -5793,7 +7097,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nGain 8 Block.\nIf your Block is broken this turn, gain 8 Block next turn."
+      "description": "Gain 8 Block.\nIf your Block is broken this turn, gain 8 Block next turn.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "En Garde+",
@@ -5801,7 +7105,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nGain 11 Block.\nIf your Block is broken this turn, gain 11 Block next turn."
+      "description": "Gain 11 Block.\nIf your Block is broken this turn, gain 11 Block next turn.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Fan of Knives",
@@ -5817,7 +7121,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage to ALL enemies.\nBerserker champ:Combo: Deals damage three times.\nEnter champ:Berserker."
+      "description": "Deal 8 damage to ALL enemies.\nBerserker champ:Combo: Deals damage twice.\nEnter champ:Berserker."
     },
     {
       "name": "Flash Strike",
@@ -5841,7 +7145,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 4 damage for each card containing \"Strike\" in your hand.\n[fist_icon]   champ:Finisher"
+      "description": "Deal 6 damage.\nThe next Strike you play this turn is played twice.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Flurry of Strikes+",
@@ -5849,7 +7153,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 4 damage.\nDeal 4 damage for each card containing \"Strike\" in your hand.\n[fist_icon]   champ:Finisher"
+      "description": "Deal 9 damage.\nThe next Strike you play this turn is played twice.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Gut Punch",
@@ -5873,7 +7177,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 14 damage.\nDeals 2 additional damage for ALL your cards containing \"Strike\".\n[fist_icon]   champ:Finisher"
+      "description": "Deal 8 damage.\nDeals 2 additional damage for ALL your cards containing \"Strike\"."
     },
     {
       "name": "Perfected Strike+",
@@ -5881,7 +7185,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 14 damage.\nDeals 3 additional damage for ALL your cards containing \"Strike\".\n[fist_icon]   champ:Finisher"
+      "description": "Deal 8 damage.\nDeals 3 additional damage for ALL your cards containing \"Strike\"."
     },
     {
       "name": "Piledriver",
@@ -5889,7 +7193,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 14 damage.\nBerserker champ:Combo: Apply 2 Vulnerable.\nDefensive champ:Combo: Apply 2 Weak."
+      "description": "Deal 8 damage.\nBerserker champ:Combo: Apply 2 Vulnerable.\nDefensive champ:Combo: Apply 2 Weak."
     },
     {
       "name": "Piledriver+",
@@ -5897,7 +7201,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 18 damage.\nBerserker champ:Combo: Apply 2 Vulnerable.\nDefensive champ:Combo: Apply 2 Weak."
+      "description": "Deal 12 damage.\nBerserker champ:Combo: Apply 2 Vulnerable.\nDefensive champ:Combo: Apply 2 Weak."
     },
     {
       "name": "Precise Thrust",
@@ -5953,7 +7257,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 10 damage to ALL enemies.\nDefensive champ:Combo: Gain 5 champ:Counter and 5 Block for each enemy hit."
+      "description": "Deal 12 damage to ALL enemies.\nDefensive champ:Combo: Gain 7 Block for each enemy hit."
     },
     {
       "name": "Tornado Punch+",
@@ -5961,7 +7265,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 12 damage to ALL enemies.\nDefensive champ:Combo: Gain 7 champ:Counter and 7 Block for each enemy hit."
+      "description": "Deal 14 damage to ALL enemies.\nDefensive champ:Combo: Gain 9 Block for each enemy hit."
     },
     {
       "name": "Arena Preparation",
@@ -5969,7 +7273,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "[crown_icon]   champ:Technique\nAdd 2 random champ:Techniques into your hand.\nThey gain Retain.\nExhaust."
+      "description": "Add 2 random champ:Techniques into your hand.\nThey gain Retain.\nExhaust.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Arena Preparation+",
@@ -5977,7 +7281,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "[crown_icon]   champ:Technique\nAdd 3 random champ:Techniques into your hand.\nThey gain Retain.\nExhaust."
+      "description": "Add 3 random champ:Techniques into your hand.\nThey gain Retain.\nExhaust.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Battle Plan",
@@ -5985,7 +7289,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "[crown_icon]   champ:Technique\nDraw a card."
+      "description": "Draw a card.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Battle Plan+",
@@ -5993,7 +7297,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "[crown_icon]   champ:Technique\nDraw a card.\nGain 3 Block."
+      "description": "Draw a card.\nGain 3 Block.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Berserker Style",
@@ -6001,7 +7305,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Enter champ:Berserker.\nchamp:Berserker champ:Techniques grant 2 more champ:Fatigue."
+      "description": "Enter champ:Berserker.\nchamp:Fatigue 5.\nchamp:Berserker champ:Techniques grant 2 more Vigor."
     },
     {
       "name": "Berserker Style+",
@@ -6009,15 +7313,15 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Innate.\nEnter champ:Berserker.\nchamp:Berserker champ:Techniques grant 2 more champ:Fatigue."
+      "description": "Innate.\nEnter champ:Berserker.\nchamp:Fatigue 5.\nchamp:Berserker champ:Techniques grant 2 more Vigor."
     },
     {
       "name": "Crooked Strike",
       "color": "The_champ_gray",
       "rarity": "Uncommon",
       "type": "Attack",
-      "cost": "1",
-      "description": "Deal 9 damage.\nHits three times if Fatigue is 20 or higher.\n[fist_icon]   champ:Finisher"
+      "cost": "2",
+      "description": "Deal 0 damage.\nDoes not consume Vigor.\n[fist_icon]   champ:Finisher"
     },
     {
       "name": "Crooked Strike+",
@@ -6025,7 +7329,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 12 damage.\nHits three times if Fatigue is 20 or higher.\n[fist_icon]   champ:Finisher"
+      "description": "Deal 0 damage.\nDoes not consume Vigor.\n[fist_icon]   champ:Finisher"
     },
     {
       "name": "Death Blow",
@@ -6033,7 +7337,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 10 damage to ALL enemies.\nchamp:Fatigue 10.\n[fist_icon]   champ:Finisher"
+      "description": "Deal 20 damage to ALL enemies.\nGain 20 Vigor.\nchamp:Fatigue 10.\nExhaust."
     },
     {
       "name": "Death Blow+",
@@ -6041,7 +7345,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 10 damage to ALL enemies.\nchamp:Fatigue 15.\n[fist_icon]   champ:Finisher"
+      "description": "Deal 25 damage to ALL enemies.\nGain 25 Vigor.\nchamp:Fatigue 10.\nExhaust."
     },
     {
       "name": "Defensive Style",
@@ -6049,7 +7353,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Enter champ:Defensive.\nchamp:Defensive Techniques grant 2 more champ:Counter."
+      "description": "Enter champ:Defensive.\nchamp:Fatigue 5.\nchamp:Defensive Techniques grant 2 more champ:Counter."
     },
     {
       "name": "Defensive Style+",
@@ -6065,7 +7369,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "[crown_icon]   champ:Technique\nGain 7 Block.\nDeal 7 damage.\nIf there's only one enemy, play this twice."
+      "description": "Gain 7 Block.\nDeal 7 damage.\nIf there's only one enemy, play this twice.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Duel+",
@@ -6073,7 +7377,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "[crown_icon]   champ:Technique\nGain 10 Block.\nDeal 10 damage.\nIf there's only one enemy, play this twice."
+      "description": "Gain 10 Block.\nDeal 10 damage.\nIf there's only one enemy, play this twice.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Encircle",
@@ -6081,7 +7385,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 3 damage to a random enemy 2 times.\nBerserker champ:Combo: Play this twice. "
+      "description": "Deal 7 damage to ALL enemies.\nFor each enemy hit:\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Encircle+",
@@ -6089,23 +7393,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage to a random enemy 2 times.\nBerserker champ:Combo: Play this twice. "
-    },
-    {
-      "name": "Endless Rage",
-      "color": "The_champ_gray",
-      "rarity": "Uncommon",
-      "type": "Power",
-      "cost": "2",
-      "description": "Whenever you lose HP on your turn, gain 1 temporary Strength."
-    },
-    {
-      "name": "Endless Rage+",
-      "color": "The_champ_gray",
-      "rarity": "Uncommon",
-      "type": "Power",
-      "cost": "1",
-      "description": "Whenever you lose HP on your turn, gain 1 temporary Strength."
+      "description": "Deal 10 damage to ALL enemies.\nFor each enemy hit:\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Endure",
@@ -6113,7 +7401,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nGain 7 Block.\nThis card's Block is increased by Strength instead of Dexterity."
+      "description": "Gain 7 Block.\nThis card's Block is increased by Strength instead of Dexterity.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Endure+",
@@ -6121,7 +7409,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nGain 10 Block.\nThis card's Block is increased by Strength."
+      "description": "Gain 10 Block.\nThis card's Block is increased by Strength.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Enraged Bash",
@@ -6129,7 +7417,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage.\nchamp:Fatigue 5.\nBerserker champ:Combo: This card hits an additional time this combat."
+      "description": "Deal 5 damage.\nBerserker champ:Combo: This card hits an additional time this combat."
     },
     {
       "name": "Enraged Bash+",
@@ -6137,7 +7425,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 5 damage 2 times.\nchamp:Fatigue 5.\nBerserker champ:Combo: This card hits an additional time this combat."
+      "description": "Deal 8 damage.\nBerserker champ:Combo: This card hits an additional time this combat."
     },
     {
       "name": "Face Slap",
@@ -6145,7 +7433,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Enter champ:Berserker.\nDeal 9 damage, twice if enemy is Vulnerable.\nBerserker champ:Combo: Apply 2 Vulnerable."
+      "description": "Deal 9 damage, twice if enemy is Vulnerable.\nBerserker champ:Combo: Apply 2 Vulnerable."
     },
     {
       "name": "Face Slap+",
@@ -6153,7 +7441,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Enter champ:Berserker.\nDeal 11 damage, twice if enemy is Vulnerable.\nBerserker champ:Combo: Apply 3 Vulnerable."
+      "description": "Deal 11 damage, twice if enemy is Vulnerable.\nBerserker champ:Combo: Apply 3 Vulnerable."
     },
     {
       "name": "False Counter",
@@ -6161,7 +7449,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Requires champ:Defensive.\nThe next time champ:Counter activates, lose only half.\n[fist_icon]   champ:Finisher"
+      "description": "The next time champ:Counter activates, lose only half.\n[fist_icon]   champ:Finisher"
     },
     {
       "name": "False Counter+",
@@ -6169,7 +7457,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Requires champ:Defensive.\nGain 6 champ:Counter.\nThe next time champ:Counter activates, lose only half.\n[fist_icon]   champ:Finisher"
+      "description": "Gain 6 champ:Counter.\nThe next time champ:Counter activates, lose only half.\n[fist_icon]   champ:Finisher"
     },
     {
       "name": "Fancy Footwork",
@@ -6193,15 +7481,15 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Requires champ:Berserker.\nDeal damage equal to your champ:Fatigue.\n[fist_icon]   champ:Finisher"
+      "description": "Can only be used against an enemy with less than 50% HP.\nDeal 20 damage."
     },
     {
       "name": "Finish Him+",
       "color": "The_champ_gray",
       "rarity": "Uncommon",
       "type": "Attack",
-      "cost": "0",
-      "description": "Requires champ:Berserker.\nDeal damage equal to your champ:Fatigue.\n[fist_icon]   champ:Finisher"
+      "cost": "1",
+      "description": "Can only be used against an enemy with less than 50% HP.\nDeal 30 damage."
     },
     {
       "name": "Focus: Berserker",
@@ -6209,7 +7497,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "[crown_icon]   champ:Technique\nEnter champ:Berserker.\nIf you end this turn with at least 20 champ:Fatigue, deal 10 damage to ALL enemies."
+      "description": "Enter champ:Berserker.\nThe next time you use a champ:Finisher this turn, deal 10 damage to ALL enemies.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Focus: Berserker+",
@@ -6217,7 +7505,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "[crown_icon]   champ:Technique\nEnter champ:Berserker.\nIf you end this turn with at least 20 champ:Fatigue, deal 15 damage to ALL enemies."
+      "description": "Enter champ:Berserker.\nThe next time you use a champ:Finisher this turn, deal 15 damage to ALL enemies.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Focus: Defensive",
@@ -6225,7 +7513,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "[crown_icon]   champ:Technique\nEnter champ:Defensive.\nIf you end this turn with at least 20 champ:Counter, gain 10 Block."
+      "description": "Enter champ:Defensive.\nThe next time you use a champ:Finisher this turn, gain 10 Block.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Focus: Defensive+",
@@ -6233,7 +7521,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "[crown_icon]   champ:Technique\nEnter champ:Defensive.\nIf you end this turn with at least 20 champ:Counter, gain 15 Block."
+      "description": "Enter champ:Defensive.\nThe next time you use a champ:Finisher this turn, gain 15 Block.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Good Clean Fight",
@@ -6241,7 +7529,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "If you start your turn in no Stance, gain 2 temporary Strength and Dexterity."
+      "description": "champ:Fatigue 10.\nGain 2 Strength and Dexterity."
     },
     {
       "name": "Good Clean Fight+",
@@ -6249,23 +7537,23 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "If you start your turn in no Stance, gain 3 temporary Strength and Dexterity."
+      "description": "champ:Fatigue 10.\nGain 3 Strength and Dexterity."
     },
     {
       "name": "Iron Fortress",
       "color": "The_champ_gray",
       "rarity": "Uncommon",
       "type": "Power",
-      "cost": "1",
-      "description": "Whenever you enter a Stance, gain 2 Block and 2 champ:Counter."
+      "cost": "2",
+      "description": "Gain 2 Dexterity.\nAt the end of each turn, gain 3 Block."
     },
     {
       "name": "Iron Fortress+",
       "color": "The_champ_gray",
       "rarity": "Uncommon",
       "type": "Power",
-      "cost": "1",
-      "description": "Whenever you enter a Stance, gain 3 Block and 3 champ:Counter."
+      "cost": "2",
+      "description": "Gain 2 Dexterity.\nAt the end of each turn, gain 6 Block."
     },
     {
       "name": "Lariat",
@@ -6273,7 +7561,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "X",
-      "description": "[crown_icon]   champ:Technique\nPerform X times:\nGain 5 Block.\nTrigger champ:Technique."
+      "description": "Perform X times:\nGain 5 Block.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Lariat+",
@@ -6281,7 +7569,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "X",
-      "description": "[crown_icon]   champ:Technique\nPerform X times, then gain [E] :\nGain 5 Block.\nTrigger champ:Technique."
+      "description": "Perform X times, then gain [E] :\nGain 5 Block.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Moment of Truth",
@@ -6305,7 +7593,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 10 Counter.\nIf your Counter is used this turn, add Riposte to your hand."
+      "description": "Gain 10 champ:Counter.\nIf your champ:Counter is used this turn, add Riposte to your hand."
     },
     {
       "name": "Parry+",
@@ -6313,7 +7601,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Gain 16 Counter.\nIf your Counter is used this turn, add Riposte to your hand."
+      "description": "Gain 16 champ:Counter.\nIf your champ:Counter is used this turn, add Riposte to your hand."
     },
     {
       "name": "Preemptive Strike",
@@ -6321,7 +7609,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Requires Defensive.\nDeal damage equal to your champ:Counter to ALL enemies.\nLose half of your champ:Counter."
+      "description": "Deal damage equal to your champ:Counter to ALL enemies.\nLose half of your champ:Counter."
     },
     {
       "name": "Preemptive Strike+",
@@ -6329,7 +7617,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "0",
-      "description": "Requires Defensive.\nDeal damage equal to your champ:Counter to ALL enemies.\nLose half of your champ:Counter."
+      "description": "Deal damage equal to your champ:Counter to ALL enemies.\nLose half of your champ:Counter."
     },
     {
       "name": "Rapid Strikes",
@@ -6337,7 +7625,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 3 damage 2 times.\nDeal 3 damage an additional time for each champ:Technique Bonus triggered this turn."
+      "description": "Deal 4 damage 2 times.\nReduce the cost of a random Strike in your hand to 0 this turn."
     },
     {
       "name": "Rapid Strikes+",
@@ -6345,23 +7633,23 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 3 damage 3 times.\nDeal 3 damage an additional time for each champ:Technique Bonus triggered this turn."
+      "description": "Deal 6 damage 2 times.\nReduce the cost of a random Strike in your hand to 0 this turn."
     },
     {
-      "name": "Reckless Leap",
+      "name": "Reckless Strike",
       "color": "The_champ_gray",
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Requires champ:Berserker.\nDeal 18 damage.\nchamp:Fatigue 15."
+      "description": "Deal 18 damage.\nNL Perform 3 times:\n[crown_icon]   champ:Technique\n"
     },
     {
-      "name": "Reckless Leap+",
+      "name": "Reckless Strike+",
       "color": "The_champ_gray",
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Requires champ:Berserker.\nDeal 20 damage.\nchamp:Fatigue 20."
+      "description": "Deal 20 damage.\nNL Perform 4 times:\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Refreshment",
@@ -6385,7 +7673,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nDeal 7 damage.\nPlay this twice if the last played card was a champ:Technique."
+      "description": "Deal 7 damage.\nPlay this twice if the last played card was a champ:Technique.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Rising Strike+",
@@ -6393,7 +7681,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nDeal 10 damage.\nPlay this twice if the last played card was a champ:Technique."
+      "description": "Deal 10 damage.\nPlay this twice if the last played card was a champ:Technique.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Set A Trap",
@@ -6401,7 +7689,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "*Defensive champ:Combo: Gain 6 champ:Counter for each Attack in your hand.\nEnter champ:Defensive."
+      "description": "Gain 6 Block, twice if any enemy is Weak.\nDefensive champ:Combo: Apply 2 Weak to ALL enemies."
     },
     {
       "name": "Set A Trap+",
@@ -6409,23 +7697,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 champ:Counter.\nDefensive champ:Combo: Gain 6 champ:Counter for each Attack in your hand.\nEnter champ:Defensive."
-    },
-    {
-      "name": "Shield Wall",
-      "color": "The_champ_gray",
-      "rarity": "Uncommon",
-      "type": "Power",
-      "cost": "2",
-      "description": "Gain 2 Dexterity.\nAt the end of each turn, gain 6 champ:Counter."
-    },
-    {
-      "name": "Shield Wall+",
-      "color": "The_champ_gray",
-      "rarity": "Uncommon",
-      "type": "Power",
-      "cost": "2",
-      "description": "Gain 2 Dexterity.\nAt the end of each turn, gain 9 champ:Counter."
+      "description": "Gain 8 Block, twice if any enemy is Weak.\nDefensive champ:Combo: Apply 3 Weak to ALL enemies."
     },
     {
       "name": "Sigil of Victory",
@@ -6433,7 +7705,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "[crown_icon]   champ:Technique\nRepeat this effect 2 times.\nExhaust."
+      "description": "Repeat this effect 2 times.\nExhaust.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Sigil of Victory+",
@@ -6441,7 +7713,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "0",
-      "description": "[crown_icon]   champ:Technique\nRepeat this effect 4 times.\nExhaust."
+      "description": "Repeat this effect 4 times.\nExhaust.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Skillful Dodge",
@@ -6449,7 +7721,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Block.\nGain 4 champ:Counter.\nDefensive champ:Combo: Increase this card's Block and champ:Counter by 2 this combat."
+      "description": "Gain 4 Block.\nGain 4 champ:Counter.\nDefensive champ:Combo: Increase this card's effects by 2 this combat."
     },
     {
       "name": "Skillful Dodge+",
@@ -6457,7 +7729,23 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 4 Block.\nGain 4 champ:Counter.\nDefensive champ:Combo: Increase this card's Block and champ:Counter by 4 this combat."
+      "description": "Gain 4 Block.\nGain 4 champ:Counter.\nDefensive champ:Combo: Increase this card's effects by 4 this combat."
+    },
+    {
+      "name": "Technical Jig",
+      "color": "The_champ_gray",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Whenever you enter a Stance:\n[crown_icon]   champ:Technique\n"
+    },
+    {
+      "name": "Technical Jig+",
+      "color": "The_champ_gray",
+      "rarity": "Uncommon",
+      "type": "Power",
+      "cost": "1",
+      "description": "Innate.\nWhenever you enter a Stance:\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Vicious Mockery",
@@ -6474,6 +7762,22 @@
       "type": "Skill",
       "cost": "0",
       "description": "*Berserker champ:Combo: Gain 5 temporary Strength.\nDefensive champ:Combo: Gain 5 temporary  Dexterity."
+    },
+    {
+      "name": "Wind Up",
+      "color": "The_champ_gray",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Choose a Stance to Enter.\nFetch a champ:Finisher from your draw pile.\nExhaust."
+    },
+    {
+      "name": "Wind Up+",
+      "color": "The_champ_gray",
+      "rarity": "Uncommon",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Choose a Stance to Enter.\nFetch a champ:Finisher from your draw pile."
     },
     {
       "name": "Cheap Shot",
@@ -6545,7 +7849,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose a card in hand. It costs 0 this combat.\nExhaust."
+      "description": "champ:Fatigue 5.\nChoose a card in hand. It costs 0 this combat.\nExhaust."
     },
     {
       "name": "Enchant Crown+",
@@ -6553,7 +7857,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Choose a card in hand. It costs 0 this combat.\nExhaust."
+      "description": "champ:Fatigue 5.\nChoose a card in hand. It costs 0 this combat.\nExhaust."
     },
     {
       "name": "Enchant Shield",
@@ -6561,7 +7865,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose a card in hand. Increase its Block by 5 for this combat.\nExhaust."
+      "description": "champ:Fatigue 5.\nChoose a card in hand. Increase its Block by 8 for this combat.\nExhaust."
     },
     {
       "name": "Enchant Shield+",
@@ -6569,7 +7873,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Choose a card in hand. Increase its Block by 5 for this combat.\nExhaust."
+      "description": "champ:Fatigue 5.\nChoose a card in hand. Increase its Block by 8 for this combat.\nExhaust."
     },
     {
       "name": "Enchant Sword",
@@ -6577,7 +7881,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Choose a card in hand. Increase its damage by 5 for this combat. Exhaust."
+      "description": "champ:Fatigue 5.\nChoose a card in hand. Increase its damage by 8 for this combat. Exhaust."
     },
     {
       "name": "Enchant Sword+",
@@ -6585,7 +7889,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Choose a card in hand. Increase its damage by 5 for this combat. Exhaust."
+      "description": "champ:Fatigue 5.\nChoose a card in hand. Increase its damage by 8 for this combat. Exhaust."
     },
     {
       "name": "Gladiator Form",
@@ -6624,16 +7928,16 @@
       "color": "The_champ_gray",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "3",
-      "description": "Your HP cannot be reduced until your next turn.\nExhaust."
+      "cost": "2",
+      "description": "champ:Fatigue 5. Your HP cannot be reduced until your next turn.\nExhaust."
     },
     {
       "name": "Ignore Pain+",
       "color": "The_champ_gray",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "2",
-      "description": "Your HP cannot be reduced until your next turn.\nExhaust."
+      "cost": "1",
+      "description": "champ:Fatigue 5. Your HP cannot be reduced until your next turn.\nExhaust."
     },
     {
       "name": "Improvising",
@@ -6673,7 +7977,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 10 damage.\nDeals 1 additional damage for ALL your Upgraded cards."
+      "description": "Deal 10 damage.\nAdd a random champ:Technique to your hand. It costs 0."
     },
     {
       "name": "Masterful Slash+",
@@ -6681,7 +7985,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 10 damage.\nDeals 2 additional damage for ALL your Upgraded cards."
+      "description": "Deal 13 damage.\nAdd a random Upgraded champ:Technique to your hand. It costs 0."
     },
     {
       "name": "Murder Strike",
@@ -6761,7 +8065,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage 3 times.\nUnless Berserker champ:Combo: You can't attack next turn."
+      "description": "Deal 11 damage 2 times.\nUnless Berserker champ:Combo: You can't attack next turn."
     },
     {
       "name": "Triple Strike",
@@ -6769,7 +8073,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "[crown_icon]   champ:Technique\nDeal 6 damage.\nAdd 2 Strikes into your hand. They cost 0 and have champ:Technique.\nExhaust."
+      "description": "Deal 6 damage.\nAdd 2 Strikes into your hand. They cost 0 and have champ:Technique.\nExhaust."
     },
     {
       "name": "Triple Strike+",
@@ -6777,7 +8081,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "[crown_icon]   champ:Technique\nDeal 9 damage.\nAdd 2 Upgraded Strikes into your hand. They cost 0 and have champ:Technique.\nExhaust."
+      "description": "Deal 9 damage.\nAdd 2 Upgraded Strikes into your hand. They cost 0 and have champ:Technique.\nExhaust."
     },
     {
       "name": "Ultimate Stance",
@@ -6785,7 +8089,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nRequires Defensive or Berserker.\nEnter champ:Ultimate Stance for 1 turn."
+      "description": "Requires Defensive or Berserker.\nEnter champ:Ultimate Stance for 1 turn.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Ultimate Stance+",
@@ -6793,7 +8097,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "[crown_icon]   champ:Technique\nRequires Defensive or Berserker.\nEnter champ:Ultimate Stance for 2 turns."
+      "description": "Requires Defensive or Berserker.\nEnter champ:Ultimate Stance for 2 turns.\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Curl Up",
@@ -6801,7 +8105,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 10 Block if in guardianmod:Defensive_Mode.\nOtherwise, guardianmod:Brace 10."
+      "description": "Place a random card from your hand into guardianmod:Stasis.\nguardianmod:Brace 10."
     },
     {
       "name": "Curl Up+",
@@ -6809,7 +8113,7 @@
       "rarity": "Basic",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 13 Block if in guardianmod:Defensive_Mode.\nOtherwise, guardianmod:Brace 13."
+      "description": "Place a card in your hand into guardianmod:Stasis.\nguardianmod:Brace 10."
     },
     {
       "name": "Defend",
@@ -7097,7 +8401,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "0",
-      "description": "guardianmod:Gem.\nGain 1 temporary Thorns."
+      "description": "guardianmod:Gem.\nGain 3 temporary Thorns."
     },
     {
       "name": "Vent Steam",
@@ -7185,7 +8489,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Gain 5 Block at the end of each turn while in guardianmod:Defensive_Mode.\nguardianmod:Brace 10."
+      "description": "Gain 5 Block at the end of each turn while in guardianmod:Defensive_Mode.\nAt the start of your turn, guardianmod:Brace 3."
     },
     {
       "name": "Armored Protocol+",
@@ -7193,7 +8497,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Gain 8 Block at the end of each turn while in guardianmod:Defensive_Mode.\nguardianmod:Brace 10."
+      "description": "Gain 8 Block at the end of each turn while in guardianmod:Defensive_Mode.\nAt the start of your turn, guardianmod:Brace 3."
     },
     {
       "name": "Body Slam",
@@ -7281,7 +8585,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "While in guardianmod:Defensive_Mode, raise your Dexterity by 3.\nguardianmod:Brace 10."
+      "description": "While in guardianmod:Defensive_Mode, raise your Dexterity by 3.\nAt the start of your turn, guardianmod:Brace 3."
     },
     {
       "name": "Evasive Protocol+",
@@ -7289,7 +8593,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "While in guardianmod:Defensive_Mode, raise your Dexterity by 5.\nguardianmod:Brace 10."
+      "description": "While in guardianmod:Defensive_Mode, raise your Dexterity by 5.\nAt the start of your turn, guardianmod:Brace 3."
     },
     {
       "name": "Floating Orbs",
@@ -7345,7 +8649,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Must be in Defensive Mode.\nExit Defensive Mode.\nDeal 4 damage 4 times to ALL enemies."
+      "description": "Requires 20 or more Block.\nDeal 4 damage to ALL enemies 4 times."
     },
     {
       "name": "Guardian Whirl+",
@@ -7353,7 +8657,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Must be in Defensive Mode.\nExit Defensive Mode.\nDeal 4 damage 5 times to ALL enemies."
+      "description": "Requires 20 or more Block.\nDeal 4 damage to ALL enemies 5 times."
     },
     {
       "name": "Harden",
@@ -7361,7 +8665,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Must be in Defensive Mode.\nGain 12 Block and 2 Thorns."
+      "description": "Requires 20 or more Block.\nguardianmod:Brace 10 and gain 2 Thorns."
     },
     {
       "name": "Harden+",
@@ -7369,7 +8673,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Must be in Defensive Mode.\nGain 16 Block and 3 Thorns."
+      "description": "Requires 20 or more Block.\nguardianmod:Brace 14 and gain 3 Thorns."
     },
     {
       "name": "Multi-Beam",
@@ -7633,7 +8937,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Gain 4 Thorns while in guardianmod:Defensive_Mode.\nguardianmod:Brace 10."
+      "description": "Gain 4 Thorns while in guardianmod:Defensive_Mode.\nAt the start of your turn, guardianmod:Brace 3."
     },
     {
       "name": "Spiker Protocol+",
@@ -7641,7 +8945,7 @@
       "rarity": "Uncommon",
       "type": "Power",
       "cost": "1",
-      "description": "Gain 6 Thorns while in guardianmod:Defensive_Mode.\nguardianmod:Brace 10."
+      "description": "Gain 6 Thorns while in guardianmod:Defensive_Mode.\nAt the start of your turn, guardianmod:Brace 3."
     },
     {
       "name": "Time Bomb",
@@ -7697,7 +9001,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 10 damage.\nPerform the following 2 times:\n[ guardianmod:Socket ]\n[ guardianmod:Socket ]"
+      "description": "Deal 10 damage.\nNL Perform 2 times:\n[ guardianmod:Socket ]\n[ guardianmod:Socket ]"
     },
     {
       "name": "Bauble Burst+",
@@ -7705,7 +9009,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 10 damage.\nPerform the following 3 times:\n[ guardianmod:Socket ]\n[ guardianmod:Socket ]"
+      "description": "Deal 10 damage.\nNL Perform 3 times:\n[ guardianmod:Socket ]\n[ guardianmod:Socket ]"
     },
     {
       "name": "Citrine",
@@ -7857,7 +9161,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "While in guardianmod:Defensive_Mode, raise your Strength by 2.\nguardianmod:Brace 10."
+      "description": "While in guardianmod:Defensive_Mode, raise your Strength by 2.\nAt the start of your turn, guardianmod:Brace 5."
     },
     {
       "name": "Revenge Protocol+",
@@ -7865,7 +9169,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "While in guardianmod:Defensive_Mode, raise your Strength by 3.\nguardianmod:Brace 10."
+      "description": "While in guardianmod:Defensive_Mode, raise your Strength by 3.\nAt the start of your turn, guardianmod:Brace 5."
     },
     {
       "name": "Speed Boost",
@@ -7976,14 +9280,14 @@
       "name": "Bronze Gear",
       "tier": "Starter",
       "pool": "Guardian",
-      "description": "At the start of your turn, Brace 2.",
+      "description": "The first time you enter guardianmod:Defensive_Mode, it lasts for 1 more turn.",
       "flavorText": "Protection where you need it most."
     },
     {
       "name": "Champion's Crown",
       "tier": "Starter",
       "pool": "The_champ_gray",
-      "description": "When you enter a Stance while not in one, reduce the cost of a random card in your hand by 1 this turn.",
+      "description": "Start each combat in a random Stance.",
       "flavorText": "A WINNER IS YOU!"
     },
     {
@@ -7992,6 +9296,13 @@
       "pool": "Slimebound",
       "description": "Whenever you slimeboundmod:Consume, heal 2 HP, up to 8 each combat.",
       "flavorText": "I feel so funky."
+    },
+    {
+      "name": "Mob Leader's Staff",
+      "tier": "Starter",
+      "pool": "Gremlin",
+      "description": "At the start of each combat, gain [E] , draw 1 card, and Swap to the next Gremlin.",
+      "flavorText": "Among gremlin mobs, the one with the best horn maintains complete command over the troupe, until another one manages to steal it."
     },
     {
       "name": "Snecko Soul",
@@ -8050,10 +9361,17 @@
       "flavorText": "Step 1. Defeat the enemy"
     },
     {
+      "name": "Fragmentation Grenade",
+      "tier": "Common",
+      "pool": "Gremlin",
+      "description": "Damage dealt to random enemies is increased by 3.",
+      "flavorText": "Nobody dares to ask where the Gremlin got it from."
+    },
+    {
       "name": "Gelatinous Cube",
       "tier": "Common",
       "pool": "",
-      "description": "Whenever you draw a Curse or Status card, draw 1 card.",
+      "description": "Whenever you draw a Status card, draw 1 card.",
       "flavorText": "Hey, it stuck to your body."
     },
     {
@@ -8109,8 +9427,22 @@
       "name": "Sneaky Teakwood Match",
       "tier": "Common",
       "pool": "Hexa_ghost_purple",
-      "description": "At the start of the first turn, hexamod:Ignite the hexamod:Active Ghostflame and hexamod:Advance.",
+      "description": "At the start of each combat, hexamod:Ignite the current Ghostflame and hexamod:Advance.",
       "flavorText": "Lights on any surface!"
+    },
+    {
+      "name": "Supply Scroll",
+      "tier": "Common",
+      "pool": "",
+      "description": "At the start of your 3rd turn, add a random assortment of 4 Shivs and Wards to your hand.",
+      "flavorText": "A surprisingly detailed inventory of the mob's various bits and bobbles."
+    },
+    {
+      "name": "Wizard Hat",
+      "tier": "Common",
+      "pool": "Gremlin",
+      "description": "Whenever you consume Wiz, remove a debuff at random.",
+      "flavorText": "The accompanying robes have long since been stolen."
     },
     {
       "name": "Cable Spool",
@@ -8127,6 +9459,13 @@
       "flavorText": "It is unclear why Deca collects these."
     },
     {
+      "name": "Impeccable Pecs",
+      "tier": "Uncommon",
+      "pool": "",
+      "description": "Whenever you gain Strength, gain an equal amount of Temporary HP.",
+      "flavorText": "Glorious."
+    },
+    {
       "name": "Jar of TOBSCo",
       "tier": "Uncommon",
       "pool": "Hexa_ghost_purple",
@@ -8139,6 +9478,13 @@
       "pool": "Slimebound",
       "description": "At the start of combat, slimeboundmod:Split into a slimeboundmod:Leeching slime and gain 1 Slime slot.",
       "flavorText": "You and ooze army."
+    },
+    {
+      "name": "Magic Mallet",
+      "tier": "Uncommon",
+      "pool": "Gremlin",
+      "description": "Whenever you apply Weak, gain 1 Wiz, up to 3 times per turn.",
+      "flavorText": "Stubs toes twice as hard."
     },
     {
       "name": "Pilot's Codex",
@@ -8172,7 +9518,7 @@
       "name": "Spectre's Hand",
       "tier": "Uncommon",
       "pool": "The_champ_gray",
-      "description": "Whenever you play a Technique while not in a Stance, add a Strike or Defend to your hand. It costs 0 and has Exhaust.",
+      "description": "Whenever you Enter a Stance, add a Strike or Defend to your hand. It costs 0 and has Exhaust.",
       "flavorText": "Some victories stay with you."
     },
     {
@@ -8181,6 +9527,20 @@
       "pool": "",
       "description": "Replaces Snecko Eye. At the start of your turn, draw 2 additional cards. Start each combat Confused. The first time you draw a card that costs 3 each combat, reduce its cost to 0.",
       "flavorText": "0121012"
+    },
+    {
+      "name": "Wizard Staff",
+      "tier": "Uncommon",
+      "pool": "Gremlin",
+      "description": "Wiz deals 7 additional damage.",
+      "flavorText": "The pride and joy of every Gremlin Wizard, this staff is a frequent target of theft by rival mobs."
+    },
+    {
+      "name": "Wound Poker",
+      "tier": "Uncommon",
+      "pool": "Gremlin",
+      "description": "At the end of each turn, deal 6 damage to each Weakened enemy.",
+      "flavorText": "Does it hurt when I do this?."
     },
     {
       "name": "Deflecting Bracers",
@@ -8211,6 +9571,20 @@
       "flavorText": "Try everything - something will stick."
     },
     {
+      "name": "Gremlin Bomb",
+      "tier": "Rare",
+      "pool": "Gremlin",
+      "description": "Whenever a Gremlin dies, deal 30 damage to ALL enemies.",
+      "flavorText": "Gremlins have an uncanny knack for finding dangerous things. Sometimes, they even survive looting them."
+    },
+    {
+      "name": "Gremlin Gravestone",
+      "tier": "Rare",
+      "pool": "Gremlin",
+      "description": "Dead Gremlins can be Resurrected at Rest Sites as a Free Action.",
+      "flavorText": "Where do gremlins go when they die? Not bloody far enough."
+    },
+    {
       "name": "Mallet",
       "tier": "Rare",
       "pool": "The_bronze_automaton",
@@ -8225,6 +9599,13 @@
       "flavorText": "It is said to gain power based on your mood."
     },
     {
+      "name": "Prickly Shields",
+      "tier": "Rare",
+      "pool": "",
+      "description": "Whenever you gain Block, deal 2 damage to a random enemy.",
+      "flavorText": "Gremlins use whatever scraps they can find as weapons or armor. Some serve as both."
+    },
+    {
       "name": "Sack of Gems",
       "tier": "Rare",
       "pool": "Guardian",
@@ -8235,7 +9616,7 @@
       "name": "Signature Finisher",
       "tier": "Rare",
       "pool": "The_champ_gray",
-      "description": "Upon pickup, choose a Finisher. This Finisher costs 0 and never causes your Stance to be exited.",
+      "description": "Upon pickup, choose a Finisher. This Finisher costs 0, can be used without a Stance, and never causes your Stance to be exited.",
       "flavorText": "And now, it's time for my ULTIMATE MOVE!"
     },
     {
@@ -8270,7 +9651,7 @@
       "name": "Soul of Chaos",
       "tier": "Rare",
       "pool": "Hexa_ghost_purple",
-      "description": "The second Searing Ghostflame becomes a Mayhem Ghostflame.\nMayhem Ghostflame activates when you end your turn while it is active.\nIgnition: Play the top card of your draw pile.",
+      "description": "The second Searing Ghostflame becomes a Mayhem Ghostflame.\nMayhem Ghostflame activates when you end your turn on it.\nIgnition: Play the top card of your draw pile.",
       "flavorText": "Mayhem, made manifest."
     },
     {
@@ -8498,11 +9879,25 @@
       "flavorText": "An inefficient but entertaining power source."
     },
     {
+      "name": "Gremlin Leader's Voucher",
+      "tier": "Boss",
+      "pool": "Gremlin",
+      "description": "Gain [E] at the start of your turn.\nUpon pickup, permanently lose a Gremlin.Gain [E] at the start of your turn.\nUpon pickup, permanently lose a Gremlin.",
+      "flavorText": "IOU 1 Gremlin"
+    },
+    {
       "name": "Guardian Gear",
       "tier": "Boss",
       "pool": "Guardian",
       "description": "Replaces Bronze Gear.\nBegin each combat in guardianmod:Defensive_Mode, which persists for 3 turns.",
       "flavorText": "Replace every 3,000 floors."
+    },
+    {
+      "name": "Hecktoplasm",
+      "tier": "Boss",
+      "pool": "",
+      "description": "You can no longer gain Souls. Breaking Keys costs no Souls. Gain [E] at the start of your turn.",
+      "flavorText": "This blob of slime seems to pulse with the energy of hundreds of souls. No wonder no one wanted it."
     },
     {
       "name": "Idol of Retromation",
@@ -8533,6 +9928,13 @@
       "flavorText": "Let\u2019s see if we can do... better."
     },
     {
+      "name": "Mob Leader's Crown",
+      "tier": "Boss",
+      "pool": "Gremlin",
+      "description": "Replaces Mob Leader's Staff.\nThe first time you shuffle your draw pile each turn, gain [E] , draw 1 card, and Swap to the next Gremlin.",
+      "flavorText": "The fancier the symbol of office, the more likely it is to be stolen."
+    },
+    {
       "name": "Platinum Core",
       "tier": "Boss",
       "pool": "The_bronze_automaton",
@@ -8543,8 +9945,15 @@
       "name": "Power Armor",
       "tier": "Boss",
       "pool": "The_champ_gray",
-      "description": "At the start of your turn, gain [E] .\nYour maximum Fatigue and Counter is 20.",
+      "description": "At the start of your turn, gain [E] .\nYour maximum Vigor and Counter is 30.",
       "flavorText": "Bought used."
+    },
+    {
+      "name": "Short Stature",
+      "tier": "Boss",
+      "pool": "Gremlin",
+      "description": "The first time a Gremlin would die each combat, heal it to 75% of your Max HP instead.",
+      "flavorText": "It is easy to get away with mischief if you are literally beneath their notice."
     },
     {
       "name": "Super Snecko Soul",
@@ -8599,7 +10008,7 @@
       "name": "Berserker's Guide",
       "tier": "Shop",
       "pool": "The_champ_gray",
-      "description": "Prevent the first 10 HP you lose on your turn each combat.",
+      "description": "At the start of your turn, gain 3 Vigor.",
       "flavorText": "The text is illegible."
     },
     {
@@ -8664,9 +10073,28 @@
       "pool": "Snecko_cyan",
       "description": "At the start of each combat, add a Cheat into your hand with Retain.",
       "flavorText": "We're all aces."
+    },
+    {
+      "name": "Stolen Merchandise",
+      "tier": "Shop",
+      "pool": "Gremlin",
+      "description": "Whenever you Swap, add an Echo of a random Colorless card to your hand.\nAt the start of combat, the Merchant gains 2 Strength.",
+      "flavorText": "\"Blasted, thieving Gremlins!\"."
+    },
+    {
+      "name": "Tag Teamwork",
+      "tier": "Shop",
+      "pool": "Gremlin",
+      "description": "Whenever you draw Tag Team, draw another card.\nUpon pickup, add two copies of Tag Team to your deck.",
+      "flavorText": "Teamwork makes the dream work."
     }
   ],
   "potions": [
+    {
+      "name": "Bottled Dupe",
+      "rarity": "Common",
+      "description": "Swap to a random Gremlin."
+    },
     {
       "name": "Brew of Sharpness",
       "rarity": "Common",
@@ -8691,6 +10119,11 @@
       "name": "Molotov",
       "rarity": "Common",
       "description": "Apply 30 Soulburn."
+    },
+    {
+      "name": "Pizazz Potion",
+      "rarity": "Common",
+      "description": "Gain 3 Wiz."
     },
     {
       "name": "Potentially Potent Potion",
@@ -8728,9 +10161,9 @@
       "description": "Technique 5 times."
     },
     {
-      "name": "Combustive Fluid",
+      "name": "Eau de Grem",
       "rarity": "Uncommon",
-      "description": "Force-Ignite the Active Ghostflame 3 times."
+      "description": "Use all 5 Gremlin Abilities 2 times."
     },
     {
       "name": "Exotic Beverage",
@@ -8756,6 +10189,11 @@
       "name": "Army in a Bottle",
       "rarity": "Rare",
       "description": "Spawn 3 random Slimes (Normal or Specialist)."
+    },
+    {
+      "name": "Gremlin In A Jar",
+      "rarity": "Rare",
+      "description": "Resurrect a random Gremlin at 50% of your Max HP."
     },
     {
       "name": "Inferno Potion",
@@ -8789,6 +10227,12 @@
     }
   ],
   "creatures": [
+    {
+      "name": "The Gremlins",
+      "type": "Player",
+      "minHP": "16",
+      "maxHP": "16"
+    },
     {
       "name": "The Guardian",
       "type": "Player",
@@ -8955,11 +10399,11 @@
     },
     {
       "name": "Finisher",
-      "description": "After playing a Finisher, if you are in a Stance, exit it and trigger its Finisher bonus."
+      "description": "Requires being in a Stance.\nAfter playing a Finisher, if you are in a Stance, exit it and trigger its Finisher bonus."
     },
     {
       "name": "Berserker",
-      "description": "Stance.\nTechnique Bonus: Fatigue 5.\nFinisher Bonus: Lose all Fatigue and gain that much HP, preserving Strength."
+      "description": "Stance.\nTechnique Bonus: Gain 4 Vigor.\nFinisher Bonus: Gain 1 Strength."
     },
     {
       "name": "Combo",
@@ -8971,11 +10415,11 @@
     },
     {
       "name": "Defensive",
-      "description": "Stance.\nTechnique Bonus: Gain 5 Counter.\nFinisher Bonus: Gain 12 Block."
+      "description": "Stance.\nTechnique Bonus: Gain 4 Counter.\nFinisher Bonus: Gain 12 Block."
     },
     {
       "name": "Fatigue",
-      "description": "Lose HP and gain 1 Strength for every 10 HP lost. Regenerate Fatigued health at the end of combat."
+      "description": "Lose HP. Restore Fatigued HP at the end of combat."
     },
     {
       "name": "Gladiator",
@@ -8986,16 +10430,64 @@
       "description": "Stance. Counts as both Defensive and Berserker Stances.\nFinishers do not exit the Stance.\nYou can't change to any other Stance."
     },
     {
-      "name": "Downfall:fire",
-      "description": "Only Ammo can be fired. Firing Ammo activates its effect and discards it."
-    },
-    {
       "name": "Boss",
       "description": "You may only play 1 Boss card in a turn."
     },
     {
+      "name": "Exhume",
+      "description": "Put a card from your exhaust pile into your hand."
+    },
+    {
       "name": "Invincible",
       "description": "You cannot lose more than a given amount of HP in a single turn.\nAt the end of any round in which Invincible prevented HP loss, remove it."
+    },
+    {
+      "name": "Reclaim",
+      "description": "Put a card from your exhaust pile into your discard pile."
+    },
+    {
+      "name": "Agony",
+      "description": "Creatures in Agony deal 80% less damage with Attacks."
+    },
+    {
+      "name": "Cripple",
+      "description": "Crippled enemies can no longer lose Weak. At the end of their turn, they lose HP equal to their Weak."
+    },
+    {
+      "name": "Echo",
+      "description": "Echoes are copies of cards with Ethereal and Exhaust."
+    },
+    {
+      "name": "Echoes",
+      "description": "Echoes are copies of cards with Ethereal and Exhaust."
+    },
+    {
+      "name": "Fat Gremlin",
+      "description": "Whenever you play an attack, apply 1 Weak to all targets."
+    },
+    {
+      "name": "Gremlin Wizard",
+      "description": "Whenever you play a skill, gain 1 Wiz."
+    },
+    {
+      "name": "Mad Gremlin",
+      "description": "Gain 2 Temporary Strength when attacked."
+    },
+    {
+      "name": "Shield Gremlin",
+      "description": "Whenever you play a skill, gain 2 Block."
+    },
+    {
+      "name": "Sneaky Gremlin",
+      "description": "Whenever you play an attack, deal 3 damage to a random enemy."
+    },
+    {
+      "name": "Swap",
+      "description": "Switch places with another character. Does nothing if there is no valid target."
+    },
+    {
+      "name": "Wiz",
+      "description": "When you have at least three stacks of Wiz, attacks will consume all stacks to deal 10 additional damage."
     },
     {
       "name": "Accelerate",
@@ -9043,7 +10535,7 @@
     },
     {
       "name": "Advance",
-      "description": "Activate the next Ghostflame. If it's Ignited, Extinguish it."
+      "description": "Move to the next Ghostflame. Moving onto a Ghostflame Extinguishes it."
     },
     {
       "name": "Afterlife",
@@ -9062,10 +10554,6 @@
       "description": "Allows Ghostflame to become Ignited again, resetting its Ignition requirements."
     },
     {
-      "name": "Force-Ignite",
-      "description": "Triggers the Ignition effect described on a Ghostflame, even if it was already Ignited."
-    },
-    {
       "name": "Ignite",
       "description": "Triggers the Ignition effect described on a Ghostflame."
     },
@@ -9075,11 +10563,11 @@
     },
     {
       "name": "Retract",
-      "description": "Activate the previous Ghostflame. If it's Ignited, Extinguish it."
+      "description": "Move to the previous Ghostflame. Moving onto a Ghostflame Extinguishes it."
     },
     {
       "name": "Seal",
-      "description": "Can't be upgraded. If all 6 Seals have been played this combat, obtain The Broken Seal and remove the Seals from your deck."
+      "description": "If all 6 Seals have been played this combat, obtain The Broken Seal and remove the Seals from your deck."
     },
     {
       "name": "Searing",
@@ -9195,7 +10683,7 @@
     },
     {
       "name": "Offclass",
-      "description": "An Offclass card is any obtainable card from a class other than your own (including Colorless cards)."
+      "description": "An Offclass card is any obtainable card from a class other than your own (including Colorless cards, Curses, and Statuses)."
     },
     {
       "name": "Snekproof",
