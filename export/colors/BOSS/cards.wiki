@@ -102,7 +102,7 @@ If you are below half HP, Gain (Heal !M! and gain) 2 [[Strength]].
 |2
 |[[expansioncontent:Boss]] - Slime.
 Gain 10 (15) [[Block]].
-On your next turn, gain [E] [E] [E] and add SLIME CRUSH (CRUSH+) to your hand.
+On your next turn, gain [E] [E] [E] and add SLIME CRUSH (*CRUSH+) to your hand.
 [[Exhaust]].
 |-
 |[[YOU ARE MINE!]]

@@ -108,6 +108,38 @@
       "description": "Ethereal.\nDeal 10 damage.\nDamage is increased by 4 for each Apparition in your exhaust pile.\nExhaust."
     },
     {
+      "name": "Crystal Shiv",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 4 damage.\nExhaust."
+    },
+    {
+      "name": "Crystal Shiv+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Attack",
+      "cost": "0",
+      "description": "Deal 6 damage.\nExhaust."
+    },
+    {
+      "name": "Crystal Ward",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 3 Block.\nExhaust."
+    },
+    {
+      "name": "Crystal Ward+",
+      "color": "Colorless",
+      "rarity": "Special",
+      "type": "Skill",
+      "cost": "0",
+      "description": "Gain 5 Block.\nExhaust."
+    },
+    {
       "name": "Dazing Pulse",
       "color": "Colorless",
       "rarity": "Special",
@@ -529,7 +561,7 @@
       "rarity": "Curse",
       "type": "Curse",
       "cost": "",
-      "description": "Unplayable. Ethereal.\nAt the end of your turn, add a Void Status to the top of your draw pile."
+      "description": "Unplayable. Ethereal.\nAt the end of your turn, add a Void to the top of your draw pile."
     },
     {
       "name": "Bewildered",
@@ -561,7 +593,7 @@
       "rarity": "Curse",
       "type": "Curse",
       "cost": "1",
-      "description": "Add a Slimed Status to your hand.\nExhaust."
+      "description": "Add a Slimed to your hand.\nExhaust."
     },
     {
       "name": "Scatterbrained",
@@ -1089,7 +1121,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 4 damage twice.\nexpansioncontent:Reclaim a random Afterlife card."
+      "description": "Deal 4 damage twice.\nexpansioncontent:Reclaim a random hexamod:Afterlife card."
     },
     {
       "name": "Strike From Beyond+",
@@ -1097,7 +1129,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage twice.\nexpansioncontent:Reclaim a random Afterlife card."
+      "description": "Deal 6 damage twice.\nexpansioncontent:Reclaim a random hexamod:Afterlife card."
     },
     {
       "name": "Sword of Night",
@@ -1761,7 +1793,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "2",
-      "description": "At the start of your turn, expansioncontent:Reclaim a random Afterlife card."
+      "description": "At the start of your turn, expansioncontent:Reclaim a random hexamod:Afterlife card."
     },
     {
       "name": "Gifts From Beyond+",
@@ -1769,7 +1801,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "1",
-      "description": "At the start of your turn, expansioncontent:Reclaim a random Afterlife card."
+      "description": "At the start of your turn, expansioncontent:Reclaim a random hexamod:Afterlife card."
     },
     {
       "name": "Here and Now",
@@ -4513,7 +4545,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 8 Temporary HP.\ngremlin:Swap to gremlin:Fat_Gremlin."
+      "description": "Gain 7 Temporary HP.\ngremlin:Swap to gremlin:Fat_Gremlin."
     },
     {
       "name": "Cat Scratch",
@@ -4545,7 +4577,7 @@
       "rarity": "Common",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 11 Block and 2 gremlin:Wiz."
+      "description": "Gain 10 Block and 2 gremlin:Wiz."
     },
     {
       "name": "Dagger Dance",
@@ -4593,7 +4625,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 4 damage.\nAdd 2 Upgraded Wards to your hand."
+      "description": "Deal 2 damage.\nAdd 2 Upgraded Wards to your hand."
     },
     {
       "name": "Glitter Guard",
@@ -4705,7 +4737,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 6 damage. If the enemy is Weak, remove a stack to add 3 Shivs to your hand."
+      "description": "Deal 4 damage. If the enemy is Weak, remove a stack to add 3 Shivs to your hand."
     },
     {
       "name": "Presto!",
@@ -4801,7 +4833,7 @@
       "rarity": "Common",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 9 damage.\nAdd 1 Upgraded Shiv to your hand."
+      "description": "Deal 7 damage.\nAdd 1 Upgraded Shiv to your hand."
     },
     {
       "name": "Aggressive Defense",
@@ -4817,7 +4849,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 8 damage.\nWhenever you gain Block this turn, targeted enemy loses 5 HP."
+      "description": "Deal 8 damage.\nWhenever you gain Block this turn, targeted enemy loses 4 HP."
     },
     {
       "name": "Arms Theft",
@@ -4825,7 +4857,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Steal 2 Strength.\nExhaust."
+      "description": "Steal 1 Strength.\nExhaust."
     },
     {
       "name": "Arms Theft+",
@@ -4833,7 +4865,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Steal 3 Strength.\nExhaust."
+      "description": "Steal 2 Strength.\nExhaust."
     },
     {
       "name": "Astound",
@@ -4857,7 +4889,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 5 damage for each stack of Weakened.\n(Always hits at least once.)"
+      "description": "Deal 4 damage for each stack of Weakened.\n(Always hits at least once.)"
     },
     {
       "name": "Burly Blow+",
@@ -4865,7 +4897,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 7 damage for each stack of Weakened.\n(Always hits at least once.)"
+      "description": "Deal 5 damage for each stack of Weakened.\n(Always hits at least once.)"
     },
     {
       "name": "Counter Strike",
@@ -4881,7 +4913,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage. If the enemy intends to attack, add 2 Upgraded Wards to your hand."
+      "description": "Deal 10 damage. If the enemy intends to attack, add 2 Upgraded Wards to your hand."
     },
     {
       "name": "Dazzle",
@@ -4920,7 +4952,7 @@
       "color": "Gremlin",
       "rarity": "Uncommon",
       "type": "Power",
-      "cost": "1",
+      "cost": "2",
       "description": "Whenever you gremlin:Swap, draw a card."
     },
     {
@@ -4928,7 +4960,7 @@
       "color": "Gremlin",
       "rarity": "Uncommon",
       "type": "Power",
-      "cost": "0",
+      "cost": "1",
       "description": "Whenever you gremlin:Swap, draw a card."
     },
     {
@@ -5009,7 +5041,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Gain 4 Temporary HP.\nDeal damage equal to your current Block and Temporary HP."
+      "description": "Gain 3 Temporary HP.\nDeal damage equal to your current Block and Temporary HP."
     },
     {
       "name": "Heckle",
@@ -5105,7 +5137,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Apply 2 Weak.\nIf the enemy has 3 or more Weak, gain 14 Block."
+      "description": "Apply 2 Weak.\nIf the enemy has 3 or more Weak, gain 13 Block."
     },
     {
       "name": "Party Stick",
@@ -5113,7 +5145,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "Unplayable.\nWhenever you gremlin:Swap while this card is in your hand, gain [E]"
+      "description": "Ethereal. Unplayable.\nWhenever you gremlin:Swap while this card is in your hand, gain [E]"
     },
     {
       "name": "Party Stick+",
@@ -5121,7 +5153,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "",
-      "description": "Unplayable.\nWhenever you gremlin:Swap while this card is in your hand, gain [E] [E]"
+      "description": "Unplayable.\nWhenever you gremlin:Swap while this card is in your hand, gain [E]"
     },
     {
       "name": "Pickpocket",
@@ -5153,7 +5185,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "1",
-      "description": "Deal 11 damage.\nShuffle 2 Upgraded Pinpricks into your draw pile.\nExhaust."
+      "description": "Deal 10 damage.\nShuffle 2 Upgraded Pinpricks into your draw pile.\nExhaust."
     },
     {
       "name": "Polish",
@@ -5177,7 +5209,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 6 damage. If the enemy intends to attack, add 3 Wards to your hand. Otherwise, add 3 Shivs to your hand."
+      "description": "Deal 5 damage. If the enemy intends to attack, add 3 Wards to your hand. Otherwise, add 3 Shivs to your hand."
     },
     {
       "name": "Proper Tools+",
@@ -5185,7 +5217,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 10 damage. If the enemy intends to attack, add 3 Wards to your hand. Otherwise, add 3 Shivs to your hand."
+      "description": "Deal 8 damage. If the enemy intends to attack, add 3 Wards to your hand. Otherwise, add 3 Shivs to your hand."
     },
     {
       "name": "Rage Break",
@@ -5201,7 +5233,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "Double your Strength."
+      "description": "Gain 5 Block.\nDouble your Strength.\nExhaust."
     },
     {
       "name": "Raid",
@@ -5209,7 +5241,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw a card for each living Gremlin.\nDiscard 2 cards."
+      "description": "Draw a card for each living Gremlin.\nDiscard 3 cards."
     },
     {
       "name": "Raid+",
@@ -5217,7 +5249,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "Draw a card for each living Gremlin.\nDiscard 1 card."
+      "description": "Draw a card for each living Gremlin.\nDiscard 2 cards."
     },
     {
       "name": "Revel",
@@ -5257,7 +5289,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "2",
-      "description": "The next time you would lose HP, instead gremlin:Swap to a random Gremlin.\nExhaust"
+      "description": "The next time you would lose HP, instead gremlin:Swap to a random Gremlin.\nExhaust."
     },
     {
       "name": "Scatter!+",
@@ -5265,7 +5297,7 @@
       "rarity": "Uncommon",
       "type": "Skill",
       "cost": "1",
-      "description": "The next time you would lose HP, instead gremlin:Swap to a random Gremlin.\nExhaust"
+      "description": "The next time you would lose HP, instead gremlin:Swap to a random Gremlin.\nExhaust."
     },
     {
       "name": "Shank Stone",
@@ -5400,7 +5432,7 @@
       "color": "Gremlin",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "1",
+      "cost": "2",
       "description": "At the start of your turn, gain [E] and gremlin:Swap to the next Gremlin."
     },
     {
@@ -5408,7 +5440,7 @@
       "color": "Gremlin",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "1",
+      "cost": "2",
       "description": "Innate.\nAt the start of your turn, gain [E] and gremlin:Swap to the next Gremlin."
     },
     {
@@ -5449,7 +5481,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 6 Temporary Strength.\nExhaust."
+      "description": "Gain 5 Temporary Strength.\nExhaust."
     },
     {
       "name": "Erupt+",
@@ -5457,7 +5489,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Gain 9 Temporary Strength.\nExhaust."
+      "description": "Gain 7 Temporary Strength.\nExhaust."
     },
     {
       "name": "Exacerbate",
@@ -5480,7 +5512,7 @@
       "color": "Gremlin",
       "rarity": "Rare",
       "type": "Skill",
-      "cost": "0",
+      "cost": "1",
       "description": "Add 2 Wards to your hand and draw 2 cards.\nExhaust."
     },
     {
@@ -5489,7 +5521,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "0",
-      "description": "Add 3 Wards to your hand and draw 3 cards.\nExhaust."
+      "description": "Add 2 Wards to your hand and draw 2 cards.\nExhaust."
     },
     {
       "name": "Flip Out",
@@ -5513,7 +5545,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "3",
-      "description": "Costs 1 less [E] for every 2 Strength you have.\nDeal 7 damage three times."
+      "description": "Costs 1 less [E] for every 2 Strength you have.\nDeal 5 damage three times."
     },
     {
       "name": "Fury+",
@@ -5521,7 +5553,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "3",
-      "description": "Costs 1 less [E] for every 2 Strength you have.\nDeal 9 damage three times."
+      "description": "Costs 1 less [E] for every 2 Strength you have.\nDeal 7 damage three times."
     },
     {
       "name": "NOB",
@@ -5537,7 +5569,7 @@
       "rarity": "Rare",
       "type": "Power",
       "cost": "4",
-      "description": "Gain 35 Temporary HP.\nMutate into Gremlin Nob until you run out of Temporary HP."
+      "description": "Gain 30 Temporary HP.\nMutate into Gremlin Nob until you run out of Temporary HP."
     },
     {
       "name": "Necromancy",
@@ -5553,7 +5585,7 @@
       "rarity": "Rare",
       "type": "Skill",
       "cost": "1",
-      "description": "Can only be played if you have 3 or more gremlin:Wiz.\nConsume all gremlin:Wiz to resurrect a random Gremlin with 15 HP. Exhaust."
+      "description": "Can only be played if you have 3 or more gremlin:Wiz.\nConsume all gremlin:Wiz to resurrect a random Gremlin with 13 HP. Exhaust."
     },
     {
       "name": "Second Volley",
@@ -5561,7 +5593,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 6 damage. Add a Shiv to your hand for each card played this turn"
+      "description": "Deal 6 damage. Add a Shiv to your hand for each card played this turn."
     },
     {
       "name": "Second Volley+",
@@ -5569,7 +5601,7 @@
       "rarity": "Rare",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 8 damage. Add an Upgraded Shiv to your hand for each card played this turn"
+      "description": "Deal 6 damage. Add an Upgraded Shiv to your hand for each card played this turn."
     },
     {
       "name": "Shadow Shiv",
@@ -5624,7 +5656,7 @@
       "color": "Gremlin",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "2",
+      "cost": "3",
       "description": "You cannot lose Strength."
     },
     {
@@ -5632,7 +5664,7 @@
       "color": "Gremlin",
       "rarity": "Rare",
       "type": "Power",
-      "cost": "1",
+      "cost": "2",
       "description": "You cannot lose Strength."
     },
     {
@@ -7641,7 +7673,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 18 damage.\nNL Perform 3 times:\n[crown_icon]   champ:Technique\n"
+      "description": "Deal 18 damage.\nPerform 3 times:\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Reckless Strike+",
@@ -7649,7 +7681,7 @@
       "rarity": "Uncommon",
       "type": "Attack",
       "cost": "2",
-      "description": "Deal 20 damage.\nNL Perform 4 times:\n[crown_icon]   champ:Technique\n"
+      "description": "Deal 20 damage.\nPerform 4 times:\n[crown_icon]   champ:Technique\n"
     },
     {
       "name": "Refreshment",
@@ -9434,7 +9466,7 @@
       "name": "Supply Scroll",
       "tier": "Common",
       "pool": "",
-      "description": "At the start of your 3rd turn, add a random assortment of 4 Shivs and Wards to your hand.",
+      "description": "At the start of your 3rd turn, add a Supply Scroll to your hand.",
       "flavorText": "A surprisingly detailed inventory of the mob's various bits and bobbles."
     },
     {
@@ -9462,7 +9494,7 @@
       "name": "Impeccable Pecs",
       "tier": "Uncommon",
       "pool": "",
-      "description": "Whenever you gain Strength, gain an equal amount of Temporary HP.",
+      "description": "Whenever you gain Strength, gain an equal amount of Temporary HP.\nStart each combat with 1 Strength.",
       "flavorText": "Glorious."
     },
     {
@@ -9896,7 +9928,7 @@
       "name": "Hecktoplasm",
       "tier": "Boss",
       "pool": "",
-      "description": "You can no longer gain Souls. Breaking Keys costs no Souls. Gain [E] at the start of your turn.",
+      "description": "Gain [E] at the start of your turn. You can no longer gain Souls. Breaking Keys costs no Souls.",
       "flavorText": "This blob of slime seems to pulse with the energy of hundreds of souls. No wonder no one wanted it."
     },
     {

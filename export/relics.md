@@ -57,7 +57,7 @@
 | ![](downfall/relics/hexamod-MatchstickCase.png) | Sneaky Teakwood Match | Common | Hexa_ghost_purple | At the start of each combat, #yhexamod:Ignite the current Ghostflame and #yhexamod:Advance. | Lights on any surface! |
 | ![](slay-the-spire/relics/SnakeSkull.png) | Snecko Skull | Common | Green | Whenever you apply #yPoison, apply an additional #b1 #yPoison. | A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably. |
 | ![](slay-the-spire/relics/Strawberry.png) | Strawberry | Common |  | Upon pickup, raise your Max HP by #b7. | "Delicious! Haven't seen any of these since the blight." - Ranwid |
-| ![](downfall/relics/Gremlin-SupplyScroll.png) | Supply Scroll | Common |  | At the start of your 3rd turn, add a random assortment of 4 #yShivs and #yWards to your hand. | A surprisingly detailed inventory of the mob's various bits and bobbles. |
+| ![](downfall/relics/Gremlin-SupplyScroll.png) | Supply Scroll | Common |  | At the start of your 3rd turn, add a #ySupply #yScroll to your hand. | A surprisingly detailed inventory of the mob's various bits and bobbles. |
 | ![](slay-the-spire/relics/Boot.png) | The Boot | Common |  | Whenever you would deal #b4 or less unblocked attack damage, increase it to #b5. | When wound up, the boot grows larger in size. |
 | ![](slay-the-spire/relics/TinyChest.png) | Tiny Chest | Common |  | Every #b4th #y? room is a #yTreasure room. | "A fine prototype." - The Architect |
 | ![](slay-the-spire/relics/ToyOrnithopter.png) | Toy Ornithopter | Common |  | Whenever you use a potion, heal #b5 HP. | "This little toy is the perfect companion for the lone adventurer!" |
@@ -78,7 +78,7 @@
 | ![](slay-the-spire/relics/Cables.png) | Gold-Plated Cables | Uncommon | Blue | Your rightmost Orb triggers its passive an additional time. | "Interesting! Even automatons are affected by placebo." - Ranwid |
 | ![](slay-the-spire/relics/GremlinHorn.png) | Gremlin Horn | Uncommon |  | Whenever an enemy dies, gain [E] and draw #b1 card. | "Gremlin Nobs are capable of growing until the day they die. Remarkable." - Ranwid |
 | ![](slay-the-spire/relics/HornCleat.png) | Horn Cleat | Uncommon |  | At the start of your 2nd turn, gain #b14 #yBlock. | Pleasant to hold in the hand. What was it for? |
-| ![](downfall/relics/Gremlin-ImpeccablePecs.png) | Impeccable Pecs | Uncommon |  | Whenever you gain #yStrength, gain an equal amount of Temporary HP. | Glorious. |
+| ![](downfall/relics/Gremlin-ImpeccablePecs.png) | Impeccable Pecs | Uncommon |  | Whenever you gain #yStrength, gain an equal amount of Temporary HP. NL Start each combat with #b1 #yStrength. | Glorious. |
 | ![](slay-the-spire/relics/InkBottle.png) | Ink Bottle | Uncommon |  | Whenever you play #b10 cards, draw #b1 card. | Once exhausted, appears to refill itself in a different color. |
 | ![](downfall/relics/hexamod-InflammatoryLetter.png) | Jar of TOBSCo | Uncommon | Hexa_ghost_purple | Start each combat with #b1 #yhexamod:Intensity. | A little extra heat makes everything better. |
 | ![](downfall/relics/Slimebound-MaxSlimesRelic.png) | Jeremiah's Banner | Uncommon | Slimebound | At the start of combat, #yslimeboundmod:Split into a #yslimeboundmod:Leeching slime and gain #b1 Slime slot. | You and ooze army. |
@@ -228,7 +228,7 @@
 | ![](slay-the-spire/relics/FusionHammer.png) | Fusion Hammer | Boss |  | Gain [E] at the start of your turn. You can no longer #ySmith at Rest Sites. | Once wielded, the owner can never let go. |
 | ![](downfall/relics/Gremlin-LeaderVoucher.png) | Gremlin Leader's Voucher | Boss | Gremlin | Gain [E] at the start of your turn. NL Upon pickup, #rpermanently #rlose #ra #rGremlin.Gain [E] at the start of your turn. NL Upon pickup, #rpermanently #rlose #ra #rGremlin. | IOU 1 Gremlin |
 | ![](downfall/relics/Guardian-ModeShifterPlus.png) | Guardian Gear | Boss | Guardian | Replaces #rBronze #rGear. NL Begin each combat in #yguardianmod:Defensive_Mode, which persists for #b3 turns. | Replace every 3,000 floors. |
-| ![](downfall/relics/Hecktoplasm.png) | Hecktoplasm | Boss |  | You can no longer gain #ySouls. Breaking Keys costs no #ySouls. Gain [E] at the start of your turn. | This blob of slime seems to pulse with the energy of hundreds of souls. No wonder no one wanted it. |
+| ![](downfall/relics/Hecktoplasm.png) | Hecktoplasm | Boss |  | Gain [E] at the start of your turn. You can no longer gain #ySouls. Breaking Keys costs no #ySouls. | This blob of slime seems to pulse with the energy of hundreds of souls. No wonder no one wanted it. |
 | ![](slay-the-spire/relics/HolyWater.png) | Holy Water | Boss | Purple | Replaces #pPure #pWater. At the start of each combat, add #b3 #yMiracles into your hand. | Collected from a time before the Spire. |
 | ![](slay-the-spire/relics/HoveringKite.png) | Hovering Kite | Boss | Green | The first time you discard a card each turn, gain [E] . | The Kite floats around you in battle, propelled by a mysterious force. |
 | ![](downfall/relics/sneckomod-SneckoTalon.png) | Idol of Retromation | Boss |  | At the start of your turn, reduce the cost of the most expensive card in your hand by #b1 for this turn. | Often called the Idol of Reto for short. |
@@ -254,7 +254,7 @@
 | ![](slay-the-spire/relics/Sozu.png) | Sozu | Boss |  | Gain [E] at the start of your turn. You can no longer obtain potions. | You notice that magical liquids seem to lose their properties when near this relic. |
 | ![](downfall/relics/sneckomod-SuperSneckoSoul.png) | Super Snecko Soul | Boss | Snecko_cyan | Replaces [#407b93ff]Snecko[] [#407b93ff]Soul[][#407b93ff].[] NL Using Identify at Rest Sites is now a Free Action. | 3120231321230320 |
 | ![](downfall/relics/Slimebound-TarBlob.png) | Tarr Blob | Boss | Slimebound | Gain [E] at the start of your turn. At the start of combat, lose #b1 Slime slot. | The bad kind of Slime. |
-| ![](downfall/relics/expansioncontent-StudyCardRelic.png) | Tiny Bowler Hat | Boss |  | At the start of combat, add a Study the Spire card to your hand. It costs 0. | Whosoever controls the hat, controls the Spire. |
+| ![](downfall/relics/expansioncontent-StudyCardRelic.png) | Tiny Bowler Hat | Boss |  | At the start of combat, add a #yStudy #ythe #ySpire card to your hand. It costs 0. | Whosoever controls the hat, controls the Spire. |
 | ![](slay-the-spire/relics/TinyHouse.png) | Tiny House | Boss |  | Upon pickup, obtain #b1 potion. NL Gain #b50 #yGold. NL Raise your Max HP by #b5. NL Obtain #b1 card. NL Upgrade #b1 random card. | "A near perfect implementation of miniaturization. My finest work to date, but still not adequate." - The Architect |
 | ![](slay-the-spire/relics/VelvetChoker.png) | Velvet Choker | Boss |  | Gain [E] at the start of your turn. You cannot play more than #b6 cards per turn. | "Immense power, but too limited." - Kublai the Great |
 | ![](downfall/relics/champ-ChampionCrownUpgraded.png) | Victorious Crown | Boss | The_champ_gray | Replaces #rChampion's #rCrown. NL Start each combat in #yUltimate #yStance, which lasts for #b2 turns. | Conglaturation!! You are the greatest winner. |

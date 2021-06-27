@@ -97,6 +97,22 @@ Deal 6 (10) damage.
 Damage is increased by 3 (4) for each Apparition in your [[exhaust]] pile.
 [[Exhaust]].
 |-
+|[[Crystal Shiv]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Attack]]
+|0
+|Deal 4 (6) damage.
+[[Exhaust]].
+|-
+|[[Crystal Ward]]
+|[[File:|thumb|289x289px]]
+|Special
+|[[Skill]]
+|0
+|Gain 3 (5) [[Block]].
+[[Exhaust]].
+|-
 |[[Dazing Pulse]]
 |[[File:|thumb|289x289px]]
 |Special

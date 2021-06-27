@@ -51,7 +51,7 @@ Has a bonus effect based on which Gremlin you are.
 |Common
 |[[Skill]]
 |1
-|Gain 5 (8) Temporary HP.
+|Gain 5 (7) Temporary HP.
 [[gremlin:Swap]] to [[gremlin:Fat_Gremlin]].
 |-
 |[[Cat Scratch]]
@@ -66,7 +66,7 @@ Has a bonus effect based on which Gremlin you are.
 |Common
 |[[Skill]]
 |1
-|Gain 8 (11) [[Block]] and 1 (2) [[gremlin:Wiz]].
+|Gain 8 (10) [[Block]] and 1 (2) [[gremlin:Wiz]].
 |-
 |[[Dagger Dance]]
 |[[File:|thumb|289x289px]]
@@ -87,7 +87,7 @@ Has a bonus effect based on which Gremlin you are.
 |Common
 |[[Attack]]
 |1
-|Deal 1 (4) damage.
+|Deal 1 (2) damage.
 Add 2 ([[Upgraded]]) Wards to your hand.
 |-
 |[[Glitter Guard]]
@@ -144,7 +144,7 @@ Draw a card.
 |Common
 |[[Attack]]
 |1
-|Deal 4 (6) damage. If the enemy is [[Weak]], remove a stack to add 2 (3) [[Shivs]] to your hand.
+|Deal 4 damage. If the enemy is [[Weak]], remove a stack to add 2 (3) [[Shivs]] to your hand.
 |-
 |[[Presto!]]
 |[[File:|thumb|289x289px]]
@@ -189,7 +189,7 @@ Do 5 damage otherwise.
 |Common
 |[[Attack]]
 |1
-|Deal 6 (9) damage.
+|Deal 6 (7) damage.
 Add 1 ([[Upgraded]]) [[Shiv]] to your hand.
 |-
 |[[Aggressive Defense]]
@@ -198,14 +198,14 @@ Add 1 ([[Upgraded]]) [[Shiv]] to your hand.
 |[[Attack]]
 |1
 |Deal 6 (8) damage.
-Whenever you gain [[Block]] this turn, targeted enemy loses 3 (5) HP.
+Whenever you gain [[Block]] this turn, targeted enemy loses 3 (4) HP.
 |-
 |[[Arms Theft]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |2
-|Steal 2 (3) [[Strength]].
+|Steal 1 (2) [[Strength]].
 [[Exhaust]].
 |-
 |[[Astound]]
@@ -221,7 +221,7 @@ If you have 3 or more [[gremlin:Wiz]], add 2 ([[Upgraded]]) Wards to your hand.
 |Uncommon
 |[[Attack]]
 |2
-|Deal 5 (7) damage for each stack of [[Weakened]].
+|Deal 4 (5) damage for each stack of [[Weakened]].
 (Always hits at least once.)
 |-
 |[[Counter Strike]]
@@ -229,7 +229,7 @@ If you have 3 or more [[gremlin:Wiz]], add 2 ([[Upgraded]]) Wards to your hand.
 |Uncommon
 |[[Attack]]
 |1
-|Deal 8 (11) damage. If the enemy intends to attack, add 2 ([[Upgraded]]) Wards to your hand.
+|Deal 8 (10) damage. If the enemy intends to attack, add 2 ([[Upgraded]]) Wards to your hand.
 |-
 |[[Dazzle]]
 |[[File:|thumb|289x289px]]
@@ -251,7 +251,7 @@ If you have 3 or more [[gremlin:Wiz]], steal 2 [[Strength]].
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
-|1 (0)
+|2 (1)
 |Whenever you [[gremlin:Swap]], draw a card.
 |-
 |[[Feel The Audience]]
@@ -340,15 +340,15 @@ This attack does not consume [[gremlin:Wiz]].
 |[[Skill]]
 |1
 |Apply 1 (2) [[Weak]].
-If the enemy has 3 or more [[Weak]], gain 10 (14) [[Block]].
+If the enemy has 3 or more [[Weak]], gain 10 (13) [[Block]].
 |-
 |[[Party Stick]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |
-|[[Unplayable]].
-Whenever you [[gremlin:Swap]] while this card is in your hand, gain [E] ([E])
+|[[Ethereal]]. (not Ethereal.)[[Unplayable]].
+Whenever you [[gremlin:Swap]] while this card is in your hand, gain [E]
 |-
 |[[Pickpocket]]
 |[[File:|thumb|289x289px]]
@@ -364,7 +364,7 @@ Deal 9 (13) damage.
 |Uncommon
 |[[Attack]]
 |1
-|Deal 8 (11) damage.
+|Deal 8 (10) damage.
 Shuffle 2 ([[Upgraded]]) Pinpricks into your draw pile.
 [[Exhaust]].
 |-
@@ -381,16 +381,16 @@ Wards grant 2 (3) additional [[Block]].
 |Uncommon
 |[[Attack]]
 |2
-|Deal 6 (10) damage. If the enemy intends to attack, add 3 Wards to your hand. Otherwise, add 3 [[Shivs]] to your hand.
+|Deal 5 (8) damage. If the enemy intends to attack, add 3 Wards to your hand. Otherwise, add 3 [[Shivs]] to your hand.
 |-
 |[[Rage Break]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |2
-|Double your [[Strength]].
-[[Exhaust]]. (not
-Exhaust.)
+|(Gain !B! [[Block]].)
+ Double your [[Strength]].
+[[Exhaust]].
 |-
 |[[Raid]]
 |[[File:|thumb|289x289px]]
@@ -398,7 +398,7 @@ Exhaust.)
 |[[Skill]]
 |1
 |Draw a card for each living Gremlin.
-Discard 2 (1) cards (card).
+Discard 3 (2) cards.
 |-
 |[[Revel]]
 |[[File:|thumb|289x289px]]
@@ -421,7 +421,7 @@ Discard 2 (1) cards (card).
 |[[Skill]]
 |2 (1)
 |The next time you would lose HP, instead [[gremlin:Swap]] to a random Gremlin.
-[[Exhaust]]
+[[Exhaust]].
 |-
 |[[Shank Stone]]
 |[[File:|thumb|289x289px]]
@@ -492,7 +492,7 @@ Deal 6 (8) damage.
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
-|1
+|2
 |([[Innate]].)
  At the start of your turn, gain [E] and [[gremlin:Swap]] to the next Gremlin.
 |-
@@ -516,7 +516,7 @@ Whenever you consume [[gremlin:Wiz]], deal 5 (7) damage to ALL enemies.
 |Rare
 |[[Skill]]
 |1
-|Gain 6 (9) Temporary [[Strength]].
+|Gain 5 (7) Temporary [[Strength]].
 [[Exhaust]].
 |-
 |[[Exacerbate]]
@@ -531,8 +531,8 @@ Whenever you consume [[gremlin:Wiz]], deal 5 (7) damage to ALL enemies.
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|0
-|Add 2 (3) Wards to your hand and draw 2 (3) cards.
+|1 (0)
+|Add 2 Wards to your hand and draw 2 cards.
 [[Exhaust]].
 |-
 |[[Flip Out]]
@@ -549,14 +549,14 @@ Whenever you would gain [[Block]] this turn, instead deal that much damage to AL
 |[[Attack]]
 |3
 |Costs 1 less [E] for every 2 [[Strength]] you have.
-Deal 7 (9) damage three times.
+Deal 5 (7) damage three times.
 |-
 |[[NOB]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
 |4
-|Gain 20 (35) Temporary HP.
+|Gain 20 (30) Temporary HP.
 Mutate into Gremlin Nob until you run out of Temporary HP.
 |-
 |[[Necromancy]]
@@ -565,14 +565,14 @@ Mutate into Gremlin Nob until you run out of Temporary HP.
 |[[Skill]]
 |1
 |Can only be played if you have 3 or more [[gremlin:Wiz]].
-Consume all [[gremlin:Wiz]] to resurrect a random Gremlin with 10 (15) HP. [[Exhaust]].
+Consume all [[gremlin:Wiz]] to resurrect a random Gremlin with 10 (13) HP. [[Exhaust]].
 |-
 |[[Second Volley]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
 |2
-|Deal 6 (8) damage. Add a (an [[Upgraded]]) [[Shiv]] to your hand for each card played this turn
+|Deal 6 damage. Add a (an [[Upgraded]]) [[Shiv]] to your hand for each card played this turn.
 |-
 |[[Shadow Shiv]]
 |[[File:|thumb|289x289px]]
@@ -600,6 +600,6 @@ Deal 0 (2) damage to ALL enemies 5 times.
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
-|2 (1)
+|3 (2)
 |You cannot lose [[Strength]].
 |-

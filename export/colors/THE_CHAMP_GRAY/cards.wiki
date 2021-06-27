@@ -418,7 +418,7 @@ Reduce the cost of a random Strike in your hand to 0 this turn.
 |[[Attack]]
 |2
 |Deal 18 (20) damage.
-NL Perform 3 (4) times:
+Perform 3 (4) times:
 [crown_icon] [[champ:Technique]] NL
 |-
 |[[Refreshment]]

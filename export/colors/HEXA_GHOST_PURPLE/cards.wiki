@@ -162,7 +162,7 @@ For each [[hexamod:Ignited]] Ghostflame, [[Upgrade]] a random card in your hand.
 |[[Attack]]
 |1
 |Deal 4 (6) damage twice.
-[[expansioncontent:Reclaim]] a random Afterlife card.
+[[expansioncontent:Reclaim]] a random [[hexamod:Afterlife]] card.
 |-
 |[[Sword of Night]]
 |[[File:|thumb|289x289px]]
@@ -507,7 +507,7 @@ At the end of combat, [[Upgrade]] a random card in your deck.
 |Rare
 |[[Power]]
 |2 (1)
-|At the start of your turn, [[expansioncontent:Reclaim]] a random Afterlife card.
+|At the start of your turn, [[expansioncontent:Reclaim]] a random [[hexamod:Afterlife]] card.
 |-
 |[[Here and Now]]
 |[[File:|thumb|289x289px]]
