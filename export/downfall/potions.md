@@ -11,19 +11,23 @@
 | ![](potions/SpikedEnergyDrink.png) | Spiked Energy Drink | Common | Muddle the 2 highest-cost cards in your hand. Cards Muddled this way cannot cost 3. |
 | ![](potions/StrategyPotion.png) | Strategy Potion | Common | Choose 1 of 2 cards which Enter a Stance to add to your hand (one for each Stance). It costs 0 this turn. |
 | ![](potions/TemporalPotion.png) | Temporal Potion | Common | Accelerate all cards in Stasis 2 times. |
-| ![](potions/AlchyricalElixir.png) | Alchyrical Elixir | Uncommon | Remove all Compile *Error effects from the next Function you create. Reduce its cost to 0 until played. |
+| ![](potions/Tonic.png) | Tonic | Common | Gain 1 Rugged. |
+| ![](potions/AlchyricalElixir.png) | Alchyrical Elixir | Uncommon | Remove all Compile Error effects from the next Function you create. Reduce its cost to 0 until played. |
 | ![](potions/ArmorersTincture.png) | Armorer's Tincture | Uncommon | Gain 4 Block each time you play a card this turn. |
+| ![](potions/BlackBile.png) | Black Bile | Uncommon | Apply 6 Bruise. |
 | ![](potions/BottledTechnique.png) | Bottled Technique | Uncommon | Technique 5 times. |
+| ![](potions/CombustiveFluid.png) | Combustive Fluid | Uncommon | Ignite the current Ghostflame 3 times. |
 | ![](potions/EaudeGrem.png) | Eau de Grem | Uncommon | Use all 5 Gremlin Abilities 2 times. |
 | ![](potions/ExoticBeverage.png) | Exotic Beverage | Uncommon | Reduce the cost of Offclass cards in your hand by 1. |
 | ![](potions/PolishingOil.png) | Polishing Oil | Uncommon | Enter Defensive Mode for 1 round. |
 | ![](potions/SlimyElixir.png) | Slimy Elixir | Uncommon | Whenever an effect applies Goop this combat, apply 2 more. |
-| ![](potions/VexingDraught.png) | Vexing Draught | Uncommon | Gain 2 Strength and 2 Dexterity. Add two Burn+ Status cards to your draw pile. |
+| ![](potions/VexingDraught.png) | Vexing Draught | Uncommon | Gain 2 Strength and 2 Dexterity. Add two Burn+ cards to your draw pile. |
 | ![](potions/ArmyinaBottle.png) | Army in a Bottle | Rare | Spawn 3 random Slimes (Normal or Specialist). |
 | ![](potions/GremlinInAJar.png) | Gremlin In A Jar | Rare | Resurrect a random Gremlin at 50% of your Max HP. |
 | ![](potions/InfernoPotion.png) | Inferno Potion | Rare | Ignite the Inferno Ghostflame. |
 | ![](potions/KiosCleverConcoction.png) | Kio's Clever Concoction | Rare | Until the Sequence is full, choose 1 of 3 random cards to Encode. |
 | ![](potions/LiquidLuck.png) | Liquid Luck | Rare | This turn, cards that choose a random number for their effect choose the maximum possible number. |
+| ![](potions/LiquidVoid.png) | Liquid Void | Rare | Put 1 card from your exhaust pile into your hand. It costs 0 this turn. |
 | ![](potions/Ooze-InfusedDrink.png) | Ooze-Infused Drink | Rare | Add 4 random 0-cost cards to your hand. |
 | ![](potions/QuantumElixir.png) | Quantum Elixir | Rare | Gain Stasis slots until you have 3. 3 times, choose 1 of 3 cards to place into Stasis. |
 | ![](potions/SubstanceOfQuestionableLegality.png) | Substance Of Questionable Legality | Rare | Enter Ultimate Stance for 1 turns. |
