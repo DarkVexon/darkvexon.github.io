@@ -9,12 +9,12 @@
 !Energy
 !Description
 |-
-|[[???]]
+|[[??? Basic]]
 |[[File:|thumb|289x289px]]
 |Basic
 |[[Skill]]
 |
-|*Unknown ([[Upgraded]]) Card.
+|*Unidentified ([[Upgraded]]) Basic Card.
 |-
 |[[Defend]]
 |[[File:|thumb|289x289px]]
@@ -28,8 +28,8 @@
 |Basic
 |[[Attack]]
 |1
-|Deal 9 (11) damage.
-[[sneckomod:Muddle]] the (!M!) highest-cost card(s) in your hand.
+|Deal 7 (9) damage.
+[[sneckomod:Muddle]] the (2) highest-cost card(s) in your hand.
 |-
 |[[Strike]]
 |[[File:|thumb|289x289px]]
@@ -52,129 +52,134 @@ Apply 0 (1) - 2 [[Vulnerable]].
 |Common
 |[[Skill]]
 |
-|*Unknown ([[Upgraded]]) Character Card.
+|*Unidentified ([[Upgraded]]) Character Card.
 |-
 |[[???]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |
-|*Unknown ([[Upgraded]]) Character Card.
+|*Unidentified ([[Upgraded]]) Character Card.
 |-
 |[[???]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |
-|*Unknown ([[Upgraded]]) Character Card.
+|*Unidentified ([[Upgraded]]) Character Card.
 |-
 |[[???]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|
+|*Unidentified ([[Upgraded]]) Character Card.
+|-
+|[[???]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|
+|*Unidentified ([[Upgraded]]) Character Card.
+|-
+|[[???]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|
+|*Unidentified ([[Upgraded]]) Character Card.
+|-
+|[[???]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|
+|*Unidentified ([[Upgraded]]) Character Card.
+|-
+|[[???]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|
+|*Unidentified ([[Upgraded]]) Character Card.
+|-
+|[[???]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|
+|*Unidentified ([[Upgraded]]) Character Card.
+|-
+|[[???]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|
+|*Unidentified ([[Upgraded]]) Character Card.
+|-
+|[[???]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|
+|*Unidentified ([[Upgraded]]) Character Card.
+|-
+|[[??? 1-Cost]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|
+|*Unidentified ([[Upgraded]]) 1 Cost Card.
+|-
+|[[??? Block]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|
+|*Unidentified ([[Upgraded]]) [[Block]] Card.
+|-
+|[[??? C Attack]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |
-|*Unknown ([[Upgraded]]) Common Attack Card.
+|*Unidentified ([[Upgraded]]) Common Attack Card.
 |-
-|[[???]]
+|[[??? C Skill]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |
-|*Unknown ([[Upgraded]]) Character Card.
+|*Unidentified ([[Upgraded]]) Common Skill Card.
 |-
-|[[???]]
+|[[??? Draw]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |
-|*Unknown ([[Upgraded]]) [[Block]] Card.
-|-
-|[[???]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Skill]]
-|
-|*Unknown ([[Upgraded]]) Character Card.
-|-
-|[[???]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Skill]]
-|
-|*Unknown ([[Upgraded]]) Character Card.
-|-
-|[[???]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Skill]]
-|
-|*Unknown ([[Upgraded]]) Character Card.
-|-
-|[[???]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Skill]]
-|
-|*Unknown ([[Upgraded]]) Common Skill Card.
-|-
-|[[???]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Skill]]
-|
-|*Unknown ([[Upgraded]]) 1 Cost Card.
-|-
-|[[???]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Skill]]
-|
-|*Unknown ([[Upgraded]]) Character Card.
-|-
-|[[???]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Skill]]
-|
-|*Unknown ([[Upgraded]]) Draw Card.
-|-
-|[[???]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Skill]]
-|
-|*Unknown ([[Upgraded]]) Character Card.
-|-
-|[[???]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Skill]]
-|
-|*Unknown ([[Upgraded]]) Character Card.
+|*Unidentified ([[Upgraded]]) Draw Card.
 |-
 |[[Dice Block]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
-|1
-|Gain 1 - 10 (14) [[Block]].
-Maximum [[Block]] is increased by 1 for each Unknown card you started combat with.
+|2
+|Gain 8 (12) - 12 (16) [[Block]].
 |-
 |[[Dice Crush]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
-|1
-|Deal 1 - 10 (14) damage.
-Maximum damage is increased by 1 for each Unknown card you started combat with.
+|2
+|Deal 10 (14) - 16 (20) damage.
 |-
 |[[Iron Fang]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 3 - 7 (11) damage.
-Gain 3 - 7 (11) [[Block]].
+|Deal 3 (5) - 8 (10) damage.
+Gain 3 (5) - 8 (10) [[Block]].
 |-
 |[[Nope]]
 |[[File:|thumb|289x289px]]
@@ -182,10 +187,8 @@ Gain 3 - 7 (11) [[Block]].
 |[[Skill]]
 |0
 |[[sneckomod:Snekproof]].
-[[Exhaust]] a card in your hand.
-Replace it with a random card of the same type that costs 1 less.
-[[Exhaust]]. (not
-Exhaust.)
+[[Exhaust]] a card. Gain a random card of the same class. 
+(It costs 1 less.)
 |-
 |[[Quick Move]]
 |[[File:|thumb|289x289px]]
@@ -193,14 +196,7 @@ Exhaust.)
 |[[Skill]]
 |1
 |Gain 8 (10) [[Block]].
-[[sneckomod:Muddle]] the (!M!) highest-cost card(s) in your hand.
-|-
-|[[Rain of Dice]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Attack]]
-|1
-|Deal 2 - 4 (5) damage to a random enemy 2 - 4 (5) times.
+[[sneckomod:Muddle]] the (2) highest-cost card(s) in your hand.
 |-
 |[[Snake Rake]]
 |[[File:|thumb|289x289px]]
@@ -215,9 +211,10 @@ Draw 0 (1) - 2 cards.
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
-|1
+|0
 |[[sneckomod:Snekproof]].
-Draw 0 (1) - 4 (5) cards.
+Gain 2 (3) random [[sneckomod:Offclass]] cards.
+[[Exhaust]].
 |-
 |[[Soul Roll]]
 |[[File:|thumb|289x289px]]
@@ -236,118 +233,117 @@ Draw 0 (1) - 4 (5) cards.
 |Deal 7 - 12 damage to ALL enemies.
 [[Upgrade]] all [[sneckomod:Offclass]] cards in your hand.
 |-
-|[[???]]
+|[[??? 0-Cost]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |
-|*Unknown ([[Upgraded]]) [[Weak]] Card.
+|*Unidentified ([[Upgraded]]) 0 Cost Card.
 |-
-|[[???]]
+|[[??? 2-Cost]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|
+|*Unidentified ([[Upgraded]]) 2 Cost Card.
+|-
+|[[??? Colorless]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|
+|*Unidentified ([[Upgraded]]) Colorless Card.
+|-
+|[[??? Dexterity]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|
+|*Unidentified ([[Upgraded]]) [[Dexterity]] Card.
+|-
+|[[??? Exhaust]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|
+|*Unidentified ([[Upgraded]]) [[Exhaust]] Card.
+|-
+|[[??? Strength]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|
+|*Unidentified ([[Upgraded]]) [[Strength]] Card.
+|-
+|[[??? Strike]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |
-|*Unknown ([[Upgraded]]) Uncommon Attack Card.
+|*Unidentified ([[Upgraded]]) [[Strike]] Card.
 |-
-|[[???]]
+|[[??? U Attack]]
 |[[File:|thumb|289x289px]]
 |Uncommon
-|[[Skill]]
+|[[Attack]]
 |
-|*Unknown ([[Upgraded]]) Uncommon Skill Card.
+|*Unidentified ([[Upgraded]]) Uncommon Attack Card.
 |-
-|[[???]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Skill]]
-|
-|*Unknown ([[Upgraded]]) Colorless Card.
-|-
-|[[???]]
+|[[??? U Power]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
 |
-|*Unknown ([[Upgraded]]) Uncommon Power Card.
+|*Unidentified ([[Upgraded]]) Uncommon Power Card.
 |-
-|[[???]]
+|[[??? U Skill]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |
-|*Unknown ([[Upgraded]]) X Cost Card.
+|*Unidentified ([[Upgraded]]) Uncommon Skill Card.
 |-
-|[[???]]
+|[[??? Vulnerable]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |
-|*Unknown ([[Upgraded]]) 2 Cost Card.
+|*Unidentified ([[Upgraded]]) [[Vulnerable]] Card.
 |-
-|[[???]]
+|[[??? Weak]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |
-|*Unknown ([[Upgraded]]) [[Strength]] Card.
+|*Unidentified ([[Upgraded]]) [[Weak]] Card.
 |-
-|[[???]]
+|[[??? X-Cost]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |
-|*Unknown ([[Upgraded]]) 0 Cost Card.
-|-
-|[[???]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Attack]]
-|
-|*Unknown ([[Upgraded]]) [[Strike]] Card.
-|-
-|[[???]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Skill]]
-|
-|*Unknown ([[Upgraded]]) [[Dexterity]] Card.
-|-
-|[[???]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Skill]]
-|
-|*Unknown ([[Upgraded]]) [[Vulnerable]] Card.
-|-
-|[[???]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Skill]]
-|
-|*Unknown ([[Upgraded]]) [[Exhaust]] Card.
+|*Unidentified ([[Upgraded]]) X Cost Card.
 |-
 |[[Cheap Stock]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
-|2
-|([[Innate]].)
- At the start of your turn, reduce the cost of the highest cost [[sneckomod:Offclass]] card in your hand by 1.
+|2 (1)
+|At the start of your turn, reduce the cost of the highest cost [[sneckomod:Offclass]] card in your hand by 1.
 |-
 |[[Defensive Flair]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |1
-|Gain 6 (7) [[Block]], increased by 1 (2) for each [[sneckomod:Offclass]] card in your hand.
+|Gain 8 (10) [[Block]], increased by 1 (2) for each [[sneckomod:Offclass]] card in your hand.
 |-
 |[[Dice Boulder]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |2
-|Deal 1 (9) - 30 (34) damage.
+|Deal 1 (8) - 31 (34) damage.
 Can be [[Upgraded]] any number of times.
 |-
 |[[Improvised Attack]]
@@ -355,16 +351,16 @@ Can be [[Upgraded]] any number of times.
 |Uncommon
 |[[Attack]]
 |1
-|Deal 8 (11) damage.
-Add a random [[sneckomod:Offclass]] Attack into your hand and [[sneckomod:Muddle]] it.
+|Deal 9 (12) damage.
+Gain a random [[sneckomod:Offclass]] Attack and [[sneckomod:Muddle]] it.
 |-
 |[[Improvised Guard]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |1
-|Gain 7 (10) [[Block]].
-Add a random [[sneckomod:Offclass]] Skill into your hand and [[sneckomod:Muddle]] it.
+|Gain 8 (11) [[Block]].
+Gain a random [[sneckomod:Offclass]] Skill and [[sneckomod:Muddle]] it.
 |-
 |[[Master Eye]]
 |[[File:|thumb|289x289px]]
@@ -380,17 +376,24 @@ Draw 1 (2) additional card(s) each turn.
 |[[Skill]]
 |0
 |[[sneckomod:Snekproof]]. [[Fleeting]]. ([[Retain]].)
-Choose a card in hand which started Unknown.
-Permanently add it to your deck, removing its Unknown.
+Choose a card in hand which started Unidentified. [[sneckomod:Identify]] it.
 |-
 |[[Mix It Up!]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |1
-|Deal 5 (7) damage for each of your Potions.
-Lose your Potions and replace them with new ones.
+|*Transform your Potions.
+Deal 5 damage 2 (3) times.
 [[Exhaust]].
+|-
+|[[Rain of Dice]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|1
+|Deal 6 (9) - 12 (15) damage to a random enemy.
+[[sneckomod:Muddle]] this, then return this to your hand.
 |-
 |[[Rotation]]
 |[[File:|thumb|289x289px]]
@@ -399,7 +402,7 @@ Lose your Potions and replace them with new ones.
 |0
 |[[sneckomod:Snekproof]].
 Discard all [[sneckomod:Offclass]] cards.
-Draw that many cards plus 1 (2).
+Draw that many cards (plus 1).
 |-
 |[[Serpent Idol]]
 |[[File:|thumb|289x289px]]
@@ -407,8 +410,7 @@ Draw that many cards plus 1 (2).
 |[[Skill]]
 |1 (0)
 |[[sneckomod:Snekproof]].
-Choose 1 of 3 random [[sneckomod:Offclass]] cards to add into your hand.
-It costs 0 this turn.
+Choose 1 of 3 random [[sneckomod:Offclass]] cards to gain. It costs 0 this turn.
 [[Exhaust]].
 |-
 |[[Shift]]
@@ -417,7 +419,8 @@ It costs 0 this turn.
 |[[Skill]]
 |0
 |[[sneckomod:Snekproof]].
-[[Exhaust]] all [[sneckomod:Offclass]] cards in your hand, replacing them with new ones (that cost 1 less).
+[[Transform]] all [[sneckomod:Offclass]] cards in your hand. 
+(They cost 1 less.)
 |-
 |[[Slither Strike]]
 |[[File:|thumb|289x289px]]
@@ -442,7 +445,7 @@ Gain 1 - 3 (4) [E].
 |Uncommon
 |[[Attack]]
 |1
-|Deal damage to ALL enemies equal to the number of [[Unknown]] cards in your deck.
+|Deal damage to ALL enemies equal to the number of Unidentified cards in your deck.
 [[Exhaust]]. (not
 Exhaust.)
 |-
@@ -467,57 +470,40 @@ Gain [E] equal to its cost.
 [[Exhaust]]. (not
 Exhaust.)
 |-
-|[[Unending Supply]]
+|[[??? 3-Cost]]
 |[[File:|thumb|289x289px]]
-|Uncommon
-|[[Power]]
-|1 (0)
-|At the start of each turn, add a random [[sneckomod:Offclass]] card to your hand and [[sneckomod:Muddle]] it.
+|Rare
+|[[Skill]]
+|
+|*Unidentified ([[Upgraded]]) 3 Cost Card.
 |-
-|[[???]]
+|[[??? Boss]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|
+|*Unidentified ([[Upgraded]]) Colorless Boss card.
+|-
+|[[??? R Attack]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
 |
-|*Unknown ([[Upgraded]]) Rare Attack Card.
+|*Unidentified ([[Upgraded]]) Rare Attack Card.
 |-
-|[[???]]
-|[[File:|thumb|289x289px]]
-|Rare
-|[[Skill]]
-|
-|*Unknown ([[Upgraded]]) 3 Cost Card.
-|-
-|[[???]]
-|[[File:|thumb|289x289px]]
-|Rare
-|[[Skill]]
-|
-|*Unknown ([[Upgraded]]) Boss card.
-|-
-|[[???]]
-|[[File:|thumb|289x289px]]
-|Rare
-|[[Skill]]
-|
-|*Unknown ([[Upgraded]]) Rare Skill Card.
-|-
-|[[???]]
+|[[??? R Power]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
 |
-|*Unknown ([[Upgraded]]) Rare Power Card.
+|*Unidentified ([[Upgraded]]) Rare Power Card.
 |-
-|[[Cheat]]
+|[[??? R Skill]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|0
-|[[sneckomod:Snekproof]].
-This turn, cards that choose a random number for their effect choose the maximum possible number.
-[[Exhaust]]. (not
-Exhaust.)
+|
+|*Unidentified ([[Upgraded]]) Rare Skill Card.
 |-
 |[[Danger Noodle]]
 |[[File:|thumb|289x289px]]
@@ -532,7 +518,7 @@ Repeat this for each [[sneckomod:Offclass]] card in your hand, then [[Exhaust]] 
 |Rare
 |[[Power]]
 |3 (2)
-|Whenever you play a [[sneckomod:Offclass]] card, draw 1 card.
+|Whenever you play an [[sneckomod:Offclass]] card, draw 1 card.
 |-
 |[[Glittering Gambit]]
 |[[File:|thumb|289x289px]]
@@ -548,7 +534,7 @@ Gain -10 (0) - 30 Gold.
 |Rare
 |[[Power]]
 |1 (0)
-|Obtain an additional [[Upgraded]] Unknown card reward at the end of combat.
+|Obtain an additional [[Upgraded]] Unidentified card reward at the end of combat.
 |-
 |[[Mud Shield]]
 |[[File:|thumb|289x289px]]
@@ -556,7 +542,17 @@ Gain -10 (0) - 30 Gold.
 |[[Power]]
 |2
 |([[Innate]].)
- Whenever you [[sneckomod:Muddle]] a card, gain 1 [[Block]] next turn.
+ Whenever you [[sneckomod:Muddle]] a card, gain 2 [[Block]].
+|-
+|[[Pure Luck]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|0
+|[[sneckomod:Snekproof]].
+Gain [[sneckomod:Lucky]] until the end of turn.
+[[Exhaust]]. (not
+Exhaust.)
 |-
 |[[Restock]]
 |[[File:|thumb|289x289px]]
@@ -574,8 +570,8 @@ Draw 5-10 cards.
 |[[Skill]]
 |0
 |[[sneckomod:Snekproof]].
-Draw 1 (2) card(s), then [[Exhaust]] 1 card.
-[[Exhaust]] your hand, replacing them with random cards of the [[Exhausted]] card's class.
+Draw 1 (2) card(s),
+Choose a card, then Transform your hand to that card's class.
 |-
 |[[Transmogrify]]
 |[[File:|thumb|289x289px]]
@@ -586,11 +582,18 @@ Draw 1 (2) card(s), then [[Exhaust]] 1 card.
 Obtain a random Relic of the same rarity.
 [[Exhaust]].
 |-
+|[[Unending Supply]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Power]]
+|1 (0)
+|At the start of each turn, gain a random [[sneckomod:Offclass]] card.
+|-
 |[[Unlimited Rolls]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
 |1
 |([[Innate]].)
- At the start of your turn, add a Soul Roll to your hand. It gains [[Ethereal]] and [[Exhaust]].
+ At the start of your turn, gain an [[gremlin:Echo]] of Soul Roll.
 |-

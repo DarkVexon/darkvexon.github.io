@@ -15,7 +15,7 @@
 |[[Skill]]
 |1
 |Place a random (not random)card from (in) your hand into [[guardianmod:Stasis]].
-[[guardianmod:Brace]] 10.
+[[guardianmod:Brace]] 10 (12).
 |-
 |[[Defend]]
 |[[File:|thumb|289x289px]]
@@ -36,9 +36,10 @@
 |Basic
 |[[Attack]]
 |1
-|Deal 4 (6) damage 2 times.
-[ [[guardianmod:Socket]] ]
-[ [[guardianmod:Socket]] ]
+|Deal 5 (7) damage.
+Gain a Second Slam (*Slam+).
+[ [[guardianmod:Socket]] ] 
+([ [[guardianmod:Socket]] ])
 |-
 |[[Aquamarine]]
 |[[File:|thumb|289x289px]]
@@ -52,7 +53,8 @@
 |Common
 |[[Attack]]
 |1
-|Deal 10 (15) damage, then place this card into [[guardianmod:Stasis]].
+|Deal 10 (15) damage.
+Place this into [[guardianmod:Stasis]].
 [[guardianmod:Tick]] - Draw a card.
 [[guardianmod:Volatile]].
 |-
@@ -61,7 +63,8 @@
 |Common
 |[[Attack]]
 |2
-|Deal 10 (14) damage. Damage is increased by 2 for each [[guardianmod:Gem]] in ALL of your [[guardianmod:Socketed]] cards.
+|Deal 10 (14) damage.
+Deals 2 additional damage for each [[guardianmod:Gem]] in ALL of your [[guardianmod:Socketed]] cards.
 |-
 |[[Emerald]]
 |[[File:|thumb|289x289px]]
@@ -121,7 +124,7 @@ Place a card from your discard pile into [[guardianmod:Stasis]].
 |[[Attack]]
 |1
 |Deal 9 (12) damage.
-Place the next non-Exhausting Attack or Skill you play this turn into [[guardianmod:Stasis]].
+Place the next card you play this turn into [[guardianmod:Stasis]].
 [ [[guardianmod:Socket]] ]
 |-
 |[[Roll Attack]]
@@ -130,7 +133,7 @@ Place the next non-Exhausting Attack or Skill you play this turn into [[guardian
 |[[Attack]]
 |2
 |Deal 16 (20) damage.
-If in [[guardianmod:Defensive_Mode]], affects ALL enemies. Otherwise, [[guardianmod:Brace]] 8.
+If in Defensive Mode, affects ALL enemies. Otherwise, [[guardianmod:Brace]] 8.
 [ [[guardianmod:Socket]] ]
 |-
 |[[Ruby]]
@@ -145,8 +148,8 @@ If in [[guardianmod:Defensive_Mode]], affects ALL enemies. Otherwise, [[guardian
 |Common
 |[[Skill]]
 |2
-|Place this card into [[guardianmod:Stasis]].
-[[guardianmod:Tick]] - [[guardianmod:Brace]] 2, then Gain 8 (11) [[Block]] and [E].
+|Place this into [[guardianmod:Stasis]].
+[[guardianmod:Tick]] - [[guardianmod:Brace]] 4 (6) and gain 10 (12) [[Block]].
 [[guardianmod:Volatile]].
 |-
 |[[Suspension]]
@@ -196,9 +199,7 @@ Gain [E] if you have a card in [[guardianmod:Stasis]].
 |Common
 |[[Attack]]
 |2
-|Deal 15 (18) damage.
-[[Strength]] affects this card 2 (3) times.
-[ [[guardianmod:Socket]] ]
+|Deal 5 damage 3 (4) times.
 |-
 |[[Amber]]
 |[[File:|thumb|289x289px]]
@@ -214,22 +215,12 @@ Gain [E] if you have a card in [[guardianmod:Stasis]].
 |0
 |
 |-
-|[[Ancient Attack]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Skill]]
-|2
-|Gain 1 [[Strength]] and 1 [[Artifact]].
-Add a random Attack card to your hand. (It costs 1 less this combat.)
-[[Exhaust]].
-|-
 |[[Ancient Power]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|2
-|Gain 1 [[Dexterity]] and 1 [[Artifact]].
-Add a random Power card to your hand. (It costs 1 less this combat.)
+|1
+|Gain 4 Temporary [[Strength]] and [[Dexterity]]. (Reduce each of your debuffs by 1.)
 [[Exhaust]].
 |-
 |[[Armored Protocol]]
@@ -237,7 +228,7 @@ Add a random Power card to your hand. (It costs 1 less this combat.)
 |Uncommon
 |[[Power]]
 |1
-|Gain 5 (8) [[Block]] at the end of each turn while in [[guardianmod:Defensive_Mode]].
+|Gain 5 (8) [[Block]] at the end of each turn while in Defensive Mode.
 At the start of your turn, [[guardianmod:Brace]] 3.
 |-
 |[[Body Slam]]
@@ -247,21 +238,12 @@ At the start of your turn, [[guardianmod:Brace]] 3.
 |1 (0)
 |Deal damage equal to your [[Block]].
 |-
-|[[Bronze Armor]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Skill]]
-|1
-|Gain 1 (2) [[Artifact]].
-[[guardianmod:Brace]] 10.
-[[Exhaust]].
-|-
 |[[Charge Up]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |0 (1)
-|Place this card into [[guardianmod:Stasis]].
+|Place this into [[guardianmod:Stasis]].
 [[guardianmod:Tick]] - Gain 8 [[Block]] and 1 [[Strength]].
 [[guardianmod:Volatile]].
 |-
@@ -270,7 +252,8 @@ At the start of your turn, [[guardianmod:Brace]] 3.
 |Uncommon
 |[[Skill]]
 |1
-|Choose a card in your hand. Place a copy of that card into [[guardianmod:Stasis]].
+|Choose a card.
+Place a copy of that card into [[guardianmod:Stasis]].
 ([[guardianmod:Accelerate]].)
  [[Exhaust]].
 |-
@@ -279,7 +262,7 @@ At the start of your turn, [[guardianmod:Brace]] 3.
 |Uncommon
 |[[Skill]]
 |0
-|[[guardianmod:Accelerate]] until a card in [[guardianmod:Stasis]] returns to your hand.
+|[[guardianmod:Accelerate]] until a card in [[guardianmod:Stasis]] returns (to your hand).
 [[Exhaust]]. (not
 Exhaust.)
 |-
@@ -288,7 +271,7 @@ Exhaust.)
 |Uncommon
 |[[Power]]
 |1
-|While in [[guardianmod:Defensive_Mode]], raise your [[Dexterity]] by 3 (5).
+|While in Defensive Mode, raise your [[Dexterity]] by 3 (5).
 At the start of your turn, [[guardianmod:Brace]] 3.
 |-
 |[[Floating Orbs]]
@@ -296,7 +279,7 @@ At the start of your turn, [[guardianmod:Brace]] 3.
 |Uncommon
 |[[Power]]
 |1 (0)
-|At the start of your turn, add an Orb Slam to your hand.
+|At the start of your turn, gain an Orb Slam.
 |-
 |[[Fragmented Gem]]
 |[[File:|thumb|289x289px]]
@@ -350,10 +333,7 @@ Deal 4 damage to ALL enemies 4 (5) times.
 |[[Attack]]
 |0
 |[[Innate]].
-Place a random card from your draw pile into [[guardianmod:Stasis]].
-Deal 5 (7) damage.
-Gain 5 (7) [[Block]].
-[[Exhaust]].
+Deal 8 (12) damage. Put a random card from your draw pile into [[guardianmod:Stasis]]. [[Exhaust]].
 |-
 |[[Orbwalk]]
 |[[File:|thumb|289x289px]]
@@ -364,6 +344,15 @@ Gain 5 (7) [[Block]].
 [[guardianmod:Tick]] - Gain 1 [[Strength]].
 [[guardianmod:Volatile]]. (not
 guardianmod:Volatile.)
+|-
+|[[Overload]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Draw 4 Cards.
+Next turn, draw 2 less cards. 
+(Reduce each of your debuffs by 1.)
 |-
 |[[Poly Beam]]
 |[[File:|thumb|289x289px]]
@@ -412,8 +401,7 @@ guardianmod:Volatile.)
 |Uncommon
 |[[Attack]]
 |2
-|Deal 4 damage 4 (5) times.
-Decrease the number of times this card hits by 1 this combat.
+|Deal 3 damage 4 (5) times.
 Can be [[upgraded]] any number of times.
 |-
 |[[Repulsor]]
@@ -422,6 +410,16 @@ Can be [[upgraded]] any number of times.
 |[[Power]]
 |2 (1)
 |When you draw the first [[Status]] or [[Curse]] card each turn, [[Exhaust]] it and draw a card.
+|-
+|[[Resilient Plate]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Reduce each of your debuffs by 2.
+[[guardianmod:Brace]] 8.
+[[Exhaust]]. (not
+Exhaust.)
 |-
 |[[Sapphire]]
 |[[File:|thumb|289x289px]]
@@ -445,14 +443,14 @@ Place a Sentry Wave (*Wave+) into [[guardianmod:Stasis]].
 |[[Skill]]
 |2
 |Gain 12 (15) [[Block]].
-Gain 4 (6) temporary [[Thorns]] if in [[guardianmod:Defensive_Mode]]. Otherwise, [[guardianmod:Brace]] 8.
+Gain 4 (6) temporary [[Thorns]] if in Defensive Mode. Otherwise, [[guardianmod:Brace]] 8.
 |-
 |[[Spiker Protocol]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
 |1
-|Gain 4 (6) [[Thorns]] while in [[guardianmod:Defensive_Mode]].
+|Gain 4 (6) [[Thorns]] while in Defensive Mode.
 At the start of your turn, [[guardianmod:Brace]] 3.
 |-
 |[[Time Bomb]]
@@ -460,8 +458,8 @@ At the start of your turn, [[guardianmod:Brace]] 3.
 |Uncommon
 |[[Skill]]
 |2
-|Place this card into [[guardianmod:Stasis]].
-When this card would leave [[guardianmod:Stasis]], deal 22 (30) damage to ALL enemies.
+|Place this into [[guardianmod:Stasis]].
+When this leaves [[guardianmod:Stasis]], deal 22 (30) damage to ALL enemies.
 [[guardianmod:Volatile]].
 |-
 |[[Time Capacitor]]
@@ -469,13 +467,13 @@ When this card would leave [[guardianmod:Stasis]], deal 22 (30) damage to ALL en
 |Uncommon
 |[[Power]]
 |1
-|Gain 2 (3) [[guardianmod:Stasis]] Slots.
+|Gain 2 (3) Stasis slots.
 |-
 |[[Ancient Construct]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
-|2
+|3
 |(Gain 1 [[Artifact]].)
  At the start of your turn, if you have no [[Artifact]], gain 1 [[Artifact]].
 |-
@@ -485,9 +483,9 @@ When this card would leave [[guardianmod:Stasis]], deal 22 (30) damage to ALL en
 |[[Attack]]
 |2
 |Deal 10 damage.
-NL Perform 2 (3) times:
-[ [[guardianmod:Socket]] ]
-[ [[guardianmod:Socket]] ]
+Perform 3 times:
+[ [[guardianmod:Socket]] ] 
+([ [[guardianmod:Socket]] ])
 |-
 |[[Citrine]]
 |[[File:|thumb|289x289px]]
@@ -501,7 +499,7 @@ NL Perform 2 (3) times:
 |Rare
 |[[Skill]]
 |0
-|Choose one of three [[guardianmod:Packages]] to add to your hand. (The cards the [[guardianmod:Package]] adds will all be [[Upgraded]].)
+|Choose one of three ([[Upgraded]]) [[guardianmod:Packages]] to gain.
 [[Exhaust]].
 |-
 |[[Construction Form]]
@@ -529,18 +527,16 @@ At the start of each turn, if you have [[guardianmod:Buffer]], gain 1 [[Strength
 |Rare
 |[[Attack]]
 |3
-|Deal 18 (28) damage.
+|Deal 18 (24) damage.
 Place this into [[guardianmod:Stasis]].
-[[guardianmod:Tick]] - Increase this card's damage by 3.
+[[guardianmod:Tick]] - Increase this card's damage by 2.
 |-
 |[[Gem Cannon]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
-|0
-|([[Retain]].)
- [[Exhaust]] all [[guardianmod:Gems]] and all Socketed cards. Deal 10 damage to a random enemy for each [[guardianmod:Gem]] in those cards.
-[[Exhaust]].
+|2 (1)
+|[[Exhaust]] ALL Gems, including Socketed ones. Deal 10 damage to a random enemy for each. [[Exhaust]].
 |-
 |[[Gem Finder]]
 |[[File:|thumb|289x289px]]
@@ -549,7 +545,7 @@ Place this into [[guardianmod:Stasis]].
 |1 (0)
 |At the end of combat, you may choose a Common [[guardianmod:Gem]] to add to your deck.
 |-
-|[[Hyper Beam]]
+|[[Giga Beam]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
@@ -562,10 +558,11 @@ Skip your next turn.
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
-|2
-|Place this card into [[guardianmod:Stasis]].
-[[guardianmod:Tick]] - Deal 10 (14) damage to a random enemy.
-[[guardianmod:Volatile]].
+|1
+|Deal 8 (10) damage.
+Place this into [[guardianmod:Stasis]].
+[[guardianmod:Stasis]] lasts 4 (5) turns.
+[[guardianmod:Tick]] - Deal 8 (10) damage to a random enemy.
 |-
 |[[Onyx]]
 |[[File:|thumb|289x289px]]
@@ -579,7 +576,7 @@ Skip your next turn.
 |Rare
 |[[Power]]
 |1
-|While in [[guardianmod:Defensive_Mode]], raise your [[Strength]] by 2 (3).
+|While in Defensive Mode, raise your [[Strength]] by 2 (3).
 At the start of your turn, [[guardianmod:Brace]] 5.
 |-
 |[[Speed Boost]]
@@ -612,18 +609,17 @@ At the start of your turn, [[guardianmod:Brace]] 5.
 |Rare
 |[[Skill]]
 |1
-|Gain 7 (9) [[Block]].
-Place this card into [[guardianmod:Stasis]].
-When this leaves Stasis, increase its [[Block]] by 3 (4) and set its cost back to 1.
+|Gain 7 (10) [[Block]].
+Place this into Stasis
+When this leaves Stasis, gain 7 (10) [[Block]].
 |-
 |[[Stasis Strike]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
 |1
-|Deal 8 damage.
-Place this card into [[guardianmod:Stasis]].
-When this leaves Stasis, increase its damage by 3 (4) and set its cost back to 1.
+|Deal 9 (13) damage.
+Gain 1 Stasis Slot.
 |-
 |[[Time Sifter]]
 |[[File:|thumb|289x289px]]

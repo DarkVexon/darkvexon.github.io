@@ -25,13 +25,20 @@
 (You may choose to
 [[hexamod:Retract]] or) [[hexamod:Advance]].
 |-
+|[[Kindle]]
+|[[File:|thumb|289x289px]]
+|Basic
+|[[Skill]]
+|1
+|If ([[hexamod:Ignite]]) the current Ghostflame is not Ignited, [[hexamod:Ignite]] it (not is not Ignited, hexamod:Ignite it).
+|-
 |[[Sear]]
 |[[File:|thumb|289x289px]]
 |Basic
 |[[Skill]]
 |1
 |[[Ethereal]]. [[hexamod:Afterlife]].
-Apply 10 (16) [[hexamod:Soulburn]].
+Apply 10 (14) [[hexamod:Soulburn]].
 |-
 |[[Strike]]
 |[[File:|thumb|289x289px]]
@@ -48,6 +55,13 @@ Apply 10 (16) [[hexamod:Soulburn]].
 |Gain 8 (11) [[Block]].
 [[hexamod:Advance]].
 |-
+|[[Again!]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|1 (0)
+|[[hexamod:Ignite]] the current Ghostflame, then [[hexamod:Extinguish]] it.
+|-
 |[[Backtrack Smack]]
 |[[File:|thumb|289x289px]]
 |Common
@@ -61,41 +75,15 @@ Apply 10 (16) [[hexamod:Soulburn]].
 |Common
 |[[Skill]]
 |1
-|If the enemy has [[hexamod:Soulburn]], apply 7 (11) [[hexamod:Soulburn]].
-Apply 7 (11) [[hexamod:Soulburn]].
-|-
-|[[Divider]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Attack]]
-|1
-|Deal 4 (6) damage for each [[hexamod:Ignited]] Ghostflame.
-|-
-|[[Fast Forward]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Skill]]
-|1
-|[[Ethereal]].
-(not Ethereal.)
-[[hexamod:Ignite]] the current Ghostflame.
-[[hexamod:Advance]].
+|Apply 7 (11) [[hexamod:Soulburn]], twice if the enemy
+has [[hexamod:Soulburn]].
 |-
 |[[Firestarter]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 7 (9) damage.
-Apply 7 (9) [[hexamod:Soulburn]].
-|-
-|[[Flames from Beyond]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Skill]]
-|2
-|[[Ethereal]]. [[hexamod:Afterlife]].
-Apply 18 (24) [[hexamod:Soulburn]] to ALL enemies.
+|Deal 6 (8) damage and apply 6 (8) [[hexamod:Soulburn]] to ALL enemies.
 |-
 |[[Ghost Lash]]
 |[[File:|thumb|289x289px]]
@@ -103,8 +91,9 @@ Apply 18 (24) [[hexamod:Soulburn]] to ALL enemies.
 |[[Attack]]
 |1
 |[[Ethereal]]. [[hexamod:Afterlife]].
-Deal 8 (11) damage.
-If you [[Exhausted]] a card last turn, deal 8 (11) damage.
+Deal 9 (12) damage.
+When Exhausted,
+gain 6 (8) [[Vigor]].
 |-
 |[[Ghost Shield]]
 |[[File:|thumb|289x289px]]
@@ -112,16 +101,25 @@ If you [[Exhausted]] a card last turn, deal 8 (11) damage.
 |[[Skill]]
 |1
 |[[Ethereal]]. [[hexamod:Afterlife]].
-Gain 6 (10) [[Block]].
-If you [[Exhausted]] a card last turn, gain 1 [[bronze:Blur]].
+Gain 7 (10) [[Block]].
+When Exhausted,
+gain 1 [[bronze:Blur]].
+|-
+|[[Haunting Echo]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|Deal 8 (11) damage.
+If the current Ghostflame is Ignited, [[hexamod:Ignite]] it again.
 |-
 |[[Heat Metal]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 8 (10) damage.
-After [[hexamod:Soulburn]] detonates on this enemy, apply 12 (18) [[hexamod:Soulburn]].
+|Deal 9 (12) damage.
+After [[hexamod:Soulburn]] detonates on this enemy, apply 12 (16) [[hexamod:Soulburn]].
 |-
 |[[Hexaguard]]
 |[[File:|thumb|289x289px]]
@@ -132,12 +130,38 @@ After [[hexamod:Soulburn]] detonates on this enemy, apply 12 (18) [[hexamod:Soul
 Gain 7 (10) [[Block]].
 Draw 1 card.
 |-
+|[[Nightmare Guise]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|1
+|[[Ethereal]].
+Gain 9 (12) [[Block]].
+When Exhausted, gain a Shadow Guise (*Guise+).
+|-
+|[[Nightmare Strike]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|1
+|[[Ethereal]].
+Deal 10 (13) damage.
+When Exhausted, gain a Shadow Strike (*Strike+).
+|-
+|[[Phantom Fireball]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Attack]]
+|0
+|Deal 4 (7) damage.
+If the enemy has Soulburn, detonate it.
+|-
 |[[Shield of Night]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |2
-|If the current Ghostflame is not [[hexamod:Ignited]], gain [E].
+|If the current Ghostflame is not Ignited, gain [E].
 Gain 12 (16) [[Block]].
 |-
 |[[Specter's Wail]]
@@ -153,8 +177,8 @@ Deal 8 (11) damage to ALL enemies.
 |Common
 |[[Skill]]
 |1
-|Gain 6 (9) [[Block]].
-For each [[hexamod:Ignited]] Ghostflame, [[Upgrade]] a random card in your hand.
+|Gain 7 (10) [[Block]].
+For each Ignited Ghostflame, [[Upgrade]] a random card in your hand.
 |-
 |[[Strike From Beyond]]
 |[[File:|thumb|289x289px]]
@@ -162,14 +186,14 @@ For each [[hexamod:Ignited]] Ghostflame, [[Upgrade]] a random card in your hand.
 |[[Attack]]
 |1
 |Deal 4 (6) damage twice.
-[[expansioncontent:Reclaim]] a random [[hexamod:Afterlife]] card.
+[[expansioncontent:Reclaim]] a random Afterlife card.
 |-
 |[[Sword of Night]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |2
-|If the current Ghostflame is not [[hexamod:Ignited]], gain [E].
+|If the current Ghostflame is not Ignited, gain [E].
 Deal 14 (18) damage.
 |-
 |[[Thermal Transfer]]
@@ -178,30 +202,22 @@ Deal 14 (18) damage.
 |[[Attack]]
 |1
 |Deal 7 (10) damage.
-If the enemy has [[hexamod:Soulburn]], gain 5 (8) [[Block]].
-|-
-|[[Again!]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Skill]]
-|1 (0)
-|[[hexamod:Ignite]] the current Ghostflame.
-Do not [[hexamod:Advance]] at the end of this turn.
+If the enemy has Soulburn, gain 6 (8) [[Block]].
 |-
 |[[Bright Ritual]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |1 (0)
-|Gain [E] and draw 1 card for each [[hexamod:Ignited]] Ghostflame, then [[hexamod:Extinguish]] them.
+|Gain [E] and draw 1 card for each Ignited Ghostflame, then [[hexamod:Extinguish]] them.
 [[Exhaust]].
 |-
 |[[Catch Up]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|1 (0)
-|[[hexamod:Ignite]] the previous Ghostflame.
+|1
+|[[hexamod:Ignite]] the previous Ghostflame 2 (3) times.
 |-
 |[[Charged Barrage]]
 |[[File:|thumb|289x289px]]
@@ -209,16 +225,23 @@ Do not [[hexamod:Advance]] at the end of this turn.
 |[[Skill]]
 |1
 |Apply 5 (7) [[hexamod:Soulburn]].
-Repeat for each [[hexamod:Ignited]] Ghostflame.
+Repeat for each Ignited Ghostflame.
 |-
 |[[Devil's Dance]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
-|2
-|([[Innate]].)
- The first time you [[hexamod:Retract]] each turn, gain [E] and draw 1 card.
+|2 (1)
+|The first time you Retract each turn, gain [E] and draw 1 card.
 [[hexamod:Retract]].
+|-
+|[[Divider]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|1
+|Deal 3 (5) damage.
+Repeat for each Ignited Ghostflame.
 |-
 |[[Eerie Expedition]]
 |[[File:|thumb|289x289px]]
@@ -226,8 +249,7 @@ Repeat for each [[hexamod:Ignited]] Ghostflame.
 |[[Skill]]
 |1 (0)
 |[[Ethereal]].
-Add a random [[Ethereal]] card into your hand.
-It costs 0 this turn.
+Gain a random Ethereal card. It costs 0 this turn.
 [[Exhaust]].
 |-
 |[[Empowered Flame]]
@@ -245,6 +267,16 @@ It costs 0 this turn.
 |([[Innate]].)
  Cards and Ghostflames apply 2 more [[hexamod:Soulburn]].
 |-
+|[[Fast Forward]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|[[Ethereal]].
+(not Ethereal.)
+[[hexamod:Ignite]] the current Ghostflame.
+[[hexamod:Advance]].
+|-
 |[[First Seal]]
 |[[File:|thumb|289x289px]]
 |Uncommon
@@ -253,14 +285,21 @@ It costs 0 this turn.
 |[[Ethereal]] (not Ethereal)[[hexamod:Seal]].
 At the end of combat, heal 7 HP.
 |-
+|[[Flames from Beyond]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|2
+|[[Ethereal]]. [[hexamod:Afterlife]].
+Apply 18 (24) [[hexamod:Soulburn]] to ALL enemies.
+|-
 |[[Floatwork]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
 |1
-|([[Innate]].)
- [[Ethereal]]. [[hexamod:Afterlife]].
-Gain 1 [[Dexterity]].
+|[[Ethereal]]. [[hexamod:Afterlife]].
+Gain 3 (4) Plated Armor.
 |-
 |[[Fourth Seal]]
 |[[File:|thumb|289x289px]]
@@ -276,25 +315,16 @@ At the end of combat, gain an additional Potion reward.
 |[[Skill]]
 |2
 |Gain 12 (16) [[Block]].
-Whenever you are attacked this turn, apply 4 (6) [[hexamod:Soulburn]] to the attacker.
+Whenever you are attacked this turn, apply 6 (9) [[hexamod:Soulburn]] to the attacker.
 |-
 |[[Haunted Hand]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|0
+|1
 |[[Ethereal]]. [[hexamod:Afterlife]].
 Draw 2 (3) cards.
 All cards in your hand become [[Ethereal]].
-[[Exhaust]].
-|-
-|[[Haunting Echo]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Attack]]
-|1
-|Deal 8 (11) damage.
-If the [[hexamod:Active]] Ghostflame is [[hexamod:Ignited]], [[hexamod:Ignite]] it again.
 |-
 |[[Heat Crush]]
 |[[File:|thumb|289x289px]]
@@ -302,23 +332,21 @@ If the [[hexamod:Active]] Ghostflame is [[hexamod:Ignited]], [[hexamod:Ignite]] 
 |[[Attack]]
 |3
 |Deal 20 (30) damage.
-Damage is increased by enemy's [[hexamod:Soulburn]].
+Damage is increased by enemy's Soulburn.
 |-
 |[[Heat Shield]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|2
-|[[Ethereal]].
-(not Ethereal.)
-Gain 5 [[Block]], increased by [[hexamod:Soulburn]] on ALL enemies.
+|1 (0)
+|Gain [[Block]] equal to Soulburn on ALL enemies, then remove Soulburn.
 |-
 |[[Incineration]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |2
-|Deal 4 damage and apply 4 [[hexamod:Soulburn]] to a random enemy 3 (4) times.
+|Deal 4 damage and apply 4 [[hexamod:Soulburn]] 3 (4) times.
 |-
 |[[Incorporeal]]
 |[[File:|thumb|289x289px]]
@@ -326,7 +354,7 @@ Gain 5 [[Block]], increased by [[hexamod:Soulburn]] on ALL enemies.
 |[[Skill]]
 |0
 |[[hexamod:Retract]].
-Lose 6 (3) HP.
+Lose 5 (3) HP.
 Gain 1 [[Intangible]].
 [[Exhaust]].
 |-
@@ -335,44 +363,15 @@ Gain 1 [[Intangible]].
 |Uncommon
 |[[Skill]]
 |0
-|Apply 5 [[hexamod:Soulburn]].
-The next time the target's [[hexamod:Soulburn]] detonates, it affects ALL enemies.
-[[Exhaust]]. (not
-Exhaust.)
-|-
-|[[Nightmare Guise]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Skill]]
-|1
-|[[Ethereal]].
-Gain 9 (13) [[Block]].
-If this card is [[Exhausted]], add a Shadow Guise into (*Guise+ to) your hand.
-|-
-|[[Nightmare Strike]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Attack]]
-|1
-|[[Ethereal]].
-Deal 10 (14) damage.
-If this card is [[Exhausted]], add a Shadow Strike into (*Strike+ to) your hand.
+|Apply 4 (8) [[hexamod:Soulburn]]. When it detonates, it affects ALL enemies.
 |-
 |[[Nightmare Vision]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |0
-|[[expansioncontent:Exhume]] an (!M!) [[Ethereal]] card(s).
+|[[expansioncontent:Exhume]] an (2) Ethereal card(s).
 [[Exhaust]].
-|-
-|[[Phantom Fireball]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Attack]]
-|1
-|Deal 8 (11) damage.
-If the enemy has [[hexamod:Soulburn]], detonate it.
 |-
 |[[Power from Beyond]]
 |[[File:|thumb|289x289px]]
@@ -382,20 +381,28 @@ If the enemy has [[hexamod:Soulburn]], detonate it.
 |[[Ethereal]]. [[hexamod:Afterlife]].
 Gain [E] and draw 1 (2) card(s) next turn.
 |-
+|[[Premonition]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1 (0)
+|Choose a card in your hand.
+Play the chosen card and [[Exhaust]] it.
+[[Exhaust]].
+|-
 |[[Radiant Flame]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
 |1
-|Whenever you [[hexamod:Ignite]] a Ghostflame, apply 3 (5) [[hexamod:Soulburn]] to a random enemy.
+|Whenever you Ignite a Ghostflame, gain 3 (4) [[Block]].
 |-
 |[[Rain of Embers]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |X
-|Deal 7 (8) damage and apply 7 (8) [[hexamod:Soulburn]] to a random enemy X times.
-If X is 3 or more, apply 1 (2) [[Weak]] and [[Vulnerable]] to ALL enemies.
+|Deal 6 damage and (,) apply 6 [[hexamod:Soulburn]] (, and apply 1 [[Weak]]) X times.
 |-
 |[[Rewind]]
 |[[File:|thumb|289x289px]]
@@ -411,30 +418,22 @@ Gain [E] (and draw 1 card).
 |[[Power]]
 |1
 |[[Ethereal]] (not Ethereal)[[hexamod:Seal]].
-At the end of combat, gain 8 additional Gold.
-|-
-|[[Skip a Beat]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Skill]]
-|1 (0)
-|[[hexamod:Ignite]] the next Ghostflame.
-[[Exhaust]].
+At the end of combat, gain 10 additional Gold.
 |-
 |[[Spectral Spark]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |0
-|Apply 6 (9) [[hexamod:Soulburn]].
-If the current Ghostflame is hexamod:Ignited: [[hexamod:Extinguish]] it and return this card to your hand.
+|If possible, [[hexamod:Extinguish]] the current Ghostflame to gain 1 (2) [[hexamod:Intensity]].
 |-
 |[[Speedrunning]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Power]]
 |1
-|Whenever you [[hexamod:Advance]], gain 2 (3) [[Block]].
+|([[Innate]].)
+ Whenever you Advance, gain 2 temporary [[Strength]].
 |-
 |[[Step Through]]
 |[[File:|thumb|289x289px]]
@@ -442,7 +441,7 @@ If the current Ghostflame is hexamod:Ignited: [[hexamod:Extinguish]] it and retu
 |[[Attack]]
 |1
 |Deal 8 (11) damage.
-Draw 1 card for each [[hexamod:Ignited]] Ghostflame.
+Draw 1 card for each Ignited Ghostflame.
 |-
 |[[Third Seal]]
 |[[File:|thumb|289x289px]]
@@ -457,9 +456,8 @@ At the end of combat, gain an additional card reward.
 |Uncommon
 |[[Skill]]
 |0
-|Choose an Attack or Skill to [[Exhaust]].
-Add a random card of the opposite type into your hand. 
-(It costs 1 less.)
+|[[Exhaust]] a card.
+If it was Attack or Skill, gain a random card of the opposite type. (It costs 1 less.)
 |-
 |[[Bad Omen]]
 |[[File:|thumb|289x289px]]
@@ -467,24 +465,24 @@ Add a random card of the opposite type into your hand.
 |[[Skill]]
 |1
 |[[Ethereal]] ([[Retain]]).
-Replace the current Ghostflame with a [[hexamod:Crushing]] or [[hexamod:Bolstering]] one.
+Choose a Ghostflame type to change the current one into.
 [[Exhaust]].
 |-
 |[[Burning Question]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
-|1
+|2
 |[[Ethereal]].
-Gain 10 (12) [[Block]]. Increase this card's damage by 8 (10).
-When this card is [[Exhausted]], deal 10 (12) damage to ALL enemies.
+Gain 3 (4) [[Strength]].
+When Exhausted, gain 2 [[Dexterity]].
 |-
 |[[Doomsday]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
 |0
-|The next time you [[hexamod:Ignite]] the Inferno Ghostflame and all (at least) 6 (5) Ghostflames are [[hexamod:Ignited]], take an extra turn.
+|The next time all (at least) 6 (5) Ghostflames are Ignited, take an extra turn.
 |-
 |[[Fifth Seal]]
 |[[File:|thumb|289x289px]]
@@ -499,29 +497,30 @@ At the end of combat, [[Upgrade]] a random card in your deck.
 |Rare
 |[[Attack]]
 |1
-|Deal 7 damage.
-[[hexamod:Ignite]] the previous, then the (current, then the) next Ghostflames.
+|Deal 5 (10) damage.
+[[hexamod:Ignite]] the previous, then the next Ghostflames.
 |-
 |[[Gifts From Beyond]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
 |2 (1)
-|At the start of your turn, [[expansioncontent:Reclaim]] a random [[hexamod:Afterlife]] card.
+|At the start of your turn, [[expansioncontent:Reclaim]] a random Afterlife card.
 |-
 |[[Here and Now]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
-|1
-|If you start and end your turn with the same Ghostflame active, gain 1 (2) [[Strength]].
+|1 (0)
+|You no longer Advance at the end of turn.
+At the start of your turn, gain [E].
 |-
 |[[Infernal Form]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
-|3 (2)
-|At the start of your turn, gain 1 [[hexamod:Intensity]].
+|3
+|At the start of your turn, gain 2 (3) [[hexamod:Intensity]].
 |-
 |[[Instant Inferno]]
 |[[File:|thumb|289x289px]]
@@ -529,8 +528,7 @@ At the end of combat, [[Upgrade]] a random card in your deck.
 |[[Skill]]
 |1
 |[[Retain]].
-[[hexamod:Ignite]] the (current Ghostflame.
-[[hexamod:Ignite]] the) Inferno Ghostflame.
+[[hexamod:Ignite]] the (current, then the) Inferno Ghostflame(s).
 [[Exhaust]].
 |-
 |[[Poltergeist]]
@@ -540,21 +538,12 @@ At the end of combat, [[Upgrade]] a random card in your deck.
 |2
 |Whenever you play an Afterlife card, deal 6 (9) damage to a random enemy.
 |-
-|[[Premonition]]
-|[[File:|thumb|289x289px]]
-|Rare
-|[[Skill]]
-|1 (0)
-|Choose a card in your hand.
-Play the chosen card and [[Exhaust]] it.
-[[Exhaust]].
-|-
 |[[Searing Wound]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
 |1
-|ALL enemies lose HP equal to their [[hexamod:Soulburn]].
+|ALL enemies lose HP equal to their Soulburn.
 [[Exhaust]]. (not
 Exhaust.)
 |-
@@ -572,7 +561,7 @@ At the end of combat, gain an additional non-Sixth Seal card reward.
 |[[Attack]]
 |0
 |Deal 4 (6) damage.
-Whenever you [[hexamod:Advance]] or [[hexamod:Retract]], return this from the discard pile to your hand.
+Whenever you Advance or Retract, return this from the discard pile.
 |-
 |[[Time of Need]]
 |[[File:|thumb|289x289px]]
@@ -580,8 +569,7 @@ Whenever you [[hexamod:Advance]] or [[hexamod:Retract]], return this from the di
 |[[Skill]]
 |1 (0)
 |[[Retain]].
-Add a random Power card into your hand.
-It costs 0 until played.
+Gain a random Power card. It costs 0 until played.
 [[Exhaust]].
 |-
 |[[Toasty!]]
@@ -607,8 +595,7 @@ Lose it in X+1 turns.
 |Rare
 |[[Attack]]
 |2
-|Deal 6 (8) damage to a random enemy.
-Repeat for each [[Ethereal]] card in your [[exhaust]] pile.
+|Deal 6 (8) damage to a random enemy. Repeat for each Exhausted Ethereal card.
 [[Exhaust]].
 |-
 |[[Unlimited Power]]
@@ -624,5 +611,5 @@ Repeat for each [[Ethereal]] card in your [[exhaust]] pile.
 |Rare
 |[[Power]]
 |1
-|At the start of your turn, apply 4 (6) [[hexamod:Soulburn]] to ALL enemies.
+|Whenever you Ignite a Ghostflame, apply 4 (6) [[hexamod:Soulburn]] to ALL enemies.
 |-

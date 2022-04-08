@@ -30,8 +30,9 @@
 |Basic
 |[[Attack]]
 |0
-|Deal 4 (6) damage.
-[[bronze:Encode]], then add a copy of this into your discard pile.
+|Deal 5 (7) damage.
+[[bronze:Encode]]. π
+When [[bronze:Encoded]], add a copy to your discard pile.
 |-
 |[[Strike]]
 |[[File:|thumb|289x289px]]
@@ -44,7 +45,7 @@
 |[[File:|thumb|289x289px]]
 |Special
 |[[Skill]]
-|0
+|1
 |
 |-
 |[[Bit Shift]]
@@ -53,8 +54,7 @@
 |[[Skill]]
 |0
 |([[Retain]].)
- Choose a card in the Sequence to return to your hand.
-It gains [[Retain]].
+ Choose an Encoded card to return to your hand. It gains [[Retain]].
 [[Exhaust]].
 |-
 |[[Branch]]
@@ -62,8 +62,8 @@ It gains [[Retain]].
 |Common
 |[[Attack]]
 |1
-|Choose - Deal 9 (11) damage or gain 8 (10) [[Block]].
-[[bronze:Encode]] the option not chosen.
+|Deal 7 (9) damage or gain 6 (8) [[Block]].
+The option not chosen is [[bronze:Encoded]].
 [[Exhaust]].
 |-
 |[[Bug Barrage]]
@@ -71,8 +71,8 @@ It gains [[Retain]].
 |Common
 |[[Attack]]
 |1
-|Add 1 (!M!) Wound(s) to your hand.
-[[bronze:Cycle]] each [[Status]] in your hand, dealing 7 damage for each.
+|Gain 1 (2) Wound(s).
+[[bronze:Cycle]] each [[Status]], dealing 7 damage for each.
 |-
 |[[Buggy Mess]]
 |[[File:|thumb|289x289px]]
@@ -83,14 +83,13 @@ It gains [[Retain]].
 Gain 1 [E].
 [[bronze:Encode]].
 |-
-|[[Constructor]]
+|[[Cleanse]]
 |[[File:|thumb|289x289px]]
 |Common
-|[[Skill]]
+|[[Attack]]
 |1
-|Gain 5 (7) [[Block]]. π
-When [[bronze:Encoded]], if this is the first card, increase its [[Block]] by 5 (7).
-[[bronze:Encode]].
+|Deal 9 (12) damage.
+[[Exhaust]] a random [[Status]] card in your draw pile.
 |-
 |[[Cut Through]]
 |[[File:|thumb|289x289px]]
@@ -110,23 +109,13 @@ When [[bronze:Encoded]], if this is the first card, increase its [[Block]] by 5 
 |Next turn, gain 7 (10) [[Block]].
 [[bronze:Encode]].
 |-
-|[[Delayed Slice]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Attack]]
-|0
-|Deal 3 (4) damage.
-[[bronze:Encode]].
-[[bronze:Compile]] - ALL enemies lose 6 (10) HP.
-|-
 |[[Deprecate]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Skill]]
 |0
-|Apply 1 (2) [[Weak]] to ALL enemies.
+|Apply 1 (2) [[Weak]].
 [[bronze:Encode]].
-[[bronze:Compile]] Error - Gain [[Weak]].
 |-
 |[[Fine Tuning]]
 |[[File:|thumb|289x289px]]
@@ -134,7 +123,7 @@ When [[bronze:Encoded]], if this is the first card, increase its [[Block]] by 5 
 |[[Skill]]
 |0
 |([[Retain]].)
- Increase all numbers on cards in the Sequence by 1.
+ Increase all numbers on Encoded cards by 1 except cost.
 [[Exhaust]].
 |-
 |[[Frontload]]
@@ -142,7 +131,7 @@ When [[bronze:Encoded]], if this is the first card, increase its [[Block]] by 5 
 |Common
 |[[Skill]]
 |2
-|Gain 12 (16) [[Block]].
+|Gain 8 (11) [[Block]].
 [[bronze:Encode]].
 [[bronze:Compile]] - Function gains [[Retain]].
 |-
@@ -151,16 +140,7 @@ When [[bronze:Encoded]], if this is the first card, increase its [[Block]] by 5 
 |Common
 |[[Skill]]
 |0
-|Apply 1 (2) [[Vulnerable]] to ALL enemies.
-[[bronze:Encode]].
-[[bronze:Compile]] Error - Gain [[Vulnerable]].
-|-
-|[[Iterate]]
-|[[File:|thumb|289x289px]]
-|Common
-|[[Attack]]
-|1
-|Deal 2 damage 3 (4) times.
+|Apply 1 (2) [[Vulnerable]].
 [[bronze:Encode]].
 |-
 |[[Oil Spill]]
@@ -170,7 +150,7 @@ When [[bronze:Encoded]], if this is the first card, increase its [[Block]] by 5 
 |1
 |Deal 4 (5) damage and apply 4 (5) [[Poison]].
 [[bronze:Encode]].
-[[bronze:Compile]] Error - [[bronze:Insert]] a Slimed.
+[[bronze:Compile]] Error - [[bronze:Insert]] 1 Slimed.
 |-
 |[[Overheat]]
 |[[File:|thumb|289x289px]]
@@ -188,13 +168,20 @@ Remove the next [[bronze:Compile]] Error you would [[bronze:Encode]].
 |Deal 6 (8) damage to ALL enemies.
 [[bronze:Encode]].
 |-
-|[[Separator]]
+|[[Robo-Chop]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 6 (8) damage. π
-When [[bronze:Encoded]], if this is not in the first or last slot, increase its damage by 6 (8).
+|Deal 9 (10) damage.
+Next turn, draw 1 (2) additional card(s).
+|-
+|[[Safeguard]]
+|[[File:|thumb|289x289px]]
+|Common
+|[[Skill]]
+|1
+|Gain 7 (9) [[Block]].
 [[bronze:Encode]].
 |-
 |[[Sticky Shield]]
@@ -203,7 +190,7 @@ When [[bronze:Encoded]], if this is not in the first or last slot, increase its 
 |[[Skill]]
 |1
 |Gain 11 (14) [[Block]].
-[[bronze:Insert]] a Slimed.
+[[bronze:Insert]] 1 Slimed.
 |-
 |[[Turbo]]
 |[[File:|thumb|289x289px]]
@@ -213,14 +200,13 @@ When [[bronze:Encoded]], if this is not in the first or last slot, increase its 
 |Gain [E] [E] ([E]).
 Add a Void into your discard pile.
 |-
-|[[Wild Beam]]
+|[[Wild Strike]]
 |[[File:|thumb|289x289px]]
 |Common
 |[[Attack]]
 |1
-|Deal 10 (13) damage.
-[[bronze:Encode]].
-[[bronze:Compile]] Error - [[bronze:Insert]] a Wound.
+|Deal 12 (17) damage. π
+[[bronze:Insert]] 1 Wound.
 |-
 |[[Allocate]]
 |[[File:|thumb|289x289px]]
@@ -235,9 +221,9 @@ Add a Void into your discard pile.
 |[[Attack]]
 |0
 |[[Innate]].
-  Deal 7 (10) damage.
+  Deal 8 (12) damage.
 [[bronze:Encode]].
-[[bronze:Compile]] Error - Function gains [[Exhaust]].
+[[bronze:Compile]] Error - Function [[Exhausts]].
 |-
 |[[Blockchain]]
 |[[File:|thumb|289x289px]]
@@ -253,7 +239,7 @@ Add a Void into your discard pile.
 |Uncommon
 |[[Skill]]
 |2
-|Gain 8 [[Block]].
+|Gain 6 [[Block]].
 [[bronze:Encode]].
 [[bronze:Compile]] - Gain 2 (3) [[Strength]].
 |-
@@ -264,7 +250,7 @@ Add a Void into your discard pile.
 |0
 |Gain 1 [[Artifact]].
 [[bronze:Encode]].
-[[bronze:Compile]] Error - ALL enemies gain 2 (1) [[Artifact]].
+[[bronze:Compile]] Error - ALL enemies gain 12 (8) [[Block]].
 |-
 |[[Bronze Orb]]
 |[[File:|thumb|289x289px]]
@@ -272,10 +258,8 @@ Add a Void into your discard pile.
 |[[Attack]]
 |1
 |[[Innate]].
-Deal 6 (9) damage.
-Gain 6 (9) [[Block]].
-[[bronze:Encode]] a random card with [[bronze:Encode]] in your draw pile.
-[[Exhaust]].
+Deal 8 (12) damage.
+[[bronze:Encode]] a random card with [[bronze:Encode]] in your draw pile. [[Exhaust]].
 |-
 |[[Class Default]]
 |[[File:|thumb|289x289px]]
@@ -283,7 +267,25 @@ Gain 6 (9) [[Block]].
 |[[Power]]
 |1
 |([[Retain]].)
- Add a copy of the first card in the current Sequence to the next 2 Sequences automatically.
+ Add a copy of the first card in the current Sequence to the next 2 Sequences.
+|-
+|[[Constructor]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Gain 5 (7) [[Block]]. π
+When [[bronze:Encoded]] as the first card, increase its [[Block]] by 5 (7).
+[[bronze:Encode]].
+|-
+|[[Copy Paste]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|Play a copy of each Encoded card. They do not Encode.
+[[Exhaust]]. (not
+Exhaust.)
 |-
 |[[Cultist Strike]]
 |[[File:|thumb|289x289px]]
@@ -294,33 +296,14 @@ Gain 6 (9) [[Block]].
 [[bronze:Encode]].
 [[bronze:Compile]] - Increase this card's damage by 1 permanently.
 |-
-|[[Dark Dash]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Attack]]
-|2
-|Gain 8 (10) [[Block]].
-Deal 8 (10) damage.
-[[bronze:Encode]].
-[[bronze:Compile]] Error - [[bronze:Insert]] a Void.
-|-
-|[[Digital Carnage]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Attack]]
-|2
-|Deal 20 (28) damage.
-[[bronze:Encode]].
-[[bronze:Compile]] Error - Function is [[Ethereal]].
-|-
 |[[Flail]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Attack]]
 |2
-|Deal 6 (7) damage to ALL enemies 2 times.
-[[bronze:Encode]].
-[[bronze:Compile]] - Gain 1 (2) [[Artifact]].
+|Deal 7 (8) damage to ALL enemies 2 times.
+Gain 1 (2) [[Artifact]].
+[[Exhaust]].
 |-
 |[[Follow Through]]
 |[[File:|thumb|289x289px]]
@@ -336,15 +319,14 @@ If the last played card was a Function, play this again.
 |Uncommon
 |[[Skill]]
 |X
-|([[Retain]].)
- The next card you [[bronze:Encode]] causes X additional copies to also be [[bronze:Encoded]].
+|The next card you [[bronze:Encode]] causes X (X+1) additional copies to also be [[bronze:Encoded]].
 [[Exhaust]].
 |-
 |[[Force Shield]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|4
+|3
 |Costs 1 less [E] for each Function created this combat.
 Gain 12 (16) [[Block]].
 |-
@@ -357,13 +339,21 @@ Gain 12 (16) [[Block]].
 [[bronze:Encode]].
 [[bronze:Compile]] - Gain 2 (3) [[Dexterity]].
 |-
+|[[Fragment]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|1
+|Deal 4 (6) damage.
+Gain 4 (6) [[Block]].
+[[bronze:Encode]].
+|-
 |[[Get Latest]]
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
 |1 (0)
-|Add a random card with [[bronze:Encode]] to your hand.
-It costs 0.
+|Gain a random card with [[bronze:Encode]]. It costs 0.
 [[Exhaust]].
 |-
 |[[Infinite Beams]]
@@ -371,16 +361,7 @@ It costs 0.
 |Uncommon
 |[[Power]]
 |1
-|At the start of each turn, add a Minor Beam (*Beam+) to your hand.
-|-
-|[[Invoke]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Skill]]
-|0
-|Gain 3 (5) [[Block]].
-[[bronze:Encode]].
-[[bronze:Compile]] - Gain [E] equal to the total cost of cards in the Sequence.
+|At the start of each turn, gain a Minor Beam (*Beam+).
 |-
 |[[It's a Feature]]
 |[[File:|thumb|289x289px]]
@@ -389,6 +370,14 @@ It costs 0.
 |1
 |([[Innate]].)
  Whenever you draw a [[Curse]] or [[Status]] card, gain 1 Temporary [[Strength]] and [[Dexterity]].
+|-
+|[[Iterate]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|1
+|Deal 2 damage 3 (4) times.
+[[bronze:Encode]].
 |-
 |[[Max Output]]
 |[[File:|thumb|289x289px]]
@@ -403,7 +392,7 @@ At the start of each turn, draw 1 additional card and [[bronze:Insert]] 1 Dazed.
 |Uncommon
 |[[Attack]]
 |2
-|Deal 10 damage.
+|Deal 14 damage.
 The next time you [[bronze:Encode]] a card, [[bronze:Encode]] a copy of it.
 [[Exhaust]]. (not
 Exhaust.)
@@ -413,8 +402,8 @@ Exhaust.)
 |Uncommon
 |[[Attack]]
 |1
-|Deal 12 (15) damage.
-Gain 12 (15) [[Block]].
+|Gain 12 (15) [[Block]].
+Deal 12 (15) damage.
 [[bronze:Encode]].
 [[bronze:Compile]] Error - Function is [[Unplayable]].
 |-
@@ -425,15 +414,6 @@ Gain 12 (15) [[Block]].
 |0
 |[[Upgrade]] the next 3 (5) cards you [[bronze:Encode]] that can be [[upgraded]].
 |-
-|[[Overload]]
-|[[File:|thumb|289x289px]]
-|Uncommon
-|[[Skill]]
-|1
-|Play a copy of each card in the Sequence. They do not Encode.
-[[Exhaust]]. (not
-Exhaust.)
-|-
 |[[Philosophize]]
 |[[File:|thumb|289x289px]]
 |Uncommon
@@ -442,6 +422,14 @@ Exhaust.)
 |Gain 1 [[Strength]].
 [[bronze:Encode]].
 [[bronze:Compile]] Error - ALL enemies gain 2 (1) [[Strength]].
+|-
+|[[Recursive Strike]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Attack]]
+|2
+|Deal 6 (9) damage 2 times.
+[[bronze:Encode]] 2 copies of Strike (*Strike+).
 |-
 |[[Refactor]]
 |[[File:|thumb|289x289px]]
@@ -472,20 +460,18 @@ Gain 4 (6) [[Block]] for each [[Status]] card [[exhausted]].
 |[[File:|thumb|289x289px]]
 |Uncommon
 |[[Skill]]
-|X
-|Gain [E] and draw 1 additional card at the start of your next X turns.
-Gain [E].
-[[Exhaust]]. (not
-Exhaust.)
+|1
+|Put a card from your discard pile on top of your draw pile.
+Next turn, gain [E] ([E]).
 |-
-|[[Safeguard]]
+|[[Separator]]
 |[[File:|thumb|289x289px]]
 |Uncommon
-|[[Skill]]
+|[[Attack]]
 |1
-|Gain 10 (13) [[Block]].
+|Deal 6 (8) damage. π
+When [[bronze:Encoded]] in the middle, increase its damage by 6 (8).
 [[bronze:Encode]].
-[[bronze:Compile]] Error - Gain 2 [[Frail]].
 |-
 |[[Terminator]]
 |[[File:|thumb|289x289px]]
@@ -495,13 +481,22 @@ Exhaust.)
 |[[bronze:Encode]].
 [[bronze:Compile]] - If this is the last card in the Sequence, Function gains 'Play this again'.
 |-
+|[[Undervolt]]
+|[[File:|thumb|289x289px]]
+|Uncommon
+|[[Skill]]
+|1
+|ALL enemies lose 2 (3) [[Strength]].
+Gain 2 [[Burns]].
+[[Exhaust]].
+|-
 |[[Assembly]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
 |1
 |[[Scry]] 5 (8).
-[[bronze:Encode]] all cards with [[bronze:Encode]] discarded in selected order.
+[[bronze:Encode]] all Encodable cards discarded (in selected order).
 [[Exhaust]].
 |-
 |[[Break]]
@@ -509,25 +504,25 @@ Exhaust.)
 |Rare
 |[[Attack]]
 |1
-|Deal 15 (18) damage.
+|Deal 15 (20) damage.
 [[bronze:Encode]].
-[[bronze:Compile]] Error - [[bronze:Insert]] 4 (3) random [[Status]] cards.
+[[bronze:Compile]] Error - [[bronze:Insert]] 3 random [[Status]] cards.
 |-
 |[[Burn Out]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
-|2
-|Deal 5 (8) damage to a random enemy for ALL of your [[Status]] cards, then [[Exhaust]] them.
-[[bronze:Insert]] 3 Burns.
+|1
+|Deal 6 (9) damage to a random enemy for ALL of your [[Status]] cards, then [[Exhaust]] them.
+[[Exhaust]].
 |-
 |[[Clean Code]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
-|2
-|Remove all [[bronze:Compile]] Error effects from cards in the Sequence.
-Lasts for the next 3 (4) Functions created.
+|1
+|([[Innate]].)
+ Remove the next 3 [[bronze:Compile]] Errors you would [[bronze:Encode]].
 |-
 |[[Dev Tools]]
 |[[File:|thumb|289x289px]]
@@ -535,29 +530,27 @@ Lasts for the next 3 (4) Functions created.
 |[[Skill]]
 |0
 |[[Retain]].
-Choose between Debug, Batch, Decompile, and Byte Shift.
+Gain Debug, Batch, Decompile, or Byte Shift.
 [[Exhaust]]. (not
 Exhaust.)
 |-
-|[[Early Access]]
+|[[Digital Carnage]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
-|1
-|([[Innate]].
- ) Deal 13 damage.
-[[bronze:Insert]] random [[Status]].
+|2
+|Deal 15 (20) damage.
 [[bronze:Encode]].
-[[bronze:Compile]] - [[bronze:Insert]] Beta Build.
+[[bronze:Compile]] Error - Function is [[Ethereal]].
 |-
 |[[Find and Replace]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Skill]]
 |0
-|[[Ethereal]] ([[Retain]]).
-[[Fetch]] a card from your draw or discard pile.
-Add a [[Dazed]] where it was.
+|[[Fetch]] a card from your draw or discard pile.
+Add a Dazed where it was.
+(not Add a Dazed where it was.)
 [[Exhaust]].
 |-
 |[[Format]]
@@ -569,23 +562,21 @@ Add a [[Dazed]] where it was.
 Gain [E].
 [[Exhaust]].
 |-
+|[[Full Release]]
+|[[File:|thumb|289x289px]]
+|Rare
+|[[Skill]]
+|2 (1)
+|[[bronze:Encode]].
+[[bronze:Compile]] - Function becomes a Power with 'At the start of your turn...'
+|-
 |[[HYPER BEAM]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
-|6 (5)
-|[[Retain]].
-Deal 45 damage to ALL enemies.
+|1
+|Deal 25 (35) damage to ALL enemies.
 Put 5 Void on top of your draw pile.
-When [[Retained]], lower its cost by 1 this combat.
-|-
-|[[Hardcode]]
-|[[File:|thumb|289x289px]]
-|Rare
-|[[Power]]
-|3 (0)
-|Next time you create a Function, add it to your deck.
-Remove the cards used to create it (including this).
 |-
 |[[Infinite Loop]]
 |[[File:|thumb|289x289px]]
@@ -594,14 +585,14 @@ Remove the cards used to create it (including this).
 |1
 |Deal 6 damage.
 [[bronze:Encode]].
-[[bronze:Compile]] - Add a copy of this into your hand and increase its damage by 2 (3).
+[[bronze:Compile]] - Gain a copy of this and increase its damage by 2 (4).
 |-
 |[[Library]]
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Power]]
 |3 (2)
-|At the start of your turn, add a random card with [[bronze:Encode]] to your hand.
+|At the start of your turn, gain a random card with [[bronze:Encode]].
 It costs 0.
 |-
 |[[Mutator]]
@@ -611,16 +602,7 @@ It costs 0.
 |1
 |([[Retain]].)
  Gain 1 [[Strength]].
-[[Transform]] a [[Status]] in your hand into a copy of this.
-|-
-|[[Recursive Strike]]
-|[[File:|thumb|289x289px]]
-|Rare
-|[[Attack]]
-|2
-|Deal 6 (9) damage 2 times.
-[[bronze:Encode]].
-[[bronze:Compile]] - [[bronze:Encode]] 2 copies of Strike (*Strike+).
+[[Transform]] a [[Status]] into a copy of this.
 |-
 |[[Sentient Form]]
 |[[File:|thumb|289x289px]]
@@ -629,7 +611,7 @@ It costs 0.
 |3
 |[[Ethereal]].
 (not Ethereal.)
-The first time you create or draw a Function each turn, increase all numbers on it by 1.
+Whenever you draw a Function, increase all numbers on it by 1 except for cost.
 |-
 |[[Ship It]]
 |[[File:|thumb|289x289px]]
@@ -658,8 +640,10 @@ Deals 2 (3) additional damage for ALL of your [[Status]] cards.
 |[[File:|thumb|289x289px]]
 |Rare
 |[[Attack]]
-|2
-|Deal 7 (9) damage to a random enemy for each Function created this combat.
+|3
+|Deal 18 (24) damage to ALL enemies.
+Gain 1 [[guardianmod:Buffer]].
+[[Exhaust]].
 |-
 |[[Virus]]
 |[[File:|thumb|289x289px]]
@@ -667,7 +651,6 @@ Deals 2 (3) additional damage for ALL of your [[Status]] cards.
 |[[Attack]]
 |1
 |[[Retain]].
-Deal 3 (4) damage.
+Deal 5 (6) damage.
 [[Transform]] all cards in hand into Minor Beam (*Beam+).
-[[Exhaust]].
 |-
